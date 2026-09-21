@@ -87,57 +87,82 @@ button { font: inherit; }
 
 /* cover + front matter */
 .cover {
-  display: grid;
-  grid-template-rows: 1fr auto;
-  padding: 18mm;
-  color: var(--ink);
-  background: var(--paper);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 22mm 20mm 20mm;
+  overflow: hidden;
+  color: #fff;
+  background: var(--sage-dark);
+}
+.cover-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .cover::before {
   content: "";
   position: absolute;
-  top: 18mm; right: 18mm; bottom: 84mm; left: 18mm;
-  border-radius: 6mm;
-  background: linear-gradient(145deg, rgba(255,255,255,.14), transparent 50%), var(--sage-dark);
+  inset: 0;
+  z-index: 1;
+  background:
+    linear-gradient(180deg, rgba(20, 28, 23, .10) 0%, rgba(20, 28, 23, .12) 34%, rgba(20, 28, 23, .80) 100%),
+    linear-gradient(90deg, rgba(18, 24, 20, .34), transparent 58%);
 }
 .cover::after {
-  content: "PT";
+  content: "";
   position: absolute;
-  top: 28mm; right: 26mm;
-  color: rgba(255,255,255,.18);
-  font: 700 72pt/1 var(--sans);
-  letter-spacing: -.08em;
+  z-index: 2;
+  left: 20mm;
+  bottom: 69mm;
+  width: 28mm;
+  height: 2.2mm;
+  border-radius: 999px;
+  background: var(--accent);
+}
+.cover-copy {
+  position: relative;
+  z-index: 3;
+  max-width: 160mm;
 }
 .cover-kicker, .chapter-kicker {
-  position: relative;
-  z-index: 2;
   text-transform: uppercase;
   letter-spacing: .16em;
   font-size: 7.2pt;
   font-weight: 700;
 }
-.cover-kicker { align-self: end; margin: 0 0 79mm 9mm; color: rgba(255,255,255,.72); }
+.cover-kicker {
+  margin-bottom: 4mm;
+  color: rgba(255,255,255,.78);
+}
 .cover h1 {
-  position: relative;
-  z-index: 2;
   max-width: 165mm;
-  margin: 0 0 3mm;
+  margin: 0 0 4mm;
   color: #fff;
   font-family: var(--display);
-  font-size: 45pt;
+  font-size: 47pt;
   line-height: .88;
   font-weight: 400;
   letter-spacing: -.035em;
 }
 .cover p {
-  position: relative;
-  z-index: 2;
   max-width: 132mm;
   margin: 0;
-  color: rgba(255,255,255,.84);
-  font-size: 10pt;
-  line-height: 1.5;
+  color: rgba(255,255,255,.90);
+  font-size: 10.5pt;
+  line-height: 1.48;
 }
+.cover-meta {
+  margin-top: 6mm;
+  color: rgba(255,255,255,.72);
+  font-size: 7.2pt;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
 .front-copy {
   padding: 20mm 18mm 15mm;
   background: var(--paper);
@@ -183,58 +208,46 @@ button { font: inherit; }
   font-variant-numeric: tabular-nums;
 }
 
-/* chapter spreads */
-.chapter-left {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  padding: 22mm 19mm;
+/* integrated chapter openers */
+.chapter-overlay {
+  position: absolute;
+  z-index: 4;
+  top: 12mm;
+  left: 12mm;
+  width: 92mm;
+  padding: 5mm 5.5mm 5.2mm;
+  border-radius: 2.8mm;
   color: #fff;
-  background: var(--sage-dark);
+  background: rgba(42, 55, 43, .88);
+  backdrop-filter: blur(5px);
+  box-shadow: 0 5mm 12mm rgba(0,0,0,.14);
 }
-.chapter-number {
-  position: absolute;
-  top: 12mm; right: 15mm;
-  color: rgba(255,255,255,.11);
-  font: 700 92pt/1 var(--sans);
-  letter-spacing: -.08em;
+.chapter-overlay-kicker {
+  margin-bottom: 1.8mm;
+  color: #f1c69f;
+  font-size: 6.4pt;
+  font-weight: 700;
+  letter-spacing: .15em;
+  text-transform: uppercase;
 }
-.chapter-left h2 {
-  max-width: 160mm;
-  margin: 4mm 0 0;
-  font-family: var(--display);
-  font-size: 38pt;
-  font-weight: 400;
-  line-height: .95;
-  letter-spacing: -.03em;
-}
-.chapter-right {
-  display: flex;
-  align-items: flex-end;
-  padding: 22mm;
-  background: linear-gradient(135deg, rgba(255,255,255,.45), transparent 42%), var(--sage);
-}
-.chapter-right::before {
-  content: "";
-  position: absolute;
-  top: 18mm; left: 18mm;
-  width: 28mm; height: 7mm;
-  border-radius: 999px;
-  background: var(--accent);
-}
-.chapter-right p {
-  max-width: 145mm;
-  margin: 0;
-  color: #344133;
+.chapter-overlay strong {
+  display: block;
   font-family: var(--display);
   font-size: 18pt;
-  line-height: 1.28;
+  line-height: 1;
+  font-weight: 400;
+}
+.chapter-overlay p {
+  margin: 2.5mm 0 0;
+  color: rgba(255,255,255,.82);
+  font-size: 7.1pt;
+  line-height: 1.38;
 }
 
 /* photo spread left page */
 .photo-page {
   display: grid;
-  grid-template-rows: 1fr 92mm;
+  grid-template-rows: 1fr 84mm;
   background: var(--paper);
 }
 .photo-visual {
@@ -276,7 +289,7 @@ button { font: inherit; }
   margin: 0;
   color: var(--ink);
   font-family: var(--display);
-  font-size: 25pt;
+  font-size: 20.5pt;
   line-height: .94;
   font-weight: 400;
   letter-spacing: -.02em;
@@ -299,8 +312,8 @@ button { font: inherit; }
   justify-items: center;
   align-content: start;
   gap: 1mm;
-  min-height: 28mm;
-  padding: 2mm 4mm 0;
+  min-height: 23mm;
+  padding: 1.4mm 4mm 0;
 }
 .photo-facts .fact-card + .fact-card {
   border-left: 1px solid rgba(58, 43, 35, 0.14);
@@ -342,6 +355,29 @@ button { font: inherit; }
 }
 .photo-footer span:nth-child(2) { padding-left: 2mm; border-left: 1px solid rgba(58, 43, 35, 0.14); }
 .photo-footer span:last-child { justify-self: end; text-align: right; font-style: italic; letter-spacing: .04em; text-transform: none; }
+
+/* editorial feature spreads */
+.feature-recipe.photo-page .photo-panel {
+  background: linear-gradient(90deg, rgba(210,138,78,.18) 0 3mm, transparent 3mm), #e9ece2;
+}
+.feature-recipe.photo-page .photo-panel h2 {
+  font-size: 22pt;
+}
+.feature-recipe.recipe-page {
+  background:
+    linear-gradient(180deg, rgba(223,230,214,.34), transparent 48mm),
+    #fbfbfb;
+}
+.feature-recipe.recipe-page .recipe-header h1 {
+  font-size: 34pt;
+}
+.feature-recipe.recipe-page .meta-box {
+  background: #e4eadc;
+}
+.feature-spread .photo-footer span:nth-child(2) {
+  color: var(--sage-dark);
+  font-weight: 700;
+}
 
 /* right page */
 .recipe-page {
@@ -601,7 +637,13 @@ body.single-view .spread > .page { box-shadow: var(--shadow); }
   }
   .spread > .page { box-shadow: var(--shadow); }
   .recipe-page { padding: 6vw; }
-  .photo-page { grid-template-rows: 1fr 100mm; }
+  .photo-page { grid-template-rows: 1fr 92mm; }
+  .chapter-overlay {
+    top: 5vw;
+    left: 5vw;
+    width: min(72vw, 92mm);
+    padding: 4vw;
+  }
 }
 
 /* print */
@@ -632,6 +674,7 @@ body.single-view .spread > .page { box-shadow: var(--shadow); }
   .recipe-spread .photo-page { break-before: left; }
 
   /* Chrome can otherwise omit off-screen lazy images from print preview. */
+  .cover-image,
   .photo-visual img {
     display: block !important;
     visibility: visible !important;
@@ -639,6 +682,10 @@ body.single-view .spread > .page { box-shadow: var(--shadow); }
     content-visibility: visible !important;
   }
   .photo-fallback { display: none !important; }
+  .chapter-overlay {
+    backdrop-filter: none !important;
+    background: rgba(42, 55, 43, .94) !important;
+  }
 
   * {
     -webkit-print-color-adjust: exact;
