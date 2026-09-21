@@ -724,8 +724,11 @@ button { font: inherit; }
 }
 .recipe-shell {
   display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr) auto;
   gap: 4mm;
   width: 100%;
+  min-height: 100%;
+  align-content: stretch;
   transform-origin: top left;
 }
 .fit-page.scaled .fit-content {
@@ -797,13 +800,19 @@ button { font: inherit; }
 }
 
 .recipe-body {
+  display: grid;
+  grid-template-columns: minmax(0, 39%) minmax(0, 1fr);
+  gap: 6mm;
   min-width: 0;
+  align-items: start;
+  align-content: start;
 }
 .recipe-page.two-column .recipe-body {
   display: grid;
   grid-template-columns: minmax(0, 39%) minmax(0, 1fr);
   gap: 6mm;
   align-items: start;
+  align-content: start;
 }
 .text-section {
   min-width: 0;
@@ -817,6 +826,7 @@ button { font: inherit; }
 }
 .method-section {
   break-inside: auto;
+  padding-top: 3.8mm;
 }
 .text-section h2,
 .note-block h3 {
@@ -836,6 +846,7 @@ button { font: inherit; }
 }
 .recipe-page.two-column .method-section {
   min-width: 0;
+  padding-top: 3.8mm;
 }
 .ingredients-list,
 .steps-list,
@@ -895,9 +906,11 @@ button { font: inherit; }
 .note-grid {
   display: grid;
   gap: 3mm;
-  align-items: start;
+  align-items: stretch;
+  align-self: end;
 }
 .note-grid.two { grid-template-columns: 1fr 1fr; }
+.note-grid.two .note-block { height: 100%; }
 .note-grid.single { grid-template-columns: 1fr; }
 .note-block {
   position: relative;
@@ -1162,3 +1175,8 @@ body,
     print-color-adjust: exact;
   }
 }
+
+/* fixed recipe-page geometry */
+.recipe-page.compact .method-section { padding-top: 3.8mm; }
+.recipe-page.tight .method-section { padding-top: 3.2mm; }
+.recipe-page.tight .ingredients-section { padding-top: 3.2mm; }
