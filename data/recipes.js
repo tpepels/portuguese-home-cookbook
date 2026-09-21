@@ -41,7 +41,13 @@ window.RECIPES = [
       "text": "Voeg hete bouillon toe en serveer zodra de korrel gaar is terwijl er nog duidelijk vocht rond de rijst zit. Carolino blijft na het vuur bouillon opnemen, dus iets te nat van het vuur is beter dan te droog."
     },
     "attention": "Arroz malandrinho (sappig en bouillonachtig) hoort niet op risotto te lijken en ook niet droog te zijn. Er moet nog een lepelbare, smakelijke bouillon rond de rijst zitten.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 770,
+      "protein": 21,
+      "carbs": 106,
+      "fat": 26
+    }
   },
   {
     "id": "1b",
@@ -81,7 +87,13 @@ window.RECIPES = [
       "text": "Houd het water net onder de kook en laat het ei er voorzichtig in glijden. Drie tot vier minuten geeft gestold eiwit en een zachte dooier; hard borrelend water trekt het ei uit elkaar."
     },
     "attention": "Dit is een açorda (Portugees broodgerecht)-techniek, geen broodsoep uit de blender. Houd structuur in het brood en gebruik genoeg olijfolie en koriander.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 840,
+      "protein": 31,
+      "carbs": 91,
+      "fat": 39
+    }
   },
   {
     "id": "2a",
@@ -126,7 +138,13 @@ window.RECIPES = [
       "text": "Leg stevige ingrediënten onderin en kwetsbare vis bovenop. Roer niet met een lepel; schud de pan af en toe voorzichtig zodat de stukken heel blijven."
     },
     "attention": "Een caldeirada (Portugese visstoof) moet voldoende vocht hebben om brood in te dopen, maar het is geen dunne vissoep. De aardappel bindt het kookvocht licht.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 920,
+      "protein": 68,
+      "carbs": 70,
+      "fat": 38
+    }
   },
   {
     "id": "2b",
@@ -170,7 +188,13 @@ window.RECIPES = [
       "text": "Kook de pasta rechtstreeks in het stoofvocht en giet niets af. Voeg tijdens het koken wat heet water toe als het te droog wordt; de gewenste textuur is stevig maar duidelijk sappig."
     },
     "attention": "De pasta kookt in de saus en bouillon zelf. Afgieten vernietigt precies het karakter van het gerecht.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 790,
+      "protein": 60,
+      "carbs": 74,
+      "fat": 26
+    }
   },
   {
     "id": "3a",
@@ -209,7 +233,13 @@ window.RECIPES = [
       "text": "Amêijoavlees wordt snel taai. Gaar het alleen tot het volledig warm en gaar is volgens de verpakking en haal de pan dan meteen van het vuur."
     },
     "attention": "De klassieke versie wordt met hele amêijoas (venusschelpen) in de schelp gemaakt. Met miolo (schelpdiervlees) krijg je niet hetzelfde kookvocht, maar knoflook, azeite (olijfolie), coentros (koriander) en citroen blijven de juiste smaakstructuur. Voeg geen room toe.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 490,
+      "protein": 22,
+      "carbs": 35,
+      "fat": 30
+    }
   },
   {
     "id": "3b",
@@ -248,7 +278,13 @@ window.RECIPES = [
       "text": "Giet hete bouillon geleidelijk over het brood. Het moet volledig zacht en sappig worden, maar niet worden fijgeroerd tot een gladde pap."
     },
     "attention": "De kwaliteit zit in de verhouding brood, geurige bouillon, rauwe kruidigheid van koriander en olijfolie. Maak het niet droog.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 740,
+      "protein": 35,
+      "carbs": 68,
+      "fat": 36
+    }
   },
   {
     "id": "4a",
@@ -292,7 +328,13 @@ window.RECIPES = [
       "text": "Zet de rijst van het vuur terwijl er nog ruim bouillon rond zit en serveer direct. Vijf minuten wachten kan al genoeg zijn om van sappige arroz de marisco (zeevruchtenrijst) een droge rijstschotel te maken."
     },
     "attention": "Serveer onmiddellijk. arroz de marisco (zeevruchtenrijst) blijft niet netjes “wachten”: de rijst zuigt het vocht op en wordt droog.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 750,
+      "protein": 35,
+      "carbs": 85,
+      "fat": 26
+    }
   },
   {
     "id": "4b",
@@ -334,7 +376,13 @@ window.RECIPES = [
       "text": "Sluit de pan zodra alle ingrediënten erin zitten en open zo weinig mogelijk. De opgesloten stoom gaart de inhoud; na het openen kun je het vocht eventueel nog kort laten inkoken."
     },
     "attention": "Geen chouriço, bacon of room nodig. De smaak hoort uit azeite (olijfolie), wijn, tomaat, paprika, knoflook, koriander en het vocht van de zeevruchten te komen.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 460,
+      "protein": 28,
+      "carbs": 23,
+      "fat": 25
+    }
   },
   {
     "id": "5",
@@ -375,7 +423,13 @@ window.RECIPES = [
       "text": "Voeg het losgeklopte ei pas op laag vuur toe en blijf rustig omscheppen. Stop terwijl het mengsel nog glanst; droge roereieren maken het hele gerecht zwaar."
     },
     "attention": "Het eindresultaat hoort smeuïg te zijn. Droog roerei met kabeljauw is de meest voorkomende mislukking.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 800,
+      "protein": 51,
+      "carbs": 35,
+      "fat": 50
+    }
   },
   {
     "id": "6",
@@ -415,7 +469,13 @@ window.RECIPES = [
       "text": "Laat de ontzoute bacalhau (gezouten kabeljauw) zacht garen in water dat net onder de kook blijft. Hard koken maakt de vis droog en laat de vlokken sneller uit elkaar vallen."
     },
     "attention": "Niet verdrinken in saus. Dit gerecht draait om goede bacalhau (gezouten kabeljauw), aardappel, ui en veel fatsoenlijke olijfolie.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 700,
+      "protein": 45,
+      "carbs": 47,
+      "fat": 37
+    }
   },
   {
     "id": "7",
@@ -457,7 +517,13 @@ window.RECIPES = [
       "text": "Laat boter en bloem eerst een minuut garen en voeg melk daarna geleidelijk toe terwijl je klopt. De saus moet dun genoeg blijven om tussen aardappel en vis te lopen; in de oven dikt hij verder in."
     },
     "attention": "Dit is rijker en moderner dan veel andere bacalhaugerechten, maar zeer normaal in Portugese huishoudens. Maak er geen kaasgratin van; kaas is niet nodig.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 680,
+      "protein": 38,
+      "carbs": 53,
+      "fat": 35
+    }
   },
   {
     "id": "8",
@@ -503,7 +569,13 @@ window.RECIPES = [
       "text": "Het beslag moet dik genoeg zijn om aan een lepel te blijven hangen. Bak in een laag hete olie en geef de patanisca ruimte; te koude olie maakt hem vet, te hete olie verbrandt de buitenkant."
     },
     "attention": "Pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) zijn platte, onregelmatige beignets van bacalhau (gezouten kabeljauw); maak er geen dikke ronde viskoekjes van.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 870,
+      "protein": 43,
+      "carbs": 103,
+      "fat": 31
+    }
   },
   {
     "id": "9",
@@ -541,7 +613,13 @@ window.RECIPES = [
       "text": "Pocheren is zacht garen in water dat net niet kookt. Houd de vloeistof rond 80–90 °C: kleine belletjes mogen, wild borrelen niet. Zo blijft pescada (heek) sappig en valt hij minder snel uit elkaar."
     },
     "attention": "Dit is bewust eenvoudig. In de Portugese dagelijkse keuken wordt vis vaak veel minder “aangekleed” dan in restaurantrecepten.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 590,
+      "protein": 48,
+      "carbs": 53,
+      "fat": 21
+    }
   },
   {
     "id": "10",
@@ -583,7 +661,13 @@ window.RECIPES = [
       "text": "Kerf de dikste delen licht in zodat de warmte gelijkmatiger binnendringt. De vis is gaar wanneer het vlees bij de rugvin gemakkelijk loslaat en nog glanzend en sappig is."
     },
     "attention": "Niet wachten tot de vis kurkdroog is. De graat moet makkelijk loslaten en het vlees nog sappig zijn.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 740,
+      "protein": 49,
+      "carbs": 56,
+      "fat": 32
+    }
   },
   {
     "id": "11",
@@ -625,7 +709,13 @@ window.RECIPES = [
       "text": "Laat octopus rustig garen tot een mes zonder weerstand in het dikste deel glijdt. Bewaar het kookvocht: daarin zit precies de smaak die je later voor de carolino-rijst nodig hebt."
     },
     "attention": "Net als arroz de marisco (zeevruchtenrijst) moet arroz de polvo (octopus) niet droog op het bord staan.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 670,
+      "protein": 44,
+      "carbs": 68,
+      "fat": 21
+    }
   },
   {
     "id": "12",
@@ -662,7 +752,13 @@ window.RECIPES = [
       "text": "Haal de salade 10–15 minuten voor het eten uit de koelkast. Zeer koude bonen en olijfolie smaken vlakker; op kamertemperatuur komt de dressing duidelijker naar voren."
     },
     "attention": "Dit is precies het soort eenvoudige lunch of lichte avondmaaltijd waarvoor geen “receptenrestaurantlogica” nodig is.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 570,
+      "protein": 38,
+      "carbs": 33,
+      "fat": 31
+    }
   },
   {
     "id": "13",
@@ -700,7 +796,13 @@ window.RECIPES = [
       "text": "Giet het kokend hete pocheerwater direct over het brood en de kruidenpasta. Laat kort staan zodat het brood verzadigt zonder dat je het fijnroert."
     },
     "attention": "Er hoort geen gebonden roomsoep te ontstaan. De eenvoud is het gerecht: brood, knoflook, koriander, olijfolie, water en ei.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 630,
+      "protein": 17,
+      "carbs": 63,
+      "fat": 35
+    }
   },
   {
     "id": "14",
@@ -741,7 +843,13 @@ window.RECIPES = [
       "text": "Laat de soep slechts zacht pruttelen en breek de eieren één voor één in het vocht. Schep niet door de pan totdat het eiwit gestold is."
     },
     "attention": "Ook dit is een broodmaaltijd. De soep mag uitgesproken naar tomaat en olijfolie smaken; maak hem niet zoet of romig.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 440,
+      "protein": 14,
+      "carbs": 46,
+      "fat": 23
+    }
   },
   {
     "id": "15",
@@ -777,7 +885,13 @@ window.RECIPES = [
       "text": "Droog de voorgekookte bonen goed voordat ze in het beslag gaan. Water aan de buitenkant verdunt het beslag en veroorzaakt extra spatten in de hete olie."
     },
     "attention": "De naam betekent letterlijk “visjes uit de tuin”: de bonen worden door het beslag visachtig van vorm. Dit is een oud Portugees groentegerecht, niet een moderne vegetarische imitatie.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 320,
+      "protein": 9,
+      "carbs": 39,
+      "fat": 15
+    }
   },
   {
     "id": "16",
@@ -822,7 +936,13 @@ window.RECIPES = [
       "text": "Dep de vis droog en werk in de volgorde bloem, ei, pão ralado. Druk het broodkruim licht aan en laat de filets een paar minuten liggen voordat je ze bakt; zo laat de korst minder snel los. Klassiek thuisgerecht · ongeveer 45–60 minuten"
     },
     "attention": "De combinatie is belangrijker dan een ingewikkelde saus: krokante pescada (heek) met sappige arroz de tomate (tomatenrijst) is zeer typische Portugese comfort food.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 980,
+      "protein": 50,
+      "carbs": 109,
+      "fat": 38
+    }
   },
   {
     "id": "17",
@@ -863,7 +983,13 @@ window.RECIPES = [
       "text": "Pocheer de bacalhau (gezouten kabeljauw) kort, gebruik het kookvocht voor de rijst en voeg de vis pas terug wanneer de rijst bijna gaar is. Zo krijg je smaak in de rijst zonder de vis droog te koken. Klassiek thuisgerecht · ongeveer 40 minuten"
     },
     "attention": "Dit hoort geen droge “rijst met kabeljauw” te worden. De bouillonachtige, malandrinho (sappig en bouillonachtig) textuur is essentieel.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 580,
+      "protein": 34,
+      "carbs": 67,
+      "fat": 18
+    }
   },
   {
     "id": "18",
@@ -902,7 +1028,13 @@ window.RECIPES = [
       "text": "Laat aardappel en groenten volledig uitdampen en afkoelen vóór de mayonaise erbij gaat. Warm of nat zetmeel maakt de salade slap en waterig. Snelle doordeweekse klassieker · ongeveer 30 minuten"
     },
     "attention": "Niet veranderen in een bak mayonaise. De groenten moeten herkenbaar blijven. Dit is ook heel normaal als koude lunch of eten dat je de volgende dag meeneemt.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 550,
+      "protein": 39,
+      "carbs": 36,
+      "fat": 28
+    }
   },
   {
     "id": "19",
@@ -942,7 +1074,13 @@ window.RECIPES = [
       "text": "Zet het vuur laag voordat het ei erbij gaat en haal de pan vroeg van het vuur. De aardappel neemt nog vocht op, dus een romig resultaat in de pan wordt op het bord precies goed. Hedendaagse snelle thuisvariant · ongeveer 25–30 minuten"
     },
     "attention": "Dit is bewust geen traditioneel oud gerecht, maar een moderne, snelle afgeleide van Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei) en precies het soort voorraadkastmaaltijd dat logisch is voor een doordeweekse avond.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 1240,
+      "protein": 56,
+      "carbs": 72,
+      "fat": 80
+    }
   },
   {
     "id": "20",
@@ -982,7 +1120,13 @@ window.RECIPES = [
       "text": "Bewaar een kopje kookwater voordat je afgiet. Een paar lepels zetmeelrijk water maken de tomatensaus losser en helpen hem aan de pasta hechten. Hedendaagse snelle thuismaaltijd · ongeveer 20–25 minuten"
     },
     "attention": "Dit is geen historische klassieker, maar wel een zeer logische moderne Portugese voorraadkastmaaltijd: pasta, ingeblikte tonijn, tomaat, azeite (olijfolie) en olijven.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 760,
+      "protein": 48,
+      "carbs": 77,
+      "fat": 28
+    }
   },
   {
     "id": "21",
@@ -1022,7 +1166,13 @@ window.RECIPES = [
       "text": "Bliktonijn is al gaar. Laat hem alleen de laatste paar minuten mee warmen; langdurig meekoken maakt de vis droog en vezelig. Hedendaagse voorraadkastmaaltijd · ongeveer 25 minuten"
     },
     "attention": "Dit is functioneel thuiskoken: goedkoop, snel en gemaakt uit dingen die vaak al in de kast staan.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 620,
+      "protein": 34,
+      "carbs": 62,
+      "fat": 24
+    }
   },
   {
     "id": "22",
@@ -1061,7 +1211,13 @@ window.RECIPES = [
       "text": "Laat courgette en andere waterige groenten eerst vocht verliezen voordat aardappel en ei erbij gaan. Anders wordt de batata palha (krokante aardappelreepjes) slap en bindt het ei slecht. Hedendaagse vegetarische thuisvariant · ongeveer 30 minuten"
     },
     "attention": "De techniek is dezelfde als bij Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei). De moderne groenteversie is inmiddels een gewone Portugese vegetarische oplossing; houd vooral het ei romig.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 860,
+      "protein": 18,
+      "carbs": 65,
+      "fat": 59
+    }
   },
   {
     "id": "23",
@@ -1097,7 +1253,13 @@ window.RECIPES = [
       "text": "Laat de onderkant rustig stollen en vouw voordat de bovenkant helemaal droog is. De binnenkant mag nog licht vochtig zijn; doorbakken maakt een omelet snel rubberig. Zeer snel · ongeveer 10–15 minuten"
     },
     "attention": "Geen culinair project: dit is juist een typische oplossing wanneer er weinig tijd en weinig ingrediënten zijn.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 280,
+      "protein": 28,
+      "carbs": 2,
+      "fat": 17
+    }
   },
   {
     "id": "24",
@@ -1137,7 +1299,13 @@ window.RECIPES = [
       "text": "Kook de basisgroenten zeer zacht en pureer die glad. Voeg pas daarna kool, spinazie of sperziebonen toe en laat die herkenbaar; zo krijg je de typische combinatie van romige basis en groentestukjes. Absolute dagelijkse basis · ongeveer 35–45 minuten"
     },
     "attention": "Maak meteen een grotere pan. Portugese groentesoep is juist nuttig als koelkastbasis: een kom voor het avondeten, lunch of voorafgaand aan een hoofdgerecht.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 110,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5
+    }
   },
   {
     "id": "25",
@@ -1175,7 +1343,13 @@ window.RECIPES = [
       "text": "Carolino blijft na het koken vocht opnemen. Zet arroz de tomate (tomatenrijst) daarom af wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment. Goedkoop en snel · ongeveer 25 minuten"
     },
     "attention": "arroz de tomate (tomatenrijst) is een basisgerecht op zichzelf. Met een gebakken ei wordt het een zeer goedkope complete doordeweekse maaltijd.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 620,
+      "protein": 17,
+      "carbs": 74,
+      "fat": 28
+    }
   },
   {
     "id": "26",
@@ -1214,7 +1388,13 @@ window.RECIPES = [
       "text": "Zout de vis vooraf en grill op zeer hoge hitte. Draai zo weinig mogelijk; sardines zijn gaar zodra het vel goed gekleurd is en het vlees gemakkelijk van de graat komt. Seizoensklassieker · ongeveer 45–60 minuten"
     },
     "attention": "Dit is sterk seizoensgebonden en vooral goed wanneer de sardines echt goed zijn. Geen zware saus nodig.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 810,
+      "protein": 51,
+      "carbs": 45,
+      "fat": 46
+    }
   },
   {
     "id": "27",
@@ -1252,7 +1432,13 @@ window.RECIPES = [
       "text": "Gebruik ongeveer twee delen olijfolie op één deel wijnazijn en proef pas daarna op zout. Tonijn uit blik is vaak al vrij zout."
     },
     "attention": "Laat de kikkererwten zeer goed uitlekken en serveer de salade liever op kamertemperatuur dan ijskoud. Zo blijft de dressing geconcentreerd en proef je tonijn, ui en azeite (olijfolie) beter.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 830,
+      "protein": 59,
+      "carbs": 57,
+      "fat": 40
+    }
   },
   {
     "id": "28",
@@ -1291,7 +1477,13 @@ window.RECIPES = [
       "text": "Laat gekookte rijst niet uren lauw staan. Spreid hem uit zodat hij snel afkoelt en zet hem daarna in de koelkast; meng de salade pas wanneer de rijst koud is."
     },
     "attention": "Meng pas wanneer de rijst volledig koud en droog aanvoelt. Warme rijst maakt tonijn en tomaat papperig en neemt de dressing onvoorspelbaar op.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 680,
+      "protein": 40,
+      "carbs": 70,
+      "fat": 26
+    }
   },
   {
     "id": "29",
@@ -1331,7 +1523,13 @@ window.RECIPES = [
       "text": "Kook de pasta niet te zacht: tijdens het afkoelen wordt hij nog iets steviger en de dressing moet tussen de pasta blijven hangen zonder dat alles papperig wordt."
     },
     "attention": "Laat de pasta volledig afkoelen voordat de tonijn en dressing erbij gaan. Giet hem na het koken zeer goed af, anders wordt de salade waterig.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 710,
+      "protein": 45,
+      "carbs": 70,
+      "fat": 27
+    }
   },
   {
     "id": "30",
@@ -1373,7 +1571,13 @@ window.RECIPES = [
       "text": "Bij een vrij droge vulling zoals deze hoeft het meestal niet. Gebruik je veel vochtige groenten, bak de bodem dan 10 minuten voor met bakpapier en bakbonen zodat hij niet zompig wordt."
     },
     "attention": "Bak de quiche niet tot hij overal keihard gestold is. Een midden dat nog heel licht trilt wordt tijdens het rusten precies stevig genoeg en blijft sappiger.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 590,
+      "protein": 33,
+      "carbs": 32,
+      "fat": 35
+    }
   },
   {
     "id": "31",
@@ -1412,7 +1616,13 @@ window.RECIPES = [
       "text": "Kook pasta bewust niet volledig gaar. In de oven neemt hij opnieuw vocht op; volledig gare pasta wordt daar snel te zacht."
     },
     "attention": "Kook de pasta bewust iets te kort voordat hij de oven in gaat. Volledig gare pasta wordt tijdens het gratineren snel zacht en zwaar.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 760,
+      "protein": 47,
+      "carbs": 72,
+      "fat": 30
+    }
   },
   {
     "id": "32",
@@ -1449,7 +1659,13 @@ window.RECIPES = [
       "text": "Gebruik niet te veel vochtige vulling en dep tomaat droog. Een dun laagje olijfolie aan de buitenkant geeft een mooiere korst dan veel boter."
     },
     "attention": "Laat tonijn en tomaat goed uitlekken voordat je de tosta vult. Te veel vocht maakt het brood slap voordat de buitenkant krokant kan worden.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 470,
+      "protein": 34,
+      "carbs": 43,
+      "fat": 18
+    }
   },
   {
     "id": "33",
@@ -1486,7 +1702,13 @@ window.RECIPES = [
       "text": "Haal de pan van het vuur wanneer het ei nog iets zachter is dan je wilt. De restwarmte gaart het nog door; wacht je tot het droog lijkt, dan is het al te ver."
     },
     "attention": "Laat het vocht van de champignons eerst grotendeels verdampen voordat spinazie en ei erbij gaan. Anders stomen de eieren in plaats van zacht te stollen.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 460,
+      "protein": 25,
+      "carbs": 31,
+      "fat": 27
+    }
   },
   {
     "id": "34",
@@ -1523,7 +1745,13 @@ window.RECIPES = [
       "text": "Versgekookte warme rijst bevat veel stoom en kleeft sneller. Koude rijst is droger en bakt losser, waardoor je daadwerkelijk gebakken rijst krijgt."
     },
     "attention": "Gebruik bij voorkeur volledig afgekoelde rijst van de vorige dag. Droge, koude korrels bakken losser en geven veel meer textuur dan vers gekookte warme rijst.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 520,
+      "protein": 18,
+      "carbs": 63,
+      "fat": 21
+    }
   },
   {
     "id": "35",
@@ -1559,7 +1787,13 @@ window.RECIPES = [
       "text": "Laat de cavala goed uitlekken en verdeel hem pas op het einde in grove stukken. Schep hem vervolgens zo weinig mogelijk om: de salade is aantrekkelijker en sappiger wanneer de vis herkenbare vlokken houdt."
     },
     "attention": "Schep voorzichtig: cavala valt gemakkelijker uit elkaar dan tonijn. Gebruik de olie uit een goed blik gerust als deel van de dressing.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 790,
+      "protein": 46,
+      "carbs": 56,
+      "fat": 43
+    }
   },
   {
     "id": "36",
@@ -1599,7 +1833,13 @@ window.RECIPES = [
       "text": "Gebruik carolino en voldoende vocht. De rijst hoort niet droog op het bord te liggen; zet hem iets te nat van het vuur, want hij blijft bouillon opnemen."
     },
     "attention": "Douradinhos (vissticks) zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate (tomatenrijst) eerst vrijwel klaar en bak de vis pas op het einde.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 910,
+      "protein": 29,
+      "carbs": 109,
+      "fat": 39
+    }
   },
   {
     "id": "37",
@@ -1637,6 +1877,12 @@ window.RECIPES = [
       "text": "Als je frituurt, houd de olie rond 175–180 °C en bak niet te veel stuks tegelijk. Te koude olie wordt door het paneermeel opgenomen; te hete olie kleurt buiten voordat de vulling warm is."
     },
     "attention": "Leg de rissóis (gevulde Portugese deeghapjes) naast de arroz de tomate (tomatenrijst) en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
-    "variations": []
+    "variations": [],
+    "nutrition": {
+      "kcal": 890,
+      "protein": 21,
+      "carbs": 115,
+      "fat": 39
+    }
   }
 ];
