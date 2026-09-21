@@ -574,10 +574,10 @@ button { font: inherit; }
 }
 .photo-visual.missing img { display: none; }
 .photo-panel {
-  display: grid;
-  grid-template-rows: auto auto auto auto;
-  gap: 3mm;
-  padding: 10mm 14mm 7mm;
+  display: flex;
+  flex-direction: column;
+  gap: 2.6mm;
+  padding: 9mm 14mm 7mm;
   background: var(--paper-soft);
 }
 .photo-panel h2 {
@@ -603,7 +603,7 @@ button { font: inherit; }
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0;
-  margin-top: 1.5mm;
+  margin-top: auto;
 }
 .photo-facts .fact-card {
   display: grid;
