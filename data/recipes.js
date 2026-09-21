@@ -260,7 +260,7 @@ window.RECIPES = [
     ],
     "time": "40 minuten",
     "servings": "2–3 personen",
-    "intro": "Arroz de marisco is een bekende familie- en weekendmaaltijd. De kern is niet een enorme hoeveelheid luxe zeevruchten, maar carolino-rijst die in een krachtige zeevruchtenbouillon gaart en zeer sappig wordt geserveerd.",
+    "intro": "arroz de marisco (zeevruchtenrijst) is een bekende familie- en weekendmaaltijd. De kern is niet een enorme hoeveelheid luxe zeevruchten, maar carolino-rijst die in een krachtige zeevruchtenbouillon gaart en zeer sappig wordt geserveerd.",
     "image": "images/4a-arroz-de-marisco-malandrinho.jpg",
     "imageAlt": "Arroz de marisco malandrinho",
     "ingredients": [
@@ -289,9 +289,9 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "MALANDRINHO SERVEREN",
-      "text": "Zet de rijst van het vuur terwijl er nog ruim bouillon rond zit en serveer direct. Vijf minuten wachten kan al genoeg zijn om van sappige arroz de marisco een droge rijstschotel te maken."
+      "text": "Zet de rijst van het vuur terwijl er nog ruim bouillon rond zit en serveer direct. Vijf minuten wachten kan al genoeg zijn om van sappige arroz de marisco (zeevruchtenrijst) een droge rijstschotel te maken."
     },
-    "attention": "Serveer onmiddellijk. Arroz de marisco blijft niet netjes “wachten”: de rijst zuigt het vocht op en wordt droog.",
+    "attention": "Serveer onmiddellijk. arroz de marisco (zeevruchtenrijst) blijft niet netjes “wachten”: de rijst zuigt het vocht op en wordt droog.",
     "variations": []
   },
   {
@@ -346,11 +346,11 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Bacalhau à Brás (bacalhau met fijne aardappel en romig ei) is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau, zachte ui, dunne aardappel en ei. Het wordt thuis net zo gemakkelijk gemaakt met kant-en-klare batata palha (krokante aardappelreepjes) als met zelfgesneden aardappel.",
+    "intro": "Bacalhau (gezouten kabeljauw) à Brás (bacalhau (gezouten kabeljauw) met fijne aardappel en romig ei) is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau (gezouten kabeljauw), zachte ui, dunne aardappel en ei. Het wordt thuis net zo gemakkelijk gemaakt met kant-en-klare batata palha (krokante aardappelreepjes) als met zelfgesneden aardappel.",
     "image": "images/5-bacalhau-a-bras.jpg",
     "imageAlt": "Bacalhau à Brás",
     "ingredients": [
-      "300 g ontzoute bacalhau, gaar en in vlokken",
+      "300 g ontzoute bacalhau (gezouten kabeljauw), gaar en in vlokken",
       "300 g batata para fritar (frituuraardappelen), voor fijne lucifers",
       "1 grote ui, in dunne halve ringen",
       "2 tenen knoflook",
@@ -364,11 +364,11 @@ window.RECIPES = [
     "steps": [
       "Snijd de aardappelen in zeer fijne lucifers. Frituur of bak ze goudgeel en laat uitlekken. Kant-en-klare batata palha (krokante aardappelreepjes) is in Portugal ook een gewone thuisoplossing.",
       "Fruit ui en knoflook langzaam in olijfolie tot de ui zacht en zoet is. Laat de ui doorschijnend worden zonder veel kleur en voeg de knoflook pas toe zodra de ui vrijwel klaar is.",
-      "Voeg de bacalhau toe en warm 2–3 minuten mee. Schep rustig om en warm alleen door; de kabeljauw is al gaar en wordt droog wanneer hij hier te lang blijft bakken.",
-      "Voeg de aardappelen toe en schep kort om. Werk met een brede spatel en til het mengsel voorzichtig op, zodat de fijne aardappel en bacalhau niet tot een compacte massa worden gedrukt.",
+      "Voeg de bacalhau (gezouten kabeljauw) toe en warm 2–3 minuten mee. Schep rustig om en warm alleen door; de kabeljauw is al gaar en wordt droog wanneer hij hier te lang blijft bakken.",
+      "Voeg de aardappelen toe en schep kort om. Werk met een brede spatel en til het mengsel voorzichtig op, zodat de fijne aardappel en bacalhau (gezouten kabeljauw) niet tot een compacte massa worden gedrukt.",
       "Klop de eieren los met peper. Zet het vuur laag en meng ze door de pan.",
       "Stop zodra het ei romig gebonden is; laat het niet droog stollen. Haal de pan van het vuur terwijl het mengsel nog glanst, want de restwarmte gaart het ei nog verder.",
-      "Werk af met peterselie en zwarte olijven. Proef pas daarna op zout: bacalhau, aardappel en olijven brengen samen vaak al genoeg zoutigheid mee."
+      "Werk af met peterselie en zwarte olijven. Proef pas daarna op zout: bacalhau (gezouten kabeljauw), aardappel en olijven brengen samen vaak al genoeg zoutigheid mee."
     ],
     "technique": {
       "title": "ROMIG EI IN À BRÁS",
@@ -387,11 +387,11 @@ window.RECIPES = [
     ],
     "time": "45 minuten",
     "servings": "2–3 personen",
-    "intro": "Dit gerecht uit Porto laat zien hoe weinig ingrediënten bacalhau nodig heeft: aardappel, ui, ei, olijven en veel goede olijfolie. Het is geschikt voor een familietafel omdat het vooraf kan worden opgebouwd en kort in de oven gaat.",
+    "intro": "Dit gerecht uit Porto laat zien hoe weinig ingrediënten bacalhau (gezouten kabeljauw) nodig heeft: aardappel, ui, ei, olijven en veel goede olijfolie. Het is geschikt voor een familietafel omdat het vooraf kan worden opgebouwd en kort in de oven gaat.",
     "image": "images/6-bacalhau-a-gomes-de-sa.jpg",
     "imageAlt": "Bacalhau à Gomes de Sá",
     "ingredients": [
-      "350 g ontzoute bacalhau",
+      "350 g ontzoute bacalhau (gezouten kabeljauw)",
       "500 g batata para cozer (kookaardappelen), van een vastkokend type",
       "2 grote uien, in halve ringen",
       "2 tenen knoflook",
@@ -404,17 +404,17 @@ window.RECIPES = [
     ],
     "steps": [
       "Kook de aardappelen in de schil bijna gaar. Laat iets afkoelen, pel ze en snijd in dikke plakken.",
-      "Pocheer de bacalhau zachtjes tot hij net gaar is. Verwijder vel en graten en verdeel in grove vlokken.",
-      "Fruit ui en knoflook langzaam in ruim olijfolie. Laat de ui zacht en licht zoet worden zonder hem donker te bakken; de royale hoeveelheid azeite (olijfolie) hoort later ook de aardappel en bacalhau te bevochtigen.",
-      "Meng aardappel, bacalhau en ui voorzichtig in een ovenschaal. Besprenkel royaal met olijfolie en peper.",
+      "Pocheer de bacalhau (gezouten kabeljauw) zachtjes tot hij net gaar is. Verwijder vel en graten en verdeel in grove vlokken.",
+      "Fruit ui en knoflook langzaam in ruim olijfolie. Laat de ui zacht en licht zoet worden zonder hem donker te bakken; de royale hoeveelheid azeite (olijfolie) hoort later ook de aardappel en bacalhau (gezouten kabeljauw) te bevochtigen.",
+      "Meng aardappel, bacalhau (gezouten kabeljauw) en ui voorzichtig in een ovenschaal. Besprenkel royaal met olijfolie en peper.",
       "Bak ongeveer 15–20 minuten op 190 °C. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar.",
       "Kook ondertussen de eieren hard, snijd in parten en verdeel ze met olijven en peterselie over de schaal. Leg de garnering pas na het bakken erop, zodat ei, peterselie en olijven fris en herkenbaar blijven."
     ],
     "technique": {
       "title": "BACALHAU POCHEREN",
-      "text": "Laat de ontzoute bacalhau zacht garen in water dat net onder de kook blijft. Hard koken maakt de vis droog en laat de vlokken sneller uit elkaar vallen."
+      "text": "Laat de ontzoute bacalhau (gezouten kabeljauw) zacht garen in water dat net onder de kook blijft. Hard koken maakt de vis droog en laat de vlokken sneller uit elkaar vallen."
     },
-    "attention": "Niet verdrinken in saus. Dit gerecht draait om goede bacalhau, aardappel, ui en veel fatsoenlijke olijfolie.",
+    "attention": "Niet verdrinken in saus. Dit gerecht draait om goede bacalhau (gezouten kabeljauw), aardappel, ui en veel fatsoenlijke olijfolie.",
     "variations": []
   },
   {
@@ -427,11 +427,11 @@ window.RECIPES = [
     ],
     "time": "55 minuten",
     "servings": "3 personen",
-    "intro": "Bacalhau com natas is rijker en moderner dan veel oudere bacalhaugerechten, maar in Portugese huishoudens volkomen ingeburgerd. Aardappel, ui, kabeljauw en een romige saus worden samen gegratineerd.",
+    "intro": "Bacalhau (gezouten kabeljauw) com natas is rijker en moderner dan veel oudere bacalhaugerechten, maar in Portugese huishoudens volkomen ingeburgerd. Aardappel, ui, kabeljauw en een romige saus worden samen gegratineerd.",
     "image": "images/7-bacalhau-com-natas.jpg",
     "imageAlt": "Bacalhau com natas",
     "ingredients": [
-      "350 g ontzoute bacalhau, in vlokken",
+      "350 g ontzoute bacalhau (gezouten kabeljauw), in vlokken",
       "500 g batata para fritar (frituuraardappelen), in kleine blokjes of dunne frietjes",
       "1 grote ui",
       "2 tenen knoflook",
@@ -446,9 +446,9 @@ window.RECIPES = [
     ],
     "steps": [
       "Bak of frituur de aardappelen tot ze net gaar en licht gekleurd zijn. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
-      "Fruit ui en knoflook in olijfolie. Voeg bacalhau toe en laat enkele minuten meegaren.",
+      "Fruit ui en knoflook in olijfolie. Voeg bacalhau (gezouten kabeljauw) toe en laat enkele minuten meegaren.",
       "Maak apart een lichte béchamel van boter, bloem en melk. Breng op smaak met peper en nootmuskaat en roer de room erdoor.",
-      "Meng aardappel, bacalhau en ongeveer twee derde van de saus. Schep voorzichtig tot alles net bedekt is; te veel roeren breekt de aardappel en maakt de vulling zwaar.",
+      "Meng aardappel, bacalhau (gezouten kabeljauw) en ongeveer twee derde van de saus. Schep voorzichtig tot alles net bedekt is; te veel roeren breekt de aardappel en maakt de vulling zwaar.",
       "Doe in een ovenschaal, verdeel de rest van de saus erover en eventueel een heel dun laagje broodkruim. Strijk de bovenkant losjes glad maar druk niets aan; zo kan de bovenkant in de oven kleuren terwijl de binnenkant romig blijft.",
       "Bak 20–25 minuten op 200 °C tot de bovenkant goudkleurig is. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar."
     ],
@@ -469,11 +469,11 @@ window.RECIPES = [
     ],
     "time": "45 minuten",
     "servings": "2–3 personen",
-    "intro": "Pataniscas (platte bacalhau-beignets) zijn platte, onregelmatige bacalhau-beignets en geen dikke viskoekjes. Met sappige arroz de feijão vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
+    "intro": "Pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) zijn platte, onregelmatige bacalhau (gezouten kabeljauw)-beignets en geen dikke viskoekjes. Met sappige arroz de feijão (bonenrijst) vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
     "image": "images/8-pataniscas-de-bacalhau-com-arroz-de-feijao.jpg",
     "imageAlt": "Pataniscas de bacalhau com arroz de feijão",
     "ingredients": [
-      "250 g ontzoute bacalhau, gaar en fijngemaakt",
+      "250 g ontzoute bacalhau (gezouten kabeljauw), gaar en fijngemaakt",
       "100 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
       "2 eieren",
       "80–120 ml koud water",
@@ -493,16 +493,16 @@ window.RECIPES = [
     "steps": [
       "Maak eerst de rijst. Fruit ui en knoflook, voeg tomaat en laurier toe en laat enkele minuten stoven.",
       "Voeg rijst, bonen en hete vloeistof toe. Kook tot de rijst gaar maar nog duidelijk sappig is.",
-      "Meng voor de pataniscas (platte bacalhau-beignets) bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau straks kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
-      "Meng bacalhau, ui, peterselie en peper erdoor. Roer alleen tot alles gelijkmatig verdeeld is; een te lang gemengd beslag wordt taai en verliest de losse structuur van de vis.",
-      "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Houd de olie rond 175–180 °C en bak in kleine porties, zodat de pataniscas (platte bacalhau-beignets) snel kleuren zonder veel vet op te nemen.",
-      "Serveer direct met de arroz de feijão. Schep de rijst op terwijl er nog zichtbaar vocht rond de korrels zit; tijdens het eten dikt hij vanzelf verder in."
+      "Meng voor de pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau (gezouten kabeljauw) straks kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
+      "Meng bacalhau (gezouten kabeljauw), ui, peterselie en peper erdoor. Roer alleen tot alles gelijkmatig verdeeld is; een te lang gemengd beslag wordt taai en verliest de losse structuur van de vis.",
+      "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Houd de olie rond 175–180 °C en bak in kleine porties, zodat de pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) snel kleuren zonder veel vet op te nemen.",
+      "Serveer direct met de arroz de feijão (bonenrijst). Schep de rijst op terwijl er nog zichtbaar vocht rond de korrels zit; tijdens het eten dikt hij vanzelf verder in."
     ],
     "technique": {
       "title": "ONDIEP BAKKEN",
       "text": "Het beslag moet dik genoeg zijn om aan een lepel te blijven hangen. Bak in een laag hete olie en geef de patanisca ruimte; te koude olie maakt hem vet, te hete olie verbrandt de buitenkant."
     },
-    "attention": "Pataniscas (platte bacalhau-beignets) zijn platte, onregelmatige beignets; maak er geen dikke ronde viskoekjes van.",
+    "attention": "Pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) zijn platte, onregelmatige beignets van bacalhau (gezouten kabeljauw); maak er geen dikke ronde viskoekjes van.",
     "variations": []
   },
   {
@@ -595,7 +595,7 @@ window.RECIPES = [
     ],
     "time": "60–90 minuten",
     "servings": "3 personen",
-    "intro": "Arroz de polvo (octopus) is een steviger familie- of weekendgerecht waarin het kookvocht van de octopus de rijst op smaak brengt. De octopus zelf moet eerst echt mals zijn voordat hij bij de rijst teruggaat.",
+    "intro": "Arroz de polvo (octopusrijst) is een steviger familie- of weekendgerecht waarin het kookvocht van de octopus de rijst op smaak brengt. De octopus zelf moet eerst echt mals zijn voordat hij bij de rijst teruggaat.",
     "image": "images/11-arroz-de-polvo.jpg",
     "imageAlt": "Arroz de polvo",
     "ingredients": [
@@ -624,7 +624,7 @@ window.RECIPES = [
       "title": "OCTOPUS MALS KOKEN",
       "text": "Laat octopus rustig garen tot een mes zonder weerstand in het dikste deel glijdt. Bewaar het kookvocht: daarin zit precies de smaak die je later voor de carolino-rijst nodig hebt."
     },
-    "attention": "Net als arroz de marisco moet arroz de polvo (octopus) niet droog op het bord staan.",
+    "attention": "Net als arroz de marisco (zeevruchtenrijst) moet arroz de polvo (octopus) niet droog op het bord staan.",
     "variations": []
   },
   {
@@ -789,7 +789,7 @@ window.RECIPES = [
     ],
     "time": "45–60 minuten",
     "servings": "2 personen",
-    "intro": "Gepaneerde pescada (heek) met sappige arroz de tomate is zo’n combinatie die direct naar een Portugese familiekeuken verwijst. De vis moet krokant blijven, terwijl de rijst juist nat en zacht op het bord komt.",
+    "intro": "Gepaneerde pescada (heek) met sappige arroz de tomate (tomatenrijst) is zo’n combinatie die direct naar een Portugese familiekeuken verwijst. De vis moet krokant blijven, terwijl de rijst juist nat en zacht op het bord komt.",
     "image": "images/16-filetes-de-pescada-panados-com-arroz-de-tomate.jpg",
     "imageAlt": "Filetes de pescada panados com arroz de tomate",
     "ingredients": [
@@ -821,7 +821,7 @@ window.RECIPES = [
       "title": "PANEREN",
       "text": "Dep de vis droog en werk in de volgorde bloem, ei, pão ralado. Druk het broodkruim licht aan en laat de filets een paar minuten liggen voordat je ze bakt; zo laat de korst minder snel los. Klassiek thuisgerecht · ongeveer 45–60 minuten"
     },
-    "attention": "De combinatie is belangrijker dan een ingewikkelde saus: krokante pescada (heek) met sappige arroz de tomate is zeer typische Portugese comfort food.",
+    "attention": "De combinatie is belangrijker dan een ingewikkelde saus: krokante pescada (heek) met sappige arroz de tomate (tomatenrijst) is zeer typische Portugese comfort food.",
     "variations": []
   },
   {
@@ -834,11 +834,11 @@ window.RECIPES = [
     ],
     "time": "40 minuten",
     "servings": "2–3 personen",
-    "intro": "Arroz de bacalhau is minder beroemd buiten Portugal dan veel ovenschotels, maar past perfect in de thuiskooktraditie. De kabeljauw geeft zijn smaak af aan een sappige tomaat- en paprikarijst.",
+    "intro": "arroz de bacalhau (rijst met gezouten kabeljauw) is minder beroemd buiten Portugal dan veel ovenschotels, maar past perfect in de thuiskooktraditie. De kabeljauw geeft zijn smaak af aan een sappige tomaat- en paprikarijst.",
     "image": "images/17-arroz-de-bacalhau-malandrinho.jpg",
     "imageAlt": "Arroz de bacalhau malandrinho",
     "ingredients": [
-      "300 g ontzoute bacalhau",
+      "300 g ontzoute bacalhau (gezouten kabeljauw)",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 ui, fijngehakt",
       "2 tenen knoflook",
@@ -846,21 +846,21 @@ window.RECIPES = [
       "½ groene paprika",
       "1 laurierblad",
       "3 el olijfolie",
-      "ongeveer 650 ml water of kookvocht van de bacalhau",
+      "ongeveer 650 ml water of kookvocht van de bacalhau (gezouten kabeljauw)",
       "peterselie of koriander",
       "peper"
     ],
     "steps": [
-      "Pocheer de bacalhau kort in water, haal eruit en verdeel in grove vlokken. Bewaar het kookvocht.",
+      "Pocheer de bacalhau (gezouten kabeljauw) kort in water, haal eruit en verdeel in grove vlokken. Bewaar het kookvocht.",
       "Fruit ui, knoflook en laurier in olijfolie. Voeg tomaat en paprika toe en laat goed zacht worden.",
       "Voeg de rijst en ongeveer 550 ml heet kookvocht toe. Laat zacht pruttelen en houd extra kookvocht warm; koude vloeistof zou het garen telkens onderbreken.",
       "Laat zacht koken en voeg zo nodig meer vocht toe. Kijk niet alleen naar de klok: zodra de rijst aan de bodem dreigt te pakken maar nog niet gaar is, voeg je een kleine scheut heet kookvocht toe.",
-      "Doe de bacalhau terug wanneer de rijst bijna gaar is. Schep de vlokken voorzichtig door de rijst zodat ze warm worden maar niet helemaal uit elkaar vallen.",
+      "Doe de bacalhau (gezouten kabeljauw) terug wanneer de rijst bijna gaar is. Schep de vlokken voorzichtig door de rijst zodat ze warm worden maar niet helemaal uit elkaar vallen.",
       "Serveer zodra de rijst gaar en nog ruim vochtig is, met verse kruiden. Wacht niet in de pan: carolino zuigt het resterende vocht snel op en dan verdwijnt het malandrinho (sappig en bouillonachtig)-karakter."
     ],
     "technique": {
       "title": "EERST POCHEREN, DAN TERUGVOEGEN",
-      "text": "Pocheer de bacalhau kort, gebruik het kookvocht voor de rijst en voeg de vis pas terug wanneer de rijst bijna gaar is. Zo krijg je smaak in de rijst zonder de vis droog te koken. Klassiek thuisgerecht · ongeveer 40 minuten"
+      "text": "Pocheer de bacalhau (gezouten kabeljauw) kort, gebruik het kookvocht voor de rijst en voeg de vis pas terug wanneer de rijst bijna gaar is. Zo krijg je smaak in de rijst zonder de vis droog te koken. Klassiek thuisgerecht · ongeveer 40 minuten"
     },
     "attention": "Dit hoort geen droge “rijst met kabeljauw” te worden. De bouillonachtige, malandrinho (sappig en bouillonachtig) textuur is essentieel.",
     "variations": []
@@ -914,7 +914,7 @@ window.RECIPES = [
     ],
     "time": "25–30 minuten",
     "servings": "2 personen",
-    "intro": "Atum à Brás (tonijn met fijne aardappel en romig ei) is geen historische klassieker, maar een heel logische moderne afgeleide van Bacalhau à Brás. Met tonijn uit blik en batata palha (krokante aardappelreepjes) staat het veel sneller op tafel en blijft de herkenbare ui-ei-aardappelstructuur intact.",
+    "intro": "Atum à Brás (tonijn met fijne aardappel en romig ei) is geen historische klassieker, maar een heel logische moderne afgeleide van Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei). Met tonijn uit blik en batata palha (krokante aardappelreepjes) staat het veel sneller op tafel en blijft de herkenbare ui-ei-aardappelstructuur intact.",
     "image": "images/19-atum-a-bras.jpg",
     "imageAlt": "Atum à Brás",
     "ingredients": [
@@ -941,7 +941,7 @@ window.RECIPES = [
       "title": "EI PAS OP HET EINDE",
       "text": "Zet het vuur laag voordat het ei erbij gaat en haal de pan vroeg van het vuur. De aardappel neemt nog vocht op, dus een romig resultaat in de pan wordt op het bord precies goed. Hedendaagse snelle thuisvariant · ongeveer 25–30 minuten"
     },
-    "attention": "Dit is bewust geen traditioneel oud gerecht, maar een moderne, snelle afgeleide van Bacalhau à Brás en precies het soort voorraadkastmaaltijd dat logisch is voor een doordeweekse avond.",
+    "attention": "Dit is bewust geen traditioneel oud gerecht, maar een moderne, snelle afgeleide van Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei) en precies het soort voorraadkastmaaltijd dat logisch is voor een doordeweekse avond.",
     "variations": []
   },
   {
@@ -994,7 +994,7 @@ window.RECIPES = [
     ],
     "time": "25 minuten",
     "servings": "2–3 personen",
-    "intro": "Arroz de atum is functioneel thuiskoken op zijn best: rijst, ui, knoflook en bliktonijn leveren met weinig planning een warme maaltijd. De tonijn hoeft nauwelijks te garen en gaat daarom pas op het einde erbij.",
+    "intro": "arroz de atum (tonijnrijst) is functioneel thuiskoken op zijn best: rijst, ui, knoflook en bliktonijn leveren met weinig planning een warme maaltijd. De tonijn hoeft nauwelijks te garen en gaat daarom pas op het einde erbij.",
     "image": "images/21-arroz-de-atum-rapido.jpg",
     "imageAlt": "Arroz de atum rápido",
     "ingredients": [
@@ -1060,7 +1060,7 @@ window.RECIPES = [
       "title": "GROENTEN EERST DROOG BAKKEN",
       "text": "Laat courgette en andere waterige groenten eerst vocht verliezen voordat aardappel en ei erbij gaan. Anders wordt de batata palha (krokante aardappelreepjes) slap en bindt het ei slecht. Hedendaagse vegetarische thuisvariant · ongeveer 30 minuten"
     },
-    "attention": "De techniek is dezelfde als bij Bacalhau à Brás. De moderne groenteversie is inmiddels een gewone Portugese vegetarische oplossing; houd vooral het ei romig.",
+    "attention": "De techniek is dezelfde als bij Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei). De moderne groenteversie is inmiddels een gewone Portugese vegetarische oplossing; houd vooral het ei romig.",
     "variations": []
   },
   {
@@ -1149,7 +1149,7 @@ window.RECIPES = [
     ],
     "time": "25 minuten",
     "servings": "2 personen",
-    "intro": "Arroz de tomate is op zichzelf al een Portugese basisbereiding. Met een in olijfolie gebakken ei erbovenop wordt het een complete, goedkope maaltijd zonder dat er een hoofdproduct uit vlees of vis nodig is.",
+    "intro": "arroz de tomate (tomatenrijst) is op zichzelf al een Portugese basisbereiding. Met een in olijfolie gebakken ei erbovenop wordt het een complete, goedkope maaltijd zonder dat er een hoofdproduct uit vlees of vis nodig is.",
     "image": "images/25-arroz-de-tomate-com-ovo-estrelado.jpg",
     "imageAlt": "Arroz de tomate com ovo estrelado",
     "ingredients": [
@@ -1168,13 +1168,13 @@ window.RECIPES = [
       "Voeg tomaat toe en laat goed zacht worden. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
       "Voeg arroz carolino (Portugese Carolino-rijst) en heet water toe en kook tot de rijst gaar en sappig is. Houd tegen het einde wat heet water bij de hand en zet de pan van het vuur voordat alle vloeistof is opgenomen.",
       "Bak ondertussen de eieren in olijfolie, met zachte of stevige dooier naar voorkeur. Gebruik middelhoog vuur zodat het wit snel stolt zonder dat de onderkant verbrandt; lepel eventueel wat hete olie over het wit rond de dooier.",
-      "Serveer de eieren bovenop de arroz de tomate en werk af met kruiden. Schep de rijst op terwijl hij nog sappig is en laat de dooier aan tafel als extra saus in de tomatenrijst lopen."
+      "Serveer de eieren bovenop de arroz de tomate (tomatenrijst) en werk af met kruiden. Schep de rijst op terwijl hij nog sappig is en laat de dooier aan tafel als extra saus in de tomatenrijst lopen."
     ],
     "technique": {
       "title": "RIJST IETS TE NAT VAN HET VUUR",
-      "text": "Carolino blijft na het koken vocht opnemen. Zet arroz de tomate daarom af wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment. Goedkoop en snel · ongeveer 25 minuten"
+      "text": "Carolino blijft na het koken vocht opnemen. Zet arroz de tomate (tomatenrijst) daarom af wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment. Goedkoop en snel · ongeveer 25 minuten"
     },
-    "attention": "Arroz de tomate is een basisgerecht op zichzelf. Met een gebakken ei wordt het een zeer goedkope complete doordeweekse maaltijd.",
+    "attention": "arroz de tomate (tomatenrijst) is een basisgerecht op zichzelf. Met een gebakken ei wordt het een zeer goedkope complete doordeweekse maaltijd.",
     "variations": []
   },
   {
@@ -1572,7 +1572,7 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Douradinhos (vissticks) zijn geen gastronomisch erfgoed, maar ze horen wel bij de echte Portugese dagelijkse eetcultuur: diepvriesvis uit de oven of pan met een zelfgemaakte arroz de tomate. Juist de combinatie van gemak en een klassieke rijstbereiding maakt dit een geloofwaardige jonge-huishoudensmaaltijd.",
+    "intro": "Douradinhos (vissticks) zijn geen gastronomisch erfgoed, maar ze horen wel bij de echte Portugese dagelijkse eetcultuur: diepvriesvis uit de oven of pan met een zelfgemaakte arroz de tomate (tomatenrijst). Juist de combinatie van gemak en een klassieke rijstbereiding maakt dit een geloofwaardige jonge-huishoudensmaaltijd.",
     "image": "images/36-douradinhos-com-arroz-de-tomate.jpg",
     "imageAlt": "Douradinhos com arroz de tomate",
     "ingredients": [
@@ -1598,7 +1598,7 @@ window.RECIPES = [
       "title": "ARROZ DE TOMATE",
       "text": "Gebruik carolino en voldoende vocht. De rijst hoort niet droog op het bord te liggen; zet hem iets te nat van het vuur, want hij blijft bouillon opnemen."
     },
-    "attention": "Douradinhos (vissticks) zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate eerst vrijwel klaar en bak de vis pas op het einde.",
+    "attention": "Douradinhos (vissticks) zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate (tomatenrijst) eerst vrijwel klaar en bak de vis pas op het einde.",
     "variations": []
   },
   {
@@ -1611,11 +1611,11 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2–3 personen",
-    "intro": "Rissóis (gevulde Portugese deeghapjes) worden thuis soms zelf gemaakt, maar veel vaker liggen ze kant-en-klaar in diepvries of delicatessenzaak. Met arroz de tomate ernaast ontstaat een heel normaal Portugees bord: iets krokants uit de frituur of oven naast zachte, sappige rijst.",
+    "intro": "Rissóis (gevulde Portugese deeghapjes) worden thuis soms zelf gemaakt, maar veel vaker liggen ze kant-en-klaar in diepvries of delicatessenzaak. Met arroz de tomate (tomatenrijst) ernaast ontstaat een heel normaal Portugees bord: iets krokants uit de frituur of oven naast zachte, sappige rijst.",
     "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
     "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "ingredients": [
-      "8–10 rissóis (gevulde Portugese deeghapjes) de camarão of rissóis (gevulde Portugese deeghapjes) de bacalhau",
+      "8–10 rissóis de camarão (Portugese deeghapjes met garnalenvulling) of rissóis de bacalhau (Portugese deeghapjes met gezouten kabeljauwvulling)",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
@@ -1630,13 +1630,13 @@ window.RECIPES = [
       "Fruit ui en knoflook in olijfolie. Laat de ui rustig zacht worden en voeg de knoflook pas op het einde toe, zodat de basis zoet en geurig blijft zonder verbrande tonen.",
       "Voeg tomaat en laurier toe en laat goed zacht worden. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
       "Voeg rijst en heet water toe en kook rustig gaar. Roer af en toe langs de bodem en voeg alleen extra heet water toe als de rijst nog hard is terwijl het vocht vrijwel verdwenen is.",
-      "Houd de arroz de tomate sappig en serveer de rissóis (gevulde Portugese deeghapjes) pas op het laatste moment zodat ze krokant blijven. Leg ze liever naast dan bovenop de rijst, anders maakt de stoom de korst snel zacht."
+      "Houd de arroz de tomate (tomatenrijst) sappig en serveer de rissóis (gevulde Portugese deeghapjes) pas op het laatste moment zodat ze krokant blijven. Leg ze liever naast dan bovenop de rijst, anders maakt de stoom de korst snel zacht."
     ],
     "technique": {
       "title": "FRITUREN ZONDER VETTIG RESULTAAT",
       "text": "Als je frituurt, houd de olie rond 175–180 °C en bak niet te veel stuks tegelijk. Te koude olie wordt door het paneermeel opgenomen; te hete olie kleurt buiten voordat de vulling warm is."
     },
-    "attention": "Leg de rissóis (gevulde Portugese deeghapjes) naast de arroz de tomate en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
+    "attention": "Leg de rissóis (gevulde Portugese deeghapjes) naast de arroz de tomate (tomatenrijst) en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
     "variations": []
   }
 ];
