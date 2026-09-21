@@ -205,23 +205,26 @@
     const content = page.querySelector(".fit-content");
     if (!content) return;
 
-    page.classList.remove("compact", "tight", "ultra");
+    page.classList.remove("compact", "tight", "ultra", "scaled");
     content.style.removeProperty("--fit-scale");
 
-    const overflows = () => content.scrollHeight > page.clientHeight - 2;
+    const availableHeight = () => {
+      const style = getComputedStyle(page);
+      const top = parseFloat(style.paddingTop) || 0;
+      const bottom = parseFloat(style.paddingBottom) || 0;
+      return page.clientHeight - top - bottom;
+    };
+
+    const overflows = () => content.scrollHeight > availableHeight() + 1;
 
     if (overflows()) page.classList.add("compact");
     if (overflows()) page.classList.add("tight");
     if (overflows()) page.classList.add("ultra");
 
     if (overflows()) {
-      const available = page.clientHeight - 8;
-      const needed = content.scrollHeight;
-      const scale = Math.max(0.72, Math.min(1, available / needed));
+      const scale = Math.max(0.72, Math.min(1, availableHeight() / content.scrollHeight));
       content.style.setProperty("--fit-scale", scale.toFixed(4));
       page.classList.add("scaled");
-    } else {
-      page.classList.remove("scaled");
     }
   }
 
