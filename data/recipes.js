@@ -6,8 +6,7 @@ window.RECIPES = [
     "title": "Arroz malandrinho de “lagosta” e coentros",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "MODERNE AANPASSING",
-      "2 PERSONEN"
+      "MODERNE AANPASSING"
     ],
     "time": "35 MIN",
     "servings": "2 personen",
@@ -50,8 +49,7 @@ window.RECIPES = [
     "title": "Açorda de marisco met “lagosta” en gepocheerd ei",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "MODERNE AANPASSING",
-      "2 PERSONEN"
+      "MODERNE AANPASSING"
     ],
     "time": "30 MIN",
     "servings": "2 personen",
@@ -91,8 +89,7 @@ window.RECIPES = [
     "title": "Caldeirada à moda de Peniche",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "KUSTKLASSIEKER",
-      "2 PERSONEN"
+      "KUSTKLASSIEKER"
     ],
     "time": "45 MIN",
     "servings": "2 royale personen",
@@ -137,8 +134,7 @@ window.RECIPES = [
     "title": "Massada de peixe com tomate e coentros",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "THUISKLASSIEKER",
-      "2–3 PERSONEN"
+      "THUISKLASSIEKER"
     ],
     "time": "40 MIN",
     "servings": "2–3 personen",
@@ -182,8 +178,7 @@ window.RECIPES = [
     "title": "Miolo de amêijoa à Bulhão Pato",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "PETISCO",
-      "2 PERSONEN"
+      "PETISCO"
     ],
     "time": "15 MIN",
     "servings": "2 personen als petisco of voorgerecht",
@@ -222,8 +217,7 @@ window.RECIPES = [
     "title": "Açorda de amêijoas à alentejana",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "REGIONAAL",
-      "2 PERSONEN"
+      "REGIONAAL"
     ],
     "time": "30 MIN",
     "servings": "2 personen",
@@ -262,8 +256,7 @@ window.RECIPES = [
     "title": "Arroz de marisco malandrinho",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "WEEKENDKLASSIEKER",
-      "2–3 PERSONEN"
+      "WEEKENDKLASSIEKER"
     ],
     "time": "40 MIN",
     "servings": "2–3 personen",
@@ -307,8 +300,7 @@ window.RECIPES = [
     "title": "Cataplana de marisco à algarvia, zonder vlees",
     "chapter": "Diepvriespakketten als startpunt",
     "tags": [
-      "ALGARVE",
-      "2–3 PERSONEN"
+      "ALGARVE"
     ],
     "time": "35 MIN",
     "servings": "2–3 personen",
@@ -350,8 +342,7 @@ window.RECIPES = [
     "title": "Bacalhau à Brás",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "LISSABONKLASSIEKER",
-      "2 PERSONEN"
+      "LISSABONKLASSIEKER"
     ],
     "time": "30 MIN",
     "servings": "2 personen",
@@ -392,8 +383,7 @@ window.RECIPES = [
     "title": "Bacalhau à Gomes de Sá",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "PORTO-KLASSIEKER",
-      "2–3 PERSONEN"
+      "PORTO-KLASSIEKER"
     ],
     "time": "45 MIN",
     "servings": "2–3 personen",
@@ -433,8 +423,7 @@ window.RECIPES = [
     "title": "Bacalhau com natas",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "OVENKLASSIEKER",
-      "3 PERSONEN"
+      "OVENKLASSIEKER"
     ],
     "time": "55 MIN",
     "servings": "3 personen",
@@ -476,15 +465,31 @@ window.RECIPES = [
     "title": "Pataniscas de bacalhau com arroz de feijão",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "THUISKLASSIEKER",
-      "2–3 PERSONEN"
+      "THUISKLASSIEKER"
     ],
     "time": "45 MIN",
     "servings": "2–3 personen",
     "intro": "Pataniscas zijn platte, onregelmatige bacalhau-beignets en geen dikke viskoekjes. Met sappige arroz de feijão vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
     "image": "images/8-pataniscas-de-bacalhau-com-arroz-de-feijao.jpg",
     "imageAlt": "Pataniscas de bacalhau com arroz de feijão",
-    "ingredients": [],
+    "ingredients": [
+      "250 g ontzoute bacalhau, gaar en fijngemaakt",
+      "100 g bloem",
+      "2 eieren",
+      "80–120 ml koud water",
+      "½ ui, zeer fijn gesneden",
+      "flinke hand peterselie",
+      "peper",
+      "olie om ondiep te bakken",
+      "160 g arroz carolino",
+      "1 kleine ui",
+      "1 teen knoflook",
+      "150 g gekookte rode of bruine bonen",
+      "150 g tomate pelado",
+      "550–650 ml water of groentebouillon",
+      "2 el olijfolie",
+      "1 laurierblad"
+    ],
     "steps": [
       "Maak eerst de rijst. Fruit ui en knoflook, voeg tomaat en laurier toe en laat enkele minuten stoven.",
       "Voeg rijst, bonen en hete vloeistof toe. Kook tot de rijst gaar maar nog duidelijk sappig is.",
@@ -506,8 +511,7 @@ window.RECIPES = [
     "title": "Pescada cozida com batatas e legumes",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "DAGELIJKSE BASIS",
-      "2 PERSONEN"
+      "DAGELIJKSE BASIS"
     ],
     "time": "30 MIN",
     "servings": "2 personen",
@@ -545,8 +549,7 @@ window.RECIPES = [
     "title": "Dourada assada no forno com batatas",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "THUISKLASSIEKER",
-      "2 PERSONEN"
+      "THUISKLASSIEKER"
     ],
     "time": "50 MIN",
     "servings": "2 personen",
@@ -588,8 +591,7 @@ window.RECIPES = [
     "title": "Arroz de polvo",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "FAMILIEMAALTIJD",
-      "3 PERSONEN"
+      "FAMILIEMAALTIJD"
     ],
     "time": "60–90 MIN",
     "servings": "3 personen",
@@ -631,8 +633,7 @@ window.RECIPES = [
     "title": "Salada de feijão-frade com atum e ovo",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "VOORRAADKAST",
-      "2 PERSONEN"
+      "VOORRAADKAST"
     ],
     "time": "15 MIN",
     "servings": "2 personen",
@@ -669,8 +670,7 @@ window.RECIPES = [
     "title": "Açorda alentejana com ovo escalfado",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "ALENTEJO",
-      "2 PERSONEN"
+      "ALENTEJO"
     ],
     "time": "20 MIN",
     "servings": "2 personen",
@@ -708,8 +708,7 @@ window.RECIPES = [
     "title": "Sopa de tomate à alentejana com ovo",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "ALENTEJO",
-      "2–3 PERSONEN"
+      "ALENTEJO"
     ],
     "time": "35 MIN",
     "servings": "2–3 personen",
@@ -750,8 +749,7 @@ window.RECIPES = [
     "title": "Peixinhos da horta",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "PETISCO",
-      "2–3 PERSONEN"
+      "PETISCO"
     ],
     "time": "30 MIN",
     "servings": "2–3 personen als bijgerecht of lichte maaltijd",
@@ -787,15 +785,31 @@ window.RECIPES = [
     "title": "Filetes de pescada panados com arroz de tomate",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "COMFORT FOOD",
-      "2 PERSONEN"
+      "COMFORT FOOD"
     ],
     "time": "45–60 MIN",
     "servings": "2 personen",
     "intro": "Gepaneerde pescada met sappige arroz de tomate is zo’n combinatie die direct naar een Portugese familiekeuken verwijst. De vis moet krokant blijven, terwijl de rijst juist nat en zacht op het bord komt.",
     "image": "images/16-filetes-de-pescada-panados-com-arroz-de-tomate.jpg",
     "imageAlt": "Filetes de pescada panados com arroz de tomate",
-    "ingredients": [],
+    "ingredients": [
+      "350–400 g filetes de pescada",
+      "1 teen knoflook, fijngehakt",
+      "sap van ½ citroen",
+      "1 ei",
+      "bloem",
+      "pão ralado",
+      "zout en peper",
+      "olie om te bakken",
+      "160 g arroz carolino",
+      "1 kleine ui",
+      "1 teen knoflook",
+      "200 g rijpe tomaat of tomate pelado",
+      "450–500 ml heet water",
+      "2 el olijfolie",
+      "koriander of peterselie",
+      "zout en peper"
+    ],
     "steps": [
       "Marineer de pescada 15–30 minuten met knoflook, citroen, zout en peper.",
       "Fruit voor de rijst ui en knoflook in olijfolie. Voeg tomaat toe en laat enkele minuten stoven.",
@@ -817,8 +831,7 @@ window.RECIPES = [
     "title": "Arroz de bacalhau malandrinho",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "THUISKLASSIEKER",
-      "2–3 PERSONEN"
+      "THUISKLASSIEKER"
     ],
     "time": "40 MIN",
     "servings": "2–3 personen",
@@ -859,8 +872,7 @@ window.RECIPES = [
     "title": "Salada russa de atum",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "KOUDE KLASSIEKER",
-      "2–3 PERSONEN"
+      "KOUDE KLASSIEKER"
     ],
     "time": "30 MIN",
     "servings": "2–3 personen",
@@ -899,8 +911,7 @@ window.RECIPES = [
     "title": "Atum à Brás",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "MODERN & SNEL",
-      "2 PERSONEN"
+      "MODERN & SNEL"
     ],
     "time": "25–30 MIN",
     "servings": "2 personen",
@@ -940,8 +951,7 @@ window.RECIPES = [
     "title": "Massa de atum com tomate e azeitonas",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "DOORDEWEEKS",
-      "2 PERSONEN"
+      "DOORDEWEEKS"
     ],
     "time": "20–25 MIN",
     "servings": "2 personen",
@@ -981,8 +991,7 @@ window.RECIPES = [
     "title": "Arroz de atum rápido",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "DOORDEWEEKS",
-      "2–3 PERSONEN"
+      "DOORDEWEEKS"
     ],
     "time": "25 MIN",
     "servings": "2–3 personen",
@@ -1022,8 +1031,7 @@ window.RECIPES = [
     "title": "Legumes à Brás",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "MODERN VEGETARISCH",
-      "2–3 PERSONEN"
+      "MODERN VEGETARISCH"
     ],
     "time": "30 MIN",
     "servings": "2–3 personen",
@@ -1062,8 +1070,7 @@ window.RECIPES = [
     "title": "Omelete de atum e salsa",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "ZEER SNEL",
-      "1–2 PERSONEN"
+      "ZEER SNEL"
     ],
     "time": "10–15 MIN",
     "servings": "1–2 personen",
@@ -1099,8 +1106,7 @@ window.RECIPES = [
     "title": "Sopa de legumes",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "DAGELIJKSE BASIS",
-      "6 KOMMEN"
+      "DAGELIJKSE BASIS"
     ],
     "time": "35–45 MIN",
     "servings": "ongeveer 6 kommen",
@@ -1140,8 +1146,7 @@ window.RECIPES = [
     "title": "Arroz de tomate com ovo estrelado",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "GOEDKOOP & SNEL",
-      "2 PERSONEN"
+      "GOEDKOOP & SNEL"
     ],
     "time": "25 MIN",
     "servings": "2 personen",
@@ -1179,8 +1184,7 @@ window.RECIPES = [
     "title": "Sardinhas assadas com batatas e salada de pimentos",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "SEIZOENSKLASSIEKER",
-      "2 PERSONEN"
+      "SEIZOENSKLASSIEKER"
     ],
     "time": "45–60 MIN",
     "servings": "2 personen",
@@ -1220,11 +1224,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Dagelijks",
-      "voorraadkast",
-      "2 personen"
+      "voorraadkast"
     ],
     "time": "15 minuten",
-    "servings": "",
+    "servings": "2 personen",
     "intro": "Een van de eenvoudigste combinaties uit de hedendaagse Portugese thuiskeuken: grão-de-bico, tonijn, ei, ui en veel peterselie met azeite en azijn. Dit is lunch, lichte avondmaaltijd en marmita tegelijk; goedkoop, vullend en vrijwel volledig uit de voorraadkast.",
     "image": "images/27-salada-de-grao-com-atum-e-ovo.jpg",
     "imageAlt": "Salada de grão com atum e ovo",
@@ -1259,11 +1262,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Zomer",
-      "marmita",
-      "2–3 personen"
+      "marmita"
     ],
     "time": "20 minuten + afkoelen",
-    "servings": "",
+    "servings": "2–3 personen",
     "intro": "Koude rijstsalade met tonijn is geen oude regionale klassieker, maar wel heel normale Portugese lunch- en restjeskeuken. Vooral in warm weer is dit het soort gerecht dat vooraf wordt gemaakt en uit de koelkast komt wanneer niemand zin heeft om uitgebreid te koken.",
     "image": "images/28-salada-fria-de-arroz-com-atum.jpg",
     "imageAlt": "Salada fria de arroz com atum",
@@ -1299,11 +1301,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Zomer",
-      "snel",
-      "2–3 personen"
+      "snel"
     ],
     "time": "20 minuten",
-    "servings": "",
+    "servings": "2–3 personen",
     "intro": "De pastavariant van dezelfde voorraadkastlogica: korte pasta, tonijn en wat er nog in de koelkast staat. In Portugese huishoudens zie je hier mais, ei, tomaat en olijven vaak terug; de dressing kan op olijfolie gebaseerd zijn of licht met mayonaise worden gebonden.",
     "image": "images/29-massa-fria-de-atum.jpg",
     "imageAlt": "Massa fria de atum",
@@ -1340,11 +1341,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Modern thuisgerecht",
-      "oven",
-      "3–4 personen"
+      "oven"
     ],
     "time": "50 minuten",
-    "servings": "",
+    "servings": "3–4 personen",
     "intro": "Quiche is Frans van oorsprong, maar is in Portugal volledig ingeburgerd als makkelijke gezins- en studentenmaaltijd. Tonijn is een logische vulling omdat hij goedkoop is, lang houdbaar en goed combineert met ui, ei en een eenvoudige melk- of roomvulling.",
     "image": "images/30-quiche-de-atum.jpg",
     "imageAlt": "Quiche de atum",
@@ -1383,11 +1383,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Doordeweeks",
-      "meal prep",
-      "3–4 personen"
+      "meal prep"
     ],
     "time": "45 minuten",
-    "servings": "",
+    "servings": "3–4 personen",
     "intro": "Ovenpasta met tonijn is hedendaags comfort food: één schaal, goedkope ingrediënten en genoeg voor de volgende dag. Portugese versies variëren sterk; de kern is meestal tonijn, pasta, tomaat en een kleine hoeveelheid romige saus of kaas voor een goudbruine bovenkant.",
     "image": "images/31-massa-de-atum-no-forno.jpg",
     "imageAlt": "Massa de atum no forno",
@@ -1423,11 +1422,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Lunch",
-      "café-thuis",
-      "2 personen"
+      "café-thuis"
     ],
     "time": "15 minuten",
-    "servings": "",
+    "servings": "2 personen",
     "intro": "De tosta hoort net zo goed bij de Portugese snackbar en pastelaria als bij een snel thuislunchje. Met tonijn wordt het een goedkope warme sandwich; kaas is gebruikelijk maar niet verplicht, en tomaat of dunne ui maakt hem frisser.",
     "image": "images/32-tosta-de-atum.jpg",
     "imageAlt": "Tosta de atum",
@@ -1461,11 +1459,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Zeer snel",
-      "vegetarisch",
-      "2 personen"
+      "vegetarisch"
     ],
     "time": "15 minuten",
-    "servings": "",
+    "servings": "2 personen",
     "intro": "Geen historisch nationaal gerecht, wel realistische hedendaagse thuiskost: eieren, groenten en brood als snelle warme maaltijd. In Portugal ligt olijfolie meer voor de hand dan boter en wordt het vaak simpel gehouden.",
     "image": "images/33-ovos-mexidos-com-cogumelos-e-espinafres.jpg",
     "imageAlt": "Ovos mexidos com cogumelos e espinafres",
@@ -1499,11 +1496,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Restjes",
-      "zeer snel",
-      "2 personen"
+      "zeer snel"
     ],
     "time": "15 minuten",
-    "servings": "",
+    "servings": "2 personen",
     "intro": "Gebakken rijst is duidelijk internationaal, maar past perfect in de manier waarop jonge huishoudens restjes gebruiken. Met koude rijst, ei en diepvriesgroenten staat er in een kwartier iets warms op tafel zonder dat je een nieuw hoofdproduct hoeft te kopen.",
     "image": "images/34-arroz-frito-com-legumes-e-ovo.jpg",
     "imageAlt": "Arroz frito com legumes e ovo",
@@ -1536,11 +1532,10 @@ window.RECIPES = [
     "title": "Cavala com grão",
     "chapter": "Portugal nu",
     "tags": [
-      "Voorraadkast",
-      "2 personen"
+      "Voorraadkast"
     ],
     "time": "10 minuten",
-    "servings": "",
+    "servings": "2 personen",
     "intro": "Cavala uit blik is in Portugal een normale en goedkope visvoorraad naast tonijn en sardines. Met kikkererwten, ui, peterselie, azeite en azijn krijg je zonder koken een complete maaltijd met uitgesprokenere vissmaak dan tonijn.",
     "image": "images/35-cavala-com-grao.jpg",
     "imageAlt": "Cavala com grão",
@@ -1571,11 +1566,10 @@ window.RECIPES = [
     "chapter": "Portugal nu",
     "tags": [
       "Doordeweeks",
-      "comfort food",
-      "2 personen"
+      "comfort food"
     ],
     "time": "30 minuten",
-    "servings": "",
+    "servings": "2 personen",
     "intro": "Douradinhos zijn geen gastronomisch erfgoed, maar ze horen wel bij de echte Portugese dagelijkse eetcultuur: diepvriesvis uit de oven of pan met een zelfgemaakte arroz de tomate. Juist de combinatie van gemak en een klassieke rijstbereiding maakt dit een geloofwaardige jonge-huishoudensmaaltijd.",
     "image": "images/36-douradinhos-com-arroz-de-tomate.jpg",
     "imageAlt": "Douradinhos com arroz de tomate",
@@ -1611,11 +1605,10 @@ window.RECIPES = [
     "title": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "chapter": "Portugal nu",
     "tags": [
-      "Diepvriesvoorraad",
-      "2–3 personen"
+      "Diepvriesvoorraad"
     ],
     "time": "30 minuten",
-    "servings": "pataniscas, peixinhos da horta en gepaneerde vis moet de olie heet genoeg zijn voordat het eten erin gaat. Rond 175–180 °C is een bruikbaar uitgangspunt. Vul de pan niet te vol: dan daalt de temperatuur en wordt de korst vet in plaats van krokant.",
+    "servings": "2–3 personen",
     "intro": "Rissóis worden thuis soms zelf gemaakt, maar veel vaker liggen ze kant-en-klaar in diepvries of delicatessenzaak. Met arroz de tomate ernaast ontstaat een heel normaal Portugees bord: iets krokants uit de frituur of oven naast zachte, sappige rijst.",
     "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
     "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
