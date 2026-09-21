@@ -213,15 +213,17 @@
 
         <section class="meta-box">${renderFacts(recipe, false)}</section>
 
-        <section class="text-section ingredients-section">
-          <h2>Ingrediënten</h2>
-          <ul class="ingredients-list">${(recipe.ingredients || []).map(item => `<li>${esc(item)}</li>`).join("")}</ul>
-        </section>
+        <div class="recipe-body">
+          <section class="text-section ingredients-section">
+            <h2>Ingrediënten</h2>
+            <ul class="ingredients-list">${(recipe.ingredients || []).map(item => `<li>${esc(item)}</li>`).join("")}</ul>
+          </section>
 
-        <section class="text-section method-section">
-          <h2>Bereiding</h2>
-          <ol class="steps-list">${(recipe.steps || []).map(item => `<li>${esc(item)}</li>`).join("")}</ol>
-        </section>
+          <section class="text-section method-section">
+            <h2>Bereiding</h2>
+            <ol class="steps-list">${(recipe.steps || []).map(item => `<li>${esc(item)}</li>`).join("")}</ol>
+          </section>
+        </div>
 
         <section class="note-grid ${noteBlocks.length === 1 ? "single" : "two"}">
           ${noteBlocks.join("")}
@@ -236,7 +238,7 @@
     const content = page.querySelector(".fit-content");
     if (!content) return;
 
-    page.classList.remove("compact", "tight", "ultra", "scaled");
+    page.classList.remove("two-column", "compact", "tight", "scaled");
     content.style.removeProperty("--fit-scale");
 
     const availableHeight = () => {
@@ -248,12 +250,14 @@
 
     const overflows = () => content.scrollHeight > availableHeight() + 1;
 
+    // Preserve readable type first: if a full-width recipe is too long,
+    // switch the main recipe text to two balanced columns before shrinking it.
+    if (page.classList.contains("recipe-page") && overflows()) page.classList.add("two-column");
     if (overflows()) page.classList.add("compact");
     if (overflows()) page.classList.add("tight");
-    if (overflows()) page.classList.add("ultra");
 
     if (overflows()) {
-      const scale = Math.max(0.72, Math.min(1, availableHeight() / content.scrollHeight));
+      const scale = Math.max(0.92, Math.min(1, availableHeight() / content.scrollHeight));
       content.style.setProperty("--fit-scale", scale.toFixed(4));
       page.classList.add("scaled");
     }
