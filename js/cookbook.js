@@ -263,8 +263,34 @@
     }
   }
 
+  function auditLayout() {
+    const problems = [];
+    document.querySelectorAll(".fit-page").forEach(page => {
+      const content = page.querySelector(".fit-content");
+      if (!content) return;
+      const style = getComputedStyle(page);
+      const available = page.clientHeight - (parseFloat(style.paddingTop) || 0) - (parseFloat(style.paddingBottom) || 0);
+      const scale = page.classList.contains("scaled")
+        ? (parseFloat(content.style.getPropertyValue("--fit-scale")) || 1)
+        : 1;
+      const used = content.scrollHeight * scale;
+      if (used > available + 2) {
+        const label = page.querySelector("h1, h2")?.textContent?.trim() || "unknown page";
+        problems.push({ label, used: Math.round(used), available: Math.round(available), scale });
+      }
+    });
+
+    count.textContent = problems.length
+      ? `· ${recipes.length} recepten · A4: ${problems.length} te lang`
+      : `· ${recipes.length} recepten · A4 ✓`;
+
+    if (problems.length) console.warn("Cookbook A4 overflow audit", problems);
+    return problems;
+  }
+
   function fitAllPages() {
     document.querySelectorAll(".fit-page").forEach(fitPage);
+    requestAnimationFrame(auditLayout);
   }
 
   function render() {
@@ -278,7 +304,7 @@
       chapterRecipes.forEach(renderRecipe);
     });
 
-    count.textContent = `· ${recipes.length} recepten`;
+    count.textContent = `· ${recipes.length} recepten · A4…`;
 
     requestAnimationFrame(() => requestAnimationFrame(fitAllPages));
     if (document.fonts?.ready) document.fonts.ready.then(fitAllPages);
