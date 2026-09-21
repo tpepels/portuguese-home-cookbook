@@ -161,8 +161,8 @@
     const intro = page("single-page front-copy about-page", `
       <h2>Over dit boek</h2>
       <p>Dit is een praktisch repertoire voor wie thuis Portugees wil koken. De recepten lopen van regionale klassiekers en vertrouwde familiegerechten tot hedendaagse doordeweekse maaltijden; moderne aanpassingen worden als zodanig benoemd.</p>
-      <p>Het boek is bewust vleesvrij. Vis, schaal- en schelpdieren, eieren en zuivel blijven onderdeel van de keuken. Waar een Portugees recept vaak voorkennis veronderstelt — bijvoorbeeld bij <em>arroz malandrinho</em>, <em>à Brás</em> of <em>açorda</em> — wordt de techniek expliciet uitgelegd.</p>
-      <p>Proef tijdens het koken. Bacalhau, blikvis, olijven en kant-en-klare bouillon kunnen sterk verschillen in zoutgehalte, terwijl rijst, brood en peulvruchten juist veel smaak opnemen. De opgegeven tijden zijn daarom richtlijnen: gaarheid, textuur en smaak gaan voor de klok.</p>
+      <p>Het boek is bewust vleesvrij. Vis, schaal- en schelpdieren, eieren en zuivel blijven onderdeel van de keuken. Waar een Portugees recept vaak voorkennis veronderstelt — bijvoorbeeld bij <em>arroz malandrinho</em> (sappige bouillonrijst), <em>à Brás</em> (met fijne aardappel en romig ei) of <em>açorda</em> (Portugees broodgerecht) — wordt de techniek expliciet uitgelegd.</p>
+      <p>Proef tijdens het koken. Bacalhau (gezouten kabeljauw), blikvis, olijven en kant-en-klare bouillon kunnen sterk verschillen in zoutgehalte, terwijl rijst, brood en peulvruchten juist veel smaak opnemen. De opgegeven tijden zijn daarom richtlijnen: gaarheid, textuur en smaak gaan voor de klok.</p>
       <div class="editorial-note">
         <strong>Oven & maatvoering</strong>
         <span>Temperaturen zijn voor een conventionele oven. Gebruik bij hetelucht doorgaans 10–20 °C minder. Lepels zijn afgestreken eet- en theelepels; groenten en vis zijn gewichten vóór bereiding tenzij anders vermeld.</span>
