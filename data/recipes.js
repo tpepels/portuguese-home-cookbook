@@ -8,7 +8,7 @@ window.RECIPES = [
     "tags": [
       "MODERNE AANPASSING"
     ],
-    "time": "35 MIN",
+    "time": "35 minuten",
     "servings": "2 personen",
     "intro": "Deze rijst gebruikt een modern supermarktproduct, maar de kookmethode is klassiek Portugees: carolino-rijst die sappig en bouillonachtig blijft. Zie dit vooral als een oefening in arroz malandrinho; de voorgekookte “lagosta” gaat pas op het einde in de pan.",
     "image": "images/1a-arroz-malandrinho-de-lagosta-e-coentros.jpg",
@@ -51,7 +51,7 @@ window.RECIPES = [
     "tags": [
       "MODERNE AANPASSING"
     ],
-    "time": "30 MIN",
+    "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Açorda behoort tot de Portugese broodkeuken: oud brood wordt met hete, geurige vloeistof weer een volwaardige maaltijd. Deze versie gebruikt het “lagosta”-product als praktische toevoeging; de structuur van brood, knoflook, koriander en olijfolie blijft het belangrijkste.",
     "image": "images/1b-acorda-de-marisco-met-lagosta-en-gepocheerd-ei.jpg",
@@ -91,7 +91,7 @@ window.RECIPES = [
     "tags": [
       "KUSTKLASSIEKER"
     ],
-    "time": "45 MIN",
+    "time": "45 minuten",
     "servings": "2 royale personen",
     "intro": "Caldeirada is echte Portugese kustkeuken: verschillende stukken vis garen samen met aardappel, ui, tomaat en paprika in één pan. Het gerecht leunt op goed kookvocht en de smaak van de vis, niet op een dikke saus.",
     "image": "images/2a-caldeirada-a-moda-de-peniche.jpg",
@@ -136,7 +136,7 @@ window.RECIPES = [
     "tags": [
       "THUISKLASSIEKER"
     ],
-    "time": "40 MIN",
+    "time": "40 minuten",
     "servings": "2–3 personen",
     "intro": "Massada de peixe is een van die gerechten die veel meer naar Portugese thuiskeuken smaken dan naar restaurantkeuken. De pasta gaart rechtstreeks in een tomatige visbouillon en neemt daardoor smaak op terwijl het gerecht sappig blijft.",
     "image": "images/2b-massada-de-peixe-com-tomate-e-coentros.jpg",
@@ -180,7 +180,7 @@ window.RECIPES = [
     "tags": [
       "PETISCO"
     ],
-    "time": "15 MIN",
+    "time": "15 minuten",
     "servings": "2 personen als petisco of voorgerecht",
     "intro": "Amêijoas à Bulhão Pato is een van de herkenbaarste Portugese schelpdierbereidingen: knoflook, azeite, koriander en citroen. Met alleen schelpdiervlees mis je het vocht uit de schelpen, maar de smaakopbouw blijft dezelfde.",
     "image": "images/3a-miolo-de-ameijoa-a-bulhao-pato.jpg",
@@ -219,7 +219,7 @@ window.RECIPES = [
     "tags": [
       "REGIONAAL"
     ],
-    "time": "30 MIN",
+    "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Deze açorda combineert Alentejaanse broodkeuken met schelpdieren. Het gerecht hoort rustiek en geurig te zijn: het brood draagt de bouillon, terwijl knoflook, koriander en olijfolie voor de eigenlijke identiteit zorgen.",
     "image": "images/3b-acorda-de-ameijoas-a-alentejana.jpg",
@@ -258,7 +258,7 @@ window.RECIPES = [
     "tags": [
       "WEEKENDKLASSIEKER"
     ],
-    "time": "40 MIN",
+    "time": "40 minuten",
     "servings": "2–3 personen",
     "intro": "Arroz de marisco is een bekende familie- en weekendmaaltijd. De kern is niet een enorme hoeveelheid luxe zeevruchten, maar carolino-rijst die in een krachtige zeevruchtenbouillon gaart en zeer sappig wordt geserveerd.",
     "image": "images/4a-arroz-de-marisco-malandrinho.jpg",
@@ -302,7 +302,7 @@ window.RECIPES = [
     "tags": [
       "ALGARVE"
     ],
-    "time": "35 MIN",
+    "time": "35 minuten",
     "servings": "2–3 personen",
     "intro": "De cataplana is zowel pan als kookmethode uit de Algarve. Zeevruchten, tomaat, paprika, ui en wijn garen in een afgesloten metalen schaal, waardoor aroma en stoom nauwelijks ontsnappen.",
     "image": "images/4b-cataplana-de-marisco-a-algarvia-zonder-vlees.jpg",
@@ -344,7 +344,7 @@ window.RECIPES = [
     "tags": [
       "LISSABONKLASSIEKER"
     ],
-    "time": "30 MIN",
+    "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Bacalhau à Brás is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau, zachte ui, dunne aardappel en ei. Het wordt thuis net zo gemakkelijk gemaakt met kant-en-klare batata palha als met zelfgesneden aardappel.",
     "image": "images/5-bacalhau-a-bras.jpg",
@@ -385,7 +385,7 @@ window.RECIPES = [
     "tags": [
       "PORTO-KLASSIEKER"
     ],
-    "time": "45 MIN",
+    "time": "45 minuten",
     "servings": "2–3 personen",
     "intro": "Dit gerecht uit Porto laat zien hoe weinig ingrediënten bacalhau nodig heeft: aardappel, ui, ei, olijven en veel goede olijfolie. Het is geschikt voor een familietafel omdat het vooraf kan worden opgebouwd en kort in de oven gaat.",
     "image": "images/6-bacalhau-a-gomes-de-sa.jpg",
@@ -425,7 +425,7 @@ window.RECIPES = [
     "tags": [
       "OVENKLASSIEKER"
     ],
-    "time": "55 MIN",
+    "time": "55 minuten",
     "servings": "3 personen",
     "intro": "Bacalhau com natas is rijker en moderner dan veel oudere bacalhaugerechten, maar in Portugese huishoudens volkomen ingeburgerd. Aardappel, ui, kabeljauw en een romige saus worden samen gegratineerd.",
     "image": "images/7-bacalhau-com-natas.jpg",
@@ -467,7 +467,7 @@ window.RECIPES = [
     "tags": [
       "THUISKLASSIEKER"
     ],
-    "time": "45 MIN",
+    "time": "45 minuten",
     "servings": "2–3 personen",
     "intro": "Pataniscas zijn platte, onregelmatige bacalhau-beignets en geen dikke viskoekjes. Met sappige arroz de feijão vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
     "image": "images/8-pataniscas-de-bacalhau-com-arroz-de-feijao.jpg",
@@ -513,7 +513,7 @@ window.RECIPES = [
     "tags": [
       "DAGELIJKSE BASIS"
     ],
-    "time": "30 MIN",
+    "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Dit is misschien het minst spectaculaire gerecht in het boek en juist daarom belangrijk. Pescada met gekookte aardappelen, groenten en ei is eenvoudige Portugese dagelijkse kost waarin goede vis en olijfolie niet achter saus verdwijnen.",
     "image": "images/9-pescada-cozida-com-batatas-e-legumes.jpg",
@@ -551,7 +551,7 @@ window.RECIPES = [
     "tags": [
       "THUISKLASSIEKER"
     ],
-    "time": "50 MIN",
+    "time": "50 minuten",
     "servings": "2 personen",
     "intro": "Een hele dourada uit de oven is in Portugal een gewone manier om vis te eten zonder veel handelingen. Aardappel, ui, tomaat, wijn en olijfolie vormen tegelijk bijgerecht en braadvocht.",
     "image": "images/10-dourada-assada-no-forno-com-batatas.jpg",
@@ -593,7 +593,7 @@ window.RECIPES = [
     "tags": [
       "FAMILIEMAALTIJD"
     ],
-    "time": "60–90 MIN",
+    "time": "60–90 minuten",
     "servings": "3 personen",
     "intro": "Arroz de polvo is een steviger familie- of weekendgerecht waarin het kookvocht van de octopus de rijst op smaak brengt. De octopus zelf moet eerst echt mals zijn voordat hij bij de rijst teruggaat.",
     "image": "images/11-arroz-de-polvo.jpg",
@@ -635,7 +635,7 @@ window.RECIPES = [
     "tags": [
       "VOORRAADKAST"
     ],
-    "time": "15 MIN",
+    "time": "15 minuten",
     "servings": "2 personen",
     "intro": "Feijão-frade met tonijn en ei is eenvoudige Portugese lunch- en zomerkeuken. Het gerecht werkt omdat de neutrale bonen de olie, azijn en vissmaak opnemen en op kamertemperatuur nog beter smaken.",
     "image": "images/12-salada-de-feijao-frade-com-atum-e-ovo.jpg",
@@ -672,7 +672,7 @@ window.RECIPES = [
     "tags": [
       "ALENTEJO"
     ],
-    "time": "20 MIN",
+    "time": "20 minuten",
     "servings": "2 personen",
     "intro": "Açorda alentejana is elementaire keuken: oud brood, knoflook, koriander, olijfolie, heet water en ei. Juist omdat er zo weinig in zit, is de kwaliteit van brood en azeite bepalend.",
     "image": "images/13-acorda-alentejana-com-ovo-escalfado.jpg",
@@ -710,7 +710,7 @@ window.RECIPES = [
     "tags": [
       "ALENTEJO"
     ],
-    "time": "35 MIN",
+    "time": "35 minuten",
     "servings": "2–3 personen",
     "intro": "Deze tomatensoep is tegelijk soep en broodmaaltijd. Rijpe tomaat, ui, paprika en olijfolie vormen een vrij dunne bouillon waarin het ei rechtstreeks wordt gepocheerd en oud brood de maaltijd compleet maakt.",
     "image": "images/14-sopa-de-tomate-a-alentejana-com-ovo.jpg",
@@ -751,7 +751,7 @@ window.RECIPES = [
     "tags": [
       "PETISCO"
     ],
-    "time": "30 MIN",
+    "time": "30 minuten",
     "servings": "2–3 personen als bijgerecht of lichte maaltijd",
     "intro": "Peixinhos da horta — letterlijk “visjes uit de tuin” — zijn sperziebonen in beslag. Het is een oud Portugees groentegerecht en een goed voorbeeld van hoe beslag en frituren van een eenvoudige groente iets heel anders maken.",
     "image": "images/15-peixinhos-da-horta.jpg",
@@ -787,7 +787,7 @@ window.RECIPES = [
     "tags": [
       "COMFORT FOOD"
     ],
-    "time": "45–60 MIN",
+    "time": "45–60 minuten",
     "servings": "2 personen",
     "intro": "Gepaneerde pescada met sappige arroz de tomate is zo’n combinatie die direct naar een Portugese familiekeuken verwijst. De vis moet krokant blijven, terwijl de rijst juist nat en zacht op het bord komt.",
     "image": "images/16-filetes-de-pescada-panados-com-arroz-de-tomate.jpg",
@@ -833,7 +833,7 @@ window.RECIPES = [
     "tags": [
       "THUISKLASSIEKER"
     ],
-    "time": "40 MIN",
+    "time": "40 minuten",
     "servings": "2–3 personen",
     "intro": "Arroz de bacalhau is minder beroemd buiten Portugal dan veel ovenschotels, maar past perfect in de thuiskooktraditie. De kabeljauw geeft zijn smaak af aan een sappige tomaat- en paprikarijst.",
     "image": "images/17-arroz-de-bacalhau-malandrinho.jpg",
@@ -874,7 +874,7 @@ window.RECIPES = [
     "tags": [
       "KOUDE KLASSIEKER"
     ],
-    "time": "30 MIN",
+    "time": "30 minuten",
     "servings": "2–3 personen",
     "intro": "Salada russa is een vertrouwd koud gerecht voor warme dagen, lunches en buffetten. De Portugese thuisversie met tonijn is eenvoudig: gekookte groenten, ei en genoeg mayonaise om te binden, niet om alles te verbergen.",
     "image": "images/18-salada-russa-de-atum.jpg",
@@ -913,7 +913,7 @@ window.RECIPES = [
     "tags": [
       "MODERN & SNEL"
     ],
-    "time": "25–30 MIN",
+    "time": "25–30 minuten",
     "servings": "2 personen",
     "intro": "Atum à Brás is geen historische klassieker, maar een heel logische moderne afgeleide van Bacalhau à Brás. Met tonijn uit blik en batata palha staat het veel sneller op tafel en blijft de herkenbare ui-ei-aardappelstructuur intact.",
     "image": "images/19-atum-a-bras.jpg",
@@ -953,7 +953,7 @@ window.RECIPES = [
     "tags": [
       "DOORDEWEEKS"
     ],
-    "time": "20–25 MIN",
+    "time": "20–25 minuten",
     "servings": "2 personen",
     "intro": "Pasta met tonijn is hedendaagse Portugese voorraadkastkeuken: goedkoop, snel en opgebouwd uit producten die bijna altijd in huis zijn. Tomaat, olijven en azeite houden het duidelijk mediterraan zonder ingewikkelde saus.",
     "image": "images/20-massa-de-atum-com-tomate-e-azeitonas.jpg",
@@ -993,7 +993,7 @@ window.RECIPES = [
     "tags": [
       "DOORDEWEEKS"
     ],
-    "time": "25 MIN",
+    "time": "25 minuten",
     "servings": "2–3 personen",
     "intro": "Arroz de atum is functioneel thuiskoken op zijn best: rijst, ui, knoflook en bliktonijn leveren met weinig planning een warme maaltijd. De tonijn hoeft nauwelijks te garen en gaat daarom pas op het einde erbij.",
     "image": "images/21-arroz-de-atum-rapido.jpg",
@@ -1033,7 +1033,7 @@ window.RECIPES = [
     "tags": [
       "MODERN VEGETARISCH"
     ],
-    "time": "30 MIN",
+    "time": "30 minuten",
     "servings": "2–3 personen",
     "intro": "Legumes à Brás gebruikt dezelfde techniek als de bacalhauklassieker maar vervangt de vis door groenten. Het is inmiddels een heel gewone Portugese vegetarische oplossing, vooral wanneer er prei, courgette of wortel op moet.",
     "image": "images/22-legumes-a-bras.jpg",
@@ -1072,7 +1072,7 @@ window.RECIPES = [
     "tags": [
       "ZEER SNEL"
     ],
-    "time": "10–15 MIN",
+    "time": "10–15 minuten",
     "servings": "1–2 personen",
     "intro": "Een tonijnomelet is geen culinair project maar precies het soort snelle maaltijd waarvoor eieren en een blik vis in huis liggen. Met brood en een simpele salade is het in een kwartier een volledige lunch of avondmaaltijd.",
     "image": "images/23-omelete-de-atum-e-salsa.jpg",
@@ -1108,7 +1108,7 @@ window.RECIPES = [
     "tags": [
       "DAGELIJKSE BASIS"
     ],
-    "time": "35–45 MIN",
+    "time": "35–45 minuten",
     "servings": "ongeveer 6 kommen",
     "intro": "Groentesoep is minder een afzonderlijk recept dan een vaste aanwezigheid in veel Portugese huishoudens. Een grote pan in de koelkast betekent dat er altijd iets eenvoudigs voor lunch, avondeten of als eerste gang klaarstaat.",
     "image": "images/24-sopa-de-legumes.jpg",
@@ -1148,7 +1148,7 @@ window.RECIPES = [
     "tags": [
       "GOEDKOOP & SNEL"
     ],
-    "time": "25 MIN",
+    "time": "25 minuten",
     "servings": "2 personen",
     "intro": "Arroz de tomate is op zichzelf al een Portugese basisbereiding. Met een in olijfolie gebakken ei erbovenop wordt het een complete, goedkope maaltijd zonder dat er een hoofdproduct uit vlees of vis nodig is.",
     "image": "images/25-arroz-de-tomate-com-ovo-estrelado.jpg",
@@ -1186,7 +1186,7 @@ window.RECIPES = [
     "tags": [
       "SEIZOENSKLASSIEKER"
     ],
-    "time": "45–60 MIN",
+    "time": "45–60 minuten",
     "servings": "2 personen",
     "intro": "Gegrilde sardines horen bij de Portugese zomer, vooral rond de Santos Populares. Thuis draait het gerecht om verse sardines, veel hitte en simpele begeleiders: aardappel, geroosterde paprika, ui en azeite.",
     "image": "images/26-sardinhas-assadas-com-batatas-e-salada-de-pimentos.jpg",
@@ -1252,7 +1252,7 @@ window.RECIPES = [
       "title": "eenvoudige Portugese vinaigrette",
       "text": "Gebruik ongeveer twee delen olijfolie op één deel wijnazijn en proef pas daarna op zout. Tonijn uit blik is vaak al vrij zout."
     },
-    "attention": "",
+    "attention": "Laat de kikkererwten zeer goed uitlekken en serveer de salade liever op kamertemperatuur dan ijskoud. Zo blijft de dressing geconcentreerd en proef je tonijn, ui en azeite beter.",
     "variations": []
   },
   {
@@ -1291,7 +1291,7 @@ window.RECIPES = [
       "title": "rijst voor koude salade",
       "text": "Laat gekookte rijst niet uren lauw staan. Spreid hem uit zodat hij snel afkoelt en zet hem daarna in de koelkast; meng de salade pas wanneer de rijst koud is."
     },
-    "attention": "",
+    "attention": "Meng pas wanneer de rijst volledig koud en droog aanvoelt. Warme rijst maakt tonijn en tomaat papperig en neemt de dressing onvoorspelbaar op.",
     "variations": []
   },
   {
@@ -1331,7 +1331,7 @@ window.RECIPES = [
       "title": "koude pasta",
       "text": "Kook de pasta niet te zacht: tijdens het afkoelen wordt hij nog iets steviger en de dressing moet tussen de pasta blijven hangen zonder dat alles papperig wordt."
     },
-    "attention": "",
+    "attention": "Laat de pasta volledig afkoelen voordat de tonijn en dressing erbij gaan. Giet hem na het koken zeer goed af, anders wordt de salade waterig.",
     "variations": []
   },
   {
@@ -1373,7 +1373,7 @@ window.RECIPES = [
       "title": "wanneer blind bakken?",
       "text": "Bij een vrij droge vulling zoals deze hoeft het meestal niet. Gebruik je veel vochtige groenten, bak de bodem dan 10 minuten voor met bakpapier en bakbonen zodat hij niet zompig wordt."
     },
-    "attention": "",
+    "attention": "Bak de quiche niet tot hij overal keihard gestold is. Een midden dat nog heel licht trilt wordt tijdens het rusten precies stevig genoeg en blijft sappiger.",
     "variations": []
   },
   {
@@ -1412,7 +1412,7 @@ window.RECIPES = [
       "title": "pasta voor de oven",
       "text": "Kook pasta bewust niet volledig gaar. In de oven neemt hij opnieuw vocht op; volledig gare pasta wordt daar snel te zacht."
     },
-    "attention": "",
+    "attention": "Kook de pasta bewust iets te kort voordat hij de oven in gaat. Volledig gare pasta wordt tijdens het gratineren snel zacht en zwaar.",
     "variations": []
   },
   {
@@ -1449,7 +1449,7 @@ window.RECIPES = [
       "title": "krokante tosta",
       "text": "Gebruik niet te veel vochtige vulling en dep tomaat droog. Een dun laagje olijfolie aan de buitenkant geeft een mooiere korst dan veel boter."
     },
-    "attention": "",
+    "attention": "Laat tonijn en tomaat goed uitlekken voordat je de tosta vult. Te veel vocht maakt het brood slap voordat de buitenkant krokant kan worden.",
     "variations": []
   },
   {
@@ -1486,7 +1486,7 @@ window.RECIPES = [
       "title": "zacht roerei",
       "text": "Haal de pan van het vuur wanneer het ei nog iets zachter is dan je wilt. De restwarmte gaart het nog door; wacht je tot het droog lijkt, dan is het al te ver."
     },
-    "attention": "",
+    "attention": "Laat het vocht van de champignons eerst grotendeels verdampen voordat spinazie en ei erbij gaan. Anders stomen de eieren in plaats van zacht te stollen.",
     "variations": []
   },
   {
@@ -1523,7 +1523,7 @@ window.RECIPES = [
       "title": "waarom koude rijst?",
       "text": "Versgekookte warme rijst bevat veel stoom en kleeft sneller. Koude rijst is droger en bakt losser, waardoor je daadwerkelijk gebakken rijst krijgt."
     },
-    "attention": "",
+    "attention": "Gebruik bij voorkeur volledig afgekoelde rijst van de vorige dag. Droge, koude korrels bakken losser en geven veel meer textuur dan vers gekookte warme rijst.",
     "variations": []
   },
   {
@@ -1555,7 +1555,10 @@ window.RECIPES = [
       "Breng op smaak met olijfolie, azijn en peper. Meng voorzichtig, proef na een paar minuten en voeg dan pas extra zuur of zout toe; kikkererwten nemen de dressing geleidelijk op.",
       "Proef voor je zout toevoegt. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
-    "technique": null,
+    "technique": {
+      "title": "BLIKVIS HEEL HOUDEN",
+      "text": "Laat de cavala goed uitlekken en verdeel hem pas op het einde in grove stukken. Schep hem vervolgens zo weinig mogelijk om: de salade is aantrekkelijker en sappiger wanneer de vis herkenbare vlokken houdt."
+    },
     "attention": "Schep voorzichtig: cavala valt gemakkelijker uit elkaar dan tonijn. Gebruik de olie uit een goed blik gerust als deel van de dressing.",
     "variations": []
   },
@@ -1596,7 +1599,7 @@ window.RECIPES = [
       "title": "arroz de tomate",
       "text": "Gebruik carolino en voldoende vocht. De rijst hoort niet droog op het bord te liggen; zet hem iets te nat van het vuur, want hij blijft bouillon opnemen."
     },
-    "attention": "",
+    "attention": "Douradinhos zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate eerst vrijwel klaar en bak de vis pas op het einde.",
     "variations": []
   },
   {
@@ -1634,7 +1637,7 @@ window.RECIPES = [
       "title": "frituren zonder vettig resultaat",
       "text": "Als je frituurt, houd de olie rond 175–180 °C en bak niet te veel stuks tegelijk. Te koude olie wordt door het paneermeel opgenomen; te hete olie kleurt buiten voordat de vulling warm is."
     },
-    "attention": "",
+    "attention": "Leg de rissóis naast de arroz de tomate en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
     "variations": []
   }
 ];
