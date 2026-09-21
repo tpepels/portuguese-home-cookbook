@@ -10,21 +10,21 @@ window.RECIPES = [
     ],
     "time": "35 minuten",
     "servings": "2 personen",
-    "intro": "Deze rijst gebruikt een modern supermarktproduct, maar de kookmethode is klassiek Portugees: carolino-rijst die sappig en bouillonachtig blijft. Zie dit vooral als een oefening in arroz malandrinho; de voorgekookte “lagosta” gaat pas op het einde in de pan.",
+    "intro": "Deze rijst gebruikt een modern supermarktproduct, maar de kookmethode is klassiek Portugees: carolino-rijst die sappig en bouillonachtig blijft. Zie dit vooral als een oefening in arroz malandrinho (sappig en bouillonachtig); de voorgekookte “lagosta” gaat pas op het einde in de pan.",
     "image": "images/1a-arroz-malandrinho-de-lagosta-e-coentros.jpg",
     "imageAlt": "Arroz malandrinho de “lagosta” e coentros",
     "ingredients": [
-      "1 verpakking Formas de Lagosta, ontdooid en in grove stukken",
-      "180 g arroz carolino",
+      "1 verpakking Formas de Lagosta (kreeftvormig zeevruchtenproduct), ontdooid en in grove stukken",
+      "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui, fijngehakt",
       "2 tenen knoflook, fijngehakt",
       "2 rijpe tomaten, geraspt of fijngehakt",
       "½ rode paprika, klein gesneden",
-      "75 ml droge Portugese witte wijn (vinho branco seco)",
-      "ongeveer 650 ml hete, licht gezouten caldo de peixe of caldo de marisco",
+      "75 ml vinho branco seco (droge Portugese witte wijn)",
+      "ongeveer 650 ml hete, licht gezouten caldo de peixe (visbouillon) of caldo de marisco (zeevruchtenbouillon)",
       "3 el olijfolie",
       "1 laurierblad",
-      "piripíri naar smaak",
+      "piripíri (Portugese chili) naar smaak",
       "flinke hand koriander, grof gehakt",
       "zout"
     ],
@@ -33,14 +33,14 @@ window.RECIPES = [
       "Voeg tomaat toe en laat 5–7 minuten inkoken tot de rauwe tomatensmaak weg is. Roer af en toe over de bodem en wacht tot de tomaat zichtbaar donkerder en zoeter ruikt; pas dan vormt hij een goede basis voor de rijst.",
       "Blus met witte wijn en laat ongeveer de helft verdampen. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
       "Voeg rijst toe en daarna ongeveer 550 ml hete bouillon. Kook zachtjes zonder de rijst droog te laten vallen. Voeg zo nodig meer bouillon toe.",
-      "Wanneer de rijst net gaar is maar het geheel nog duidelijk “malandrinho” — los en bouillonachtig — voeg je de stukken lagosta toe. Verwarm 2–3 minuten.",
+      "Wanneer de rijst net gaar is maar het geheel nog duidelijk “malandrinho (sappig en bouillonachtig)” — los en bouillonachtig — voeg je de stukken lagosta toe. Verwarm 2–3 minuten.",
       "Haal van het vuur, meng de koriander erdoor en serveer meteen. Schep slechts één keer voorzichtig om, zodat de stukken lagosta heel blijven en de koriander zijn frisse geur behoudt."
     ],
     "technique": {
       "title": "ARROZ MALANDRINHO",
       "text": "Voeg hete bouillon toe en serveer zodra de korrel gaar is terwijl er nog duidelijk vocht rond de rijst zit. Carolino blijft na het vuur bouillon opnemen, dus iets te nat van het vuur is beter dan te droog."
     },
-    "attention": "Arroz malandrinho hoort niet op risotto te lijken en ook niet droog te zijn. Er moet nog een lepelbare, smakelijke bouillon rond de rijst zitten.",
+    "attention": "Arroz malandrinho (sappig en bouillonachtig) hoort niet op risotto te lijken en ook niet droog te zijn. Er moet nog een lepelbare, smakelijke bouillon rond de rijst zitten.",
     "variations": []
   },
   {
@@ -53,19 +53,19 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Açorda behoort tot de Portugese broodkeuken: oud brood wordt met hete, geurige vloeistof weer een volwaardige maaltijd. Deze versie gebruikt het “lagosta”-product als praktische toevoeging; de structuur van brood, knoflook, koriander en olijfolie blijft het belangrijkste.",
+    "intro": "Açorda (Portugees broodgerecht) behoort tot de Portugese broodkeuken: oud brood wordt met hete, geurige vloeistof weer een volwaardige maaltijd. Deze versie gebruikt het “lagosta”-product als praktische toevoeging; de structuur van brood, knoflook, koriander en olijfolie blijft het belangrijkste.",
     "image": "images/1b-acorda-de-marisco-met-lagosta-en-gepocheerd-ei.jpg",
     "imageAlt": "Açorda de marisco met “lagosta” en gepocheerd ei",
     "ingredients": [
-      "1 verpakking Formas de Lagosta, ontdooid",
-      "250–300 g pão alentejano of ander stevig pão de mistura van de vorige dag, in stukken",
-      "500 ml lichte caldo de peixe of caldo de marisco",
+      "1 verpakking Formas de Lagosta (kreeftvormig zeevruchtenproduct), ontdooid",
+      "250–300 g pão alentejano (Alentejaans landbrood) of ander stevig pão de mistura (gemengd landbrood) van de vorige dag, in stukken",
+      "500 ml lichte caldo de peixe (visbouillon) of caldo de marisco (zeevruchtenbouillon)",
       "3 tenen knoflook",
       "1 grote bos koriander",
       "4 el olijfolie",
       "2 eieren",
       "½ citroen",
-      "piripíri",
+      "piripíri (Portugese chili)",
       "zout"
     ],
     "steps": [
@@ -74,13 +74,13 @@ window.RECIPES = [
       "Breng de bouillon aan de kook. Pocheer daarin de eieren 3–4 minuten en haal ze voorzichtig uit de bouillon.",
       "Verwarm de lagosta de laatste 2–3 minuten in dezelfde bouillon en haal ook die eruit. Het product is al gaar, dus het hoeft alleen door en door warm te worden; langer koken maakt het rubberachtig.",
       "Giet de kokende bouillon beetje bij beetje over het brood. Schep om: het brood moet zacht en sappig worden, maar geen gladde pap.",
-      "Meng de lagosta erdoor, leg de eieren erop en werk af met de rest van de koriander, wat citroensap en eventueel piripíri. Doe dit van het vuur af en schep voorzichtig, zodat het brood sappig blijft en de eieren heel blijven."
+      "Meng de lagosta erdoor, leg de eieren erop en werk af met de rest van de koriander, wat citroensap en eventueel piripíri (Portugese chili). Doe dit van het vuur af en schep voorzichtig, zodat het brood sappig blijft en de eieren heel blijven."
     ],
     "technique": {
       "title": "EEN EI POCHEREN",
       "text": "Houd het water net onder de kook en laat het ei er voorzichtig in glijden. Drie tot vier minuten geeft gestold eiwit en een zachte dooier; hard borrelend water trekt het ei uit elkaar."
     },
-    "attention": "Dit is een açorda-techniek, geen broodsoep uit de blender. Houd structuur in het brood en gebruik genoeg olijfolie en koriander.",
+    "attention": "Dit is een açorda (Portugees broodgerecht)-techniek, geen broodsoep uit de blender. Houd structuur in het brood en gebruik genoeg olijfolie en koriander.",
     "variations": []
   },
   {
@@ -93,30 +93,30 @@ window.RECIPES = [
     ],
     "time": "45 minuten",
     "servings": "2 royale personen",
-    "intro": "Caldeirada is echte Portugese kustkeuken: verschillende stukken vis garen samen met aardappel, ui, tomaat en paprika in één pan. Het gerecht leunt op goed kookvocht en de smaak van de vis, niet op een dikke saus.",
+    "intro": "Caldeirada (Portugese visstoof) is echte Portugese kustkeuken: verschillende stukken vis garen samen met aardappel, ui, tomaat en paprika in één pan. Het gerecht leunt op goed kookvocht en de smaak van de vis, niet op een dikke saus.",
     "image": "images/2a-caldeirada-a-moda-de-peniche.jpg",
     "imageAlt": "Caldeirada à moda de Peniche",
     "ingredients": [
-      "1 verpakking Caldeirada de Peniche",
-      "450 g batata para cozer, liefst vastkokend, in plakken van ongeveer 7–8 mm",
+      "1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket)",
+      "450 g batata para cozer (kookaardappelen), liefst vastkokend, in plakken van ongeveer 7–8 mm",
       "1 grote ui, in halve ringen",
       "3 tenen knoflook, in plakjes",
-      "2 rijpe tomaten, in plakken, of 250 g tomate pelado",
+      "2 rijpe tomaten, in plakken, of 250 g tomate pelado (gepelde tomaten)",
       "½ rode paprika en ½ groene paprika, in repen",
-      "100 ml droge Portugese witte wijn (vinho branco seco)",
+      "100 ml vinho branco seco (droge Portugese witte wijn)",
       "100–150 ml water of lichte visbouillon",
       "4 el olijfolie",
       "1 laurierblad",
-      "½ tl pimentão-doce",
-      "piripíri naar smaak",
+      "½ tl pimentão-doce (zoet paprikapoeder)",
+      "piripíri (Portugese chili) naar smaak",
       "koriander of peterselie",
       "zout en peper"
     ],
     "steps": [
       "Leg in een brede pan een laag ui, knoflook, tomaat en paprika. Besprenkel met olijfolie.",
-      "Leg daarop de aardappelschijven. Voeg laurier, pimentão-doce, peper en een beetje zout toe.",
+      "Leg daarop de aardappelschijven. Voeg laurier, pimentão-doce (zoet paprikapoeder), peper en een beetje zout toe.",
       "Giet wijn en ongeveer 100 ml water of bouillon erbij. Dek af en laat 10–12 minuten zacht koken.",
-      "Verdeel de stukken uit het caldeirada-pakket bovenop. Grote, stevige stukken onderaan; kwetsbare stukken erboven.",
+      "Verdeel de stukken uit het caldeirada (Portugese visstoof)-pakket bovenop. Grote, stevige stukken onderaan; kwetsbare stukken erboven.",
       "Dek opnieuw af en laat rustig garen tot aardappel en vis gaar zijn, meestal nog 10–15 minuten afhankelijk van de stukken. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
       "Schud de pan af en toe voorzichtig heen en weer. Niet met een lepel door de vis roeren.",
       "Werk af met veel koriander of peterselie en een scheut olijfolie. Proef vooral het kookvocht: het moet krachtig genoeg zijn om aardappel en vis te dragen, maar nog helder en niet overdreven zout."
@@ -125,7 +125,7 @@ window.RECIPES = [
       "title": "GAREN IN LAGEN",
       "text": "Leg stevige ingrediënten onderin en kwetsbare vis bovenop. Roer niet met een lepel; schud de pan af en toe voorzichtig zodat de stukken heel blijven."
     },
-    "attention": "Een caldeirada moet voldoende vocht hebben om brood in te dopen, maar het is geen dunne vissoep. De aardappel bindt het kookvocht licht.",
+    "attention": "Een caldeirada (Portugese visstoof) moet voldoende vocht hebben om brood in te dopen, maar het is geen dunne vissoep. De aardappel bindt het kookvocht licht.",
     "variations": []
   },
   {
@@ -138,32 +138,32 @@ window.RECIPES = [
     ],
     "time": "40 minuten",
     "servings": "2–3 personen",
-    "intro": "Massada de peixe is een van die gerechten die veel meer naar Portugese thuiskeuken smaken dan naar restaurantkeuken. De pasta gaart rechtstreeks in een tomatige visbouillon en neemt daardoor smaak op terwijl het gerecht sappig blijft.",
+    "intro": "Massada (sappig pastagerecht) de peixe is een van die gerechten die veel meer naar Portugese thuiskeuken smaken dan naar restaurantkeuken. De pasta gaart rechtstreeks in een tomatige visbouillon en neemt daardoor smaak op terwijl het gerecht sappig blijft.",
     "image": "images/2b-massada-de-peixe-com-tomate-e-coentros.jpg",
     "imageAlt": "Massada de peixe com tomate e coentros",
     "ingredients": [
-      "1 verpakking Caldeirada de Peniche",
+      "1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket)",
       "180 g korte pasta, liefst cotovelos of macarrão",
       "1 ui, fijngehakt",
       "2 tenen knoflook",
-      "250 g tomate pelado, fijngemaakt",
+      "250 g tomate pelado (gepelde tomaten), fijngemaakt",
       "½ rode paprika, in blokjes",
-      "75 ml droge Portugese witte wijn (vinho branco seco)",
+      "75 ml vinho branco seco (droge Portugese witte wijn)",
       "650–750 ml water of visbouillon",
       "3 el olijfolie",
       "1 laurierblad",
-      "1 kleine malagueta of piripíri",
+      "1 kleine malagueta (chilipeper) of piripíri (Portugese chili)",
       "koriander",
       "zout en peper"
     ],
     "steps": [
-      "Fruit ui en knoflook in olijfolie. Voeg paprika, laurier en eventueel malagueta toe.",
+      "Fruit ui en knoflook in olijfolie. Voeg paprika, laurier en eventueel malagueta (chilipeper) toe.",
       "Voeg tomaat toe en laat 5 minuten stoven. Blus met witte wijn.",
       "Voeg water of bouillon toe en breng aan de kook. Zodra het water kookt, zet je het vuur lager als je daarna iets kwetsbaars gaat pocheren of zacht garen; hard borrelen is dan niet nodig.",
       "Pocheer de grotere visstukken uit het pakket kort in het vocht tot ze bijna gaar zijn. Haal ze voorzichtig uit de pan.",
       "Voeg de pasta toe en kook hem rechtstreeks in de tomaten-visbouillon. Voeg water toe als het te droog wordt.",
       "Doe de vis en overige zeevruchten terug wanneer de pasta bijna gaar is en laat alles volledig garen. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
-      "De massada moet sappig blijven. Werk af met veel koriander."
+      "De massada (sappig pastagerecht) moet sappig blijven. Werk af met veel koriander."
     ],
     "technique": {
       "title": "PASTA IN DE BOUILLON",
@@ -182,24 +182,24 @@ window.RECIPES = [
     ],
     "time": "15 minuten",
     "servings": "2 personen als petisco of voorgerecht",
-    "intro": "Amêijoas à Bulhão Pato is een van de herkenbaarste Portugese schelpdierbereidingen: knoflook, azeite, koriander en citroen. Met alleen schelpdiervlees mis je het vocht uit de schelpen, maar de smaakopbouw blijft dezelfde.",
+    "intro": "Amêijoas (venusschelpen) à Bulhão Pato is een van de herkenbaarste Portugese schelpdierbereidingen: knoflook, azeite (olijfolie), koriander en citroen. Met alleen schelpdiervlees mis je het vocht uit de schelpen, maar de smaakopbouw blijft dezelfde.",
     "image": "images/3a-miolo-de-ameijoa-a-bulhao-pato.jpg",
     "imageAlt": "Miolo de amêijoa à Bulhão Pato",
     "ingredients": [
-      "250 g miolo de amêijoa-zebra",
+      "250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen)",
       "4 tenen knoflook, in dunne plakjes",
       "4 el olijfolie",
       "2–3 el water of lichte visbouillon",
       "flinke hand koriander, grof gehakt",
       "½–1 citroen",
-      "piripíri, optioneel",
+      "piripíri (Portugese chili), optioneel",
       "zout alleen indien nodig",
-      "pão de mistura of pão alentejano om het knoflook-koriandervocht op te nemen"
+      "pão de mistura (gemengd landbrood) of pão alentejano (Alentejaans landbrood) om het knoflook-koriandervocht op te nemen"
     ],
     "steps": [
-      "Laat de amêijoas ontdooien en uitlekken. Laat het product daarna goed uitlekken en dep het zo nodig droog; overtollig vocht verdunt de saus en belemmert bruinen.",
+      "Laat de amêijoas (venusschelpen) ontdooien en uitlekken. Laat het product daarna goed uitlekken en dep het zo nodig droog; overtollig vocht verdunt de saus en belemmert bruinen.",
       "Verwarm de olijfolie en laat de knoflook zacht geuren zonder hem donkerbruin te bakken. Zodra de knoflook geurt en heel licht kleurt is de olie voldoende op smaak; donkerbruine knoflook maakt het gerecht bitter.",
-      "Voeg de amêijoas en 2–3 eetlepels water of bouillon toe. Kook ze kort maar volledig gaar volgens de verpakking.",
+      "Voeg de amêijoas (venusschelpen) en 2–3 eetlepels water of bouillon toe. Kook ze kort maar volledig gaar volgens de verpakking.",
       "Haal van het vuur zodra ze gaar zijn. Voeg onmiddellijk veel koriander en citroensap toe.",
       "Proef pas daarna op zout. Schelpdieren zijn vaak al zout genoeg.",
       "Serveer direct met brood. Zet extra citroen op tafel en gebruik het brood om de knoflook-korianderolie op te nemen; juist dat vocht is een essentieel deel van het gerecht."
@@ -208,7 +208,7 @@ window.RECIPES = [
       "title": "SCHELPDIEREN KORT GAREN",
       "text": "Amêijoavlees wordt snel taai. Gaar het alleen tot het volledig warm en gaar is volgens de verpakking en haal de pan dan meteen van het vuur."
     },
-    "attention": "De klassieke versie wordt met hele amêijoas in de schelp gemaakt. Met miolo krijg je niet hetzelfde kookvocht, maar knoflook, azeite, coentros en citroen blijven de juiste smaakstructuur. Voeg geen room toe.",
+    "attention": "De klassieke versie wordt met hele amêijoas (venusschelpen) in de schelp gemaakt. Met miolo (schelpdiervlees) krijg je niet hetzelfde kookvocht, maar knoflook, azeite (olijfolie), coentros (koriander) en citroen blijven de juiste smaakstructuur. Voeg geen room toe.",
     "variations": []
   },
   {
@@ -221,12 +221,12 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Deze açorda combineert Alentejaanse broodkeuken met schelpdieren. Het gerecht hoort rustiek en geurig te zijn: het brood draagt de bouillon, terwijl knoflook, koriander en olijfolie voor de eigenlijke identiteit zorgen.",
+    "intro": "Deze açorda (Portugees broodgerecht) combineert Alentejaanse broodkeuken met schelpdieren. Het gerecht hoort rustiek en geurig te zijn: het brood draagt de bouillon, terwijl knoflook, koriander en olijfolie voor de eigenlijke identiteit zorgen.",
     "image": "images/3b-acorda-de-ameijoas-a-alentejana.jpg",
     "imageAlt": "Açorda de amêijoas à alentejana",
     "ingredients": [
-      "250 g miolo de amêijoa-zebra",
-      "250 g pão alentejano van de vorige dag",
+      "250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen)",
+      "250 g pão alentejano (Alentejaans landbrood) van de vorige dag",
       "600 ml water of lichte visbouillon",
       "3 tenen knoflook",
       "1 flinke bos koriander",
@@ -237,11 +237,11 @@ window.RECIPES = [
     ],
     "steps": [
       "Stamp knoflook, zout en een groot deel van de koriander tot een grove pasta. Meng met de olijfolie.",
-      "Breng water of bouillon aan de kook en gaar daarin de amêijoas. Schep ze eruit zodra ze gaar zijn.",
+      "Breng water of bouillon aan de kook en gaar daarin de amêijoas (venusschelpen). Schep ze eruit zodra ze gaar zijn.",
       "Pocheer vervolgens de eieren in hetzelfde vocht. Houd het water net onder de kook, breek elk ei eerst in een kopje en laat het voorzichtig in het rustige water glijden; zo blijft het wit beter rond de dooier.",
       "Leg het brood in een schaal en verdeel de knoflook-korianderpasta erover. Druk het brood niet aan; losse stukken nemen de hete bouillon gelijkmatiger op en houden meer structuur.",
       "Giet er genoeg hete schelpdierenbouillon over om het brood volledig zacht en sappig te maken. Voeg de hete vloeistof geleidelijk toe en geef het brood telkens even tijd om op te nemen; de bedoeling is sappig en rustiek, niet glad gepureerd.",
-      "Verdeel de amêijoas en gepocheerde eieren erover. Werk af met de rest van de koriander en een klein beetje citroen."
+      "Verdeel de amêijoas (venusschelpen) en gepocheerde eieren erover. Werk af met de rest van de koriander en een klein beetje citroen."
     ],
     "technique": {
       "title": "AÇORDA OPBOUWEN",
@@ -265,27 +265,27 @@ window.RECIPES = [
     "imageAlt": "Arroz de marisco malandrinho",
     "ingredients": [
       "1 verpakking Mariscada (500 g)",
-      "200 g arroz carolino",
+      "200 g arroz carolino (Portugese Carolino-rijst)",
       "1 ui, fijngehakt",
       "3 tenen knoflook",
-      "250 g tomate pelado, fijngemaakt",
+      "250 g tomate pelado (gepelde tomaten), fijngemaakt",
       "½ rode paprika, klein gesneden",
-      "100 ml droge Portugese witte wijn (vinho branco seco)",
-      "750–900 ml hete, licht gezouten caldo de marisco of caldo de peixe",
+      "100 ml vinho branco seco (droge Portugese witte wijn)",
+      "750–900 ml hete, licht gezouten caldo de marisco (zeevruchtenbouillon) of caldo de peixe (visbouillon)",
       "4 el olijfolie",
       "1 laurierblad",
-      "piripíri",
+      "piripíri (Portugese chili)",
       "flinke hand koriander",
       "zout en peper"
     ],
     "steps": [
-      "Ontdooi de mariscada indien de verpakking dat toestaat en vang eventueel smakelijk ontdooivocht op; gooi troebel of vreemd ruikend vocht weg. Laat de zeevruchten vervolgens goed uitlekken, zodat ze straks niet onnodig veel koud water aan de rijst afgeven.",
+      "Ontdooi de mariscada (zeevruchtenmix) indien de verpakking dat toestaat en vang eventueel smakelijk ontdooivocht op; gooi troebel of vreemd ruikend vocht weg. Laat de zeevruchten vervolgens goed uitlekken, zodat ze straks niet onnodig veel koud water aan de rijst afgeven.",
       "Fruit ui en knoflook in olijfolie. Voeg paprika en laurier toe.",
       "Voeg tomaat toe en laat goed stoven. Blus met witte wijn.",
-      "Voeg arroz carolino en ongeveer 650 ml bouillon toe. Laat rustig koken.",
-      "Voeg de mariscada pas toe wanneer de rijst nog ongeveer 6–8 minuten nodig heeft, of eerder/later volgens de gaartijd op de verpakking. Zo krijgt de rijst tijd om smaak uit de bouillon op te nemen zonder dat de zeevruchten taai worden.",
+      "Voeg arroz carolino (Portugese Carolino-rijst) en ongeveer 650 ml bouillon toe. Laat rustig koken.",
+      "Voeg de mariscada (zeevruchtenmix) pas toe wanneer de rijst nog ongeveer 6–8 minuten nodig heeft, of eerder/later volgens de gaartijd op de verpakking. Zo krijgt de rijst tijd om smaak uit de bouillon op te nemen zonder dat de zeevruchten taai worden.",
       "Voeg extra hete bouillon toe tot de rijst gaar maar duidelijk vochtig en lepelbaar is. Zet de pan van het vuur terwijl er nog royaal vocht rond de korrels zit; carolino blijft ook tijdens het opscheppen bouillon opnemen.",
-      "Breng op smaak met piripíri en peper. Meng vlak voor het serveren een royale hoeveelheid koriander erdoor."
+      "Breng op smaak met piripíri (Portugese chili) en peper. Meng vlak voor het serveren een royale hoeveelheid koriander erdoor."
     ],
     "technique": {
       "title": "MALANDRINHO SERVEREN",
@@ -313,18 +313,18 @@ window.RECIPES = [
       "3 tenen knoflook, in plakjes",
       "2 rijpe tomaten, in plakken of grove stukken",
       "½ rode paprika en ½ groene paprika, in repen",
-      "100 ml droge Portugese witte wijn (vinho branco seco)",
+      "100 ml vinho branco seco (droge Portugese witte wijn)",
       "4 el olijfolie",
       "1 laurierblad",
-      "½ tl pimentão-doce",
-      "piripíri",
+      "½ tl pimentão-doce (zoet paprikapoeder)",
+      "piripíri (Portugese chili)",
       "flinke hand koriander",
       "zout en peper"
     ],
     "steps": [
       "Gebruik een echte cataplana als je die hebt; anders een brede pan met een goed sluitend deksel. Een brede pan verdeelt de ingrediënten in een dunne laag en een goed deksel houdt de stoom binnen, precies wat deze bereiding nodig heeft.",
-      "Leg ui, knoflook, paprika en tomaat in lagen. Voeg laurier, pimentão-doce, peper, een beetje zout en olijfolie toe.",
-      "Verdeel de mariscada erover en giet de witte wijn langs de rand. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
+      "Leg ui, knoflook, paprika en tomaat in lagen. Voeg laurier, pimentão-doce (zoet paprikapoeder), peper, een beetje zout en olijfolie toe.",
+      "Verdeel de mariscada (zeevruchtenmix) erover en giet de witte wijn langs de rand. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
       "Sluit de cataplana of pan en gaar op middellaag vuur. Open zo weinig mogelijk. Reken grofweg 8–12 minuten zodra alles goed heet is, maar volg voor rauwe onderdelen de verpakking.",
       "Open, controleer of alles volledig gaar is en proef het kookvocht. Laat eventueel nog een paar minuten zonder deksel inkoken.",
       "Voeg vlak voor het serveren een royale hoeveelheid koriander toe. Doe dat pas nadat de pan van het vuur is, zodat de koriander fris blijft en niet tot een vlakke, gekookte kruidensmaak verliest."
@@ -333,7 +333,7 @@ window.RECIPES = [
       "title": "GAREN IN EEN GESLOTEN CATAPLANA",
       "text": "Sluit de pan zodra alle ingrediënten erin zitten en open zo weinig mogelijk. De opgesloten stoom gaart de inhoud; na het openen kun je het vocht eventueel nog kort laten inkoken."
     },
-    "attention": "Geen chouriço, bacon of room nodig. De smaak hoort uit azeite, wijn, tomaat, paprika, knoflook, koriander en het vocht van de zeevruchten te komen.",
+    "attention": "Geen chouriço, bacon of room nodig. De smaak hoort uit azeite (olijfolie), wijn, tomaat, paprika, knoflook, koriander en het vocht van de zeevruchten te komen.",
     "variations": []
   },
   {
@@ -346,23 +346,23 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Bacalhau à Brás is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau, zachte ui, dunne aardappel en ei. Het wordt thuis net zo gemakkelijk gemaakt met kant-en-klare batata palha als met zelfgesneden aardappel.",
+    "intro": "Bacalhau à Brás (bacalhau met fijne aardappel en romig ei) is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau, zachte ui, dunne aardappel en ei. Het wordt thuis net zo gemakkelijk gemaakt met kant-en-klare batata palha (krokante aardappelreepjes) als met zelfgesneden aardappel.",
     "image": "images/5-bacalhau-a-bras.jpg",
     "imageAlt": "Bacalhau à Brás",
     "ingredients": [
       "300 g ontzoute bacalhau, gaar en in vlokken",
-      "300 g batata para fritar, voor fijne lucifers",
+      "300 g batata para fritar (frituuraardappelen), voor fijne lucifers",
       "1 grote ui, in dunne halve ringen",
       "2 tenen knoflook",
       "4 eieren",
       "3–4 el olijfolie",
       "hand peterselie, fijngehakt",
-      "zwarte Portugese olijven, liefst azeitona Galega",
+      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "zwarte peper",
       "zout alleen indien nodig"
     ],
     "steps": [
-      "Snijd de aardappelen in zeer fijne lucifers. Frituur of bak ze goudgeel en laat uitlekken. Kant-en-klare batata palha is in Portugal ook een gewone thuisoplossing.",
+      "Snijd de aardappelen in zeer fijne lucifers. Frituur of bak ze goudgeel en laat uitlekken. Kant-en-klare batata palha (krokante aardappelreepjes) is in Portugal ook een gewone thuisoplossing.",
       "Fruit ui en knoflook langzaam in olijfolie tot de ui zacht en zoet is. Laat de ui doorschijnend worden zonder veel kleur en voeg de knoflook pas toe zodra de ui vrijwel klaar is.",
       "Voeg de bacalhau toe en warm 2–3 minuten mee. Schep rustig om en warm alleen door; de kabeljauw is al gaar en wordt droog wanneer hij hier te lang blijft bakken.",
       "Voeg de aardappelen toe en schep kort om. Werk met een brede spatel en til het mengsel voorzichtig op, zodat de fijne aardappel en bacalhau niet tot een compacte massa worden gedrukt.",
@@ -392,12 +392,12 @@ window.RECIPES = [
     "imageAlt": "Bacalhau à Gomes de Sá",
     "ingredients": [
       "350 g ontzoute bacalhau",
-      "500 g batata para cozer, van een vastkokend type",
+      "500 g batata para cozer (kookaardappelen), van een vastkokend type",
       "2 grote uien, in halve ringen",
       "2 tenen knoflook",
       "3 eieren",
       "5 el olijfolie",
-      "zwarte Portugese olijven, liefst azeitona Galega",
+      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "peterselie",
       "peper",
       "zout"
@@ -405,7 +405,7 @@ window.RECIPES = [
     "steps": [
       "Kook de aardappelen in de schil bijna gaar. Laat iets afkoelen, pel ze en snijd in dikke plakken.",
       "Pocheer de bacalhau zachtjes tot hij net gaar is. Verwijder vel en graten en verdeel in grove vlokken.",
-      "Fruit ui en knoflook langzaam in ruim olijfolie. Laat de ui zacht en licht zoet worden zonder hem donker te bakken; de royale hoeveelheid azeite hoort later ook de aardappel en bacalhau te bevochtigen.",
+      "Fruit ui en knoflook langzaam in ruim olijfolie. Laat de ui zacht en licht zoet worden zonder hem donker te bakken; de royale hoeveelheid azeite (olijfolie) hoort later ook de aardappel en bacalhau te bevochtigen.",
       "Meng aardappel, bacalhau en ui voorzichtig in een ovenschaal. Besprenkel royaal met olijfolie en peper.",
       "Bak ongeveer 15–20 minuten op 190 °C. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar.",
       "Kook ondertussen de eieren hard, snijd in parten en verdeel ze met olijven en peterselie over de schaal. Leg de garnering pas na het bakken erop, zodat ei, peterselie en olijven fris en herkenbaar blijven."
@@ -432,17 +432,17 @@ window.RECIPES = [
     "imageAlt": "Bacalhau com natas",
     "ingredients": [
       "350 g ontzoute bacalhau, in vlokken",
-      "500 g batata para fritar, in kleine blokjes of dunne frietjes",
+      "500 g batata para fritar (frituuraardappelen), in kleine blokjes of dunne frietjes",
       "1 grote ui",
       "2 tenen knoflook",
       "30 g boter",
-      "30 g farinha de trigo T55 sem fermento",
-      "350 ml leite meio-gordo",
-      "150 ml natas para culinária",
+      "30 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
+      "350 ml leite meio-gordo (halfvolle melk)",
+      "150 ml natas para culinária (kookroom)",
       "3 el olijfolie",
       "nootmuskaat",
       "peper",
-      "eventueel een dun laagje pão ralado fino"
+      "eventueel een dun laagje pão ralado fino (fijn paneermeel)"
     ],
     "steps": [
       "Bak of frituur de aardappelen tot ze net gaar en licht gekleurd zijn. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
@@ -469,23 +469,23 @@ window.RECIPES = [
     ],
     "time": "45 minuten",
     "servings": "2–3 personen",
-    "intro": "Pataniscas zijn platte, onregelmatige bacalhau-beignets en geen dikke viskoekjes. Met sappige arroz de feijão vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
+    "intro": "Pataniscas (platte bacalhau-beignets) zijn platte, onregelmatige bacalhau-beignets en geen dikke viskoekjes. Met sappige arroz de feijão vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
     "image": "images/8-pataniscas-de-bacalhau-com-arroz-de-feijao.jpg",
     "imageAlt": "Pataniscas de bacalhau com arroz de feijão",
     "ingredients": [
       "250 g ontzoute bacalhau, gaar en fijngemaakt",
-      "100 g farinha de trigo T55 sem fermento",
+      "100 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
       "2 eieren",
       "80–120 ml koud water",
       "½ ui, zeer fijn gesneden",
       "flinke hand peterselie",
       "peper",
       "óleo de girassol om ondiep te bakken",
-      "160 g arroz carolino",
+      "160 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "1 teen knoflook",
-      "150 g feijão encarnado cozido, uit pot of blik en uitgelekt",
-      "150 g tomate pelado",
+      "150 g feijão encarnado cozido (gekookte rode bonen), uit pot of blik en uitgelekt",
+      "150 g tomate pelado (gepelde tomaten)",
       "550–650 ml water of groentebouillon",
       "2 el olijfolie",
       "1 laurierblad"
@@ -493,16 +493,16 @@ window.RECIPES = [
     "steps": [
       "Maak eerst de rijst. Fruit ui en knoflook, voeg tomaat en laurier toe en laat enkele minuten stoven.",
       "Voeg rijst, bonen en hete vloeistof toe. Kook tot de rijst gaar maar nog duidelijk sappig is.",
-      "Meng voor de pataniscas bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau straks kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
+      "Meng voor de pataniscas (platte bacalhau-beignets) bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau straks kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
       "Meng bacalhau, ui, peterselie en peper erdoor. Roer alleen tot alles gelijkmatig verdeeld is; een te lang gemengd beslag wordt taai en verliest de losse structuur van de vis.",
-      "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Houd de olie rond 175–180 °C en bak in kleine porties, zodat de pataniscas snel kleuren zonder veel vet op te nemen.",
+      "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Houd de olie rond 175–180 °C en bak in kleine porties, zodat de pataniscas (platte bacalhau-beignets) snel kleuren zonder veel vet op te nemen.",
       "Serveer direct met de arroz de feijão. Schep de rijst op terwijl er nog zichtbaar vocht rond de korrels zit; tijdens het eten dikt hij vanzelf verder in."
     ],
     "technique": {
       "title": "ONDIEP BAKKEN",
       "text": "Het beslag moet dik genoeg zijn om aan een lepel te blijven hangen. Bak in een laag hete olie en geef de patanisca ruimte; te koude olie maakt hem vet, te hete olie verbrandt de buitenkant."
     },
-    "attention": "Pataniscas zijn platte, onregelmatige beignets; maak er geen dikke ronde viskoekjes van.",
+    "attention": "Pataniscas (platte bacalhau-beignets) zijn platte, onregelmatige beignets; maak er geen dikke ronde viskoekjes van.",
     "variations": []
   },
   {
@@ -515,12 +515,12 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Dit is misschien het minst spectaculaire gerecht in het boek en juist daarom belangrijk. Pescada met gekookte aardappelen, groenten en ei is eenvoudige Portugese dagelijkse kost waarin goede vis en olijfolie niet achter saus verdwijnen.",
+    "intro": "Dit is misschien het minst spectaculaire gerecht in het boek en juist daarom belangrijk. Pescada (heek) met gekookte aardappelen, groenten en ei is eenvoudige Portugese dagelijkse kost waarin goede vis en olijfolie niet achter saus verdwijnen.",
     "image": "images/9-pescada-cozida-com-batatas-e-legumes.jpg",
     "imageAlt": "Pescada cozida com batatas e legumes",
     "ingredients": [
       "2 moten of filets pescada (heek), ongeveer 350–400 g totaal",
-      "450 g batata para cozer, liefst vastkokend",
+      "450 g batata para cozer (kookaardappelen), liefst vastkokend",
       "2 wortels",
       "200 g grelos, sperziebonen of kool",
       "2 eieren",
@@ -531,14 +531,14 @@ window.RECIPES = [
     "steps": [
       "Kook aardappelen en wortel in gezouten water. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
       "Voeg de groente toe op het moment dat de kooktijd daarom vraagt. Stevigere groenten mogen eerder in de pan, terwijl zachte of groene groenten pas later gaan; zo eindigt alles tegelijk gaar zonder slap te worden.",
-      "Pocheer of kook de pescada apart heel rustig in gezouten water tot hij net gaar is. Houd de vloeistof net onder het kookpunt, met alleen kleine belletjes; hard koken maakt de vis droger en laat de vlokken sneller uit elkaar vallen.",
+      "Pocheer of kook de pescada (heek) apart heel rustig in gezouten water tot hij net gaar is. Houd de vloeistof net onder het kookpunt, met alleen kleine belletjes; hard koken maakt de vis droger en laat de vlokken sneller uit elkaar vallen.",
       "Kook de eieren hard of halfhard. Koel de eieren na het koken kort in koud water; daardoor stopt het garen en kun je ze makkelijker pellen zonder het wit te beschadigen.",
       "Verdeel vis, aardappelen, groente en ei over de borden. Houd de onderdelen herkenbaar naast elkaar in plaats van alles te mengen; zo kan iedereen zelf olijfolie en citroen naar smaak toevoegen.",
-      "Geef er royaal olijfolie en citroen bij. Laat iedereen aan tafel zelf doseren: de warme aardappel en vis nemen de azeite goed op en een beetje citroen maakt het geheel frisser zonder een saus nodig te hebben."
+      "Geef er royaal olijfolie en citroen bij. Laat iedereen aan tafel zelf doseren: de warme aardappel en vis nemen de azeite (olijfolie) goed op en een beetje citroen maakt het geheel frisser zonder een saus nodig te hebben."
     ],
     "technique": {
       "title": "VIS POCHEREN",
-      "text": "Pocheren is zacht garen in water dat net niet kookt. Houd de vloeistof rond 80–90 °C: kleine belletjes mogen, wild borrelen niet. Zo blijft pescada sappig en valt hij minder snel uit elkaar."
+      "text": "Pocheren is zacht garen in water dat net niet kookt. Houd de vloeistof rond 80–90 °C: kleine belletjes mogen, wild borrelen niet. Zo blijft pescada (heek) sappig en valt hij minder snel uit elkaar."
     },
     "attention": "Dit is bewust eenvoudig. In de Portugese dagelijkse keuken wordt vis vaak veel minder “aangekleed” dan in restaurantrecepten.",
     "variations": []
@@ -553,27 +553,27 @@ window.RECIPES = [
     ],
     "time": "50 minuten",
     "servings": "2 personen",
-    "intro": "Een hele dourada uit de oven is in Portugal een gewone manier om vis te eten zonder veel handelingen. Aardappel, ui, tomaat, wijn en olijfolie vormen tegelijk bijgerecht en braadvocht.",
+    "intro": "Een hele dourada (goudbrasem) uit de oven is in Portugal een gewone manier om vis te eten zonder veel handelingen. Aardappel, ui, tomaat, wijn en olijfolie vormen tegelijk bijgerecht en braadvocht.",
     "image": "images/10-dourada-assada-no-forno-com-batatas.jpg",
     "imageAlt": "Dourada assada no forno com batatas",
     "ingredients": [
-      "1 hele dourada van ongeveer 700–900 g, schoongemaakt",
-      "500 g batata para assar, in dunne plakken",
+      "1 hele dourada (goudbrasem) van ongeveer 700–900 g, schoongemaakt",
+      "500 g batata para assar (ovenaardappelen), in dunne plakken",
       "1 grote ui, in ringen",
       "2 tenen knoflook",
       "2 tomaten, in parten",
-      "100 ml droge Portugese witte wijn (vinho branco seco)",
+      "100 ml vinho branco seco (droge Portugese witte wijn)",
       "4 el olijfolie",
       "1 laurierblad",
-      "pimentão-doce",
+      "pimentão-doce (zoet paprikapoeder)",
       "peterselie of koriander",
       "zout en peper"
     ],
     "steps": [
       "Verwarm de oven voor op 200 °C. Geef de oven echt de tijd om volledig op temperatuur te komen; een halfwarme oven laat aardappelen eerst stomen in plaats van roosteren.",
-      "Verdeel aardappel, ui, knoflook en tomaat in een ovenschaal. Voeg laurier, zout, peper, een beetje pimentão-doce, olijfolie en witte wijn toe.",
+      "Verdeel aardappel, ui, knoflook en tomaat in een ovenschaal. Voeg laurier, zout, peper, een beetje pimentão-doce (zoet paprikapoeder), olijfolie en witte wijn toe.",
       "Bak de aardappelen 15 minuten voor. Ze hoeven nog niet gaar te zijn, maar de randen moeten al beginnen te verzachten zodat vis en aardappel later ongeveer tegelijk klaar zijn.",
-      "Kerf de dourada enkele keren in, zout hem van binnen en buiten en leg op de aardappelen. Maak de inkepingen alleen door het dikke vlees en niet tot op de graat; zo dringen zout en warmte gelijkmatiger binnen.",
+      "Kerf de dourada (goudbrasem) enkele keren in, zout hem van binnen en buiten en leg op de aardappelen. Maak de inkepingen alleen door het dikke vlees en niet tot op de graat; zo dringen zout en warmte gelijkmatiger binnen.",
       "Bak nog ongeveer 20–25 minuten, afhankelijk van de dikte van de vis. Controleer bij de rugvin: het vlees moet gemakkelijk loslaten en nog sappig en glanzend zijn, niet droog en vezelig.",
       "Lepel tijdens het bakken wat vocht uit de schaal over de vis. Doe dit één of twee keer snel, zodat de oven niet steeds afkoelt; het braadvocht houdt het oppervlak sappig en geeft extra smaak.",
       "Werk af met peterselie of koriander. Lepel nog wat braadvocht over de aardappelen en vis en proef dat vocht op zout voordat de schaal naar tafel gaat."
@@ -595,20 +595,20 @@ window.RECIPES = [
     ],
     "time": "60–90 minuten",
     "servings": "3 personen",
-    "intro": "Arroz de polvo is een steviger familie- of weekendgerecht waarin het kookvocht van de octopus de rijst op smaak brengt. De octopus zelf moet eerst echt mals zijn voordat hij bij de rijst teruggaat.",
+    "intro": "Arroz de polvo (octopus) is een steviger familie- of weekendgerecht waarin het kookvocht van de octopus de rijst op smaak brengt. De octopus zelf moet eerst echt mals zijn voordat hij bij de rijst teruggaat.",
     "image": "images/11-arroz-de-polvo.jpg",
     "imageAlt": "Arroz de polvo",
     "ingredients": [
       "700–800 g octopus, schoongemaakt",
-      "200 g arroz carolino",
+      "200 g arroz carolino (Portugese Carolino-rijst)",
       "1 grote ui",
       "2 tenen knoflook",
-      "250 g tomate pelado",
-      "100 ml Portugese vinho tinto leve of vinho branco seco",
+      "250 g tomate pelado (gepelde tomaten)",
+      "100 ml vinho tinto leve (lichte Portugese rode wijn) of vinho branco seco (droge Portugese witte wijn)",
       "1 laurierblad",
       "4 el olijfolie",
       "koriander",
-      "piripíri",
+      "piripíri (Portugese chili)",
       "zout en peper"
     ],
     "steps": [
@@ -616,15 +616,15 @@ window.RECIPES = [
       "Snijd de octopus in stukken. Maak de stukken ongeveer hapgroot, maar laat de dunnere tentakelpunten wat groter zodat ze tijdens het verdere garen niet uitdrogen.",
       "Fruit ui en knoflook in olijfolie. Voeg tomaat en laurier toe en laat goed stoven.",
       "Blus met wijn. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
-      "Voeg arroz carolino toe en gebruik ongeveer 650–750 ml heet octopuskookvocht. Vul zo nodig aan met water.",
+      "Voeg arroz carolino (Portugese Carolino-rijst) toe en gebruik ongeveer 650–750 ml heet octopuskookvocht. Vul zo nodig aan met water.",
       "Voeg de octopus terug wanneer de rijst ongeveer halverwege is. Laat de rijst rustig garen en roer alleen wanneer dat nodig is, zodat de korrels gaar worden zonder tot pap te breken.",
-      "Laat de rijst sappig en licht bouillonachtig; voeg op het einde koriander en eventueel piripíri toe. Zet de pan van het vuur zodra de korrel gaar is terwijl er nog royaal octopuskookvocht rond zit, en serveer meteen."
+      "Laat de rijst sappig en licht bouillonachtig; voeg op het einde koriander en eventueel piripíri (Portugese chili) toe. Zet de pan van het vuur zodra de korrel gaar is terwijl er nog royaal octopuskookvocht rond zit, en serveer meteen."
     ],
     "technique": {
       "title": "OCTOPUS MALS KOKEN",
       "text": "Laat octopus rustig garen tot een mes zonder weerstand in het dikste deel glijdt. Bewaar het kookvocht: daarin zit precies de smaak die je later voor de carolino-rijst nodig hebt."
     },
-    "attention": "Net als arroz de marisco moet arroz de polvo niet droog op het bord staan.",
+    "attention": "Net als arroz de marisco moet arroz de polvo (octopus) niet droog op het bord staan.",
     "variations": []
   },
   {
@@ -637,12 +637,12 @@ window.RECIPES = [
     ],
     "time": "15 minuten",
     "servings": "2 personen",
-    "intro": "Feijão-frade met tonijn en ei is eenvoudige Portugese lunch- en zomerkeuken. Het gerecht werkt omdat de neutrale bonen de olie, azijn en vissmaak opnemen en op kamertemperatuur nog beter smaken.",
+    "intro": "Feijão-frade (zwartoogbonen) met tonijn en ei is eenvoudige Portugese lunch- en zomerkeuken. Het gerecht werkt omdat de neutrale bonen de olie, azijn en vissmaak opnemen en op kamertemperatuur nog beter smaken.",
     "image": "images/12-salada-de-feijao-frade-com-atum-e-ovo.jpg",
     "imageAlt": "Salada de feijão-frade com atum e ovo",
     "ingredients": [
       "300 g gekookte feijão-frade (zwartoogbonen), uitgelekt",
-      "1 blik atum em azeite van goede kwaliteit, ongeveer 120–160 g uitgelekt",
+      "1 blik atum em azeite (tonijn in olijfolie) van goede kwaliteit, ongeveer 120–160 g uitgelekt",
       "2 eieren",
       "½ kleine ui, zeer fijn gesneden",
       "flinke hand peterselie",
@@ -674,11 +674,11 @@ window.RECIPES = [
     ],
     "time": "20 minuten",
     "servings": "2 personen",
-    "intro": "Açorda alentejana is elementaire keuken: oud brood, knoflook, koriander, olijfolie, heet water en ei. Juist omdat er zo weinig in zit, is de kwaliteit van brood en azeite bepalend.",
+    "intro": "Açorda (Portugees broodgerecht) alentejana is elementaire keuken: oud brood, knoflook, koriander, olijfolie, heet water en ei. Juist omdat er zo weinig in zit, is de kwaliteit van brood en azeite (olijfolie) bepalend.",
     "image": "images/13-acorda-alentejana-com-ovo-escalfado.jpg",
     "imageAlt": "Açorda alentejana com ovo escalfado",
     "ingredients": [
-      "250 g pão alentejano van de vorige dag, in plakken of stukken",
+      "250 g pão alentejano (Alentejaans landbrood) van de vorige dag, in plakken of stukken",
       "700 ml water",
       "3 tenen knoflook",
       "1 grote bos koriander",
@@ -692,8 +692,8 @@ window.RECIPES = [
       "Verdeel dit over twee diepe kommen en leg het brood erbij. Verdeel knoflook, koriander en olie zo gelijk mogelijk, zodat elk stuk brood straks van dezelfde geurige basis en het hete water kan opnemen.",
       "Breng het water aan de kook, eventueel met een heel klein scheutje azijn. Zodra het water kookt, zet je het vuur lager als je daarna iets kwetsbaars gaat pocheren of zacht garen; hard borrelen is dan niet nodig.",
       "Pocheer de eieren in het water. Houd het water net onder de kook, breek elk ei eerst in een kopje en laat het voorzichtig in het rustige water glijden; zo blijft het wit beter rond de dooier.",
-      "Leg in elke kom een ei en giet er genoeg van het kokende pocheerwater over om het brood goed te verzadigen. Giet geleidelijk en stop zodra het brood helemaal zacht en sappig is; de açorda hoort niet in een plas water te liggen.",
-      "Laat een minuut staan en eet meteen. Die korte rust is alleen bedoeld om het brood het laatste hete vocht te laten opnemen; wacht langer en de açorda verliest haar sappige karakter."
+      "Leg in elke kom een ei en giet er genoeg van het kokende pocheerwater over om het brood goed te verzadigen. Giet geleidelijk en stop zodra het brood helemaal zacht en sappig is; de açorda (Portugees broodgerecht) hoort niet in een plas water te liggen.",
+      "Laat een minuut staan en eet meteen. Die korte rust is alleen bedoeld om het brood het laatste hete vocht te laten opnemen; wacht langer en de açorda (Portugees broodgerecht) verliest haar sappige karakter."
     ],
     "technique": {
       "title": "HETE VLOEISTOF OP BROOD",
@@ -716,7 +716,7 @@ window.RECIPES = [
     "image": "images/14-sopa-de-tomate-a-alentejana-com-ovo.jpg",
     "imageAlt": "Sopa de tomate à alentejana com ovo",
     "ingredients": [
-      "500 g rijpe tomaten of tomate pelado",
+      "500 g rijpe tomaten of tomate pelado (gepelde tomaten)",
       "1 grote ui, in halve ringen",
       "2 tenen knoflook",
       "½ groene paprika, in dunne repen",
@@ -724,7 +724,7 @@ window.RECIPES = [
       "1 laurierblad",
       "500 ml water",
       "2–3 eieren",
-      "pão alentejano of pão de mistura van de vorige dag",
+      "pão alentejano (Alentejaans landbrood) of pão de mistura (gemengd landbrood) van de vorige dag",
       "oregano of koriander, afhankelijk van voorkeur",
       "zout en peper"
     ],
@@ -758,7 +758,7 @@ window.RECIPES = [
     "imageAlt": "Peixinhos da horta",
     "ingredients": [
       "300 g fijne sperziebonen",
-      "100 g farinha de trigo T55 sem fermento",
+      "100 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
       "1 ei",
       "120–150 ml koud water",
       "zout en peper",
@@ -789,30 +789,30 @@ window.RECIPES = [
     ],
     "time": "45–60 minuten",
     "servings": "2 personen",
-    "intro": "Gepaneerde pescada met sappige arroz de tomate is zo’n combinatie die direct naar een Portugese familiekeuken verwijst. De vis moet krokant blijven, terwijl de rijst juist nat en zacht op het bord komt.",
+    "intro": "Gepaneerde pescada (heek) met sappige arroz de tomate is zo’n combinatie die direct naar een Portugese familiekeuken verwijst. De vis moet krokant blijven, terwijl de rijst juist nat en zacht op het bord komt.",
     "image": "images/16-filetes-de-pescada-panados-com-arroz-de-tomate.jpg",
     "imageAlt": "Filetes de pescada panados com arroz de tomate",
     "ingredients": [
-      "350–400 g filetes de pescada",
+      "350–400 g filetes de pescada (heek)",
       "1 teen knoflook, fijngehakt",
       "sap van ½ citroen",
       "1 ei",
-      "farinha de trigo T55 sem fermento",
+      "farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
       "pão ralado",
       "zout en peper",
       "óleo de girassol om te bakken",
-      "160 g arroz carolino",
+      "160 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "1 teen knoflook",
-      "200 g rijpe tomaat of tomate pelado inteiro uit blik",
+      "200 g rijpe tomaat of tomate pelado inteiro (hele gepelde tomaten) uit blik",
       "450–500 ml heet water",
       "2 el olijfolie",
       "koriander of peterselie"
     ],
     "steps": [
-      "Marineer de pescada 15–30 minuten met knoflook, citroen, zout en peper. Een korte rusttijd is genoeg om het oppervlak op smaak te brengen; laat vis niet uren in veel citroensap liggen, want het zuur verandert de textuur.",
+      "Marineer de pescada (heek) 15–30 minuten met knoflook, citroen, zout en peper. Een korte rusttijd is genoeg om het oppervlak op smaak te brengen; laat vis niet uren in veel citroensap liggen, want het zuur verandert de textuur.",
       "Fruit voor de rijst ui en knoflook in olijfolie. Voeg tomaat toe en laat enkele minuten stoven.",
-      "Voeg arroz carolino en heet water toe. Kook zacht tot de rijst gaar maar nog duidelijk caldoso/malandrinho is.",
+      "Voeg arroz carolino (Portugese Carolino-rijst) en heet water toe. Kook zacht tot de rijst gaar maar nog duidelijk caldoso (bouillonachtig)/malandrinho (sappig en bouillonachtig) is.",
       "Haal de vis achtereenvolgens door bloem, losgeklopt ei en pão ralado. Dep het oppervlak eerst droog en druk de paneerlaag slechts licht aan; laat hem een paar minuten rusten zodat de korst tijdens het bakken beter blijft zitten.",
       "Bak goudbruin in een laag olie en laat uitlekken. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
       "Werk de rijst af met koriander of peterselie en serveer direct met de filetes. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen."
@@ -821,7 +821,7 @@ window.RECIPES = [
       "title": "PANEREN",
       "text": "Dep de vis droog en werk in de volgorde bloem, ei, pão ralado. Druk het broodkruim licht aan en laat de filets een paar minuten liggen voordat je ze bakt; zo laat de korst minder snel los. Klassiek thuisgerecht · ongeveer 45–60 minuten"
     },
-    "attention": "De combinatie is belangrijker dan een ingewikkelde saus: krokante pescada met sappige arroz de tomate is zeer typische Portugese comfort food.",
+    "attention": "De combinatie is belangrijker dan een ingewikkelde saus: krokante pescada (heek) met sappige arroz de tomate is zeer typische Portugese comfort food.",
     "variations": []
   },
   {
@@ -839,10 +839,10 @@ window.RECIPES = [
     "imageAlt": "Arroz de bacalhau malandrinho",
     "ingredients": [
       "300 g ontzoute bacalhau",
-      "180 g arroz carolino",
+      "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 ui, fijngehakt",
       "2 tenen knoflook",
-      "2 rijpe tomaten of 200 g tomate pelado",
+      "2 rijpe tomaten of 200 g tomate pelado (gepelde tomaten)",
       "½ groene paprika",
       "1 laurierblad",
       "3 el olijfolie",
@@ -856,13 +856,13 @@ window.RECIPES = [
       "Voeg de rijst en ongeveer 550 ml heet kookvocht toe. Laat zacht pruttelen en houd extra kookvocht warm; koude vloeistof zou het garen telkens onderbreken.",
       "Laat zacht koken en voeg zo nodig meer vocht toe. Kijk niet alleen naar de klok: zodra de rijst aan de bodem dreigt te pakken maar nog niet gaar is, voeg je een kleine scheut heet kookvocht toe.",
       "Doe de bacalhau terug wanneer de rijst bijna gaar is. Schep de vlokken voorzichtig door de rijst zodat ze warm worden maar niet helemaal uit elkaar vallen.",
-      "Serveer zodra de rijst gaar en nog ruim vochtig is, met verse kruiden. Wacht niet in de pan: carolino zuigt het resterende vocht snel op en dan verdwijnt het malandrinho-karakter."
+      "Serveer zodra de rijst gaar en nog ruim vochtig is, met verse kruiden. Wacht niet in de pan: carolino zuigt het resterende vocht snel op en dan verdwijnt het malandrinho (sappig en bouillonachtig)-karakter."
     ],
     "technique": {
       "title": "EERST POCHEREN, DAN TERUGVOEGEN",
       "text": "Pocheer de bacalhau kort, gebruik het kookvocht voor de rijst en voeg de vis pas terug wanneer de rijst bijna gaar is. Zo krijg je smaak in de rijst zonder de vis droog te koken. Klassiek thuisgerecht · ongeveer 40 minuten"
     },
-    "attention": "Dit hoort geen droge “rijst met kabeljauw” te worden. De bouillonachtige, malandrinho textuur is essentieel.",
+    "attention": "Dit hoort geen droge “rijst met kabeljauw” te worden. De bouillonachtige, malandrinho (sappig en bouillonachtig) textuur is essentieel.",
     "variations": []
   },
   {
@@ -879,11 +879,11 @@ window.RECIPES = [
     "image": "images/18-salada-russa-de-atum.jpg",
     "imageAlt": "Salada russa de atum",
     "ingredients": [
-      "350 g batata para cozer, vastkokend, in kleine blokjes",
+      "350 g batata para cozer (kookaardappelen), vastkokend, in kleine blokjes",
       "1 grote wortel, in kleine blokjes",
       "100 g erwten",
       "100 g sperziebonen, in stukjes",
-      "2 blikjes atum em azeite of atum ao natural, goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie) of atum ao natural (tonijn naturel), goed uitgelekt",
       "2 eieren",
       "3–4 el klassieke maionese, liefst volvet",
       "1 tl mosterd, optioneel",
@@ -914,28 +914,28 @@ window.RECIPES = [
     ],
     "time": "25–30 minuten",
     "servings": "2 personen",
-    "intro": "Atum à Brás is geen historische klassieker, maar een heel logische moderne afgeleide van Bacalhau à Brás. Met tonijn uit blik en batata palha staat het veel sneller op tafel en blijft de herkenbare ui-ei-aardappelstructuur intact.",
+    "intro": "Atum à Brás (tonijn met fijne aardappel en romig ei) is geen historische klassieker, maar een heel logische moderne afgeleide van Bacalhau à Brás. Met tonijn uit blik en batata palha (krokante aardappelreepjes) staat het veel sneller op tafel en blijft de herkenbare ui-ei-aardappelstructuur intact.",
     "image": "images/19-atum-a-bras.jpg",
     "imageAlt": "Atum à Brás",
     "ingredients": [
-      "2 blikjes atum em azeite of atum ao natural, goed uitgelekt",
-      "250 g batata palha",
+      "2 blikjes atum em azeite (tonijn in olijfolie) of atum ao natural (tonijn naturel), goed uitgelekt",
+      "250 g batata palha (krokante aardappelreepjes)",
       "1 grote ui, in dunne halve ringen",
       "2 tenen knoflook",
       "4 eieren",
       "2 el olijfolie",
       "peterselie",
-      "zwarte Portugese olijven, liefst azeitona Galega",
+      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "peper",
       "zout indien nodig"
     ],
     "steps": [
       "Fruit ui en knoflook langzaam in olijfolie tot de ui zacht is. Laat de ui bijna smelten zonder hem bruin te bakken; dat geeft de zachte basis die een à Brás nodig heeft.",
       "Voeg de uitgelekte tonijn toe en warm kort mee. Breek de tonijn in grove vlokken en houd deze stap kort, zodat hij sappig blijft voordat ei en aardappel erbij gaan.",
-      "Meng ongeveer twee derde van de batata palha erdoor. Schep snel en losjes, zodat een deel van de aardappel het vocht opneemt terwijl er nog structuur overblijft.",
+      "Meng ongeveer twee derde van de batata palha (krokante aardappelreepjes) erdoor. Schep snel en losjes, zodat een deel van de aardappel het vocht opneemt terwijl er nog structuur overblijft.",
       "Klop de eieren los met peper en gehakte peterselie. Klop alleen tot dooier en wit gemengd zijn; veel lucht is niet nodig, omdat het ei straks de aardappel en tonijn romig moet binden.",
       "Zet het vuur laag en meng het ei door de pan. Stop terwijl het nog romig is.",
-      "Voeg de rest van de batata palha en zwarte olijven toe. Schep deze laatste aardappel pas vlak voor het serveren erdoor, zodat een deel krokant blijft naast het romige eimengsel."
+      "Voeg de rest van de batata palha (krokante aardappelreepjes) en zwarte olijven toe. Schep deze laatste aardappel pas vlak voor het serveren erdoor, zodat een deel krokant blijft naast het romige eimengsel."
     ],
     "technique": {
       "title": "EI PAS OP HET EINDE",
@@ -954,20 +954,20 @@ window.RECIPES = [
     ],
     "time": "20–25 minuten",
     "servings": "2 personen",
-    "intro": "Pasta met tonijn is hedendaagse Portugese voorraadkastkeuken: goedkoop, snel en opgebouwd uit producten die bijna altijd in huis zijn. Tomaat, olijven en azeite houden het duidelijk mediterraan zonder ingewikkelde saus.",
+    "intro": "Pasta met tonijn is hedendaagse Portugese voorraadkastkeuken: goedkoop, snel en opgebouwd uit producten die bijna altijd in huis zijn. Tomaat, olijven en azeite (olijfolie) houden het duidelijk mediterraan zonder ingewikkelde saus.",
     "image": "images/20-massa-de-atum-com-tomate-e-azeitonas.jpg",
     "imageAlt": "Massa de atum com tomate e azeitonas",
     "ingredients": [
       "180–200 g korte pasta",
-      "2 blikjes atum em azeite, goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "1 kleine ui",
       "2 tenen knoflook",
-      "200 g tomate pelado inteiro uit blik of zeer rijpe verse tomaat",
+      "200 g tomate pelado inteiro (hele gepelde tomaten) uit blik of zeer rijpe verse tomaat",
       "2 el olijfolie",
       "hand azeitonas Galega pretas of stevige groene Portugese olijven",
       "peterselie of koriander",
       "peper",
-      "piripíri, optioneel"
+      "piripíri (Portugese chili), optioneel"
     ],
     "steps": [
       "Kook de pasta net gaar en bewaar een kopje kookwater. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
@@ -975,13 +975,13 @@ window.RECIPES = [
       "Voeg tomaat toe en laat 6–8 minuten inkoken. Laat de saus zacht borrelen tot hij niet meer waterig oogt en de olie aan de rand weer zichtbaar wordt; dan is de tomaat voldoende geconcentreerd.",
       "Voeg tonijn en olijven toe en warm kort mee. Schep de tonijn pas vlak voor de pasta door de saus, zodat de vlokken herkenbaar en sappig blijven.",
       "Meng de pasta door de saus. Gebruik wat kookwater om alles sappig te houden.",
-      "Werk af met kruiden en eventueel piripíri. Proef eerst op peper en pit en pas daarna op zout, omdat tonijn en olijven al een flinke hartige basis geven."
+      "Werk af met kruiden en eventueel piripíri (Portugese chili). Proef eerst op peper en pit en pas daarna op zout, omdat tonijn en olijven al een flinke hartige basis geven."
     ],
     "technique": {
       "title": "PASTAWATER GEBRUIKEN",
       "text": "Bewaar een kopje kookwater voordat je afgiet. Een paar lepels zetmeelrijk water maken de tomatensaus losser en helpen hem aan de pasta hechten. Hedendaagse snelle thuismaaltijd · ongeveer 20–25 minuten"
     },
-    "attention": "Dit is geen historische klassieker, maar wel een zeer logische moderne Portugese voorraadkastmaaltijd: pasta, ingeblikte tonijn, tomaat, azeite en olijven.",
+    "attention": "Dit is geen historische klassieker, maar wel een zeer logische moderne Portugese voorraadkastmaaltijd: pasta, ingeblikte tonijn, tomaat, azeite (olijfolie) en olijven.",
     "variations": []
   },
   {
@@ -998,8 +998,8 @@ window.RECIPES = [
     "image": "images/21-arroz-de-atum-rapido.jpg",
     "imageAlt": "Arroz de atum rápido",
     "ingredients": [
-      "180 g arroz agulha português",
-      "2 blikjes atum em azeite, goed uitgelekt",
+      "180 g arroz agulha português (Portugese langkorrelrijst)",
+      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "1 ui",
       "2 tenen knoflook",
       "1 laurierblad",
@@ -1007,7 +1007,7 @@ window.RECIPES = [
       "450 ml water",
       "peterselie",
       "peper",
-      "eventueel 75 g queijo Flamengo ralado; queijo da Ilha kan voor een krachtigere smaak"
+      "eventueel 75 g queijo Flamengo ralado (geraspte milde Portugese Flamengo-kaas); queijo da Ilha (pittige Azorenkaas) kan voor een krachtigere smaak"
     ],
     "steps": [
       "Fruit ui, knoflook en laurier in olijfolie. Laat de ui rustig zacht worden en zorg dat de knoflook alleen geurt; bruine knoflook zou in deze eenvoudige rijst snel bitter opvallen.",
@@ -1034,31 +1034,31 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2–3 personen",
-    "intro": "Legumes à Brás gebruikt dezelfde techniek als de bacalhauklassieker maar vervangt de vis door groenten. Het is inmiddels een heel gewone Portugese vegetarische oplossing, vooral wanneer er prei, courgette of wortel op moet.",
+    "intro": "Legumes à Brás (groenten met fijne aardappel en romig ei) gebruikt dezelfde techniek als de bacalhauklassieker maar vervangt de vis door groenten. Het is inmiddels een heel gewone Portugese vegetarische oplossing, vooral wanneer er prei, courgette of wortel op moet.",
     "image": "images/22-legumes-a-bras.jpg",
     "imageAlt": "Legumes à Brás",
     "ingredients": [
       "1 kleine prei, in halve ringen",
       "1 kleine courgette, in dunne reepjes",
       "1 wortel, geraspt of in fijne reepjes",
-      "250 g batata palha",
+      "250 g batata palha (krokante aardappelreepjes)",
       "4 eieren",
       "2–3 el olijfolie",
       "koriander of peterselie",
-      "zwarte Portugese olijven, liefst azeitona Galega",
+      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "zout en peper"
     ],
     "steps": [
       "Bak prei rustig in olijfolie. Laat hem zacht en zoet worden zonder veel kleur; hij vormt de zachte basis die in de klassieke à Brás door ui wordt geleverd.",
       "Voeg courgette en wortel toe en laat enkele minuten zacht worden zonder alles tot moes te koken. Stop zodra de groenten gaar maar nog herkenbaar zijn, want ze garen verder wanneer aardappel en ei erbij komen.",
-      "Meng de batata palha erdoor. Werk snel zodat een deel van de aardappel het vocht opneemt terwijl een ander deel nog wat krokant blijft.",
+      "Meng de batata palha (krokante aardappelreepjes) erdoor. Werk snel zodat een deel van de aardappel het vocht opneemt terwijl een ander deel nog wat krokant blijft.",
       "Klop de eieren los met peper en kruiden. Klop alleen tot dooier en wit gemengd zijn; veel lucht is hier niet nodig, omdat het ei vooral alles romig moet binden.",
       "Zet het vuur laag, voeg het ei toe en roer tot het romig bindt. Haal de pan van het vuur terwijl het nog glanst: restwarmte maakt het ei in enkele seconden verder gaar.",
-      "Serveer direct met zwarte olijven. Wachten maakt zowel het ei droger als de batata palha zachter, dus dit gerecht hoort meteen op tafel."
+      "Serveer direct met zwarte olijven. Wachten maakt zowel het ei droger als de batata palha (krokante aardappelreepjes) zachter, dus dit gerecht hoort meteen op tafel."
     ],
     "technique": {
       "title": "GROENTEN EERST DROOG BAKKEN",
-      "text": "Laat courgette en andere waterige groenten eerst vocht verliezen voordat aardappel en ei erbij gaan. Anders wordt de batata palha slap en bindt het ei slecht. Hedendaagse vegetarische thuisvariant · ongeveer 30 minuten"
+      "text": "Laat courgette en andere waterige groenten eerst vocht verliezen voordat aardappel en ei erbij gaan. Anders wordt de batata palha (krokante aardappelreepjes) slap en bindt het ei slecht. Hedendaagse vegetarische thuisvariant · ongeveer 30 minuten"
     },
     "attention": "De techniek is dezelfde als bij Bacalhau à Brás. De moderne groenteversie is inmiddels een gewone Portugese vegetarische oplossing; houd vooral het ei romig.",
     "variations": []
@@ -1078,7 +1078,7 @@ window.RECIPES = [
     "imageAlt": "Omelete de atum e salsa",
     "ingredients": [
       "3 eieren",
-      "1 klein blikje atum em azeite, goed uitgelekt",
+      "1 klein blikje atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "¼ ui, zeer fijn gesneden",
       "1 teen knoflook, fijngehakt",
       "flinke hand peterselie",
@@ -1117,7 +1117,7 @@ window.RECIPES = [
       "2 tenen knoflook",
       "2 wortels",
       "1 courgette",
-      "1 kleine batata para cozer",
+      "1 kleine batata para cozer (kookaardappelen)",
       "200 g pompoen",
       "½ prei",
       "hand kool, spinazie of sperziebonen",
@@ -1130,7 +1130,7 @@ window.RECIPES = [
       "Zet net onder water, voeg een beetje zout toe en kook tot alles zeer zacht is. Laat na het bereiken van de kook de pan rustig pruttelen; de groenten moeten zonder weerstand te pureren zijn, maar het vocht hoeft niet wild te koken.",
       "Pureer tot een gladde basis. Pureer tot de basis echt glad is en proef daarna opnieuw op zout en dikte; de soep dikt tijdens het staan nog iets verder in.",
       "Voeg fijngesneden kool, spinazie of sperziebonen toe en kook nog 5–10 minuten. Houd de groente liever net aan de stevige kant; hij gaart nog kort door in de hete pan en behoudt zo meer structuur.",
-      "Zet het vuur uit en voeg pas dan een goede scheut olijfolie toe. Door de azeite buiten het vuur toe te voegen blijft de frisse, peperige smaak beter herkenbaar in de soep."
+      "Zet het vuur uit en voeg pas dan een goede scheut olijfolie toe. Door de azeite (olijfolie) buiten het vuur toe te voegen blijft de frisse, peperige smaak beter herkenbaar in de soep."
     ],
     "technique": {
       "title": "TWEE TEXTUREN",
@@ -1153,10 +1153,10 @@ window.RECIPES = [
     "image": "images/25-arroz-de-tomate-com-ovo-estrelado.jpg",
     "imageAlt": "Arroz de tomate com ovo estrelado",
     "ingredients": [
-      "160 g arroz carolino",
+      "160 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
-      "250 g zeer rijpe tomaat of tomate pelado inteiro uit blik",
+      "250 g zeer rijpe tomaat of tomate pelado inteiro (hele gepelde tomaten) uit blik",
       "450–500 ml heet water",
       "3 el olijfolie",
       "2–4 eieren",
@@ -1166,7 +1166,7 @@ window.RECIPES = [
     "steps": [
       "Fruit ui en knoflook in olijfolie. Laat de ui eerst zacht en zoet worden en voeg de knoflook pas in de laatste minuut toe, zodat de basis geurig maar niet bitter wordt.",
       "Voeg tomaat toe en laat goed zacht worden. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
-      "Voeg arroz carolino en heet water toe en kook tot de rijst gaar en sappig is. Houd tegen het einde wat heet water bij de hand en zet de pan van het vuur voordat alle vloeistof is opgenomen.",
+      "Voeg arroz carolino (Portugese Carolino-rijst) en heet water toe en kook tot de rijst gaar en sappig is. Houd tegen het einde wat heet water bij de hand en zet de pan van het vuur voordat alle vloeistof is opgenomen.",
       "Bak ondertussen de eieren in olijfolie, met zachte of stevige dooier naar voorkeur. Gebruik middelhoog vuur zodat het wit snel stolt zonder dat de onderkant verbrandt; lepel eventueel wat hete olie over het wit rond de dooier.",
       "Serveer de eieren bovenop de arroz de tomate en werk af met kruiden. Schep de rijst op terwijl hij nog sappig is en laat de dooier aan tafel als extra saus in de tomatenrijst lopen."
     ],
@@ -1187,13 +1187,13 @@ window.RECIPES = [
     ],
     "time": "45–60 minuten",
     "servings": "2 personen",
-    "intro": "Gegrilde sardines horen bij de Portugese zomer, vooral rond de Santos Populares. Thuis draait het gerecht om verse sardines, veel hitte en simpele begeleiders: aardappel, geroosterde paprika, ui en azeite.",
+    "intro": "Gegrilde sardines horen bij de Portugese zomer, vooral rond de Santos Populares. Thuis draait het gerecht om verse sardines, veel hitte en simpele begeleiders: aardappel, geroosterde paprika, ui en azeite (olijfolie).",
     "image": "images/26-sardinhas-assadas-com-batatas-e-salada-de-pimentos.jpg",
     "imageAlt": "Sardinhas assadas com batatas e salada de pimentos",
     "ingredients": [
       "8–10 verse sardines",
       "grof zout",
-      "400 g kleine batata nova of andere kleine batata para cozer",
+      "400 g kleine batata nova (nieuwe aardappelen) of andere kleine batata para cozer (kookaardappelen)",
       "1 rode paprika",
       "1 groene paprika",
       "½ ui",
@@ -1227,12 +1227,12 @@ window.RECIPES = [
     ],
     "time": "15 minuten",
     "servings": "2 personen",
-    "intro": "Een van de eenvoudigste combinaties uit de hedendaagse Portugese thuiskeuken: grão-de-bico, tonijn, ei, ui en veel peterselie met azeite en azijn. Dit is lunch, lichte avondmaaltijd en marmita tegelijk; goedkoop, vullend en vrijwel volledig uit de voorraadkast.",
+    "intro": "Een van de eenvoudigste combinaties uit de hedendaagse Portugese thuiskeuken: grão-de-bico (kikkererwten), tonijn, ei, ui en veel peterselie met azeite (olijfolie) en azijn. Dit is lunch, lichte avondmaaltijd en marmita (meeneemlunch) tegelijk; goedkoop, vullend en vrijwel volledig uit de voorraadkast.",
     "image": "images/27-salada-de-grao-com-atum-e-ovo.jpg",
     "imageAlt": "Salada de grão com atum e ovo",
     "ingredients": [
       "400 g gekookte kikkererwten, uitgelekt",
-      "2 blikjes atum em azeite, goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "2 eieren",
       "½ kleine ui, zeer fijn gesneden",
       "flinke hand peterselie",
@@ -1245,13 +1245,13 @@ window.RECIPES = [
       "Meng kikkererwten, tonijn, ui en peterselie. Schep met een grote lepel van onder naar boven zodat de kikkererwten heel blijven en de tonijn niet tot fijne draadjes uiteenvalt.",
       "Klop olijfolie en azijn los met peper en eventueel een beetje zout. Houd de dressing eenvoudig en proef hem eerst apart: hij mag iets pittiger smaken dan je uiteindelijk in de salade wilt.",
       "Schep de dressing door de salade en leg de eieren erop. Laat vijf tot tien minuten staan en proef opnieuw, omdat kikkererwten verrassend veel zuur en zout opnemen.",
-      "Laat eventueel 10 minuten staan zodat de smaken intrekken. Serveer daarna op kamertemperatuur; zo zijn tonijn, azeite en ui duidelijker te proeven dan rechtstreeks uit de koelkast."
+      "Laat eventueel 10 minuten staan zodat de smaken intrekken. Serveer daarna op kamertemperatuur; zo zijn tonijn, azeite (olijfolie) en ui duidelijker te proeven dan rechtstreeks uit de koelkast."
     ],
     "technique": {
       "title": "EENVOUDIGE PORTUGESE VINAIGRETTE",
       "text": "Gebruik ongeveer twee delen olijfolie op één deel wijnazijn en proef pas daarna op zout. Tonijn uit blik is vaak al vrij zout."
     },
-    "attention": "Laat de kikkererwten zeer goed uitlekken en serveer de salade liever op kamertemperatuur dan ijskoud. Zo blijft de dressing geconcentreerd en proef je tonijn, ui en azeite beter.",
+    "attention": "Laat de kikkererwten zeer goed uitlekken en serveer de salade liever op kamertemperatuur dan ijskoud. Zo blijft de dressing geconcentreerd en proef je tonijn, ui en azeite (olijfolie) beter.",
     "variations": []
   },
   {
@@ -1269,8 +1269,8 @@ window.RECIPES = [
     "image": "images/28-salada-fria-de-arroz-com-atum.jpg",
     "imageAlt": "Salada fria de arroz com atum",
     "ingredients": [
-      "180 g arroz agulha português",
-      "2 blikjes atum em azeite, goed uitgelekt",
+      "180 g arroz agulha português (Portugese langkorrelrijst)",
+      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "100 g mais",
       "2 tomaten, in blokjes",
       "hand azeitonas Galega pretas of groene Portugese olijven",
@@ -1309,12 +1309,12 @@ window.RECIPES = [
     "imageAlt": "Massa fria de atum",
     "ingredients": [
       "200 g korte pasta",
-      "2 blikjes atum em azeite, goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "100 g mais",
       "2 tomaten",
       "hand azeitonas Galega pretas of groene Portugese olijven",
       "2 hardgekookte eieren",
-      "2 el azeite virgem extra of 2 el klassieke maionese",
+      "2 el azeite virgem extra (extra vierge olijfolie) of 2 el klassieke maionese",
       "1 tl wijnazijn of citroensap",
       "peterselie",
       "peper"
@@ -1349,10 +1349,10 @@ window.RECIPES = [
     "imageAlt": "Quiche de atum",
     "ingredients": [
       "1 rol kruimel- of bladerdeeg",
-      "2 blikjes atum em azeite, goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "1 ui, dun gesneden",
       "4 eieren",
-      "200 ml leite meio-gordo, of 150 ml leite meio-gordo + 50 ml natas para culinária",
+      "200 ml leite meio-gordo (halfvolle melk), of 150 ml leite meio-gordo (halfvolle melk) + 50 ml natas para culinária (kookroom)",
       "2 el olijfolie",
       "peterselie",
       "zwarte peper",
@@ -1391,12 +1391,12 @@ window.RECIPES = [
     "imageAlt": "Massa de atum no forno",
     "ingredients": [
       "300 g korte pasta",
-      "3 blikjes atum em azeite, goed uitgelekt",
+      "3 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "1 ui",
       "2 tenen knoflook",
-      "300 g tomate pelado",
-      "150 ml béchamel, of natas para culinária voor een rijkere versie",
-      "50–75 g queijo da Ilha ralado; queijo Flamengo ralado kan voor een mildere gratin",
+      "300 g tomate pelado (gepelde tomaten)",
+      "150 ml béchamel, of natas para culinária (kookroom) voor een rijkere versie",
+      "50–75 g queijo da Ilha ralado (geraspte pittige Azorenkaas); queijo Flamengo ralado (geraspte milde Portugese Flamengo-kaas) kan voor een mildere gratin",
       "3 el olijfolie",
       "peper en oregano of peterselie"
     ],
@@ -1429,12 +1429,12 @@ window.RECIPES = [
     "image": "images/32-tosta-de-atum.jpg",
     "imageAlt": "Tosta de atum",
     "ingredients": [
-      "4 stevige sneetjes pão de forma of pão de mistura",
-      "1–2 blikjes atum em azeite, goed uitgelekt",
+      "4 stevige sneetjes pão de forma (toastbrood) of pão de mistura (gemengd landbrood)",
+      "1–2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
       "¼ kleine ui, zeer fijn gesneden",
       "1 rijpe tomate coração-de-boi of andere stevige rijpe tomaat, dun gesneden",
-      "2 plakken queijo Flamengo, optioneel",
-      "1–2 el klassieke maionese of azeite virgem extra",
+      "2 plakken queijo Flamengo (milde Portugese Flamengo-kaas), optioneel",
+      "1–2 el klassieke maionese of azeite virgem extra (extra vierge olijfolie)",
       "peper",
       "oregano, optioneel"
     ],
@@ -1472,7 +1472,7 @@ window.RECIPES = [
       "1 teen knoflook",
       "2 el olijfolie",
       "zout en peper",
-      "pão de mistura, papo-seco of ander eenvoudig Portugees brood erbij"
+      "pão de mistura (gemengd landbrood), papo-seco (Portugees wit broodje) of ander eenvoudig Portugees brood erbij"
     ],
     "steps": [
       "Bak champignons op vrij hoog vuur in 1 el olijfolie tot hun vocht grotendeels verdampt. Pas het vuur aan zodra het sissen te agressief of juist te zwak wordt; je wilt gecontroleerd garen zonder verbrande randjes of een koude, waterige pan.",
@@ -1503,7 +1503,7 @@ window.RECIPES = [
     "image": "images/34-arroz-frito-com-legumes-e-ovo.jpg",
     "imageAlt": "Arroz frito com legumes e ovo",
     "ingredients": [
-      "350 g koude gekookte arroz agulha, liefst van de vorige dag",
+      "350 g koude gekookte arroz agulha (Portugese langkorrelrijst), liefst van de vorige dag",
       "3 eieren",
       "100 g erwten",
       "1 wortel, fijn gesneden",
@@ -1535,7 +1535,7 @@ window.RECIPES = [
     ],
     "time": "10 minuten",
     "servings": "2 personen",
-    "intro": "Cavala uit blik is in Portugal een normale en goedkope visvoorraad naast tonijn en sardines. Met kikkererwten, ui, peterselie, azeite en azijn krijg je zonder koken een complete maaltijd met uitgesprokenere vissmaak dan tonijn.",
+    "intro": "Cavala uit blik is in Portugal een normale en goedkope visvoorraad naast tonijn en sardines. Met kikkererwten, ui, peterselie, azeite (olijfolie) en azijn krijg je zonder koken een complete maaltijd met uitgesprokenere vissmaak dan tonijn.",
     "image": "images/35-cavala-com-grao.jpg",
     "imageAlt": "Cavala com grão",
     "ingredients": [
@@ -1572,15 +1572,15 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Douradinhos zijn geen gastronomisch erfgoed, maar ze horen wel bij de echte Portugese dagelijkse eetcultuur: diepvriesvis uit de oven of pan met een zelfgemaakte arroz de tomate. Juist de combinatie van gemak en een klassieke rijstbereiding maakt dit een geloofwaardige jonge-huishoudensmaaltijd.",
+    "intro": "Douradinhos (vissticks) zijn geen gastronomisch erfgoed, maar ze horen wel bij de echte Portugese dagelijkse eetcultuur: diepvriesvis uit de oven of pan met een zelfgemaakte arroz de tomate. Juist de combinatie van gemak en een klassieke rijstbereiding maakt dit een geloofwaardige jonge-huishoudensmaaltijd.",
     "image": "images/36-douradinhos-com-arroz-de-tomate.jpg",
     "imageAlt": "Douradinhos com arroz de tomate",
     "ingredients": [
-      "8–10 douradinhos",
-      "160 g arroz carolino",
+      "8–10 douradinhos (vissticks)",
+      "160 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
-      "250 g tomate pelado",
+      "250 g tomate pelado (gepelde tomaten)",
       "450–500 ml heet water",
       "3 el olijfolie",
       "1 laurierblad",
@@ -1588,17 +1588,17 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Bereid de douradinhos volgens de verpakking, liefst in oven of airfryer. Laat ze goud en krokant worden en houd ze daarna onafgedekt; onder een deksel wordt de paneerlaag snel zacht.",
+      "Bereid de douradinhos (vissticks) volgens de verpakking, liefst in oven of airfryer. Laat ze goud en krokant worden en houd ze daarna onafgedekt; onder een deksel wordt de paneerlaag snel zacht.",
       "Fruit ondertussen ui en knoflook in olijfolie. Laat de ui zacht worden zonder veel kleur en voeg de knoflook pas in de laatste minuut toe, zodat hij geurig blijft.",
       "Voeg tomaat en laurier toe en laat 5–7 minuten stoven. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
       "Voeg rijst en heet water toe en kook tot de rijst gaar en nog sappig is. Zet hem iets natter van het vuur dan je uiteindelijk wilt, want carolino blijft tijdens het opscheppen vocht opnemen.",
-      "Werk af met kruiden en serveer direct met de krokante vis. Proef de rijst op zout en peper vóór de douradinhos erbij komen, zodat je hun zoute paneerlaag niet per ongeluk dubbel compenseert."
+      "Werk af met kruiden en serveer direct met de krokante vis. Proef de rijst op zout en peper vóór de douradinhos (vissticks) erbij komen, zodat je hun zoute paneerlaag niet per ongeluk dubbel compenseert."
     ],
     "technique": {
       "title": "ARROZ DE TOMATE",
       "text": "Gebruik carolino en voldoende vocht. De rijst hoort niet droog op het bord te liggen; zet hem iets te nat van het vuur, want hij blijft bouillon opnemen."
     },
-    "attention": "Douradinhos zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate eerst vrijwel klaar en bak de vis pas op het einde.",
+    "attention": "Douradinhos (vissticks) zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate eerst vrijwel klaar en bak de vis pas op het einde.",
     "variations": []
   },
   {
@@ -1611,32 +1611,32 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2–3 personen",
-    "intro": "Rissóis worden thuis soms zelf gemaakt, maar veel vaker liggen ze kant-en-klaar in diepvries of delicatessenzaak. Met arroz de tomate ernaast ontstaat een heel normaal Portugees bord: iets krokants uit de frituur of oven naast zachte, sappige rijst.",
+    "intro": "Rissóis (gevulde Portugese deeghapjes) worden thuis soms zelf gemaakt, maar veel vaker liggen ze kant-en-klaar in diepvries of delicatessenzaak. Met arroz de tomate ernaast ontstaat een heel normaal Portugees bord: iets krokants uit de frituur of oven naast zachte, sappige rijst.",
     "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
     "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "ingredients": [
-      "8–10 rissóis de camarão of rissóis de bacalhau",
-      "180 g arroz carolino",
+      "8–10 rissóis (gevulde Portugese deeghapjes) de camarão of rissóis (gevulde Portugese deeghapjes) de bacalhau",
+      "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
-      "250 g tomate pelado",
+      "250 g tomate pelado (gepelde tomaten)",
       "500 ml heet water",
       "3 el olijfolie",
       "1 laurierblad",
       "koriander of peterselie"
     ],
     "steps": [
-      "Bereid de rissóis volgens de verpakking: frituur, oven of airfryer. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
+      "Bereid de rissóis (gevulde Portugese deeghapjes) volgens de verpakking: frituur, oven of airfryer. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
       "Fruit ui en knoflook in olijfolie. Laat de ui rustig zacht worden en voeg de knoflook pas op het einde toe, zodat de basis zoet en geurig blijft zonder verbrande tonen.",
       "Voeg tomaat en laurier toe en laat goed zacht worden. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
       "Voeg rijst en heet water toe en kook rustig gaar. Roer af en toe langs de bodem en voeg alleen extra heet water toe als de rijst nog hard is terwijl het vocht vrijwel verdwenen is.",
-      "Houd de arroz de tomate sappig en serveer de rissóis pas op het laatste moment zodat ze krokant blijven. Leg ze liever naast dan bovenop de rijst, anders maakt de stoom de korst snel zacht."
+      "Houd de arroz de tomate sappig en serveer de rissóis (gevulde Portugese deeghapjes) pas op het laatste moment zodat ze krokant blijven. Leg ze liever naast dan bovenop de rijst, anders maakt de stoom de korst snel zacht."
     ],
     "technique": {
       "title": "FRITUREN ZONDER VETTIG RESULTAAT",
       "text": "Als je frituurt, houd de olie rond 175–180 °C en bak niet te veel stuks tegelijk. Te koude olie wordt door het paneermeel opgenomen; te hete olie kleurt buiten voordat de vulling warm is."
     },
-    "attention": "Leg de rissóis naast de arroz de tomate en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
+    "attention": "Leg de rissóis (gevulde Portugese deeghapjes) naast de arroz de tomate en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
     "variations": []
   }
 ];
