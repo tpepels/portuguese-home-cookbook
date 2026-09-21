@@ -41,8 +41,16 @@
   const shorten = (value = "", max = 105) =>
     value.length <= max ? value : `${value.slice(0, max - 1).trim()}…`;
 
+  const cleanTags = (recipe) => (recipe.tags || [])
+    .map(compactTag)
+    .filter(Boolean)
+    .filter(tag => !/\bpersonen?\b/i.test(tag) && !/\bmin(?:uten)?\b/i.test(tag));
+
+  const servingsFor = (recipe) => recipe.servings ||
+    (recipe.tags || []).map(compactTag).find(tag => /\bpersonen?\b/i.test(tag)) || "—";
+
   const makeSubtitle = (recipe) => {
-    const tags = (recipe.tags || []).map(compactTag).filter(Boolean);
+    const tags = cleanTags(recipe);
     if (tags.length) return tags.join(" / ").toUpperCase();
     return recipe.chapter.toUpperCase();
   };
@@ -53,7 +61,7 @@
   };
 
   const makeTheme = (recipe) => {
-    const tags = (recipe.tags || []).map(compactTag).filter(Boolean);
+    const tags = cleanTags(recipe);
     return tags.slice(0, 3).join(" • ") || recipe.chapter;
   };
 
@@ -126,9 +134,9 @@
 
   function renderFacts(recipe, includeIcons = false) {
     const entries = [
-      { icon: "🍽", label: "Voor", value: recipe.servings || "—" },
-      { icon: "🕒", label: "Tijd", value: recipe.time || "—" },
-      { icon: "❦", label: "Type", value: makeTheme(recipe).replace(/ • /g, " / ") || "—" }
+      { icon: "♙", label: "Voor", value: servingsFor(recipe) },
+      { icon: "◷", label: "Tijd", value: recipe.time || "—" },
+      { icon: "❧", label: "Type", value: makeTheme(recipe).replace(/ • /g, " / ") || "—" }
     ];
 
     return entries.map(entry => `
