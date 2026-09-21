@@ -70,16 +70,18 @@
       `;
     }).join("");
 
-    const toc = page("single-page front-copy", `
-      <h2>Inhoud</h2>
-      <div class="toc-list">${tocItems}</div>
+    const toc = page("single-page front-copy fit-page", `
+      <div class="fit-content">
+        <h2>Inhoud</h2>
+        <div class="toc-list">${tocItems}</div>
+      </div>
     `);
 
     const intro = page("single-page front-copy", `
       <h2>Over dit boek</h2>
       <p>Dit boek is opgezet als een praktisch Portugees thuisrepertoire. Sommige gerechten zijn oude regionale klassiekers; andere zijn gewone doordeweekse maaltijden die nu in Portugese huishoudens worden gemaakt. Moderne varianten worden ook als zodanig benoemd.</p>
       <p>De vaste beperking is geen vlees. Vis, schaal- en schelpdieren, eieren en zuivel blijven onderdeel van het repertoire. Techniek krijgt extra aandacht waar een Portugees recept vaak veronderstelt dat je al weet wat bijvoorbeeld pocheren, malandrinho of à Brás betekent.</p>
-      <p>De linkerpagina laat het gerecht zien. Rechts staat het recept: context, ingrediënten, bereiding en alleen waar nuttig een apart techniekblok.</p>
+      <p>Elke receptspread werkt met vaste blokken: context, ingrediënten, bereiding en techniek. Daardoor kun je een recept snel scannen zonder dat de pagina als één lange tekstkolom voelt.</p>
     `);
 
     book.append(cover, toc, intro);
@@ -114,7 +116,6 @@
           loading="lazy"
         >
       </div>
-      <div class="photo-shade"></div>
       <div class="photo-caption">
         <div class="photo-kicker">${esc(recipe.chapter)}</div>
         <h2>${esc(recipe.title)}</h2>
@@ -143,51 +144,89 @@
     const steps = (recipe.steps || [])
       .map(item => `<li>${esc(item)}</li>`).join("");
 
-    const notes = [];
-    if (recipe.technique?.text) {
-      notes.push(`
-        <aside class="info-box technique">
-          <h3>Techniek — ${esc(recipe.technique.title)}</h3>
-          <p>${esc(recipe.technique.text)}</p>
-        </aside>
-      `);
-    }
-    if (recipe.attention) {
-      notes.push(`
-        <aside class="info-box attention">
-          <h3>Waarop letten</h3>
-          <p>${esc(recipe.attention)}</p>
-        </aside>
-      `);
-    }
+    const technique = recipe.technique?.text ? `
+      <aside class="content-block technique-block">
+        <div class="block-label">Techniek</div>
+        <h3>${esc(recipe.technique.title)}</h3>
+        <p>${esc(recipe.technique.text)}</p>
+      </aside>
+    ` : "";
 
-    const density = (recipe.ingredients?.length || 0) + (recipe.steps?.length || 0);
-    const dense = density > 17 || (recipe.intro || "").length > 350 ? "dense" : "";
+    const attention = recipe.attention ? `
+      <aside class="content-block attention-block">
+        <div class="block-label">Let op</div>
+        <h3>Waarop letten</h3>
+        <p>${esc(recipe.attention)}</p>
+      </aside>
+    ` : "";
 
-    const text = page(`recipe-page ${dense}`, `
-      <header class="recipe-header">
-        <div class="recipe-eyebrow">${esc(recipe.label)} · ${esc(recipe.chapter)}</div>
-        <h1>${esc(recipe.title)}</h1>
-        <p class="recipe-intro">${esc(recipe.intro || "")}</p>
-      </header>
+    const noteCount = Number(Boolean(technique)) + Number(Boolean(attention));
+    const notesClass = noteCount === 2 ? "notes-grid two" : "notes-grid";
 
-      <div class="meta-strip">${meta}</div>
+    const text = page("recipe-page fit-page", `
+      <div class="recipe-content fit-content">
+        <header class="recipe-header">
+          <div class="recipe-eyebrow">${esc(recipe.label)} · ${esc(recipe.chapter)}</div>
+          <h1>${esc(recipe.title)}</h1>
+        </header>
 
-      <div class="recipe-columns">
-        <section class="recipe-section">
-          <h3>Ingrediënten</h3>
-          <ul class="ingredients">${ingredients}</ul>
+        <section class="context-block content-block">
+          <div class="block-label">Over dit gerecht</div>
+          <p>${esc(recipe.intro || "")}</p>
         </section>
-        <section class="recipe-section">
-          <h3>Bereiding</h3>
-          <ol class="steps">${steps}</ol>
-        </section>
+
+        <div class="meta-strip">${meta}</div>
+
+        <div class="recipe-block-grid">
+          <section class="content-block ingredients-block">
+            <div class="block-label">Wat je nodig hebt</div>
+            <h3>Ingrediënten</h3>
+            <ul class="ingredients">${ingredients}</ul>
+          </section>
+
+          <section class="content-block method-block">
+            <div class="block-label">Zo maak je het</div>
+            <h3>Bereiding</h3>
+            <ol class="steps">${steps}</ol>
+          </section>
+        </div>
+
+        <div class="${notesClass}">
+          ${technique}
+          ${attention}
+        </div>
       </div>
-
-      <div class="recipe-notes">${notes.join("")}</div>
     `);
 
     book.append(spread("recipe-spread", photo, text));
+  }
+
+  function fitPage(page) {
+    const content = page.querySelector(".fit-content");
+    if (!content) return;
+
+    page.classList.remove("compact", "tight", "ultra");
+    content.style.removeProperty("--fit-scale");
+
+    const overflows = () => content.scrollHeight > page.clientHeight - 2;
+
+    if (overflows()) page.classList.add("compact");
+    if (overflows()) page.classList.add("tight");
+    if (overflows()) page.classList.add("ultra");
+
+    if (overflows()) {
+      const available = page.clientHeight - 8;
+      const needed = content.scrollHeight;
+      const scale = Math.max(0.72, Math.min(1, available / needed));
+      content.style.setProperty("--fit-scale", scale.toFixed(4));
+      page.classList.add("scaled");
+    } else {
+      page.classList.remove("scaled");
+    }
+  }
+
+  function fitAllPages() {
+    document.querySelectorAll(".fit-page").forEach(fitPage);
   }
 
   function render() {
@@ -202,6 +241,9 @@
     });
 
     count.textContent = `· ${recipes.length} recepten`;
+
+    requestAnimationFrame(() => requestAnimationFrame(fitAllPages));
+    if (document.fonts?.ready) document.fonts.ready.then(fitAllPages);
   }
 
   toggle.addEventListener("click", () => {
@@ -209,9 +251,16 @@
     toggle.textContent = document.body.classList.contains("single-view")
       ? "Spreads"
       : "Enkele pagina";
+    requestAnimationFrame(fitAllPages);
   });
 
-  printButton.addEventListener("click", () => window.print());
+  printButton.addEventListener("click", () => {
+    fitAllPages();
+    window.print();
+  });
+
+  window.addEventListener("resize", fitAllPages);
+  window.addEventListener("beforeprint", fitAllPages);
 
   render();
 })();
