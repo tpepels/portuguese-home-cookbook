@@ -33,7 +33,7 @@ window.RECIPES = [
       "Voeg tomaat toe en laat 5–7 minuten inkoken tot de rauwe tomatensmaak weg is. Roer af en toe over de bodem en wacht tot de tomaat zichtbaar donkerder en zoeter ruikt; pas dan vormt hij een goede basis voor de rijst.",
       "Blus met witte wijn en laat ongeveer de helft verdampen. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
       "Voeg rijst toe en daarna ongeveer 550 ml hete bouillon. Kook zachtjes zonder de rijst droog te laten vallen. Voeg zo nodig meer bouillon toe.",
-      "Wanneer de rijst net gaar is maar het geheel nog duidelijk “malandrinho (sappig en bouillonachtig)” — los en bouillonachtig — voeg je de stukken lagosta toe. Verwarm 2–3 minuten.",
+      "Wanneer de rijst net gaar is maar nog duidelijk malandrinho (sappig en bouillonachtig) is, voeg je de stukken lagosta toe. Verwarm 2–3 minuten; de rijst hoort los en lepelbaar te blijven.",
       "Haal van het vuur, meng de koriander erdoor en serveer meteen. Schep slechts één keer voorzichtig om, zodat de stukken lagosta heel blijven en de koriander zijn frisse geur behoudt."
     ],
     "technique": {
@@ -43,10 +43,10 @@ window.RECIPES = [
     "attention": "Arroz malandrinho (sappig en bouillonachtig) hoort niet op risotto te lijken en ook niet droog te zijn. Er moet nog een lepelbare, smakelijke bouillon rond de rijst zitten.",
     "variations": [],
     "nutrition": {
-      "kcal": 770,
-      "protein": 21,
+      "kcal": 740,
+      "protein": 19,
       "carbs": 106,
-      "fat": 26
+      "fat": 24
     }
   },
   {
@@ -86,13 +86,13 @@ window.RECIPES = [
       "title": "EEN EI POCHEREN",
       "text": "Houd het water net onder de kook en laat het ei er voorzichtig in glijden. Drie tot vier minuten geeft gestold eiwit en een zachte dooier; hard borrelend water trekt het ei uit elkaar."
     },
-    "attention": "Dit is een açorda (Portugees broodgerecht)-techniek, geen broodsoep uit de blender. Houd structuur in het brood en gebruik genoeg olijfolie en koriander.",
+    "attention": "Dit gebruikt de techniek van açorda (Portugees broodgerecht), niet die van een gladde broodsoep. Houd structuur in het brood en gebruik genoeg olijfolie en koriander.",
     "variations": [],
     "nutrition": {
-      "kcal": 840,
-      "protein": 31,
-      "carbs": 91,
-      "fat": 39
+      "kcal": 810,
+      "protein": 29,
+      "carbs": 88,
+      "fat": 38
     }
   },
   {
@@ -128,7 +128,7 @@ window.RECIPES = [
       "Leg in een brede pan een laag ui, knoflook, tomaat en paprika. Besprenkel met olijfolie.",
       "Leg daarop de aardappelschijven. Voeg laurier, pimentão-doce (zoet paprikapoeder), peper en een beetje zout toe.",
       "Giet wijn en ongeveer 100 ml water of bouillon erbij. Dek af en laat 10–12 minuten zacht koken.",
-      "Verdeel de stukken uit het caldeirada (Portugese visstoof)-pakket bovenop. Grote, stevige stukken onderaan; kwetsbare stukken erboven.",
+      "Verdeel de stukken uit het Caldeirada de Peniche-pakket (Peniche-visstoofpakket) bovenop. Leg grotere, stevigere stukken onderaan en kwetsbare stukken erboven.",
       "Dek opnieuw af en laat rustig garen tot aardappel en vis gaar zijn, meestal nog 10–15 minuten afhankelijk van de stukken. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
       "Schud de pan af en toe voorzichtig heen en weer. Niet met een lepel door de vis roeren.",
       "Werk af met veel koriander of peterselie en een scheut olijfolie. Proef vooral het kookvocht: het moet krachtig genoeg zijn om aardappel en vis te dragen, maar nog helder en niet overdreven zout."
@@ -140,10 +140,10 @@ window.RECIPES = [
     "attention": "Een caldeirada (Portugese visstoof) moet voldoende vocht hebben om brood in te dopen, maar het is geen dunne vissoep. De aardappel bindt het kookvocht licht.",
     "variations": [],
     "nutrition": {
-      "kcal": 920,
-      "protein": 68,
-      "carbs": 70,
-      "fat": 38
+      "kcal": 780,
+      "protein": 55,
+      "carbs": 57,
+      "fat": 34
     }
   },
   {
@@ -190,10 +190,10 @@ window.RECIPES = [
     "attention": "De pasta kookt in de saus en bouillon zelf. Afgieten vernietigt precies het karakter van het gerecht.",
     "variations": [],
     "nutrition": {
-      "kcal": 790,
-      "protein": 60,
-      "carbs": 74,
-      "fat": 26
+      "kcal": 690,
+      "protein": 49,
+      "carbs": 65,
+      "fat": 23
     }
   },
   {
@@ -218,7 +218,7 @@ window.RECIPES = [
       "½–1 citroen",
       "piripíri (Portugese chili), optioneel",
       "zout alleen indien nodig",
-      "pão de mistura (gemengd landbrood) of pão alentejano (Alentejaans landbrood) om het knoflook-koriandervocht op te nemen"
+      "100 g pão de mistura (gemengd landbrood) of pão alentejano (Alentejaans landbrood), om het knoflook-koriandervocht op te nemen"
     ],
     "steps": [
       "Laat de amêijoas (venusschelpen) ontdooien en uitlekken. Laat het product daarna goed uitlekken en dep het zo nodig droog; overtollig vocht verdunt de saus en belemmert bruinen.",
@@ -235,9 +235,9 @@ window.RECIPES = [
     "attention": "De klassieke versie wordt met hele amêijoas (venusschelpen) in de schelp gemaakt. Met miolo (schelpdiervlees) krijg je niet hetzelfde kookvocht, maar knoflook, azeite (olijfolie), coentros (koriander) en citroen blijven de juiste smaakstructuur. Voeg geen room toe.",
     "variations": [],
     "nutrition": {
-      "kcal": 490,
-      "protein": 22,
-      "carbs": 35,
+      "kcal": 470,
+      "protein": 21,
+      "carbs": 30,
       "fat": 30
     }
   },
@@ -275,15 +275,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "AÇORDA OPBOUWEN",
-      "text": "Giet hete bouillon geleidelijk over het brood. Het moet volledig zacht en sappig worden, maar niet worden fijgeroerd tot een gladde pap."
+      "text": "Giet hete bouillon geleidelijk over het brood. Het moet volledig zacht en sappig worden, maar roer het niet fijn tot een gladde pap."
     },
     "attention": "De kwaliteit zit in de verhouding brood, geurige bouillon, rauwe kruidigheid van koriander en olijfolie. Maak het niet droog.",
     "variations": [],
     "nutrition": {
-      "kcal": 740,
-      "protein": 35,
-      "carbs": 68,
-      "fat": 36
+      "kcal": 730,
+      "protein": 34,
+      "carbs": 67,
+      "fat": 37
     }
   },
   {
@@ -330,9 +330,9 @@ window.RECIPES = [
     "attention": "Serveer onmiddellijk. arroz de marisco (zeevruchtenrijst) blijft niet netjes “wachten”: de rijst zuigt het vocht op en wordt droog.",
     "variations": [],
     "nutrition": {
-      "kcal": 750,
-      "protein": 35,
-      "carbs": 85,
+      "kcal": 730,
+      "protein": 38,
+      "carbs": 83,
       "fat": 26
     }
   },
@@ -346,7 +346,7 @@ window.RECIPES = [
     ],
     "time": "35 minuten",
     "servings": "2–3 personen",
-    "intro": "De cataplana is zowel pan als kookmethode uit de Algarve. Zeevruchten, tomaat, paprika, ui en wijn garen in een afgesloten metalen schaal, waardoor aroma en stoom nauwelijks ontsnappen.",
+    "intro": "De cataplana (schelpvormige Portugese stoompan) is zowel pan als kookmethode uit de Algarve. Zeevruchten, tomaat, paprika, ui en wijn garen afgesloten, waardoor aroma en stoom nauwelijks ontsnappen.",
     "image": "images/4b-cataplana-de-marisco-a-algarvia-zonder-vlees.jpg",
     "imageAlt": "Cataplana de marisco à algarvia, zonder vlees",
     "ingredients": [
@@ -364,10 +364,10 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Gebruik een echte cataplana als je die hebt; anders een brede pan met een goed sluitend deksel. Een brede pan verdeelt de ingrediënten in een dunne laag en een goed deksel houdt de stoom binnen, precies wat deze bereiding nodig heeft.",
+      "Gebruik een echte cataplana (schelpvormige Portugese stoompan) als je die hebt; anders een brede pan met een goed sluitend deksel. Een brede pan verdeelt de ingrediënten in een dunne laag en een goed deksel houdt de stoom binnen.",
       "Leg ui, knoflook, paprika en tomaat in lagen. Voeg laurier, pimentão-doce (zoet paprikapoeder), peper, een beetje zout en olijfolie toe.",
       "Verdeel de mariscada (zeevruchtenmix) erover en giet de witte wijn langs de rand. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
-      "Sluit de cataplana of pan en gaar op middellaag vuur. Open zo weinig mogelijk. Reken grofweg 8–12 minuten zodra alles goed heet is, maar volg voor rauwe onderdelen de verpakking.",
+      "Sluit de cataplana (schelpvormige Portugese stoompan) of pan en gaar op middellaag vuur. Open zo weinig mogelijk en reken grofweg 8–12 minuten zodra alles goed heet is; volg voor rauwe onderdelen altijd de gaartijd op de verpakking.",
       "Open, controleer of alles volledig gaar is en proef het kookvocht. Laat eventueel nog een paar minuten zonder deksel inkoken.",
       "Voeg vlak voor het serveren een royale hoeveelheid koriander toe. Doe dat pas nadat de pan van het vuur is, zodat de koriander fris blijft en niet tot een vlakke, gekookte kruidensmaak verliest."
     ],
@@ -379,8 +379,8 @@ window.RECIPES = [
     "variations": [],
     "nutrition": {
       "kcal": 460,
-      "protein": 28,
-      "carbs": 23,
+      "protein": 32,
+      "carbs": 21,
       "fat": 25
     }
   },
@@ -405,7 +405,7 @@ window.RECIPES = [
       "4 eieren",
       "3–4 el olijfolie",
       "hand peterselie, fijngehakt",
-      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
+      "40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "zwarte peper",
       "zout alleen indien nodig"
     ],
@@ -425,10 +425,10 @@ window.RECIPES = [
     "attention": "Het eindresultaat hoort smeuïg te zijn. Droog roerei met kabeljauw is de meest voorkomende mislukking.",
     "variations": [],
     "nutrition": {
-      "kcal": 800,
-      "protein": 51,
-      "carbs": 35,
-      "fat": 50
+      "kcal": 730,
+      "protein": 48,
+      "carbs": 33,
+      "fat": 45
     }
   },
   {
@@ -451,7 +451,7 @@ window.RECIPES = [
       "2 tenen knoflook",
       "3 eieren",
       "5 el olijfolie",
-      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
+      "40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "peterselie",
       "peper",
       "zout"
@@ -471,10 +471,10 @@ window.RECIPES = [
     "attention": "Niet verdrinken in saus. Dit gerecht draait om goede bacalhau (gezouten kabeljauw), aardappel, ui en veel fatsoenlijke olijfolie.",
     "variations": [],
     "nutrition": {
-      "kcal": 700,
-      "protein": 45,
-      "carbs": 47,
-      "fat": 37
+      "kcal": 670,
+      "protein": 42,
+      "carbs": 43,
+      "fat": 36
     }
   },
   {
@@ -520,9 +520,9 @@ window.RECIPES = [
     "variations": [],
     "nutrition": {
       "kcal": 680,
-      "protein": 38,
-      "carbs": 53,
-      "fat": 35
+      "protein": 34,
+      "carbs": 48,
+      "fat": 39
     }
   },
   {
@@ -535,7 +535,7 @@ window.RECIPES = [
     ],
     "time": "45 minuten",
     "servings": "2–3 personen",
-    "intro": "Pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) zijn platte, onregelmatige bacalhau (gezouten kabeljauw)-beignets en geen dikke viskoekjes. Met sappige arroz de feijão (bonenrijst) vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
+    "intro": "Pataniscas (platte kabeljauwbeignets) zijn onregelmatig en vrij dun, niet dik als viskoekjes. Met sappige arroz de feijão (bonenrijst) vormen ze een klassiek Portugees bord waarin krokant en zacht naast elkaar staan.",
     "image": "images/8-pataniscas-de-bacalhau-com-arroz-de-feijao.jpg",
     "imageAlt": "Pataniscas de bacalhau com arroz de feijão",
     "ingredients": [
@@ -559,21 +559,21 @@ window.RECIPES = [
     "steps": [
       "Maak eerst de rijst. Fruit ui en knoflook, voeg tomaat en laurier toe en laat enkele minuten stoven.",
       "Voeg rijst, bonen en hete vloeistof toe. Kook tot de rijst gaar maar nog duidelijk sappig is.",
-      "Meng voor de pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau (gezouten kabeljauw) straks kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
+      "Meng voor de pataniscas (platte kabeljauwbeignets) bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau (gezouten kabeljauw) kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
       "Meng bacalhau (gezouten kabeljauw), ui, peterselie en peper erdoor. Roer alleen tot alles gelijkmatig verdeeld is; een te lang gemengd beslag wordt taai en verliest de losse structuur van de vis.",
-      "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Houd de olie rond 175–180 °C en bak in kleine porties, zodat de pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) snel kleuren zonder veel vet op te nemen.",
+      "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Houd de olie rond 175–180 °C en bak in kleine porties, zodat de pataniscas (platte kabeljauwbeignets) snel kleuren zonder veel vet op te nemen.",
       "Serveer direct met de arroz de feijão (bonenrijst). Schep de rijst op terwijl er nog zichtbaar vocht rond de korrels zit; tijdens het eten dikt hij vanzelf verder in."
     ],
     "technique": {
       "title": "ONDIEP BAKKEN",
       "text": "Het beslag moet dik genoeg zijn om aan een lepel te blijven hangen. Bak in een laag hete olie en geef de patanisca ruimte; te koude olie maakt hem vet, te hete olie verbrandt de buitenkant."
     },
-    "attention": "Pataniscas (platte bacalhau (gezouten kabeljauw)-beignets) zijn platte, onregelmatige beignets van bacalhau (gezouten kabeljauw); maak er geen dikke ronde viskoekjes van.",
+    "attention": "Pataniscas (platte kabeljauwbeignets) horen plat en onregelmatig te zijn. Maak er geen dikke ronde viskoekjes van.",
     "variations": [],
     "nutrition": {
       "kcal": 870,
-      "protein": 43,
-      "carbs": 103,
+      "protein": 41,
+      "carbs": 106,
       "fat": 31
     }
   },
@@ -596,7 +596,7 @@ window.RECIPES = [
       "2 wortels",
       "200 g grelos, sperziebonen of kool",
       "2 eieren",
-      "goede olijfolie",
+      "2 el goede olijfolie",
       "1 citroen",
       "zout en peper"
     ],
@@ -615,9 +615,9 @@ window.RECIPES = [
     "attention": "Dit is bewust eenvoudig. In de Portugese dagelijkse keuken wordt vis vaak veel minder “aangekleed” dan in restaurantrecepten.",
     "variations": [],
     "nutrition": {
-      "kcal": 590,
-      "protein": 48,
-      "carbs": 53,
+      "kcal": 610,
+      "protein": 47,
+      "carbs": 55,
       "fat": 21
     }
   },
@@ -663,10 +663,10 @@ window.RECIPES = [
     "attention": "Niet wachten tot de vis kurkdroog is. De graat moet makkelijk loslaten en het vlees nog sappig zijn.",
     "variations": [],
     "nutrition": {
-      "kcal": 740,
-      "protein": 49,
+      "kcal": 790,
+      "protein": 51,
       "carbs": 56,
-      "fat": 32
+      "fat": 37
     }
   },
   {
@@ -711,10 +711,10 @@ window.RECIPES = [
     "attention": "Net als arroz de marisco (zeevruchtenrijst) moet arroz de polvo (octopus) niet droog op het bord staan.",
     "variations": [],
     "nutrition": {
-      "kcal": 670,
+      "kcal": 680,
       "protein": 44,
-      "carbs": 68,
-      "fat": 21
+      "carbs": 70,
+      "fat": 22
     }
   },
   {
@@ -732,7 +732,7 @@ window.RECIPES = [
     "imageAlt": "Salada de feijão-frade com atum e ovo",
     "ingredients": [
       "300 g gekookte feijão-frade (zwartoogbonen), uitgelekt",
-      "1 blik atum em azeite (tonijn in olijfolie) van goede kwaliteit, ongeveer 120–160 g uitgelekt",
+      "1 groot blik atum em azeite (tonijn in olijfolie), ongeveer 120 g uitgelekt",
       "2 eieren",
       "½ kleine ui, zeer fijn gesneden",
       "flinke hand peterselie",
@@ -751,12 +751,12 @@ window.RECIPES = [
       "title": "OP KAMERTEMPERATUUR SERVEREN",
       "text": "Haal de salade 10–15 minuten voor het eten uit de koelkast. Zeer koude bonen en olijfolie smaken vlakker; op kamertemperatuur komt de dressing duidelijker naar voren."
     },
-    "attention": "Dit is precies het soort eenvoudige lunch of lichte avondmaaltijd waarvoor geen “receptenrestaurantlogica” nodig is.",
+    "attention": "Serveer deze salade liever op kamertemperatuur dan ijskoud. Zo nemen de feijão-frade (zwartoogbonen) de dressing beter op en blijven tonijn, ui en peterselie duidelijk van smaak.",
     "variations": [],
     "nutrition": {
-      "kcal": 570,
-      "protein": 38,
-      "carbs": 33,
+      "kcal": 560,
+      "protein": 36,
+      "carbs": 36,
       "fat": 31
     }
   },
@@ -798,10 +798,10 @@ window.RECIPES = [
     "attention": "Er hoort geen gebonden roomsoep te ontstaan. De eenvoud is het gerecht: brood, knoflook, koriander, olijfolie, water en ei.",
     "variations": [],
     "nutrition": {
-      "kcal": 630,
+      "kcal": 640,
       "protein": 17,
-      "carbs": 63,
-      "fat": 35
+      "carbs": 64,
+      "fat": 36
     }
   },
   {
@@ -826,7 +826,7 @@ window.RECIPES = [
       "1 laurierblad",
       "500 ml water",
       "2–3 eieren",
-      "pão alentejano (Alentejaans landbrood) of pão de mistura (gemengd landbrood) van de vorige dag",
+      "120 g pão alentejano (Alentejaans landbrood) of pão de mistura (gemengd landbrood) van de vorige dag",
       "oregano of koriander, afhankelijk van voorkeur",
       "zout en peper"
     ],
@@ -845,9 +845,9 @@ window.RECIPES = [
     "attention": "Ook dit is een broodmaaltijd. De soep mag uitgesproken naar tomaat en olijfolie smaken; maak hem niet zoet of romig.",
     "variations": [],
     "nutrition": {
-      "kcal": 440,
-      "protein": 14,
-      "carbs": 46,
+      "kcal": 430,
+      "protein": 13,
+      "carbs": 42,
       "fat": 23
     }
   },
@@ -889,8 +889,8 @@ window.RECIPES = [
     "nutrition": {
       "kcal": 320,
       "protein": 9,
-      "carbs": 39,
-      "fat": 15
+      "carbs": 40,
+      "fat": 14
     }
   },
   {
@@ -911,8 +911,8 @@ window.RECIPES = [
       "1 teen knoflook, fijngehakt",
       "sap van ½ citroen",
       "1 ei",
-      "farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
-      "pão ralado",
+      "50 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
+      "80 g pão ralado (paneermeel)",
       "zout en peper",
       "óleo de girassol om te bakken",
       "160 g arroz carolino (Portugese Carolino-rijst)",
@@ -933,15 +933,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "PANEREN",
-      "text": "Dep de vis droog en werk in de volgorde bloem, ei, pão ralado. Druk het broodkruim licht aan en laat de filets een paar minuten liggen voordat je ze bakt; zo laat de korst minder snel los. Klassiek thuisgerecht · ongeveer 45–60 minuten"
+      "text": "Dep de vis droog en werk in de volgorde bloem, ei en pão ralado (paneermeel). Druk het paneermeel licht aan en laat de filets een paar minuten liggen voordat je ze bakt; zo laat de korst minder snel los."
     },
-    "attention": "De combinatie is belangrijker dan een ingewikkelde saus: krokante pescada (heek) met sappige arroz de tomate (tomatenrijst) is zeer typische Portugese comfort food.",
+    "attention": "De kracht van het gerecht zit in het contrast: krokante pescada (heek) naast sappige arroz de tomate (tomatenrijst). Houd de vis daarom uit de rijst tot het moment van serveren.",
     "variations": [],
     "nutrition": {
       "kcal": 980,
       "protein": 50,
-      "carbs": 109,
-      "fat": 38
+      "carbs": 115,
+      "fat": 35
     }
   },
   {
@@ -976,19 +976,19 @@ window.RECIPES = [
       "Voeg de rijst en ongeveer 550 ml heet kookvocht toe. Laat zacht pruttelen en houd extra kookvocht warm; koude vloeistof zou het garen telkens onderbreken.",
       "Laat zacht koken en voeg zo nodig meer vocht toe. Kijk niet alleen naar de klok: zodra de rijst aan de bodem dreigt te pakken maar nog niet gaar is, voeg je een kleine scheut heet kookvocht toe.",
       "Doe de bacalhau (gezouten kabeljauw) terug wanneer de rijst bijna gaar is. Schep de vlokken voorzichtig door de rijst zodat ze warm worden maar niet helemaal uit elkaar vallen.",
-      "Serveer zodra de rijst gaar en nog ruim vochtig is, met verse kruiden. Wacht niet in de pan: carolino zuigt het resterende vocht snel op en dan verdwijnt het malandrinho (sappig en bouillonachtig)-karakter."
+      "Serveer zodra de rijst gaar en nog ruim vochtig is, met verse kruiden. Wacht niet in de pan: carolino-rijst blijft vocht opnemen en dan verdwijnt het malandrinho-karakter (sappige, bouillonachtige textuur)."
     ],
     "technique": {
       "title": "EERST POCHEREN, DAN TERUGVOEGEN",
-      "text": "Pocheer de bacalhau (gezouten kabeljauw) kort, gebruik het kookvocht voor de rijst en voeg de vis pas terug wanneer de rijst bijna gaar is. Zo krijg je smaak in de rijst zonder de vis droog te koken. Klassiek thuisgerecht · ongeveer 40 minuten"
+      "text": "Pocheer de bacalhau (gezouten kabeljauw) kort, gebruik het kookvocht voor de rijst en voeg de vis pas terug wanneer de rijst bijna gaar is. Zo krijgt de rijst veel smaak zonder dat de vis droog wordt."
     },
     "attention": "Dit hoort geen droge “rijst met kabeljauw” te worden. De bouillonachtige, malandrinho (sappig en bouillonachtig) textuur is essentieel.",
     "variations": [],
     "nutrition": {
-      "kcal": 580,
-      "protein": 34,
-      "carbs": 67,
-      "fat": 18
+      "kcal": 570,
+      "protein": 31,
+      "carbs": 70,
+      "fat": 19
     }
   },
   {
@@ -1009,9 +1009,9 @@ window.RECIPES = [
       "1 grote wortel, in kleine blokjes",
       "100 g erwten",
       "100 g sperziebonen, in stukjes",
-      "2 blikjes atum em azeite (tonijn in olijfolie) of atum ao natural (tonijn naturel), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie) of atum ao natural (tonijn naturel), ca. 170 g uitgelekt totaal",
       "2 eieren",
-      "3–4 el klassieke maionese, liefst volvet",
+      "3–4 el klassieke maionese (mayonaise), liefst volvet",
       "1 tl mosterd, optioneel",
       "zout en peper",
       "peterselie"
@@ -1025,15 +1025,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "GROENTEN GOED LATEN UITLEKKEN",
-      "text": "Laat aardappel en groenten volledig uitdampen en afkoelen vóór de mayonaise erbij gaat. Warm of nat zetmeel maakt de salade slap en waterig. Snelle doordeweekse klassieker · ongeveer 30 minuten"
+      "text": "Laat aardappel en groenten volledig uitdampen en afkoelen vóór de mayonaise erbij gaat. Warm of nat zetmeel maakt de salade slap en waterig."
     },
     "attention": "Niet veranderen in een bak mayonaise. De groenten moeten herkenbaar blijven. Dit is ook heel normaal als koude lunch of eten dat je de volgende dag meeneemt.",
     "variations": [],
     "nutrition": {
-      "kcal": 550,
-      "protein": 39,
+      "kcal": 500,
+      "protein": 28,
       "carbs": 36,
-      "fat": 28
+      "fat": 27
     }
   },
   {
@@ -1050,14 +1050,14 @@ window.RECIPES = [
     "image": "images/19-atum-a-bras.jpg",
     "imageAlt": "Atum à Brás",
     "ingredients": [
-      "2 blikjes atum em azeite (tonijn in olijfolie) of atum ao natural (tonijn naturel), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie) of atum ao natural (tonijn naturel), ca. 170 g uitgelekt totaal",
       "250 g batata palha (krokante aardappelreepjes)",
       "1 grote ui, in dunne halve ringen",
       "2 tenen knoflook",
       "4 eieren",
       "2 el olijfolie",
       "peterselie",
-      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
+      "40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "peper",
       "zout indien nodig"
     ],
@@ -1071,15 +1071,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "EI PAS OP HET EINDE",
-      "text": "Zet het vuur laag voordat het ei erbij gaat en haal de pan vroeg van het vuur. De aardappel neemt nog vocht op, dus een romig resultaat in de pan wordt op het bord precies goed. Hedendaagse snelle thuisvariant · ongeveer 25–30 minuten"
+      "text": "Zet het vuur laag voordat het ei erbij gaat en haal de pan vroeg van het vuur. De aardappel neemt nog vocht op, dus een romig resultaat in de pan wordt op het bord precies goed."
     },
     "attention": "Dit is bewust geen traditioneel oud gerecht, maar een moderne, snelle afgeleide van Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei) en precies het soort voorraadkastmaaltijd dat logisch is voor een doordeweekse avond.",
     "variations": [],
     "nutrition": {
-      "kcal": 1240,
-      "protein": 56,
-      "carbs": 72,
-      "fat": 80
+      "kcal": 1130,
+      "protein": 45,
+      "carbs": 77,
+      "fat": 72
     }
   },
   {
@@ -1097,18 +1097,18 @@ window.RECIPES = [
     "imageAlt": "Massa de atum com tomate e azeitonas",
     "ingredients": [
       "180–200 g korte pasta",
-      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
       "1 kleine ui",
       "2 tenen knoflook",
       "200 g tomate pelado inteiro (hele gepelde tomaten) uit blik of zeer rijpe verse tomaat",
       "2 el olijfolie",
-      "hand azeitonas Galega pretas of stevige groene Portugese olijven",
+      "40 g azeitonas Galega pretas (zwarte Galega-olijven) of stevige groene Portugese olijven",
       "peterselie of koriander",
       "peper",
       "piripíri (Portugese chili), optioneel"
     ],
     "steps": [
-      "Kook de pasta net gaar en bewaar een kopje kookwater. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
+      "Kook de pasta in ruim gezouten water net al dente en bewaar een kopje kookwater voordat je afgiet. Stop ongeveer één minuut vóór de aangegeven kooktijd; de pasta gaart later nog kort door in de saus.",
       "Fruit ui en knoflook in olijfolie. Laat de ui rustig zacht worden en voeg de knoflook pas toe zodra hij nog maar een minuut nodig heeft, zodat die niet bitter wordt.",
       "Voeg tomaat toe en laat 6–8 minuten inkoken. Laat de saus zacht borrelen tot hij niet meer waterig oogt en de olie aan de rand weer zichtbaar wordt; dan is de tomaat voldoende geconcentreerd.",
       "Voeg tonijn en olijven toe en warm kort mee. Schep de tonijn pas vlak voor de pasta door de saus, zodat de vlokken herkenbaar en sappig blijven.",
@@ -1117,15 +1117,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "PASTAWATER GEBRUIKEN",
-      "text": "Bewaar een kopje kookwater voordat je afgiet. Een paar lepels zetmeelrijk water maken de tomatensaus losser en helpen hem aan de pasta hechten. Hedendaagse snelle thuismaaltijd · ongeveer 20–25 minuten"
+      "text": "Bewaar een kopje kookwater voordat je afgiet. Een paar lepels zetmeelrijk water maken de tomatensaus losser en helpen hem aan de pasta hechten."
     },
     "attention": "Dit is geen historische klassieker, maar wel een zeer logische moderne Portugese voorraadkastmaaltijd: pasta, ingeblikte tonijn, tomaat, azeite (olijfolie) en olijven.",
     "variations": [],
     "nutrition": {
-      "kcal": 760,
-      "protein": 48,
-      "carbs": 77,
-      "fat": 28
+      "kcal": 700,
+      "protein": 37,
+      "carbs": 82,
+      "fat": 26
     }
   },
   {
@@ -1143,7 +1143,7 @@ window.RECIPES = [
     "imageAlt": "Arroz de atum rápido",
     "ingredients": [
       "180 g arroz agulha português (Portugese langkorrelrijst)",
-      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
       "1 ui",
       "2 tenen knoflook",
       "1 laurierblad",
@@ -1163,15 +1163,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "TONIJN LAAT TOEVOEGEN",
-      "text": "Bliktonijn is al gaar. Laat hem alleen de laatste paar minuten mee warmen; langdurig meekoken maakt de vis droog en vezelig. Hedendaagse voorraadkastmaaltijd · ongeveer 25 minuten"
+      "text": "Bliktonijn is al gaar. Laat hem alleen de laatste paar minuten mee warmen; langdurig meekoken maakt de vis droog en vezelig."
     },
     "attention": "Dit is functioneel thuiskoken: goedkoop, snel en gemaakt uit dingen die vaak al in de kast staan.",
     "variations": [],
     "nutrition": {
-      "kcal": 620,
-      "protein": 34,
-      "carbs": 62,
-      "fat": 24
+      "kcal": 560,
+      "protein": 25,
+      "carbs": 63,
+      "fat": 23
     }
   },
   {
@@ -1195,7 +1195,7 @@ window.RECIPES = [
       "4 eieren",
       "2–3 el olijfolie",
       "koriander of peterselie",
-      "zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
+      "40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "zout en peper"
     ],
     "steps": [
@@ -1208,15 +1208,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "GROENTEN EERST DROOG BAKKEN",
-      "text": "Laat courgette en andere waterige groenten eerst vocht verliezen voordat aardappel en ei erbij gaan. Anders wordt de batata palha (krokante aardappelreepjes) slap en bindt het ei slecht. Hedendaagse vegetarische thuisvariant · ongeveer 30 minuten"
+      "text": "Laat courgette en andere waterige groenten eerst vocht verliezen voordat aardappel en ei erbij gaan. Anders wordt de batata palha (krokante aardappelreepjes) slap en bindt het ei slecht."
     },
     "attention": "De techniek is dezelfde als bij Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei). De moderne groenteversie is inmiddels een gewone Portugese vegetarische oplossing; houd vooral het ei romig.",
     "variations": [],
     "nutrition": {
-      "kcal": 860,
+      "kcal": 800,
       "protein": 18,
-      "carbs": 65,
-      "fat": 59
+      "carbs": 64,
+      "fat": 54
     }
   },
   {
@@ -1234,7 +1234,7 @@ window.RECIPES = [
     "imageAlt": "Omelete de atum e salsa",
     "ingredients": [
       "3 eieren",
-      "1 klein blikje atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "1 klein blikje atum em azeite (tonijn in olijfolie), ca. 85 g uitgelekt",
       "¼ ui, zeer fijn gesneden",
       "1 teen knoflook, fijngehakt",
       "flinke hand peterselie",
@@ -1244,21 +1244,21 @@ window.RECIPES = [
     "steps": [
       "Klop de eieren los met zout en peper. Klop alleen tot wit en dooier homogeen zijn; te veel lucht geeft een drogere, sponsachtige omelet in plaats van een zachte vulling.",
       "Meng tonijn, ui, knoflook en peterselie erdoor. Breek de tonijn slechts grof en roer net genoeg om de vulling te verdelen, zodat de omelet niet zwaar en compact wordt.",
-      "Verhit een koekenpan met een klein beetje olijfolie. Pas het vuur aan zodra het sissen te agressief of juist te zwak wordt; je wilt gecontroleerd garen zonder verbrande randjes of een koude, waterige pan.",
+      "Verhit een koekenpan met een klein beetje olijfolie op middelhoog vuur. De pan moet heet genoeg zijn om het ei meteen rustig te laten stollen, maar niet zo heet dat de onderkant bruin wordt vóór de bovenkant begint te garen.",
       "Giet het mengsel erin en bak op middellaag vuur. Trek met een spatel enkele keren gestold ei van de rand naar het midden, zodat vloeibaar ei naar de hete pan kan lopen zonder alles fijn te roeren.",
       "Vouw dubbel zodra de onderkant stevig is en gaar kort verder. De bovenkant mag bij het vouwen nog licht vochtig zijn, want de opgesloten warmte gaart de binnenkant nog zonder hem droog te maken."
     ],
     "technique": {
       "title": "OMELET OP MIDDELLAAG VUUR",
-      "text": "Laat de onderkant rustig stollen en vouw voordat de bovenkant helemaal droog is. De binnenkant mag nog licht vochtig zijn; doorbakken maakt een omelet snel rubberig. Zeer snel · ongeveer 10–15 minuten"
+      "text": "Laat de onderkant rustig stollen en vouw voordat de bovenkant helemaal droog is. De binnenkant mag nog licht vochtig zijn; doorbakken maakt een omelet snel rubberig."
     },
     "attention": "Geen culinair project: dit is juist een typische oplossing wanneer er weinig tijd en weinig ingrediënten zijn.",
     "variations": [],
     "nutrition": {
-      "kcal": 280,
-      "protein": 28,
-      "carbs": 2,
-      "fat": 17
+      "kcal": 290,
+      "protein": 29,
+      "carbs": 3,
+      "fat": 18
     }
   },
   {
@@ -1296,14 +1296,14 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "TWEE TEXTUREN",
-      "text": "Kook de basisgroenten zeer zacht en pureer die glad. Voeg pas daarna kool, spinazie of sperziebonen toe en laat die herkenbaar; zo krijg je de typische combinatie van romige basis en groentestukjes. Absolute dagelijkse basis · ongeveer 35–45 minuten"
+      "text": "Kook de basisgroenten zeer zacht en pureer die glad. Voeg pas daarna kool, spinazie of sperziebonen toe en laat die herkenbaar; zo krijg je de typische combinatie van romige basis en groentestukjes."
     },
     "attention": "Maak meteen een grotere pan. Portugese groentesoep is juist nuttig als koelkastbasis: een kom voor het avondeten, lunch of voorafgaand aan een hoofdgerecht.",
     "variations": [],
     "nutrition": {
-      "kcal": 110,
+      "kcal": 100,
       "protein": 2,
-      "carbs": 15,
+      "carbs": 12,
       "fat": 5
     }
   },
@@ -1340,15 +1340,15 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "RIJST IETS TE NAT VAN HET VUUR",
-      "text": "Carolino blijft na het koken vocht opnemen. Zet arroz de tomate (tomatenrijst) daarom af wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment. Goedkoop en snel · ongeveer 25 minuten"
+      "text": "Carolino-rijst blijft na het koken vocht opnemen. Zet arroz de tomate (tomatenrijst) daarom van het vuur wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment."
     },
     "attention": "arroz de tomate (tomatenrijst) is een basisgerecht op zichzelf. Met een gebakken ei wordt het een zeer goedkope complete doordeweekse maaltijd.",
     "variations": [],
     "nutrition": {
-      "kcal": 620,
-      "protein": 17,
-      "carbs": 74,
-      "fat": 28
+      "kcal": 640,
+      "protein": 18,
+      "carbs": 79,
+      "fat": 29
     }
   },
   {
@@ -1385,14 +1385,14 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "SARDINES HEET EN KORT GRILLEN",
-      "text": "Zout de vis vooraf en grill op zeer hoge hitte. Draai zo weinig mogelijk; sardines zijn gaar zodra het vel goed gekleurd is en het vlees gemakkelijk van de graat komt. Seizoensklassieker · ongeveer 45–60 minuten"
+      "text": "Zout de vis vooraf en grill op zeer hoge hitte. Draai zo weinig mogelijk; sardines zijn gaar zodra het vel goed gekleurd is en het vlees gemakkelijk van de graat komt."
     },
     "attention": "Dit is sterk seizoensgebonden en vooral goed wanneer de sardines echt goed zijn. Geen zware saus nodig.",
     "variations": [],
     "nutrition": {
-      "kcal": 810,
-      "protein": 51,
-      "carbs": 45,
+      "kcal": 830,
+      "protein": 60,
+      "carbs": 43,
       "fat": 46
     }
   },
@@ -1412,7 +1412,7 @@ window.RECIPES = [
     "imageAlt": "Salada de grão com atum e ovo",
     "ingredients": [
       "400 g gekookte kikkererwten, uitgelekt",
-      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
       "2 eieren",
       "½ kleine ui, zeer fijn gesneden",
       "flinke hand peterselie",
@@ -1434,10 +1434,10 @@ window.RECIPES = [
     "attention": "Laat de kikkererwten zeer goed uitlekken en serveer de salade liever op kamertemperatuur dan ijskoud. Zo blijft de dressing geconcentreerd en proef je tonijn, ui en azeite (olijfolie) beter.",
     "variations": [],
     "nutrition": {
-      "kcal": 830,
-      "protein": 59,
-      "carbs": 57,
-      "fat": 40
+      "kcal": 760,
+      "protein": 48,
+      "carbs": 58,
+      "fat": 38
     }
   },
   {
@@ -1456,10 +1456,10 @@ window.RECIPES = [
     "imageAlt": "Salada fria de arroz com atum",
     "ingredients": [
       "180 g arroz agulha português (Portugese langkorrelrijst)",
-      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
       "100 g mais",
       "2 tomaten, in blokjes",
-      "hand azeitonas Galega pretas of groene Portugese olijven",
+      "40 g azeitonas Galega pretas (zwarte Galega-olijven) of groene Portugese olijven",
       "2 hardgekookte eieren",
       "2 el olijfolie",
       "1 el wijnazijn of citroensap",
@@ -1479,10 +1479,10 @@ window.RECIPES = [
     "attention": "Meng pas wanneer de rijst volledig koud en droog aanvoelt. Warme rijst maakt tonijn en tomaat papperig en neemt de dressing onvoorspelbaar op.",
     "variations": [],
     "nutrition": {
-      "kcal": 680,
-      "protein": 40,
-      "carbs": 70,
-      "fat": 26
+      "kcal": 620,
+      "protein": 31,
+      "carbs": 76,
+      "fat": 24
     }
   },
   {
@@ -1501,18 +1501,18 @@ window.RECIPES = [
     "imageAlt": "Massa fria de atum",
     "ingredients": [
       "200 g korte pasta",
-      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
       "100 g mais",
       "2 tomaten",
-      "hand azeitonas Galega pretas of groene Portugese olijven",
+      "40 g azeitonas Galega pretas (zwarte Galega-olijven) of groene Portugese olijven",
       "2 hardgekookte eieren",
-      "2 el azeite virgem extra (extra vierge olijfolie) of 2 el klassieke maionese",
+      "2 el azeite virgem extra (extra vierge olijfolie) of 2 el klassieke maionese (mayonaise)",
       "1 tl wijnazijn of citroensap",
       "peterselie",
       "peper"
     ],
     "steps": [
-      "Kook de pasta al dente en spoel kort koud af. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
+      "Kook de pasta al dente in ruim gezouten water. Giet af en spoel heel kort koud om het garen te stoppen; laat daarna zeer goed uitlekken voordat de salade wordt gemengd.",
       "Laat zeer goed uitlekken. Schud de pasta daarna los op een brede schaal en laat hem volledig afkoelen, zodat achtergebleven water de dressing straks niet verdunt.",
       "Meng met tonijn, mais, tomaat en olijven. Schep voorzichtig zodat de tonijn in grove stukken blijft en de tomaat niet wordt stukgedrukt tot extra vocht.",
       "Voeg olijfolie of mayonaise, zuur en peper toe. Begin bescheiden met de dressing en schep goed om; voeg pas meer toe als de pasta droog smaakt, zodat de salade niet zwaar en plakkerig wordt.",
@@ -1525,10 +1525,10 @@ window.RECIPES = [
     "attention": "Laat de pasta volledig afkoelen voordat de tonijn en dressing erbij gaan. Giet hem na het koken zeer goed af, anders wordt de salade waterig.",
     "variations": [],
     "nutrition": {
-      "kcal": 710,
-      "protein": 45,
-      "carbs": 70,
-      "fat": 27
+      "kcal": 650,
+      "protein": 36,
+      "carbs": 76,
+      "fat": 24
     }
   },
   {
@@ -1546,8 +1546,8 @@ window.RECIPES = [
     "image": "images/30-quiche-de-atum.jpg",
     "imageAlt": "Quiche de atum",
     "ingredients": [
-      "1 rol kruimel- of bladerdeeg",
-      "2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "1 rol kruimel- of bladerdeeg, ca. 230 g",
+      "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
       "1 ui, dun gesneden",
       "4 eieren",
       "200 ml leite meio-gordo (halfvolle melk), of 150 ml leite meio-gordo (halfvolle melk) + 50 ml natas para culinária (kookroom)",
@@ -1573,10 +1573,10 @@ window.RECIPES = [
     "attention": "Bak de quiche niet tot hij overal keihard gestold is. Een midden dat nog heel licht trilt wordt tijdens het rusten precies stevig genoeg en blijft sappiger.",
     "variations": [],
     "nutrition": {
-      "kcal": 590,
-      "protein": 33,
-      "carbs": 32,
-      "fat": 35
+      "kcal": 550,
+      "protein": 27,
+      "carbs": 36,
+      "fat": 33
     }
   },
   {
@@ -1595,7 +1595,7 @@ window.RECIPES = [
     "imageAlt": "Massa de atum no forno",
     "ingredients": [
       "300 g korte pasta",
-      "3 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "3 blikjes atum em azeite (tonijn in olijfolie), ca. 255 g uitgelekt totaal",
       "1 ui",
       "2 tenen knoflook",
       "300 g tomate pelado (gepelde tomaten)",
@@ -1618,10 +1618,10 @@ window.RECIPES = [
     "attention": "Kook de pasta bewust iets te kort voordat hij de oven in gaat. Volledig gare pasta wordt tijdens het gratineren snel zacht en zwaar.",
     "variations": [],
     "nutrition": {
-      "kcal": 760,
-      "protein": 47,
-      "carbs": 72,
-      "fat": 30
+      "kcal": 700,
+      "protein": 37,
+      "carbs": 74,
+      "fat": 28
     }
   },
   {
@@ -1640,11 +1640,11 @@ window.RECIPES = [
     "imageAlt": "Tosta de atum",
     "ingredients": [
       "4 stevige sneetjes pão de forma (toastbrood) of pão de mistura (gemengd landbrood)",
-      "1–2 blikjes atum em azeite (tonijn in olijfolie), goed uitgelekt",
+      "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
       "¼ kleine ui, zeer fijn gesneden",
       "1 rijpe tomate coração-de-boi of andere stevige rijpe tomaat, dun gesneden",
       "2 plakken queijo Flamengo (milde Portugese Flamengo-kaas), optioneel",
-      "1–2 el klassieke maionese of azeite virgem extra (extra vierge olijfolie)",
+      "1–2 el klassieke maionese (mayonaise) of azeite virgem extra (extra vierge olijfolie)",
       "peper",
       "oregano, optioneel"
     ],
@@ -1661,9 +1661,9 @@ window.RECIPES = [
     "attention": "Laat tonijn en tomaat goed uitlekken voordat je de tosta vult. Te veel vocht maakt het brood slap voordat de buitenkant krokant kan worden.",
     "variations": [],
     "nutrition": {
-      "kcal": 470,
-      "protein": 34,
-      "carbs": 43,
+      "kcal": 460,
+      "protein": 30,
+      "carbs": 45,
       "fat": 18
     }
   },
@@ -1688,10 +1688,10 @@ window.RECIPES = [
       "1 teen knoflook",
       "2 el olijfolie",
       "zout en peper",
-      "pão de mistura (gemengd landbrood), papo-seco (Portugees wit broodje) of ander eenvoudig Portugees brood erbij"
+      "100 g pão de mistura (gemengd landbrood), papo-seco (Portugees wit broodje) of ander eenvoudig Portugees brood erbij"
     ],
     "steps": [
-      "Bak champignons op vrij hoog vuur in 1 el olijfolie tot hun vocht grotendeels verdampt. Pas het vuur aan zodra het sissen te agressief of juist te zwak wordt; je wilt gecontroleerd garen zonder verbrande randjes of een koude, waterige pan.",
+      "Bak de champignons op vrij hoog vuur in 1 el olijfolie tot hun vrijgekomen vocht grotendeels verdampt en ze licht kleuren. Bak liever in een brede pan, zodat ze echt bakken in plaats van in hun eigen vocht te stoven.",
       "Voeg knoflook en spinazie toe en laat kort slinken. Houd de groente liever net aan de stevige kant; hij gaart nog kort door in de hete pan en behoudt zo meer structuur.",
       "Klop de eieren los met peper en een kleine snuf zout. Klop alleen tot wit en dooier gemengd zijn; een luchtig schuim is niet nodig voor zachte roereieren.",
       "Zet het vuur laag, voeg de eieren toe en roer rustig tot ze nog net glanzen. Haal de pan dan meteen van het vuur, want de hete champignons en pan garen het ei nog verder.",
@@ -1705,9 +1705,9 @@ window.RECIPES = [
     "variations": [],
     "nutrition": {
       "kcal": 460,
-      "protein": 25,
+      "protein": 24,
       "carbs": 31,
-      "fat": 27
+      "fat": 28
     }
   },
   {
@@ -1747,10 +1747,10 @@ window.RECIPES = [
     "attention": "Gebruik bij voorkeur volledig afgekoelde rijst van de vorige dag. Droge, koude korrels bakken losser en geven veel meer textuur dan vers gekookte warme rijst.",
     "variations": [],
     "nutrition": {
-      "kcal": 520,
+      "kcal": 540,
       "protein": 18,
-      "carbs": 63,
-      "fat": 21
+      "carbs": 65,
+      "fat": 22
     }
   },
   {
@@ -1768,7 +1768,7 @@ window.RECIPES = [
     "imageAlt": "Cavala com grão",
     "ingredients": [
       "400 g kikkererwten, uitgelekt",
-      "2 blikjes cavala, bij voorkeur in olijfolie",
+      "2 blikjes cavala (makreel), bij voorkeur in olijfolie, ca. 170 g uitgelekt totaal",
       "½ kleine ui",
       "flinke hand peterselie",
       "2–3 el olijfolie",
@@ -1778,21 +1778,21 @@ window.RECIPES = [
     ],
     "steps": [
       "Meng kikkererwten met zeer fijn gesneden ui en peterselie. Schep rustig zodat de kikkererwten heel blijven; juist hun stevige structuur maakt de salade aantrekkelijk.",
-      "Voeg de cavala in grove stukken toe. Leg de vis er pas op het einde doorheen en schep hooguit een paar keer om, zodat de zachte makreel niet tot vlokkenpap uiteenvalt.",
+      "Voeg de cavala (makreel) in grove stukken toe. Leg de vis er pas op het einde doorheen en schep hooguit een paar keer om, zodat de zachte makreel niet tot vlokkenpap uiteenvalt.",
       "Breng op smaak met olijfolie, azijn en peper. Meng voorzichtig, proef na een paar minuten en voeg dan pas extra zuur of zout toe; kikkererwten nemen de dressing geleidelijk op.",
       "Proef voor je zout toevoegt. Cavala uit blik kan al behoorlijk zout zijn; corrigeer liever eerst met een beetje extra azijn, citroen of peper."
     ],
     "technique": {
       "title": "BLIKVIS HEEL HOUDEN",
-      "text": "Laat de cavala goed uitlekken en verdeel hem pas op het einde in grove stukken. Schep hem vervolgens zo weinig mogelijk om: de salade is aantrekkelijker en sappiger wanneer de vis herkenbare vlokken houdt."
+      "text": "Laat de cavala (makreel) goed uitlekken en verdeel hem pas op het einde in grove stukken. Schep hem vervolgens zo weinig mogelijk om: de salade is aantrekkelijker en sappiger wanneer de vis herkenbare vlokken houdt."
     },
-    "attention": "Schep voorzichtig: cavala valt gemakkelijker uit elkaar dan tonijn. Gebruik de olie uit een goed blik gerust als deel van de dressing.",
+    "attention": "Schep voorzichtig: cavala (makreel) valt gemakkelijker uit elkaar dan tonijn. Gebruik de olie uit een goed blik gerust als deel van de dressing.",
     "variations": [],
     "nutrition": {
-      "kcal": 790,
-      "protein": 46,
-      "carbs": 56,
-      "fat": 43
+      "kcal": 710,
+      "protein": 39,
+      "carbs": 58,
+      "fat": 37
     }
   },
   {
@@ -1810,7 +1810,7 @@ window.RECIPES = [
     "image": "images/36-douradinhos-com-arroz-de-tomate.jpg",
     "imageAlt": "Douradinhos com arroz de tomate",
     "ingredients": [
-      "8–10 douradinhos (vissticks)",
+      "10 douradinhos (vissticks), ca. 280 g totaal",
       "160 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
@@ -1835,10 +1835,10 @@ window.RECIPES = [
     "attention": "Douradinhos (vissticks) zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate (tomatenrijst) eerst vrijwel klaar en bak de vis pas op het einde.",
     "variations": [],
     "nutrition": {
-      "kcal": 910,
-      "protein": 29,
-      "carbs": 109,
-      "fat": 39
+      "kcal": 830,
+      "protein": 24,
+      "carbs": 105,
+      "fat": 35
     }
   },
   {
@@ -1855,7 +1855,7 @@ window.RECIPES = [
     "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
     "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "ingredients": [
-      "8–10 rissóis de camarão (Portugese deeghapjes met garnalenvulling) of rissóis de bacalhau (Portugese deeghapjes met gezouten kabeljauwvulling)",
+      "8 rissóis de camarão (Portugese deeghapjes met garnalenvulling) of rissóis de bacalhau (Portugese deeghapjes met gezouten kabeljauwvulling), ca. 360 g totaal",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
@@ -1879,10 +1879,10 @@ window.RECIPES = [
     "attention": "Leg de rissóis (gevulde Portugese deeghapjes) naast de arroz de tomate (tomatenrijst) en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
     "variations": [],
     "nutrition": {
-      "kcal": 890,
-      "protein": 21,
-      "carbs": 115,
-      "fat": 39
+      "kcal": 780,
+      "protein": 14,
+      "carbs": 111,
+      "fat": 31
     }
   }
 ];
