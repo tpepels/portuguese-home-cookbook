@@ -80,7 +80,7 @@ window.RECIPES = [
       "title": "EEN EI POCHEREN",
       "text": "Houd het water net onder de kook en laat het ei er voorzichtig in glijden. Drie tot vier minuten geeft gestold eiwit en een zachte dooier; hard borrelend water trekt het ei uit elkaar."
     },
-    "attention": "Dit is een açorda-techniek, geen broodsoep uit de blender. Houd structuur in het brood en gebruik genoeg olijfolie en koriander. 2. Caldeirada de Peniche Dit pakket is gemaakt voor caldeirada: grove stukken verschillende vis en schelpdieren. Dat werkt juist goed omdat een traditionele caldeirada niet om één keurige visfilet draait maar om verschillende stevige stukken die samen vocht en smaak afgeven.",
+    "attention": "Dit is een açorda-techniek, geen broodsoep uit de blender. Houd structuur in het brood en gebruik genoeg olijfolie en koriander.",
     "variations": []
   },
   {
@@ -169,7 +169,7 @@ window.RECIPES = [
       "title": "PASTA IN DE BOUILLON",
       "text": "Kook de pasta rechtstreeks in het stoofvocht en giet niets af. Voeg tijdens het koken wat heet water toe als het te droog wordt; de gewenste textuur is stevig maar duidelijk sappig."
     },
-    "attention": "De pasta kookt in de saus en bouillon zelf. Afgieten vernietigt precies het karakter van het gerecht. 3. Miolo de Amêijoa-Zebra Dit is alleen het vlees van de venusschelp, zonder schelp. Dat is praktisch, maar je mist het vocht dat normaal vrijkomt wanneer verse amêijoas openen. Daarom gebruiken de recepten hieronder een klein beetje water of bouillon. Laat het vlees niet eindeloos koken.",
+    "attention": "De pasta kookt in de saus en bouillon zelf. Afgieten vernietigt precies het karakter van het gerecht.",
     "variations": []
   },
   {
@@ -247,7 +247,7 @@ window.RECIPES = [
       "title": "AÇORDA OPBOUWEN",
       "text": "Giet hete bouillon geleidelijk over het brood. Het moet volledig zacht en sappig worden, maar niet worden fijgeroerd tot een gladde pap."
     },
-    "attention": "De kwaliteit zit in de verhouding brood, geurige bouillon, rauwe kruidigheid van koriander en olijfolie. Maak het niet droog. 4. Mariscada Auchan Deze 500 g-mix bevat verschillende zeevruchten en is vooral nuttig voor gerechten waarin juist die mengeling telt. Twee zeer Portugese bestemmingen ervoor zijn arroz de marisco en cataplana.",
+    "attention": "De kwaliteit zit in de verhouding brood, geurige bouillon, rauwe kruidigheid van koriander en olijfolie. Maak het niet droog.",
     "variations": []
   },
   {
@@ -776,7 +776,7 @@ window.RECIPES = [
       "title": "BESLAG FRITUREN",
       "text": "Droog de voorgekookte bonen goed voordat ze in het beslag gaan. Water aan de buitenkant verdunt het beslag en veroorzaakt extra spatten in de hete olie."
     },
-    "attention": "De naam betekent letterlijk “visjes uit de tuin”: de bonen worden door het beslag visachtig van vorm. Dit is een oud Portugees groentegerecht, niet een moderne vegetarische imitatie",
+    "attention": "De naam betekent letterlijk “visjes uit de tuin”: de bonen worden door het beslag visachtig van vorm. Dit is een oud Portugees groentegerecht, niet een moderne vegetarische imitatie.",
     "variations": []
   },
   {
