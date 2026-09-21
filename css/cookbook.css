@@ -7,10 +7,11 @@
   --warm-2: #f2e9dc;
   --sage: #dfe6d6;
   --sage-dark: #394538;
-  --ink: #2b1a16;
-  --text: #443632;
-  --muted: #7a6e68;
-  --accent: #d28a4e;
+  --ink: #1d1511;
+  --text: #2d241f;
+  --muted: #5f544d;
+  --accent: #c9783c;
+  --azulejo: #2f638b;
   --line: rgba(58, 43, 35, 0.12);
   --shadow: 0 20px 65px rgba(29, 31, 27, .13);
   --page-w: 210mm;
@@ -304,20 +305,60 @@ button { font: inherit; }
   line-height: 1.48;
 }
 
-.guide-page { background: #f7f3e9; }
+.guide-page,
+.pantry-page { background: #f7f3e9; }
+
+.front-ornament {
+  display: grid;
+  grid-template-columns: 24mm 5mm 24mm;
+  align-items: center;
+  gap: 3mm;
+  width: max-content;
+  margin: 0 0 6mm;
+}
+.front-ornament span {
+  height: .35mm;
+  background: var(--accent);
+}
+.front-ornament i {
+  position: relative;
+  display: block;
+  width: 4mm;
+  height: 4mm;
+  border: .65mm solid var(--azulejo);
+  transform: rotate(45deg);
+}
+.front-ornament i::after {
+  content: "";
+  position: absolute;
+  inset: .7mm;
+  border: .4mm solid var(--accent);
+}
+
 .guide-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0 9mm;
   margin-top: 2mm;
 }
-.guide-grid > div {
-  padding: 4.2mm 0 4.5mm;
-  border-top: 1px solid rgba(58,43,35,.13);
+.reference-card {
+  position: relative;
+  padding: 4.5mm 0 4.8mm 5mm !important;
+  border-top: .4mm solid rgba(29,21,17,.18) !important;
+}
+.reference-card::before {
+  content: "";
+  position: absolute;
+  top: 5.1mm;
+  left: 0;
+  width: 2.3mm;
+  height: 2.3mm;
+  border: .5mm solid var(--azulejo);
+  transform: rotate(45deg);
 }
 .guide-grid strong {
   display: block;
-  margin-bottom: 1.1mm;
+  margin-bottom: 1.2mm;
   color: var(--ink);
   font-family: var(--display);
   font-size: 13.5pt;
@@ -326,9 +367,10 @@ button { font: inherit; }
 }
 .guide-grid span {
   display: block;
-  color: #544944;
-  font-size: 8pt;
-  line-height: 1.42;
+  color: var(--text);
+  font-size: 8.15pt;
+  font-weight: 500;
+  line-height: 1.43;
 }
 
 .front-kicker {
@@ -341,15 +383,85 @@ button { font: inherit; }
 }
 .toc-list { display: grid; gap: 1.35mm; margin-top: 6mm; }
 .toc-list-continuation { margin-top: 0; }
-.pantry-intro {
-  max-width: 138mm !important;
-  margin-bottom: 7mm !important;
-  font-family: var(--display);
-  font-size: 13pt !important;
-  line-height: 1.3 !important;
-  color: #5a4c45 !important;
+
+.pantry-shell {
+  display: grid;
+  gap: 0;
+  width: 100%;
+  transform-origin: top left;
 }
-.pantry-grid > div { padding-top: 5mm; padding-bottom: 5.2mm; }
+.pantry-intro {
+  max-width: 146mm !important;
+  margin-bottom: 6mm !important;
+  color: #40342e !important;
+  font-family: var(--display);
+  font-size: 12.6pt !important;
+  font-weight: 400;
+  line-height: 1.3 !important;
+}
+.pantry-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3.2mm;
+}
+.pantry-card {
+  display: grid;
+  grid-template-columns: 13mm minmax(0, 1fr);
+  gap: 3mm;
+  min-height: 37mm;
+  padding: 3.7mm 3.8mm;
+  border: .35mm solid rgba(29,21,17,.12);
+  border-radius: 2.2mm;
+  background:
+    linear-gradient(135deg, rgba(255,255,255,.52), transparent 48%),
+    #eee6d8;
+}
+.pantry-card:nth-child(3n+2) { background-color: #e7ecdf; }
+.pantry-card:nth-child(3n+3) { background-color: #e8edf0; }
+.pantry-icon {
+  display: grid;
+  place-items: center;
+  width: 11mm;
+  height: 11mm;
+  border-radius: 50%;
+  color: var(--azulejo);
+  background: rgba(255,255,255,.7);
+  border: .45mm solid currentColor;
+}
+.pantry-icon svg {
+  width: 7.6mm;
+  height: 7.6mm;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.pantry-card strong {
+  display: block;
+  margin: .4mm 0 1.5mm;
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 13.5pt;
+  font-weight: 600;
+  line-height: 1;
+}
+.pantry-card p {
+  margin: 0 0 1.3mm;
+  color: var(--text);
+  font-size: 7.55pt;
+  font-weight: 500;
+  line-height: 1.36;
+}
+.pantry-card p:last-child { margin-bottom: 0; }
+.pantry-card b {
+  color: var(--accent);
+  font-size: 6.6pt;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
 .toc-chapter {
   margin-top: 3.4mm;
   color: var(--ink);
@@ -524,25 +636,64 @@ button { font: inherit; }
 .photo-footer span:last-child { justify-self: end; text-align: right; font-style: italic; letter-spacing: .04em; text-transform: none; }
 
 /* editorial feature spreads */
+.feature-coast { --feature-color: #2f638b; --feature-tint: #e5edf1; }
+.feature-bacalhau { --feature-color: #a35f3d; --feature-tint: #f1e5d9; }
+.feature-heritage { --feature-color: #526349; --feature-tint: #e4e9dd; }
+.feature-summer { --feature-color: #c68135; --feature-tint: #f3ead7; }
+
+.feature-stamp {
+  position: absolute;
+  z-index: 5;
+  right: 9mm;
+  bottom: 9mm;
+  min-width: 25mm;
+  padding: 2.1mm 3mm 1.8mm;
+  border: .45mm solid rgba(255,255,255,.76);
+  color: #fff;
+  background: color-mix(in srgb, var(--feature-color) 88%, transparent);
+  box-shadow: 0 2mm 6mm rgba(0,0,0,.16);
+  font-size: 6.3pt;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-align: center;
+  text-transform: uppercase;
+}
 .feature-recipe.photo-page .photo-panel {
-  background: linear-gradient(90deg, rgba(210,138,78,.18) 0 3mm, transparent 3mm), #e9ece2;
+  background:
+    linear-gradient(90deg, var(--feature-color) 0 2.6mm, transparent 2.6mm),
+    var(--feature-tint);
 }
-.feature-recipe.photo-page .photo-panel h2 {
-  font-size: 22pt;
-}
+.feature-recipe.photo-page .photo-panel h2 { font-size: 22pt; }
 .feature-recipe.recipe-page {
   background:
-    linear-gradient(180deg, rgba(223,230,214,.34), transparent 48mm),
+    linear-gradient(180deg, color-mix(in srgb, var(--feature-tint) 72%, transparent), transparent 50mm),
     #fbfbfb;
 }
+.feature-recipe.recipe-page::before {
+  content: "";
+  position: absolute;
+  top: 12mm;
+  right: 12mm;
+  width: 19mm;
+  height: 1.2mm;
+  background: var(--feature-color);
+}
 .feature-recipe.recipe-page .recipe-header h1 {
+  max-width: 158mm;
   font-size: 34pt;
 }
-.feature-recipe.recipe-page .meta-box {
-  background: #e4eadc;
+.feature-recipe.recipe-page .recipe-header::after {
+  content: "";
+  display: block;
+  width: 16mm;
+  height: .5mm;
+  margin-top: 3mm;
+  background: var(--feature-color);
 }
+.feature-recipe.recipe-page .meta-box { background: var(--feature-tint); }
+.feature-recipe.recipe-page .steps-list li::before { background: var(--feature-color); }
 .feature-spread .photo-footer span:nth-child(2) {
-  color: var(--sage-dark);
+  color: var(--feature-color);
   font-weight: 700;
 }
 
@@ -707,11 +858,24 @@ button { font: inherit; }
 .note-grid.two { grid-template-columns: 1fr 1fr; }
 .note-grid.single { grid-template-columns: 1fr; }
 .note-block {
+  position: relative;
   min-height: 24mm;
-  padding: 3.2mm 3.6mm;
+  overflow: hidden;
+  padding: 3.4mm 3.8mm 3.3mm 5mm;
   border-radius: 2.2mm;
+  border-top: .45mm solid rgba(29,21,17,.14);
   background: var(--warm-2);
 }
+.note-block::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2.1mm;
+  height: 100%;
+  background: var(--accent);
+}
+.note-sage::before { background: var(--sage-dark); }
 .note-block h3 {
   margin-bottom: 1.5mm;
   font-size: 13.5pt;
@@ -719,8 +883,9 @@ button { font: inherit; }
 .note-block p,
 .note-list li {
   margin: 0;
-  color: #403633;
+  color: var(--text);
   font-size: 8.1pt;
+  font-weight: 500;
   line-height: 1.4;
 }
 .note-list { padding-left: 4.4mm; }
@@ -811,6 +976,62 @@ body.single-view .spread > .page { box-shadow: var(--shadow); }
     width: min(72vw, 92mm);
     padding: 4vw;
   }
+}
+
+/* final art-direction pass: stronger print contrast */
+body,
+.front-copy p,
+.recipe-intro,
+.ingredients-list li,
+.steps-list li,
+.note-block p,
+.note-list li,
+.photo-dek,
+.fact-value {
+  color: var(--text);
+}
+.front-copy p,
+.recipe-intro,
+.ingredients-list li,
+.steps-list li,
+.note-block p,
+.note-list li {
+  font-weight: 500;
+}
+.photo-dek { color: #40332d; font-weight: 500; }
+.recipe-subtitle { color: #51453f; font-weight: 700; }
+.meta-box .fact-label { color: var(--ink); }
+.meta-box .fact-value { color: var(--text); font-weight: 600; }
+.photo-facts .fact-value { color: var(--ink); font-weight: 600; }
+.photo-footer { color: #463b35; font-weight: 600; }
+.toc-row { color: var(--text); font-weight: 500; }
+.toc-page { color: #504640; font-weight: 600; }
+
+.text-section h2 {
+  position: relative;
+  padding-bottom: 1.8mm;
+}
+.text-section h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 14mm;
+  height: .45mm;
+  background: var(--accent);
+}
+.ingredients-section {
+  position: relative;
+  border-top: .4mm solid rgba(29,21,17,.10);
+}
+.ingredients-section::after {
+  content: "◆";
+  position: absolute;
+  top: 3.7mm;
+  right: 4mm;
+  color: var(--azulejo);
+  font-size: 7pt;
+  transform: rotate(45deg);
 }
 
 /* print */
