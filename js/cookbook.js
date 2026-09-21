@@ -36,9 +36,8 @@
   };
 
   const factIcons = {
-    servings: `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v8M4 3v5a2 2 0 0 0 4 0V3M6 11v10M16 3v18M16 3c3 2 4 5 4 8h-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
-    time: `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 7v5l3.5 2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
-    type: `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 4c-7 .4-11 3.8-11 9.2 0 3 1.8 5.2 4.6 5.2C18 18.4 20 12 19 4Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M5 20c2.5-4.7 5.8-7.8 10.5-10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`
+    servings: `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="8.2" cy="8.3" r="3.1" fill="none" stroke="currentColor" stroke-width="1.55"/><path d="M2.8 18.7c.5-3.3 2.3-5 5.4-5s4.9 1.7 5.4 5" fill="none" stroke="currentColor" stroke-width="1.55" stroke-linecap="round"/><circle cx="16.5" cy="9.2" r="2.3" fill="none" stroke="currentColor" stroke-width="1.45"/><path d="M14.9 14.1c3.5-.5 5.7 1 6.2 4.1" fill="none" stroke="currentColor" stroke-width="1.45" stroke-linecap="round"/></svg>`,
+    time: `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.55"/><path d="M12 7.2v5l3.4 2.1M9.2 2.8h5.6" fill="none" stroke="currentColor" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/></svg>`
   };
 
   const pantryIcons = {
@@ -245,17 +244,23 @@
     book.append(spread("chapter-spread", left, right));
   }
 
-  function renderFacts(recipe, includeIcons = false) {
+  function compactTime(value) {
+    return String(value || "—")
+      .replace(/\bminuten\b/gi, "min")
+      .replace(/\buur\b/gi, "u")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function renderFacts(recipe) {
     const entries = [
-      { icon: factIcons.servings, label: "Voor", value: servingsFor(recipe) },
-      { icon: factIcons.time, label: "Tijd", value: recipe.time || "—" },
-      { icon: factIcons.type, label: "Type", value: makeTheme(recipe).replace(/ • /g, " / ") || "—" }
+      { icon: factIcons.servings, value: servingsFor(recipe), aria: "Aantal personen" },
+      { icon: factIcons.time, value: compactTime(recipe.time), aria: "Bereidingstijd" }
     ];
 
     return entries.map(entry => `
-      <div class="fact-card">
-        ${includeIcons ? `<div class="fact-icon" aria-hidden="true">${entry.icon}</div>` : ""}
-        <div class="fact-label">${esc(entry.label)}</div>
+      <div class="fact-card" aria-label="${esc(entry.aria)}: ${esc(entry.value)}">
+        <div class="fact-icon" aria-hidden="true">${entry.icon}</div>
         <div class="fact-value">${esc(entry.value)}</div>
       </div>
     `).join("");
@@ -306,7 +311,7 @@
       <div class="photo-panel">
         <h2>${esc(recipe.title)}</h2>
         <p class="photo-dek">${esc(makeDeck(recipe))}</p>
-        <div class="photo-facts">${renderFacts(recipe, true)}</div>
+        <div class="photo-facts">${renderFacts(recipe)}</div>
         <div class="photo-footer">
           <span class="page-number-slot">—</span>
           <span>PORTUGAL THUIS</span>
@@ -360,7 +365,7 @@
           <p class="recipe-intro">${esc(recipe.intro || "")}</p>
         </header>
 
-        <section class="meta-box">${renderFacts(recipe, false)}</section>
+        <section class="meta-box">${renderFacts(recipe)}</section>
 
         <div class="recipe-body">
           <section class="text-section ingredients-section">
