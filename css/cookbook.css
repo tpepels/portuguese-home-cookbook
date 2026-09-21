@@ -399,9 +399,10 @@ button { font: inherit; }
   min-width: 0;
 }
 .recipe-page.two-column .recipe-body {
-  column-count: 2;
-  column-gap: 7mm;
-  column-rule: 1px solid rgba(58, 43, 35, 0.10);
+  display: grid;
+  grid-template-columns: minmax(0, 38%) minmax(0, 1fr);
+  gap: 6mm;
+  align-items: start;
 }
 .text-section {
   min-width: 0;
@@ -426,7 +427,13 @@ button { font: inherit; }
   font-weight: 600;
 }
 .recipe-page.two-column .text-section h2 {
-  break-after: avoid-column;
+  break-after: avoid;
+}
+.recipe-page.two-column .ingredients-section {
+  margin-bottom: 0;
+}
+.recipe-page.two-column .method-section {
+  min-width: 0;
 }
 .ingredients-list,
 .steps-list,
