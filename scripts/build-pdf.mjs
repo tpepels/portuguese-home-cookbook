@@ -34,7 +34,24 @@ try {
 
   const layoutStatus = (await page.locator("#recipe-count").textContent()) || "";
   if (layoutStatus.includes("te lang")) {
-    throw new Error(`A4 layout audit failed: ${layoutStatus}`);
+    const problems = await page.evaluate(() => [...document.querySelectorAll(".fit-page")].map(node => {
+      const content = node.querySelector(".fit-content");
+      if (!content) return null;
+      const style = getComputedStyle(node);
+      const available = node.clientHeight - (parseFloat(style.paddingTop) || 0) - (parseFloat(style.paddingBottom) || 0);
+      const scale = node.classList.contains("scaled")
+        ? (parseFloat(content.style.getPropertyValue("--fit-scale")) || 1)
+        : 1;
+      const used = content.scrollHeight * scale;
+      if (used <= available + 2) return null;
+      return {
+        label: node.querySelector("h1, h2")?.textContent?.trim() || "unknown page",
+        used: Math.round(used),
+        available: Math.round(available),
+        scale
+      };
+    }).filter(Boolean));
+    throw new Error(`A4 layout audit failed: ${layoutStatus}; ${JSON.stringify(problems)}`);
   }
 
   await page.pdf({
