@@ -853,7 +853,6 @@ body.single-view .spread > .page { box-shadow: var(--shadow); }
     backdrop-filter: none !important;
     background: rgba(42, 55, 43, .94) !important;
   }
-  .cover::before { background: none !important; }
   .cover-copy { text-shadow: none !important; }
   .cover h1 { text-shadow: none !important; }
 
