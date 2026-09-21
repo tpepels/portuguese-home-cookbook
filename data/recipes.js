@@ -10,7 +10,7 @@ window.RECIPES = [
     ],
     "time": "35 minuten",
     "servings": "2 personen",
-    "intro": "Deze rijst gebruikt een modern supermarktproduct, maar de kookmethode is klassiek Portugees: carolino-rijst die sappig en bouillonachtig blijft. Zie dit vooral als een oefening in arroz malandrinho (sappig en bouillonachtig); de voorgekookte “lagosta” gaat pas op het einde in de pan.",
+    "intro": "Deze rijst gebruikt een modern supermarktproduct, maar de kookmethode is klassiek Portugees: arroz carolino (Portugese Carolino-rijst) die sappig en bouillonachtig blijft. Zie dit vooral als een oefening in arroz malandrinho (sappige bouillonrijst); het voorgekookte “lagosta”-product (kreeftvormig zeevruchtenproduct) gaat pas op het einde in de pan.",
     "image": "images/1a-arroz-malandrinho-de-lagosta-e-coentros.jpg",
     "imageAlt": "Arroz malandrinho de “lagosta” e coentros",
     "ingredients": [
@@ -33,12 +33,12 @@ window.RECIPES = [
       "Voeg tomaat toe en laat 5–7 minuten inkoken tot de rauwe tomatensmaak weg is. Roer af en toe over de bodem en wacht tot de tomaat zichtbaar donkerder en zoeter ruikt; pas dan vormt hij een goede basis voor de rijst.",
       "Blus met witte wijn en laat ongeveer de helft verdampen. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
       "Voeg rijst toe en daarna ongeveer 550 ml hete bouillon. Kook zachtjes zonder de rijst droog te laten vallen. Voeg zo nodig meer bouillon toe.",
-      "Wanneer de rijst net gaar is maar nog duidelijk malandrinho (sappig en bouillonachtig) is, voeg je de stukken lagosta toe. Verwarm 2–3 minuten; de rijst hoort los en lepelbaar te blijven.",
-      "Haal van het vuur, meng de koriander erdoor en serveer meteen. Schep slechts één keer voorzichtig om, zodat de stukken lagosta heel blijven en de koriander zijn frisse geur behoudt."
+      "Wanneer de rijst net gaar is maar nog duidelijk malandrinho (sappig en bouillonachtig) is, voeg je de stukken “lagosta” (kreeftvormig zeevruchtenproduct) toe. Verwarm 2–3 minuten; de rijst hoort los en lepelbaar te blijven.",
+      "Haal van het vuur, meng de koriander erdoor en serveer meteen. Schep slechts één keer voorzichtig om, zodat de stukken “lagosta” (kreeftvormig zeevruchtenproduct) heel blijven en de koriander zijn frisse geur behoudt."
     ],
     "technique": {
       "title": "ARROZ MALANDRINHO",
-      "text": "Voeg hete bouillon toe en serveer zodra de korrel gaar is terwijl er nog duidelijk vocht rond de rijst zit. Carolino blijft na het vuur bouillon opnemen, dus iets te nat van het vuur is beter dan te droog."
+      "text": "Voeg hete bouillon toe en serveer zodra de korrel gaar is terwijl er nog duidelijk vocht rond de rijst zit. Arroz carolino (Portugese Carolino-rijst) blijft na het vuur bouillon opnemen, dus iets te nat van het vuur is beter dan te droog."
     },
     "attention": "Arroz malandrinho (sappig en bouillonachtig) hoort niet op risotto te lijken en ook niet droog te zijn. Er moet nog een lepelbare, smakelijke bouillon rond de rijst zitten.",
     "variations": [],
@@ -59,7 +59,7 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Açorda (Portugees broodgerecht) behoort tot de Portugese broodkeuken: oud brood wordt met hete, geurige vloeistof weer een volwaardige maaltijd. Deze versie gebruikt het “lagosta”-product als praktische toevoeging; de structuur van brood, knoflook, koriander en olijfolie blijft het belangrijkste.",
+    "intro": "Açorda (Portugees broodgerecht) behoort tot de Portugese broodkeuken: oud brood wordt met hete, geurige vloeistof weer een volwaardige maaltijd. Deze versie gebruikt het “lagosta”-product (kreeftvormig zeevruchtenproduct) als praktische toevoeging; brood, knoflook, koriander en olijfolie blijven de kern.",
     "image": "images/1b-acorda-de-marisco-met-lagosta-en-gepocheerd-ei.jpg",
     "imageAlt": "Açorda de marisco met “lagosta” en gepocheerd ei",
     "ingredients": [
@@ -78,9 +78,9 @@ window.RECIPES = [
       "Stamp knoflook met een flinke snuf zout en de helft van de koriander tot een grove pasta. Werk tot een grove, vochtige pasta en niet tot een volledig gladde puree; zo blijven knoflook en kruiden herkenbaar in geur en textuur.",
       "Doe deze pasta met de olijfolie in een brede kom of pan. Wrijf hem met de achterkant van een lepel een beetje uit, zodat knoflook, koriander en olie straks overal in contact komen met het brood en de hete bouillon.",
       "Breng de bouillon aan de kook. Pocheer daarin de eieren 3–4 minuten en haal ze voorzichtig uit de bouillon.",
-      "Verwarm de lagosta de laatste 2–3 minuten in dezelfde bouillon en haal ook die eruit. Het product is al gaar, dus het hoeft alleen door en door warm te worden; langer koken maakt het rubberachtig.",
+      "Verwarm het “lagosta”-product (kreeftvormig zeevruchtenproduct) de laatste 2–3 minuten in dezelfde bouillon en haal het er weer uit. Het product is al gaar en hoeft alleen door en door warm te worden; langer koken maakt het rubberachtig.",
       "Giet de kokende bouillon beetje bij beetje over het brood. Schep om: het brood moet zacht en sappig worden, maar geen gladde pap.",
-      "Meng de lagosta erdoor, leg de eieren erop en werk af met de rest van de koriander, wat citroensap en eventueel piripíri (Portugese chili). Doe dit van het vuur af en schep voorzichtig, zodat het brood sappig blijft en de eieren heel blijven."
+      "Meng het “lagosta”-product (kreeftvormig zeevruchtenproduct) erdoor, leg de eieren erop en werk af met de rest van de koriander, wat citroensap en eventueel piripíri (Portugese chili). Doe dit van het vuur af en schep voorzichtig, zodat het brood sappig blijft en de eieren heel blijven."
     ],
     "technique": {
       "title": "EEN EI POCHEREN",
@@ -180,7 +180,7 @@ window.RECIPES = [
       "Voeg water of bouillon toe en breng aan de kook. Zodra het water kookt, zet je het vuur lager als je daarna iets kwetsbaars gaat pocheren of zacht garen; hard borrelen is dan niet nodig.",
       "Pocheer de grotere visstukken uit het pakket kort in het vocht tot ze bijna gaar zijn. Haal ze voorzichtig uit de pan.",
       "Voeg de pasta toe en kook hem rechtstreeks in de tomaten-visbouillon. Voeg water toe als het te droog wordt.",
-      "Doe de vis en overige zeevruchten terug wanneer de pasta bijna gaar is en laat alles volledig garen. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
+      "Doe de vis en overige zeevruchten terug wanneer de pasta bijna gaar is en laat alles volledig garen. Proef de pasta ongeveer één minuut vóór de normale kooktijd en haal de pan van het vuur zodra hij nog net beet heeft; in de hete bouillon gaart hij nog kort door.",
       "De massada (sappig pastagerecht) moet sappig blijven. Werk af met veel koriander."
     ],
     "technique": {
@@ -296,7 +296,7 @@ window.RECIPES = [
     ],
     "time": "40 minuten",
     "servings": "2–3 personen",
-    "intro": "arroz de marisco (zeevruchtenrijst) is een bekende familie- en weekendmaaltijd. De kern is niet een enorme hoeveelheid luxe zeevruchten, maar carolino-rijst die in een krachtige zeevruchtenbouillon gaart en zeer sappig wordt geserveerd.",
+    "intro": "Arroz de marisco (zeevruchtenrijst) is een bekende familie- en weekendmaaltijd. De kern is niet een enorme hoeveelheid luxe zeevruchten, maar arroz carolino (Portugese Carolino-rijst) die in een krachtige zeevruchtenbouillon gaart en zeer sappig wordt geserveerd.",
     "image": "images/4a-arroz-de-marisco-malandrinho.jpg",
     "imageAlt": "Arroz de marisco malandrinho",
     "ingredients": [
@@ -320,7 +320,7 @@ window.RECIPES = [
       "Voeg tomaat toe en laat goed stoven. Blus met witte wijn.",
       "Voeg arroz carolino (Portugese Carolino-rijst) en ongeveer 650 ml bouillon toe. Laat rustig koken.",
       "Voeg de mariscada (zeevruchtenmix) pas toe wanneer de rijst nog ongeveer 6–8 minuten nodig heeft, of eerder/later volgens de gaartijd op de verpakking. Zo krijgt de rijst tijd om smaak uit de bouillon op te nemen zonder dat de zeevruchten taai worden.",
-      "Voeg extra hete bouillon toe tot de rijst gaar maar duidelijk vochtig en lepelbaar is. Zet de pan van het vuur terwijl er nog royaal vocht rond de korrels zit; carolino blijft ook tijdens het opscheppen bouillon opnemen.",
+      "Voeg extra hete bouillon toe tot de rijst gaar maar duidelijk vochtig en lepelbaar is. Zet de pan van het vuur terwijl er nog royaal vocht rond de korrels zit; arroz carolino (Portugese Carolino-rijst) blijft ook tijdens het opscheppen bouillon opnemen.",
       "Breng op smaak met piripíri (Portugese chili) en peper. Meng vlak voor het serveren een royale hoeveelheid koriander erdoor."
     ],
     "technique": {
@@ -706,7 +706,7 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "OCTOPUS MALS KOKEN",
-      "text": "Laat octopus rustig garen tot een mes zonder weerstand in het dikste deel glijdt. Bewaar het kookvocht: daarin zit precies de smaak die je later voor de carolino-rijst nodig hebt."
+      "text": "Laat octopus rustig garen tot een mes zonder weerstand in het dikste deel glijdt. Bewaar het kookvocht: daarin zit precies de smaak die je later voor de arroz carolino (Portugese Carolino-rijst) nodig hebt."
     },
     "attention": "Net als arroz de marisco (zeevruchtenrijst) moet arroz de polvo (octopus) niet droog op het bord staan.",
     "variations": [],
@@ -929,7 +929,7 @@ window.RECIPES = [
       "Voeg arroz carolino (Portugese Carolino-rijst) en heet water toe. Kook zacht tot de rijst gaar maar nog duidelijk caldoso (bouillonachtig)/malandrinho (sappig en bouillonachtig) is.",
       "Haal de vis achtereenvolgens door bloem, losgeklopt ei en pão ralado. Dep het oppervlak eerst droog en druk de paneerlaag slechts licht aan; laat hem een paar minuten rusten zodat de korst tijdens het bakken beter blijft zitten.",
       "Bak goudbruin in een laag olie en laat uitlekken. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
-      "Werk de rijst af met koriander of peterselie en serveer direct met de filetes. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen."
+      "Werk de rijst af met koriander of peterselie en serveer direct met de filetes. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; arroz carolino (Portugese Carolino-rijst) blijft ook na het vuur vocht opnemen."
     ],
     "technique": {
       "title": "PANEREN",
@@ -1340,7 +1340,7 @@ window.RECIPES = [
     ],
     "technique": {
       "title": "RIJST IETS TE NAT VAN HET VUUR",
-      "text": "Carolino-rijst blijft na het koken vocht opnemen. Zet arroz de tomate (tomatenrijst) daarom van het vuur wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment."
+      "text": "Arroz carolino (Portugese Carolino-rijst) blijft na het koken vocht opnemen. Zet arroz de tomate (tomatenrijst) daarom van het vuur wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment."
     },
     "attention": "arroz de tomate (tomatenrijst) is een basisgerecht op zichzelf. Met een gebakken ei wordt het een zeer goedkope complete doordeweekse maaltijd.",
     "variations": [],
@@ -1763,7 +1763,7 @@ window.RECIPES = [
     ],
     "time": "10 minuten",
     "servings": "2 personen",
-    "intro": "Cavala uit blik is in Portugal een normale en goedkope visvoorraad naast tonijn en sardines. Met kikkererwten, ui, peterselie, azeite (olijfolie) en azijn krijg je zonder koken een complete maaltijd met uitgesprokenere vissmaak dan tonijn.",
+    "intro": "Cavala (makreel) uit blik is in Portugal een normale en goedkope visvoorraad naast tonijn en sardines. Met kikkererwten, ui, peterselie, azeite (olijfolie) en azijn krijg je zonder koken een complete maaltijd met een uitgesprokener vissmaak dan tonijn.",
     "image": "images/35-cavala-com-grao.jpg",
     "imageAlt": "Cavala com grão",
     "ingredients": [
@@ -1780,7 +1780,7 @@ window.RECIPES = [
       "Meng kikkererwten met zeer fijn gesneden ui en peterselie. Schep rustig zodat de kikkererwten heel blijven; juist hun stevige structuur maakt de salade aantrekkelijk.",
       "Voeg de cavala (makreel) in grove stukken toe. Leg de vis er pas op het einde doorheen en schep hooguit een paar keer om, zodat de zachte makreel niet tot vlokkenpap uiteenvalt.",
       "Breng op smaak met olijfolie, azijn en peper. Meng voorzichtig, proef na een paar minuten en voeg dan pas extra zuur of zout toe; kikkererwten nemen de dressing geleidelijk op.",
-      "Proef voor je zout toevoegt. Cavala uit blik kan al behoorlijk zout zijn; corrigeer liever eerst met een beetje extra azijn, citroen of peper."
+      "Proef voor je zout toevoegt. Cavala (makreel) uit blik kan al behoorlijk zout zijn; corrigeer liever eerst met een beetje extra azijn, citroen of peper."
     ],
     "technique": {
       "title": "BLIKVIS HEEL HOUDEN",
@@ -1825,12 +1825,12 @@ window.RECIPES = [
       "Bereid de douradinhos (vissticks) volgens de verpakking, liefst in oven of airfryer. Laat ze goud en krokant worden en houd ze daarna onafgedekt; onder een deksel wordt de paneerlaag snel zacht.",
       "Fruit ondertussen ui en knoflook in olijfolie. Laat de ui zacht worden zonder veel kleur en voeg de knoflook pas in de laatste minuut toe, zodat hij geurig blijft.",
       "Voeg tomaat en laurier toe en laat 5–7 minuten stoven. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
-      "Voeg rijst en heet water toe en kook tot de rijst gaar en nog sappig is. Zet hem iets natter van het vuur dan je uiteindelijk wilt, want carolino blijft tijdens het opscheppen vocht opnemen.",
+      "Voeg de arroz carolino (Portugese Carolino-rijst) en het hete water toe en kook tot de rijst gaar en nog sappig is. Zet hem iets natter van het vuur dan je uiteindelijk wilt, want de rijst blijft tijdens het opscheppen vocht opnemen.",
       "Werk af met kruiden en serveer direct met de krokante vis. Proef de rijst op zout en peper vóór de douradinhos (vissticks) erbij komen, zodat je hun zoute paneerlaag niet per ongeluk dubbel compenseert."
     ],
     "technique": {
       "title": "ARROZ DE TOMATE",
-      "text": "Gebruik carolino en voldoende vocht. De rijst hoort niet droog op het bord te liggen; zet hem iets te nat van het vuur, want hij blijft bouillon opnemen."
+      "text": "Gebruik arroz carolino (Portugese Carolino-rijst) en voldoende vocht. De rijst hoort niet droog op het bord te liggen; zet hem iets te nat van het vuur, want hij blijft bouillon opnemen."
     },
     "attention": "Douradinhos (vissticks) zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate (tomatenrijst) eerst vrijwel klaar en bak de vis pas op het einde.",
     "variations": [],
