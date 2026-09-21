@@ -165,7 +165,7 @@
       <p>Proef tijdens het koken. Bacalhau (gezouten kabeljauw), blikvis, olijven en kant-en-klare bouillon kunnen sterk verschillen in zoutgehalte, terwijl rijst, brood en peulvruchten juist veel smaak opnemen. De opgegeven tijden zijn daarom richtlijnen: gaarheid, textuur en smaak gaan voor de klok.</p>
       <div class="editorial-note">
         <strong>Oven & maatvoering</strong>
-        <span>Temperaturen zijn voor een conventionele oven. Gebruik bij hetelucht doorgaans 10–20 °C minder. Lepels zijn afgestreken eet- en theelepels; groenten en vis zijn gewichten vóór bereiding tenzij anders vermeld. De voedingswaarden zijn schattingen per portie op basis van gemiddelde productwaarden en de opgegeven hoeveelheden; bij frituren is een redelijke olie-opname meegerekend en optionele ingrediënten zijn in principe niet inbegrepen.</span>
+        <span>Temperaturen zijn voor een conventionele oven. Gebruik bij hetelucht doorgaans 10–20 °C minder. Lepels zijn afgestreken eet- en theelepels; groenten en vis zijn gewichten vóór bereiding tenzij anders vermeld. De voedingswaarden zijn indicatieve schattingen per portie, opnieuw berekend uit de opgegeven hoeveelheden met gemiddelde productwaarden. Bij frituren is een realistische olie-opname meegerekend; optionele ingrediënten tellen niet mee. Bij merkproducten en portiegroottes kunnen de werkelijke waarden afwijken — controleer daarvoor het etiket.</span>
       </div>
     `);
 
@@ -266,26 +266,16 @@
     if (!n) return "";
 
     return `
-      <section class="nutrition-strip" aria-label="Geschatte voedingswaarden per portie">
-        <div class="nutrition-caption">
-          <strong>Per portie</strong>
-          <span>schatting</span>
+      <section class="nutrition-note" aria-label="Geschatte voedingswaarden per portie">
+        <div class="nutrition-heading">
+          <strong>Voedingswaarde</strong>
+          <span>ca. per portie</span>
         </div>
-        <div class="nutrition-value">
-          <strong>${esc(n.kcal)}</strong>
-          <span>kcal</span>
-        </div>
-        <div class="nutrition-value">
-          <strong>${esc(n.protein)} g</strong>
-          <span>eiwit</span>
-        </div>
-        <div class="nutrition-value">
-          <strong>${esc(n.carbs)} g</strong>
-          <span>koolhydraten</span>
-        </div>
-        <div class="nutrition-value">
-          <strong>${esc(n.fat)} g</strong>
-          <span>vet</span>
+        <div class="nutrition-metrics">
+          <div><span>Energie</span><strong>${esc(n.kcal)} <small>kcal</small></strong></div>
+          <div><span>Eiwit</span><strong>${esc(n.protein)} <small>g</small></strong></div>
+          <div><span>Koolhydraten</span><strong>${esc(n.carbs)} <small>g</small></strong></div>
+          <div><span>Vet</span><strong>${esc(n.fat)} <small>g</small></strong></div>
         </div>
       </section>
     `;
@@ -372,8 +362,6 @@
 
         <section class="meta-box">${renderFacts(recipe, false)}</section>
 
-        ${renderNutrition(recipe)}
-
         <div class="recipe-body">
           <section class="text-section ingredients-section">
             <h2>Ingrediënten</h2>
@@ -389,6 +377,8 @@
         <section class="note-grid ${noteBlocks.length === 1 ? "single" : "two"}">
           ${noteBlocks.join("")}
         </section>
+
+        ${renderNutrition(recipe)}
       </div>
     `);
 
