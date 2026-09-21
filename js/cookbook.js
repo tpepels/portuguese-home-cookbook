@@ -25,12 +25,31 @@
     "Portugal nu"
   ];
 
-  const featureRecipeIds = new Set(["2a", "4a", "5", "7", "11", "13", "26"]);
+  const featureRecipes = {
+    "2a": { theme: "coast", stamp: "COSTA" },
+    "4a": { theme: "coast", stamp: "MARISCO" },
+    "5": { theme: "bacalhau", stamp: "BACALHAU" },
+    "7": { theme: "bacalhau", stamp: "FORNO" },
+    "11": { theme: "heritage", stamp: "ARROZ" },
+    "13": { theme: "heritage", stamp: "ALENTEJO" },
+    "26": { theme: "summer", stamp: "VERÃO" }
+  };
 
   const factIcons = {
     servings: `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v8M4 3v5a2 2 0 0 0 4 0V3M6 11v10M16 3v18M16 3c3 2 4 5 4 8h-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
     time: `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 7v5l3.5 2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
     type: `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 4c-7 .4-11 3.8-11 9.2 0 3 1.8 5.2 4.6 5.2C18 18.4 20 12 19 4Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M5 20c2.5-4.7 5.8-7.8 10.5-10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`
+  };
+
+  const pantryIcons = {
+    oil: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M19 5h10v7l4 5v22H15V17l4-5V5Z"/><path d="M19 12h10M19 24h14"/></svg>`,
+    rice: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M9 18h30l-3 21H12L9 18Z"/><path d="M15 18c2-7 16-7 18 0"/><path d="M17 25c4-3 10-3 14 0"/></svg>`,
+    cod: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 25c8-10 22-12 32-4l4-5v14l-4-5c-10 8-24 6-32-4l-3 4 3 4Z"/><circle cx="31" cy="21" r="1.5"/></svg>`,
+    can: `<svg viewBox="0 0 48 48" aria-hidden="true"><ellipse cx="24" cy="10" rx="13" ry="4"/><path d="M11 10v28c0 5 26 5 26 0V10"/><ellipse cx="24" cy="38" rx="13" ry="4"/><path d="M16 21h16M16 27h16"/></svg>`,
+    beans: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 29c0-8 8-15 15-12 5 2 3 8 7 10 5 2 8-3 8 2 0 8-8 13-16 13S10 37 10 29Z"/><path d="M17 31c3 2 7 2 10 0"/></svg>`,
+    bread: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 30c0-12 8-20 17-20s17 8 17 20v8H7v-8Z"/><path d="M15 18c2 2 3 5 3 8M23 14c2 3 3 6 3 10M31 18c1 2 2 5 2 8"/></svg>`,
+    cheese: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 22 28 9l13 8v22H7V22Z"/><circle cx="27" cy="22" r="3"/><circle cx="17" cy="31" r="2.5"/><circle cx="33" cy="33" r="2"/></svg>`,
+    pantry: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M9 10h30v29H9V10Z"/><path d="M9 24h30M24 10v29"/><circle cx="20" cy="19" r="1.2"/><circle cx="28" cy="29" r="1.2"/></svg>`
   };
 
   const esc = (value = "") => String(value)
@@ -151,33 +170,61 @@
     `);
 
     const guide = page("single-page front-copy guide-page", `
+      <div class="front-ornament" aria-hidden="true"><span></span><i></i><span></span></div>
       <h2>Portugese keukentaal</h2>
       <div class="guide-grid">
-        <div><strong>Azeite</strong><span>Olijfolie. Niet alleen bakvet, maar ook een smaakmaker die vaak pas aan tafel of na het koken wordt toegevoegd.</span></div>
-        <div><strong>Arroz carolino</strong><span>Portugese kortkorrelige rijst die veel vocht opneemt en ideaal is voor sappige rijstgerechten.</span></div>
-        <div><strong>Malandrinho</strong><span>Rijst die gaar is maar nog ruim, smaakvol kookvocht rond de korrels heeft. Meteen serveren.</span></div>
-        <div><strong>Bacalhau</strong><span>Gezouten en gedroogde kabeljauw. Ontzouten en gaartijd hangen af van het product; proef vóór je extra zout toevoegt.</span></div>
-        <div><strong>À Brás</strong><span>Een bereiding met ui, fijne aardappel en ei, romig gebonden en meestal afgewerkt met peterselie en olijven.</span></div>
-        <div><strong>Açorda</strong><span>Broodgerecht waarin oud brood hete, sterk gekruide vloeistof opneemt. De textuur hoort sappig en rustiek te blijven.</span></div>
-        <div><strong>Tomate pelado</strong><span>Gepelde tomaten uit blik. Een betrouwbare basis wanneer verse tomaten niet rijp genoeg zijn.</span></div>
-        <div><strong>Pimentão-doce</strong><span>Zoet paprikapoeder. Gebruik het als warme achtergrond, niet als dominante rooksmaak.</span></div>
-        <div><strong>Piripíri</strong><span>Chili of chilisaus. Begin bescheiden en bouw de scherpte op tijdens het proeven.</span></div>
-        <div><strong>Coentros</strong><span>Korianderblad. Vooral in het zuiden en bij rijst, açorda en zeevruchten vaak een essentieel fris element.</span></div>
+        <div class="reference-card"><strong>Azeite</strong><span>Olijfolie. Niet alleen bakvet, maar ook een smaakmaker die vaak pas aan tafel of na het koken wordt toegevoegd.</span></div>
+        <div class="reference-card"><strong>Arroz carolino</strong><span>Portugese rijst die veel vocht en smaak opneemt en daardoor ideaal is voor sappige rijstgerechten.</span></div>
+        <div class="reference-card"><strong>Malandrinho</strong><span>Rijst die gaar is maar nog ruim, smaakvol kookvocht rond de korrels heeft. Meteen serveren.</span></div>
+        <div class="reference-card"><strong>Bacalhau</strong><span>Gezouten en gedroogde kabeljauw. Ontzouten en gaartijd hangen af van het product; proef vóór je extra zout toevoegt.</span></div>
+        <div class="reference-card"><strong>À Brás</strong><span>Een bereiding met ui, fijne aardappel en ei, romig gebonden en meestal afgewerkt met peterselie en olijven.</span></div>
+        <div class="reference-card"><strong>Açorda</strong><span>Broodgerecht waarin oud brood hete, sterk gekruide vloeistof opneemt. De textuur hoort sappig en rustiek te blijven.</span></div>
+        <div class="reference-card"><strong>Tomate pelado</strong><span>Gepelde tomaten uit blik. Een betrouwbare basis wanneer verse tomaten niet rijp genoeg zijn.</span></div>
+        <div class="reference-card"><strong>Pimentão-doce</strong><span>Zoet paprikapoeder. Gebruik het als warme achtergrond, niet als dominante rooksmaak.</span></div>
+        <div class="reference-card"><strong>Piripíri</strong><span>Chili of chilisaus. Begin bescheiden en bouw de scherpte tijdens het proeven op.</span></div>
+        <div class="reference-card"><strong>Coentros</strong><span>Korianderblad. Vooral in het zuiden en bij rijst, açorda en zeevruchten vaak een essentieel fris element.</span></div>
       </div>
     `);
 
-    const pantry = page("single-page front-copy pantry-page", `
-      <h2>Een kleine Portugese voorraadkast</h2>
-      <p class="pantry-intro">Met een paar vaste ingrediënten wordt doordeweeks Portugees koken vooral een kwestie van verse vis, groente of eieren toevoegen.</p>
-      <div class="guide-grid pantry-grid">
-        <div><strong>Olijfolie</strong><span>Houd één goede fles voor afwerking en salade, en een eenvoudiger azeite om in te bakken.</span></div>
-        <div><strong>Tomaat</strong><span>Tomate pelado en rijpe verse tomaten vullen elkaar aan. Laat tomaat altijd echt inkoken voordat rijst of bouillon erbij gaat.</span></div>
-        <div><strong>Rijst & brood</strong><span>Arroz carolino voor sappige rijstgerechten; stevig oud brood voor açorda en om kookvocht op te nemen.</span></div>
-        <div><strong>Blikvis</strong><span>Tonijn, cavala en sardines maken snelle maaltijden mogelijk. Kies waar mogelijk vis in olijfolie en proef vóór je zout toevoegt.</span></div>
-        <div><strong>Ui, knoflook & laurier</strong><span>De basis van veel stoof- en rijstgerechten. Laat ui rustig zacht worden en voorkom dat knoflook donker kleurt.</span></div>
-        <div><strong>Kruiden</strong><span>Koriander en peterselie zijn geen uitwisselbare decoratie: kies wat bij het gerecht hoort en voeg verse kruiden meestal pas op het einde toe.</span></div>
-        <div><strong>Zuur</strong><span>Citroen en wijnazijn brengen vis, bonen en salades tot leven. Voeg ze geleidelijk toe en proef opnieuw na een paar minuten.</span></div>
-        <div><strong>Handige voorraad</strong><span>Batata palha, olijven, pimentão-doce, piripíri en droge witte wijn lossen veel snelle Portugese maaltijden op zonder een lange boodschappenlijst.</span></div>
+    const pantry = page("single-page front-copy pantry-page fit-page", `
+      <div class="fit-content pantry-shell">
+        <div class="front-ornament" aria-hidden="true"><span></span><i></i><span></span></div>
+        <h2>Een kleine Portugese voorraadkast</h2>
+        <p class="pantry-intro">De productnaam doet ertoe. Dit zijn de boodschappen die in Portugal daadwerkelijk logisch zijn om in huis te hebben.</p>
+        <div class="pantry-grid">
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.oil}</div>
+            <div><strong>Azeite</strong><p><b>Koop</b> azeite virgem extra voor salade en afwerking, plus een eenvoudige Portugese azeite om mee te bakken.</p><p><b>Gebruik</b> royaal bij vis, bonen, broodgerechten en als laatste smaaklaag.</p></div>
+          </div>
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.rice}</div>
+            <div><strong>Arroz</strong><p><b>Koop</b> arroz carolino voor malandrinho, arroz de tomate en arroz de polvo; arroz agulha voor droge rijst en koude salades.</p><p><b>Niet nemen</b> basmati als algemene vervanger: de textuur is fundamenteel anders.</p></div>
+          </div>
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.cod}</div>
+            <div><strong>Bacalhau</strong><p><b>Koop</b> bacalhau demolhado als je direct wilt koken, of gezouten bacalhau seco als je zelf wilt ontzouten.</p><p><b>Gebruik</b> grove vlokken voor Gomes de Sá en com natas; fijner voor à Brás en pataniscas.</p></div>
+          </div>
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.can}</div>
+            <div><strong>Conservas</strong><p><b>Koop</b> atum em azeite, cavala em azeite en sardinhas em azeite; kies bij voorkeur eenvoudige Portugese conserven.</p><p><b>Gebruik</b> voor snelle rijst, pasta, omelet, salades en tostas.</p></div>
+          </div>
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.beans}</div>
+            <div><strong>Feijão & grão</strong><p><b>Koop</b> feijão-frade, feijão encarnado, feijão manteiga en grão-de-bico, gedroogd of al cozido.</p><p><b>Kies</b> feijão encarnado voor arroz de feijão en feijão-frade voor koude salades.</p></div>
+          </div>
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.bread}</div>
+            <div><strong>Pão</strong><p><b>Koop</b> pão alentejano of stevig pão de mistura voor açorda; pão de forma of pão de mistura voor tostas.</p><p><b>Bewaar</b> brood van de vorige dag: juist droger brood neemt bouillon op zonder meteen pap te worden.</p></div>
+          </div>
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.cheese}</div>
+            <div><strong>Queijo & natas</strong><p><b>Koop</b> queijo Flamengo voor milde tostas en snelle gratins; queijo da Ilha voor een krachtigere geraspte kaas.</p><p><b>Neem</b> natas para culinária wanneer een recept om kookroom vraagt, niet zomaar een willekeurige “room”.</p></div>
+          </div>
+          <div class="pantry-card">
+            <div class="pantry-icon">${pantryIcons.pantry}</div>
+            <div><strong>De kleine smaakmakers</strong><p><b>Koop</b> azeitona Galega, batata palha, tomate pelado, louro, pimentão-doce, piripíri en vinho branco seco.</p><p><b>Met deze kast</b> kun je het grootste deel van dit boek koken zonder gespecialiseerde ingrediënten.</p></div>
+          </div>
+        </div>
       </div>
     `);
 
@@ -217,7 +264,10 @@
   function renderRecipe(recipe, options = {}) {
     const isChapterStart = Boolean(options.isChapterStart);
     const chapterIndex = options.chapterIndex ?? 0;
-    const isFeature = featureRecipeIds.has(recipe.id);
+    const featureMeta = featureRecipes[recipe.id] || null;
+    const isFeature = Boolean(featureMeta);
+    const featureClass = featureMeta ? `feature-${featureMeta.theme}` : "";
+    const featureStamp = featureMeta ? `<div class="feature-stamp" aria-label="Uitgelicht recept">${esc(featureMeta.stamp)}</div>` : "";
     const chapterOverlay = isChapterStart ? `
       <div class="chapter-overlay">
         <div class="chapter-overlay-kicker">Deel ${chapterIndex + 1}</div>
@@ -226,11 +276,12 @@
       </div>
     ` : "";
 
-    const photo = page(`photo-page ${isFeature ? "feature-recipe" : ""} ${isChapterStart ? "chapter-lead" : ""}`, `
+    const photo = page(`photo-page ${isFeature ? "feature-recipe" : ""} ${featureClass} ${isChapterStart ? "chapter-lead" : ""}`, `
       <div class="photo-visual">
         <div class="photo-fallback"><span>${esc(recipe.title)}</span></div>
         <img src="${esc(recipe.image)}" alt="${esc(recipe.imageAlt || recipe.title)}" loading="eager" decoding="async">
         ${chapterOverlay}
+        ${featureStamp}
       </div>
       <div class="photo-panel">
         <h2>${esc(recipe.title)}</h2>
@@ -281,7 +332,7 @@
       `);
     }
 
-    const text = page(`recipe-page fit-page ${isFeature ? "feature-recipe" : ""}`, `
+    const text = page(`recipe-page fit-page ${isFeature ? "feature-recipe" : ""} ${featureClass}`, `
       <div class="fit-content recipe-shell">
         <header class="recipe-header">
           <h1>${esc(recipe.title)}</h1>
@@ -309,7 +360,7 @@
       </div>
     `);
 
-    const recipeSpread = spread(`recipe-spread ${isFeature ? "feature-spread" : ""} ${isChapterStart ? "chapter-lead-spread" : ""}`, photo, text);
+    const recipeSpread = spread(`recipe-spread ${isFeature ? "feature-spread" : ""} ${featureClass} ${isChapterStart ? "chapter-lead-spread" : ""}`, photo, text);
     recipeSpread.dataset.recipeId = recipe.id;
     const rightFolio = document.createElement("span");
     rightFolio.className = "page-folio page-folio-right";
