@@ -33,6 +33,24 @@ try {
   }
 
   const layoutStatus = (await page.locator("#recipe-count").textContent()) || "";
+  const fitSummary = await page.evaluate(() => [...document.querySelectorAll(".recipe-page")].map(page => ({
+    title: page.querySelector("h1")?.textContent?.trim() || "unknown",
+    compact: page.classList.contains("compact"),
+    tight: page.classList.contains("tight"),
+    scaled: page.classList.contains("scaled"),
+    scale: page.classList.contains("scaled")
+      ? Number(page.querySelector(".fit-content")?.style.getPropertyValue("--fit-scale") || 1)
+      : 1
+  })));
+  const fitted = fitSummary.filter(x => x.compact || x.tight || x.scaled);
+  console.log("Recipe fit summary:", JSON.stringify({
+    total: fitSummary.length,
+    compact: fitSummary.filter(x => x.compact).length,
+    tight: fitSummary.filter(x => x.tight).length,
+    scaled: fitSummary.filter(x => x.scaled).length,
+    fitted
+  }));
+
   if (layoutStatus.includes("te lang")) {
     const problems = await page.evaluate(() => [...document.querySelectorAll(".fit-page")].map(node => {
       const content = node.querySelector(".fit-content");
