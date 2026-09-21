@@ -9,13 +9,13 @@
 
   const chapterCopy = {
     "Diepvriespakketten als startpunt":
-      "Vier supermarktproducten als ingang naar Portugese technieken: malandrinho-rijst, açorda, caldeirada, massada en cataplana.",
+      "Vier supermarktproducten als ingang naar Portugese technieken: malandrinho (sappig en bouillonachtig), açorda (Portugees broodgerecht), caldeirada (Portugese visstoof), massada (sappig pastagerecht) en cataplana (schelpvormige Portugese stoompan en kookmethode).",
     "Portugees thuisrepertoire":
-      "De kern van het boek: bacalhau, pescada, dourada, polvo, brood, bonen en eenvoudige bereidingen die daadwerkelijk op de Portugese familietafel thuishoren.",
+      "De kern van het boek: bacalhau (gezouten kabeljauw), pescada (heek), dourada (goudbrasem), polvo (octopus), brood, bonen en eenvoudige bereidingen die daadwerkelijk op de Portugese familietafel thuishoren.",
     "Snel, dagelijks & hedendaags":
       "Doordeweeks koken zonder folklore: tonijn, eieren, soep, pasta, rijst en snelle varianten die weinig planning vragen.",
     "Portugal nu":
-      "Voorraadkast, marmita en studentenkeuken: hedendaagse gerechten die niet eeuwenoud hoeven te zijn om normaal Portugees thuiseten te zijn."
+      "Voorraadkast, marmita (meeneemlunch) en studentenkeuken: hedendaagse gerechten die niet eeuwenoud hoeven te zijn om normaal Portugees thuiseten te zijn."
   };
 
   const chapterOrder = [
@@ -26,13 +26,13 @@
   ];
 
   const featureRecipes = {
-    "2a": { theme: "coast", stamp: "COSTA" },
-    "4a": { theme: "coast", stamp: "MARISCO" },
-    "5": { theme: "bacalhau", stamp: "BACALHAU" },
-    "7": { theme: "bacalhau", stamp: "FORNO" },
-    "11": { theme: "heritage", stamp: "ARROZ" },
+    "2a": { theme: "coast", stamp: "COSTA / KUST" },
+    "4a": { theme: "coast", stamp: "MARISCO / ZEEVRUCHTEN" },
+    "5": { theme: "bacalhau", stamp: "BACALHAU / KABELJAUW" },
+    "7": { theme: "bacalhau", stamp: "FORNO / OVEN" },
+    "11": { theme: "heritage", stamp: "ARROZ / RIJST" },
     "13": { theme: "heritage", stamp: "ALENTEJO" },
-    "26": { theme: "summer", stamp: "VERÃO" }
+    "26": { theme: "summer", stamp: "VERÃO / ZOMER" }
   };
 
   const factIcons = {
@@ -173,16 +173,16 @@
       <div class="front-ornament" aria-hidden="true"><span></span><i></i><span></span></div>
       <h2>Portugese keukentaal</h2>
       <div class="guide-grid">
-        <div class="reference-card"><strong>Azeite</strong><span>Olijfolie. Niet alleen bakvet, maar ook een smaakmaker die vaak pas aan tafel of na het koken wordt toegevoegd.</span></div>
-        <div class="reference-card"><strong>Arroz carolino</strong><span>Portugese rijst die veel vocht en smaak opneemt en daardoor ideaal is voor sappige rijstgerechten.</span></div>
-        <div class="reference-card"><strong>Malandrinho</strong><span>Rijst die gaar is maar nog ruim, smaakvol kookvocht rond de korrels heeft. Meteen serveren.</span></div>
-        <div class="reference-card"><strong>Bacalhau</strong><span>Gezouten en gedroogde kabeljauw. Ontzouten en gaartijd hangen af van het product; proef vóór je extra zout toevoegt.</span></div>
-        <div class="reference-card"><strong>À Brás</strong><span>Een bereiding met ui, fijne aardappel en ei, romig gebonden en meestal afgewerkt met peterselie en olijven.</span></div>
-        <div class="reference-card"><strong>Açorda</strong><span>Broodgerecht waarin oud brood hete, sterk gekruide vloeistof opneemt. De textuur hoort sappig en rustiek te blijven.</span></div>
-        <div class="reference-card"><strong>Tomate pelado</strong><span>Gepelde tomaten uit blik. Een betrouwbare basis wanneer verse tomaten niet rijp genoeg zijn.</span></div>
-        <div class="reference-card"><strong>Pimentão-doce</strong><span>Zoet paprikapoeder. Gebruik het als warme achtergrond, niet als dominante rooksmaak.</span></div>
-        <div class="reference-card"><strong>Piripíri</strong><span>Chili of chilisaus. Begin bescheiden en bouw de scherpte tijdens het proeven op.</span></div>
-        <div class="reference-card"><strong>Coentros</strong><span>Korianderblad. Vooral in het zuiden en bij rijst, açorda en zeevruchten vaak een essentieel fris element.</span></div>
+        <div class="reference-card"><strong>Azeite (olijfolie)</strong><span>Niet alleen bakvet, maar ook een smaakmaker die vaak pas aan tafel of na het koken wordt toegevoegd.</span></div>
+        <div class="reference-card"><strong>Arroz carolino (Portugese Carolino-rijst)</strong><span>Een rijst die veel vocht en smaak opneemt en daardoor ideaal is voor sappige rijstgerechten.</span></div>
+        <div class="reference-card"><strong>Malandrinho (sappig en bouillonachtig)</strong><span>Rijst die gaar is maar nog ruim, smaakvol kookvocht rond de korrels heeft. Meteen serveren.</span></div>
+        <div class="reference-card"><strong>Bacalhau (gezouten kabeljauw)</strong><span>Gezouten en gedroogde kabeljauw. Ontzouten en gaartijd hangen af van het product; proef vóór je extra zout toevoegt.</span></div>
+        <div class="reference-card"><strong>À Brás (met fijne aardappel en romig ei)</strong><span>Een bereiding met ui, fijne aardappel en ei, romig gebonden en meestal afgewerkt met peterselie en olijven.</span></div>
+        <div class="reference-card"><strong>Açorda (Portugees broodgerecht)</strong><span>Oud brood neemt hete, sterk gekruide vloeistof op. De textuur hoort sappig en rustiek te blijven.</span></div>
+        <div class="reference-card"><strong>Tomate pelado (gepelde tomaten)</strong><span>Een betrouwbare basis wanneer verse tomaten niet rijp genoeg zijn.</span></div>
+        <div class="reference-card"><strong>Pimentão-doce (zoet paprikapoeder)</strong><span>Gebruik het als warme achtergrond, niet als dominante rooksmaak.</span></div>
+        <div class="reference-card"><strong>Piripíri (Portugese chili)</strong><span>Begin bescheiden en bouw de scherpte tijdens het proeven op.</span></div>
+        <div class="reference-card"><strong>Coentros (koriander)</strong><span>Vooral in het zuiden en bij rijst, açorda (Portugees broodgerecht) en zeevruchten vaak een essentieel fris element.</span></div>
       </div>
     `);
 
@@ -194,35 +194,35 @@
         <div class="pantry-grid">
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.oil}</div>
-            <div><strong>Azeite</strong><p><b>Koop</b> azeite virgem extra voor salade en afwerking, plus een eenvoudige Portugese azeite om mee te bakken.</p><p><b>Gebruik</b> royaal bij vis, bonen, broodgerechten en als laatste smaaklaag.</p></div>
+            <div><strong>Azeite (olijfolie)</strong><p><b>Koop</b> azeite virgem extra (extra vierge olijfolie) voor salade en afwerking, plus een eenvoudige Portugese azeite (olijfolie) om mee te bakken.</p><p><b>Gebruik</b> royaal bij vis, bonen, broodgerechten en als laatste smaaklaag.</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.rice}</div>
-            <div><strong>Arroz</strong><p><b>Koop</b> arroz carolino voor malandrinho, arroz de tomate en arroz de polvo; arroz agulha voor droge rijst en koude salades.</p><p><b>Niet nemen</b> basmati als algemene vervanger: de textuur is fundamenteel anders.</p></div>
+            <div><strong>Arroz (rijst)</strong><p><b>Koop</b> arroz carolino (Portugese Carolino-rijst) voor malandrinho (sappig en bouillonachtig), arroz de tomate (tomatenrijst) en arroz de polvo (octopusrijst); arroz agulha (Portugese langkorrelrijst) voor droge rijst en koude salades.</p><p><b>Niet nemen</b> basmati als algemene vervanger: de textuur is fundamenteel anders.</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.cod}</div>
-            <div><strong>Bacalhau</strong><p><b>Koop</b> bacalhau demolhado als je direct wilt koken, of gezouten bacalhau seco als je zelf wilt ontzouten.</p><p><b>Gebruik</b> grove vlokken voor Gomes de Sá en com natas; fijner voor à Brás en pataniscas.</p></div>
+            <div><strong>Bacalhau (gezouten kabeljauw)</strong><p><b>Koop</b> bacalhau demolhado (ontzoute gezouten kabeljauw) als je direct wilt koken, of bacalhau seco (gezouten gedroogde kabeljauw) als je zelf wilt ontzouten.</p><p><b>Gebruik</b> grove vlokken voor Gomes de Sá en com natas; fijner voor à Brás (met fijne aardappel en romig ei) en pataniscas (platte kabeljauwbeignets).</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.can}</div>
-            <div><strong>Conservas</strong><p><b>Koop</b> atum em azeite, cavala em azeite en sardinhas em azeite; kies bij voorkeur eenvoudige Portugese conserven.</p><p><b>Gebruik</b> voor snelle rijst, pasta, omelet, salades en tostas.</p></div>
+            <div><strong>Conservas (visconserven)</strong><p><b>Koop</b> atum em azeite (tonijn in olijfolie), cavala em azeite (makreel in olijfolie) en sardinhas em azeite (sardines in olijfolie); kies bij voorkeur eenvoudige Portugese conserven (visconserven).</p><p><b>Gebruik</b> voor snelle rijst, pasta, omelet, salades en tostas.</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.beans}</div>
-            <div><strong>Feijão & grão</strong><p><b>Koop</b> feijão-frade, feijão encarnado, feijão manteiga en grão-de-bico, gedroogd of al cozido.</p><p><b>Kies</b> feijão encarnado voor arroz de feijão en feijão-frade voor koude salades.</p></div>
+            <div><strong>Feijão & grão (bonen & kikkererwten)</strong><p><b>Koop</b> feijão-frade (zwartoogbonen), feijão encarnado (rode bonen), feijão manteiga (boterbonen) en grão-de-bico (kikkererwten), gedroogd of al cozido (gekookt).</p><p><b>Kies</b> feijão encarnado (rode bonen) voor arroz de feijão (bonenrijst) en feijão-frade (zwartoogbonen) voor koude salades.</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.bread}</div>
-            <div><strong>Pão</strong><p><b>Koop</b> pão alentejano of stevig pão de mistura voor açorda; pão de forma of pão de mistura voor tostas.</p><p><b>Bewaar</b> brood van de vorige dag: juist droger brood neemt bouillon op zonder meteen pap te worden.</p></div>
+            <div><strong>Pão (brood)</strong><p><b>Koop</b> pão alentejano (Alentejaans landbrood) of stevig pão de mistura (gemengd landbrood) voor açorda (Portugees broodgerecht); pão de forma (toastbrood) of pão de mistura (gemengd landbrood) voor tostas.</p><p><b>Bewaar</b> brood van de vorige dag: juist droger brood neemt bouillon op zonder meteen pap te worden.</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.cheese}</div>
-            <div><strong>Queijo & natas</strong><p><b>Koop</b> queijo Flamengo voor milde tostas en snelle gratins; queijo da Ilha voor een krachtigere geraspte kaas.</p><p><b>Neem</b> natas para culinária wanneer een recept om kookroom vraagt, niet zomaar een willekeurige “room”.</p></div>
+            <div><strong>Queijo & natas (kaas & kookroom)</strong><p><b>Koop</b> queijo Flamengo (milde Portugese Flamengo-kaas) voor milde tostas en snelle gratins; queijo da Ilha (pittige Azorenkaas) voor een krachtigere geraspte kaas.</p><p><b>Neem</b> natas para culinária (kookroom) wanneer een recept om kookroom vraagt.</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.pantry}</div>
-            <div><strong>De kleine smaakmakers</strong><p><b>Koop</b> azeitona Galega, batata palha, tomate pelado, louro, pimentão-doce, piripíri en vinho branco seco.</p><p><b>Met deze kast</b> kun je het grootste deel van dit boek koken zonder gespecialiseerde ingrediënten.</p></div>
+            <div><strong>De kleine smaakmakers</strong><p><b>Koop</b> azeitona Galega (kleine Portugese Galega-olijf), batata palha (krokante aardappelreepjes), tomate pelado (gepelde tomaten), louro (laurier), pimentão-doce (zoet paprikapoeder), piripíri (Portugese chili) en vinho branco seco (droge witte wijn).</p><p><b>Met deze kast</b> kun je het grootste deel van dit boek koken zonder gespecialiseerde ingrediënten.</p></div>
           </div>
         </div>
       </div>
