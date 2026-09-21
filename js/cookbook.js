@@ -109,7 +109,7 @@
       </div>
     `);
 
-    const tocItems = chapterOrder.map(chapter => {
+    const tocFor = chapters => chapters.map(chapter => {
       const rows = recipes
         .filter(recipe => recipe.chapter === chapter)
         .map(recipe => `
@@ -125,10 +125,17 @@
       `;
     }).join("");
 
-    const toc = page("single-page front-copy fit-page", `
+    const tocOne = page("single-page front-copy fit-page toc-page-sheet", `
       <div class="fit-content front-shell">
         <h2>Inhoud</h2>
-        <div class="toc-list">${tocItems}</div>
+        <div class="toc-list">${tocFor(chapterOrder.slice(0, 2))}</div>
+      </div>
+    `);
+
+    const tocTwo = page("single-page front-copy fit-page toc-page-sheet", `
+      <div class="fit-content front-shell">
+        <div class="front-kicker">Inhoud — vervolg</div>
+        <div class="toc-list toc-list-continuation">${tocFor(chapterOrder.slice(2))}</div>
       </div>
     `);
 
@@ -159,7 +166,22 @@
       </div>
     `);
 
-    book.append(cover, titlePage, toc, intro, guide);
+    const pantry = page("single-page front-copy pantry-page", `
+      <h2>Een kleine Portugese voorraadkast</h2>
+      <p class="pantry-intro">Met een paar vaste ingrediënten wordt doordeweeks Portugees koken vooral een kwestie van verse vis, groente of eieren toevoegen.</p>
+      <div class="guide-grid pantry-grid">
+        <div><strong>Olijfolie</strong><span>Houd één goede fles voor afwerking en salade, en een eenvoudiger azeite om in te bakken.</span></div>
+        <div><strong>Tomaat</strong><span>Tomate pelado en rijpe verse tomaten vullen elkaar aan. Laat tomaat altijd echt inkoken voordat rijst of bouillon erbij gaat.</span></div>
+        <div><strong>Rijst & brood</strong><span>Arroz carolino voor sappige rijstgerechten; stevig oud brood voor açorda en om kookvocht op te nemen.</span></div>
+        <div><strong>Blikvis</strong><span>Tonijn, cavala en sardines maken snelle maaltijden mogelijk. Kies waar mogelijk vis in olijfolie en proef vóór je zout toevoegt.</span></div>
+        <div><strong>Ui, knoflook & laurier</strong><span>De basis van veel stoof- en rijstgerechten. Laat ui rustig zacht worden en voorkom dat knoflook donker kleurt.</span></div>
+        <div><strong>Kruiden</strong><span>Koriander en peterselie zijn geen uitwisselbare decoratie: kies wat bij het gerecht hoort en voeg verse kruiden meestal pas op het einde toe.</span></div>
+        <div><strong>Zuur</strong><span>Citroen en wijnazijn brengen vis, bonen en salades tot leven. Voeg ze geleidelijk toe en proef opnieuw na een paar minuten.</span></div>
+        <div><strong>Handige voorraad</strong><span>Batata palha, olijven, pimentão-doce, piripíri en droge witte wijn lossen veel snelle Portugese maaltijden op zonder een lange boodschappenlijst.</span></div>
+      </div>
+    `);
+
+    book.append(cover, titlePage, tocOne, tocTwo, intro, guide, pantry);
   }
 
   function renderChapter(chapter, index) {
