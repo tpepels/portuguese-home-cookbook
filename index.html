@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Portugese thuiskeuken</title>
+  <link rel="stylesheet" href="css/cookbook.css">
+</head>
+<body>
+  <header class="toolbar" aria-label="Kookboekbediening">
+    <div>
+      <strong>Portugese thuiskeuken</strong>
+      <span id="recipe-count"></span>
+    </div>
+    <div class="toolbar-actions">
+      <button type="button" id="toggle-view">Enkele pagina</button>
+      <button type="button" id="print-book">Print / PDF</button>
+    </div>
+  </header>
+
+  <main id="book" class="book" aria-live="polite"></main>
+
+  <noscript>
+    <p class="noscript">JavaScript is nodig om het kookboek uit de receptdata op te bouwen.</p>
+  </noscript>
+
+  <script src="data/recipes.js"></script>
+  <script src="js/cookbook.js"></script>
+</body>
+</html>
