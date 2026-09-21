@@ -600,45 +600,43 @@ button { font: inherit; }
   text-wrap: pretty;
 }
 .photo-facts {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 0;
+  display: flex;
+  align-items: center;
+  gap: 7mm;
   margin-top: auto;
+  padding-top: 2.4mm;
+  border-top: .35mm solid rgba(58,43,35,.13);
 }
 .photo-facts .fact-card {
-  display: grid;
-  justify-items: center;
-  align-content: start;
-  gap: 1mm;
-  min-height: 23mm;
-  padding: 1.4mm 4mm 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 2mm;
+  min-width: 0;
+  padding: 0;
 }
 .photo-facts .fact-card + .fact-card {
+  padding-left: 7mm;
   border-left: 1px solid rgba(58, 43, 35, 0.14);
 }
 .fact-icon {
   display: grid;
   place-items: center;
-  width: 7mm;
-  height: 7mm;
+  flex: 0 0 auto;
+  width: 5.8mm;
+  height: 5.8mm;
   color: var(--ink);
 }
 .fact-icon svg {
   display: block;
-  width: 6.2mm;
-  height: 6.2mm;
-}
-.fact-label {
-  color: transparent;
-  font-size: 0;
-  line-height: 0;
+  width: 5.2mm;
+  height: 5.2mm;
 }
 .fact-value {
   color: var(--ink);
-  font-size: 8.2pt;
+  font-size: 8.5pt;
   font-weight: 600;
-  line-height: 1.2;
-  text-align: center;
+  line-height: 1.1;
+  white-space: nowrap;
 }
 .photo-footer {
   display: grid;
@@ -710,7 +708,8 @@ button { font: inherit; }
   margin-top: 3mm;
   background: var(--feature-color);
 }
-.feature-recipe.recipe-page .meta-box { background: var(--feature-tint); }
+.feature-recipe.recipe-page .meta-box { border-top-color: color-mix(in srgb, var(--feature-color) 45%, transparent); }
+.feature-recipe.recipe-page .meta-box .fact-icon { color: var(--feature-color); }
 .feature-recipe.recipe-page .steps-list li::before { background: var(--feature-color); }
 .feature-spread .photo-footer span:nth-child(2) {
   color: var(--feature-color);
@@ -767,36 +766,42 @@ button { font: inherit; }
   hyphens: auto;
 }
 .meta-box {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  border-radius: 2.2mm;
-  overflow: hidden;
-  background: var(--warm);
+  display: flex;
+  align-items: center;
+  width: max-content;
+  max-width: 100%;
+  gap: 0;
+  padding: 2.5mm 0 2.4mm;
+  border-top: .45mm solid rgba(29,21,17,.18);
+  border-bottom: .3mm solid rgba(29,21,17,.10);
+  background: transparent;
 }
 .meta-box .fact-card {
-  min-height: 19mm;
-  padding: 2.7mm 3mm 2.5mm;
-  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  gap: 2mm;
+  min-width: 0;
+  padding: 0 7mm 0 0;
 }
 .meta-box .fact-card + .fact-card {
-  border-left: 1px solid rgba(58, 43, 35, 0.12);
+  padding: 0 0 0 7mm;
+  border-left: 1px solid rgba(58,43,35,.16);
 }
-.meta-box .fact-label {
-  display: block;
-  color: var(--ink);
-  font-size: 7.25pt;
-  font-weight: 700;
-  line-height: 1.1;
-  letter-spacing: .045em;
-  text-transform: uppercase;
+.meta-box .fact-icon {
+  width: 5.6mm;
+  height: 5.6mm;
+  color: var(--sage-dark);
+}
+.meta-box .fact-icon svg {
+  width: 5mm;
+  height: 5mm;
 }
 .meta-box .fact-value {
-  display: block;
-  margin-top: 1.1mm;
-  color: #423632;
-  font-size: 9.1pt;
+  color: var(--ink);
+  font-size: 9.3pt;
   font-weight: 600;
-  line-height: 1.18;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .nutrition-note {
@@ -1046,8 +1051,7 @@ button { font: inherit; }
 .recipe-page.tight .recipe-subtitle { font-size: 7pt; letter-spacing: .11em; margin-bottom: 2mm; }
 .recipe-page.tight .recipe-intro { font-size: 9.8pt; line-height: 1.30; }
 .recipe-page.tight .meta-box .fact-card { min-height: 17mm; padding-top: 2mm; padding-bottom: 1.8mm; }
-.recipe-page.tight .meta-box .fact-label { font-size: 6.5pt; }
-.recipe-page.tight .meta-box .fact-value { font-size: 7.8pt; }
+.recipe-page.tight .meta-box .fact-value { font-size: 8.5pt; }
 .recipe-page.tight .nutrition-note { min-height: 12.5mm; padding-top: 1.8mm; padding-bottom: 1.7mm; }
 .recipe-page.tight .nutrition-heading strong { font-size: 11pt; }
 .recipe-page.tight .nutrition-metrics > div { padding-left: 2.4mm; padding-right: 2.4mm; }
@@ -1133,7 +1137,6 @@ body,
 }
 .photo-dek { color: #40332d; font-weight: 500; }
 .recipe-subtitle { color: #51453f; font-weight: 700; }
-.meta-box .fact-label { color: var(--ink); }
 .meta-box .fact-value { color: var(--text); font-weight: 600; }
 .photo-facts .fact-value { color: var(--ink); font-weight: 600; }
 .photo-footer { color: #463b35; font-weight: 600; }
