@@ -25,6 +25,12 @@
     "Portugal nu"
   ];
 
+  const factIcons = {
+    servings: `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v8M4 3v5a2 2 0 0 0 4 0V3M6 11v10M16 3v18M16 3c3 2 4 5 4 8h-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+    time: `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 7v5l3.5 2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+    type: `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 4c-7 .4-11 3.8-11 9.2 0 3 1.8 5.2 4.6 5.2C18 18.4 20 12 19 4Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M5 20c2.5-4.7 5.8-7.8 10.5-10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`
+  };
+
   const esc = (value = "") => String(value)
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
@@ -90,9 +96,10 @@
       const rows = recipes
         .filter(recipe => recipe.chapter === chapter)
         .map(recipe => `
-          <div class="toc-row">
+          <div class="toc-row" data-recipe-id="${esc(recipe.id)}">
             <span>${esc(recipe.label)}</span>
             <span>${esc(recipe.title)}</span>
+            <span class="toc-page">…</span>
           </div>
         `).join("");
       return `
@@ -134,9 +141,9 @@
 
   function renderFacts(recipe, includeIcons = false) {
     const entries = [
-      { icon: "♙", label: "Voor", value: servingsFor(recipe) },
-      { icon: "◷", label: "Tijd", value: recipe.time || "—" },
-      { icon: "❧", label: "Type", value: makeTheme(recipe).replace(/ • /g, " / ") || "—" }
+      { icon: factIcons.servings, label: "Voor", value: servingsFor(recipe) },
+      { icon: factIcons.time, label: "Tijd", value: recipe.time || "—" },
+      { icon: factIcons.type, label: "Type", value: makeTheme(recipe).replace(/ • /g, " / ") || "—" }
     ];
 
     return entries.map(entry => `
@@ -152,14 +159,14 @@
     const photo = page("photo-page", `
       <div class="photo-visual">
         <div class="photo-fallback"><span>${esc(recipe.title)}</span></div>
-        <img src="${esc(recipe.image)}" alt="${esc(recipe.imageAlt || recipe.title)}" loading="lazy">
+        <img src="${esc(recipe.image)}" alt="${esc(recipe.imageAlt || recipe.title)}" loading="eager" decoding="async">
       </div>
       <div class="photo-panel">
         <h2>${esc(recipe.title)}</h2>
         <p class="photo-dek">${esc(makeDeck(recipe))}</p>
         <div class="photo-facts">${renderFacts(recipe, true)}</div>
         <div class="photo-footer">
-          <span>${esc(recipe.label)}</span>
+          <span class="page-number-slot">—</span>
           <span>PORTUGAL THUIS</span>
           <span>${esc(makeTheme(recipe))}</span>
         </div>
@@ -231,7 +238,67 @@
       </div>
     `);
 
-    book.append(spread("recipe-spread", photo, text));
+    const recipeSpread = spread("recipe-spread", photo, text);
+    recipeSpread.dataset.recipeId = recipe.id;
+    const rightFolio = document.createElement("span");
+    rightFolio.className = "page-folio page-folio-right";
+    text.append(rightFolio);
+    book.append(recipeSpread);
+  }
+
+  function assignPageNumbers() {
+    const pages = [...document.querySelectorAll(".page")];
+    pages.forEach((page, index) => {
+      const number = index + 1;
+      page.dataset.pageNumber = String(number);
+
+      const leftSlot = page.querySelector(".page-number-slot");
+      if (leftSlot) leftSlot.textContent = String(number);
+
+      const rightFolio = page.querySelector(".page-folio-right");
+      if (rightFolio) rightFolio.textContent = String(number);
+    });
+
+    document.querySelectorAll(".toc-row[data-recipe-id]").forEach(row => {
+      const id = row.dataset.recipeId;
+      const spread = document.querySelector(`.recipe-spread[data-recipe-id="${CSS.escape(id)}"]`);
+      const pageNo = spread?.querySelector(".photo-page")?.dataset.pageNumber || "—";
+      const slot = row.querySelector(".toc-page");
+      if (slot) slot.textContent = pageNo;
+    });
+  }
+
+  async function ensureImagesReady() {
+    const images = [...document.images];
+    images.forEach(img => { img.loading = "eager"; });
+
+    await Promise.all(images.map(img => {
+      if (img.complete) {
+        return typeof img.decode === "function" ? img.decode().catch(() => undefined) : Promise.resolve();
+      }
+      return new Promise(resolve => {
+        img.addEventListener("load", resolve, { once: true });
+        img.addEventListener("error", resolve, { once: true });
+      });
+    }));
+  }
+
+  async function prepareForPrint() {
+    const originalLabel = printButton.textContent;
+    printButton.disabled = true;
+    printButton.textContent = "Afbeeldingen laden…";
+    document.body.classList.add("preparing-print");
+
+    try {
+      await ensureImagesReady();
+      if (document.fonts?.ready) await document.fonts.ready;
+      fitAllPages();
+      await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+    } finally {
+      document.body.classList.remove("preparing-print");
+      printButton.disabled = false;
+      printButton.textContent = originalLabel;
+    }
   }
 
   function fitPage(page) {
@@ -304,6 +371,7 @@
       chapterRecipes.forEach(renderRecipe);
     });
 
+    assignPageNumbers();
     count.textContent = `· ${recipes.length} recepten · A4…`;
 
     requestAnimationFrame(() => requestAnimationFrame(fitAllPages));
@@ -316,13 +384,24 @@
     requestAnimationFrame(fitAllPages);
   });
 
-  printButton.addEventListener("click", () => {
-    fitAllPages();
+  printButton.addEventListener("click", async () => {
+    await prepareForPrint();
     window.print();
   });
 
+  window.addEventListener("keydown", async event => {
+    if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "p") {
+      event.preventDefault();
+      await prepareForPrint();
+      window.print();
+    }
+  });
+
   window.addEventListener("resize", fitAllPages);
-  window.addEventListener("beforeprint", fitAllPages);
+  window.addEventListener("beforeprint", () => {
+    document.querySelectorAll("img").forEach(img => { img.loading = "eager"; });
+    fitAllPages();
+  });
 
   render();
 })();
