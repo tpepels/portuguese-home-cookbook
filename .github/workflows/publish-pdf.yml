@@ -1,0 +1,69 @@
+name: Publish cookbook PDF
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "css/**"
+      - "js/**"
+      - "data/**"
+      - "images/**"
+      - "scripts/build-pdf.mjs"
+      - ".github/workflows/publish-pdf.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-cookbook-pdf
+  cancel-in-progress: true
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Playwright
+        run: |
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Serve cookbook
+        run: |
+          python3 -m http.server 8000 >/tmp/cookbook-http.log 2>&1 &
+          echo $! >/tmp/cookbook-http.pid
+
+      - name: Build and preflight PDF
+        run: node scripts/build-pdf.mjs
+
+      - name: Validate PDF file
+        run: |
+          test -s Portugese-thuiskeuken.pdf
+          test "$(head -c 4 Portugese-thuiskeuken.pdf)" = "%PDF"
+          size=$(stat -c%s Portugese-thuiskeuken.pdf)
+          if [ "$size" -lt 1000000 ]; then
+            echo "PDF unexpectedly small: $size bytes"
+            exit 1
+          fi
+          echo "PDF size: $size bytes"
+
+      - name: Publish PDF to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Portugese-thuiskeuken.pdf
+          if git diff --cached --quiet; then
+            echo "PDF unchanged"
+            exit 0
+          fi
+          git commit -m "Publish cookbook PDF"
+          git push
