@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap");
 
 :root {
   --paper: #f5f2ea;
@@ -17,7 +17,7 @@
   --page-w: 210mm;
   --page-h: 297mm;
   --display: "Instrument Serif", Georgia, serif;
-  --sans: "DM Sans", system-ui, sans-serif;
+  --sans: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -26,6 +26,9 @@ body {
   margin: 0;
   color: var(--text);
   font-family: var(--sans);
+  font-kerning: normal;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
   background:
     radial-gradient(circle at 50% -20%, rgba(255,255,255,.9), transparent 45rem),
     #e4dfd6;
@@ -134,9 +137,9 @@ button { font: inherit; }
 }
 .cover-kicker {
   color: #9a5c20;
-  font-size: 8pt;
+  font-size: 7.6pt;
   font-weight: 700;
-  letter-spacing: .21em;
+  letter-spacing: .15em;
   text-transform: uppercase;
 }
 .cover-rule {
@@ -163,10 +166,10 @@ button { font: inherit; }
   margin: 0 0 4.5mm;
   color: #10284d;
   font-family: var(--display);
-  font-size: 43pt;
-  line-height: .88;
+  font-size: 47pt;
+  line-height: .90;
   font-weight: 400;
-  letter-spacing: -.035em;
+  letter-spacing: -.018em;
   text-wrap: balance;
   text-shadow: 0 .25mm rgba(255,255,255,.35);
 }
@@ -175,8 +178,8 @@ button { font: inherit; }
   margin: 0 auto;
   color: #17325a;
   font-family: var(--display);
-  font-size: 12.5pt;
-  line-height: 1.22;
+  font-size: 13.2pt;
+  line-height: 1.20;
   text-wrap: balance;
 }
 .cover-meta {
@@ -241,25 +244,25 @@ button { font: inherit; }
   margin: 0 0 6mm;
   color: var(--ink);
   font-family: var(--display);
-  font-size: 43pt;
-  line-height: .9;
+  font-size: 46pt;
+  line-height: .92;
   font-weight: 400;
-  letter-spacing: -.03em;
+  letter-spacing: -.018em;
 }
 .title-page p {
   max-width: 108mm;
   margin: 0;
   color: #5b4f49;
   font-family: var(--display);
-  font-size: 16pt;
-  line-height: 1.25;
+  font-size: 16.8pt;
+  line-height: 1.22;
 }
 .title-page-meta {
   margin-top: 15mm;
   color: #766963;
-  font-size: 7.2pt;
+  font-size: 7.6pt;
   font-weight: 600;
-  letter-spacing: .08em;
+  letter-spacing: .06em;
   text-transform: uppercase;
 }
 
@@ -271,18 +274,24 @@ button { font: inherit; }
   margin: 0 0 8mm;
   color: var(--ink);
   font-family: var(--display);
-  font-size: 31pt;
+  font-size: 33pt;
   font-weight: 400;
-  line-height: .95;
+  line-height: .94;
+  letter-spacing: -.012em;
 }
 .front-copy p {
-  max-width: 145mm;
-  margin: 0 0 4mm;
-  color: #49403b;
-  font-size: 9.6pt;
-  line-height: 1.56;
+  max-width: 132mm;
+  margin: 0 0 4.6mm;
+  color: var(--text);
+  font-size: 10.2pt;
+  font-weight: 450;
+  line-height: 1.53;
+  hyphens: auto;
+  orphans: 3;
+  widows: 3;
+  text-wrap: pretty;
 }
-.about-page p { max-width: 148mm; }
+.about-page p { max-width: 132mm; }
 .editorial-note {
   display: grid;
   grid-template-columns: 37mm 1fr;
@@ -301,8 +310,9 @@ button { font: inherit; }
 }
 .editorial-note span {
   color: #4b403b;
-  font-size: 8.4pt;
-  line-height: 1.48;
+  font-size: 8.9pt;
+  font-weight: 500;
+  line-height: 1.46;
 }
 
 .guide-page,
@@ -361,16 +371,18 @@ button { font: inherit; }
   margin-bottom: 1.2mm;
   color: var(--ink);
   font-family: var(--display);
-  font-size: 13.5pt;
+  font-size: 14.2pt;
+  line-height: 1.02;
   font-weight: 600;
   line-height: 1;
 }
 .guide-grid span {
   display: block;
   color: var(--text);
-  font-size: 8.15pt;
+  font-size: 8.65pt;
   font-weight: 500;
-  line-height: 1.43;
+  line-height: 1.44;
+  hyphens: auto;
 }
 
 .front-kicker {
@@ -395,9 +407,10 @@ button { font: inherit; }
   margin-bottom: 6mm !important;
   color: #40342e !important;
   font-family: var(--display);
-  font-size: 12.6pt !important;
+  font-size: 13.5pt !important;
   font-weight: 400;
-  line-height: 1.3 !important;
+  line-height: 1.28 !important;
+  letter-spacing: -.008em;
 }
 .pantry-grid {
   display: grid;
@@ -449,25 +462,26 @@ button { font: inherit; }
 .pantry-card p {
   margin: 0 0 1.3mm;
   color: var(--text);
-  font-size: 7.55pt;
+  font-size: 8.15pt;
   font-weight: 500;
-  line-height: 1.36;
+  line-height: 1.37;
+  hyphens: auto;
 }
 .pantry-card p:last-child { margin-bottom: 0; }
 .pantry-card b {
   color: var(--accent);
-  font-size: 6.6pt;
+  font-size: 6.9pt;
   font-weight: 700;
-  letter-spacing: .06em;
+  letter-spacing: .045em;
   text-transform: uppercase;
 }
 
 .toc-chapter {
   margin-top: 3.4mm;
   color: var(--ink);
-  font-size: 7pt;
+  font-size: 7.7pt;
   font-weight: 700;
-  letter-spacing: .14em;
+  letter-spacing: .10em;
   text-transform: uppercase;
 }
 .toc-row {
@@ -477,14 +491,15 @@ button { font: inherit; }
   align-items: baseline;
   padding: .9mm 0 1.2mm;
   border-bottom: 1px solid rgba(32,35,31,.08);
-  font-size: 8.25pt;
+  font-size: 8.75pt;
 }
-.toc-row span:first-child { color: var(--accent); font-size: 6.9pt; font-weight: 700; }
+.toc-row span:first-child { color: var(--accent); font-size: 7.25pt; font-weight: 700; font-variant-numeric: lining-nums tabular-nums; }
 .toc-page {
   justify-self: end;
   color: var(--muted);
-  font-size: 7pt;
-  font-variant-numeric: tabular-nums;
+  font-size: 8pt;
+  font-weight: 600;
+  font-variant-numeric: lining-nums tabular-nums;
 }
 
 /* integrated chapter openers */
@@ -568,17 +583,20 @@ button { font: inherit; }
   margin: 0;
   color: var(--ink);
   font-family: var(--display);
-  font-size: 20.5pt;
-  line-height: .94;
+  font-size: 21.5pt;
+  line-height: .96;
   font-weight: 400;
-  letter-spacing: -.02em;
+  letter-spacing: -.012em;
 }
 .photo-dek {
   margin: 0;
   color: #5d4f4a;
-  font-size: 8.6pt;
-  line-height: 1.35;
+  font-family: var(--display);
+  font-size: 10.1pt;
+  line-height: 1.28;
   font-style: italic;
+  letter-spacing: -.004em;
+  text-wrap: pretty;
 }
 .photo-facts {
   display: grid;
@@ -616,8 +634,9 @@ button { font: inherit; }
 }
 .fact-value {
   color: var(--ink);
-  font-size: 7.7pt;
-  line-height: 1.24;
+  font-size: 8.2pt;
+  font-weight: 600;
+  line-height: 1.2;
   text-align: center;
 }
 .photo-footer {
@@ -628,8 +647,8 @@ button { font: inherit; }
   padding-top: 3mm;
   border-top: 1px solid rgba(58, 43, 35, 0.14);
   color: #584d48;
-  font-size: 6.3pt;
-  letter-spacing: .12em;
+  font-size: 6.8pt;
+  letter-spacing: .08em;
   text-transform: uppercase;
 }
 .photo-footer span:nth-child(2) { padding-left: 2mm; border-left: 1px solid rgba(58, 43, 35, 0.14); }
@@ -717,24 +736,31 @@ button { font: inherit; }
   margin: 0 0 2mm;
   color: var(--ink);
   font-family: var(--display);
-  font-size: 31pt;
-  line-height: .94;
+  font-size: 33pt;
+  line-height: .95;
   font-weight: 400;
-  letter-spacing: -.03em;
+  letter-spacing: -.018em;
+  text-wrap: balance;
 }
 .recipe-subtitle {
   margin-bottom: 2.6mm;
   color: #6c625c;
-  font-size: 7.4pt;
+  font-size: 7.7pt;
   font-weight: 700;
-  letter-spacing: .26em;
+  letter-spacing: .14em;
   text-transform: uppercase;
 }
 .recipe-intro {
   margin: 0;
   color: #403633;
-  font-size: 9.4pt;
-  line-height: 1.46;
+  max-width: 164mm;
+  font-family: var(--display);
+  font-size: 11.1pt;
+  font-weight: 400;
+  line-height: 1.34;
+  letter-spacing: -.003em;
+  text-wrap: pretty;
+  hyphens: auto;
 }
 .meta-box {
   display: grid;
@@ -754,16 +780,19 @@ button { font: inherit; }
 .meta-box .fact-label {
   display: block;
   color: var(--ink);
-  font-size: 7.2pt;
+  font-size: 7.25pt;
   font-weight: 700;
-  line-height: 1.15;
+  line-height: 1.1;
+  letter-spacing: .045em;
+  text-transform: uppercase;
 }
 .meta-box .fact-value {
   display: block;
   margin-top: 1.1mm;
   color: #423632;
-  font-size: 8.7pt;
-  line-height: 1.22;
+  font-size: 9.1pt;
+  font-weight: 600;
+  line-height: 1.18;
 }
 
 .recipe-body {
@@ -793,9 +822,10 @@ button { font: inherit; }
   margin: 0 0 2mm;
   color: var(--ink);
   font-family: var(--display);
-  font-size: 17.5pt;
-  line-height: 1;
-  font-weight: 600;
+  font-size: 18.5pt;
+  line-height: .98;
+  font-weight: 400;
+  letter-spacing: -.008em;
 }
 .recipe-page.two-column .text-section h2 {
   break-after: avoid;
@@ -816,10 +846,16 @@ button { font: inherit; }
   padding-left: 4.8mm;
 }
 .ingredients-list li {
-  margin: 0 0 1.15mm;
+  margin: 0 0 1.25mm;
   color: #403633;
-  font-size: 9.4pt;
-  line-height: 1.35;
+  font-size: 9.85pt;
+  font-weight: 500;
+  line-height: 1.38;
+  hyphens: auto;
+}
+.ingredients-list li::marker {
+  color: var(--accent);
+  font-size: .82em;
 }
 .steps-list {
   list-style: none;
@@ -830,8 +866,12 @@ button { font: inherit; }
   margin: 0 0 3mm;
   padding-left: 11mm;
   color: #403633;
-  font-size: 9.4pt;
-  line-height: 1.41;
+  font-size: 9.8pt;
+  font-weight: 500;
+  line-height: 1.44;
+  hyphens: auto;
+  orphans: 2;
+  widows: 2;
   counter-increment: step;
   break-inside: avoid-column;
 }
@@ -847,8 +887,9 @@ button { font: inherit; }
   border-radius: 50%;
   color: #fff;
   background: var(--accent);
-  font-size: 6.5pt;
+  font-size: 6.8pt;
   font-weight: 700;
+  font-variant-numeric: lining-nums tabular-nums;
 }
 .note-grid {
   display: grid;
@@ -884,9 +925,10 @@ button { font: inherit; }
 .note-list li {
   margin: 0;
   color: var(--text);
-  font-size: 8.1pt;
+  font-size: 8.55pt;
   font-weight: 500;
-  line-height: 1.4;
+  line-height: 1.42;
+  hyphens: auto;
 }
 .note-list { padding-left: 4.4mm; }
 .note-list li + li { margin-top: .75mm; }
@@ -895,49 +937,49 @@ button { font: inherit; }
 
 /* fit states: use columns before reducing type size */
 .front-copy.compact h2,
-.recipe-page.compact .recipe-header h1 { font-size: 29pt; }
-.front-copy.compact .toc-row { font-size: 7.8pt; }
+.recipe-page.compact .recipe-header h1 { font-size: 31pt; }
+.front-copy.compact .toc-row { font-size: 8.3pt; }
 .recipe-page.compact .recipe-shell { gap: 3.2mm; }
-.recipe-page.compact .recipe-subtitle { font-size: 7pt; letter-spacing: .22em; }
-.recipe-page.compact .recipe-intro { font-size: 9pt; line-height: 1.40; }
+.recipe-page.compact .recipe-subtitle { font-size: 7.3pt; letter-spacing: .12em; }
+.recipe-page.compact .recipe-intro { font-size: 10.4pt; line-height: 1.32; }
 .recipe-page.compact .meta-box .fact-card { min-height: 18mm; padding-top: 2.3mm; padding-bottom: 2.1mm; }
 .recipe-page.compact .meta-box .fact-label { font-size: 6.9pt; }
 .recipe-page.compact .meta-box .fact-value { font-size: 8.2pt; }
 .recipe-page.compact .text-section h2,
 .recipe-page.compact .note-block h3 { font-size: 16pt; }
 .recipe-page.compact .ingredients-list li,
-.recipe-page.compact .steps-list li { font-size: 8.95pt; line-height: 1.33; }
+.recipe-page.compact .steps-list li { font-size: 9.35pt; line-height: 1.36; }
 .recipe-page.compact .steps-list li { margin-bottom: 2.3mm; }
 .recipe-page.compact .note-block p,
-.recipe-page.compact .note-list li { font-size: 7.7pt; line-height: 1.33; }
+.recipe-page.compact .note-list li { font-size: 8.15pt; line-height: 1.36; }
 
 .recipe-page.tight { padding-top: 10mm; padding-bottom: 9mm; }
 .recipe-page.tight .recipe-shell { gap: 2.6mm; }
-.recipe-page.tight .recipe-header h1 { font-size: 27pt; }
-.recipe-page.tight .recipe-subtitle { font-size: 6.7pt; letter-spacing: .19em; margin-bottom: 2mm; }
-.recipe-page.tight .recipe-intro { font-size: 8.5pt; line-height: 1.34; }
+.recipe-page.tight .recipe-header h1 { font-size: 29pt; }
+.recipe-page.tight .recipe-subtitle { font-size: 7pt; letter-spacing: .11em; margin-bottom: 2mm; }
+.recipe-page.tight .recipe-intro { font-size: 9.8pt; line-height: 1.30; }
 .recipe-page.tight .meta-box .fact-card { min-height: 17mm; padding-top: 2mm; padding-bottom: 1.8mm; }
 .recipe-page.tight .meta-box .fact-label { font-size: 6.5pt; }
 .recipe-page.tight .meta-box .fact-value { font-size: 7.8pt; }
 .recipe-page.tight .text-section h2,
 .recipe-page.tight .note-block h3 { font-size: 15pt; margin-bottom: 1.4mm; }
 .recipe-page.tight .ingredients-list li,
-.recipe-page.tight .steps-list li { font-size: 8.5pt; line-height: 1.28; }
+.recipe-page.tight .steps-list li { font-size: 8.9pt; line-height: 1.31; }
 .recipe-page.tight .ingredients-list li { margin-bottom: .9mm; }
 .recipe-page.tight .steps-list li { margin-bottom: 1.8mm; padding-left: 10mm; }
 .recipe-page.tight .steps-list li::before { width: 6.1mm; height: 6.1mm; font-size: 5.9pt; }
 .recipe-page.tight .note-block { padding: 2.7mm 3mm; min-height: 21mm; }
 .recipe-page.tight .note-block p,
-.recipe-page.tight .note-list li { font-size: 7.35pt; line-height: 1.28; }
+.recipe-page.tight .note-list li { font-size: 7.85pt; line-height: 1.31; }
 
 .page-folio {
   position: absolute;
   z-index: 3;
   bottom: 4.5mm;
-  color: #8a7d75;
-  font-size: 6.4pt;
+  color: #564c46;
+  font-size: 7.2pt;
   font-weight: 600;
-  letter-spacing: .08em;
+  letter-spacing: .04em;
   font-variant-numeric: tabular-nums;
 }
 .page-folio-right { right: 12mm; }
@@ -990,7 +1032,6 @@ body,
 .fact-value {
   color: var(--text);
 }
-.front-copy p,
 .recipe-intro,
 .ingredients-list li,
 .steps-list li,
@@ -1032,6 +1073,41 @@ body,
   color: var(--azulejo);
   font-size: 7pt;
   transform: rotate(45deg);
+}
+
+/* typographic refinement */
+.recipe-header h1,
+.photo-panel h2,
+.front-copy h2,
+.title-page h1,
+.cover h1 {
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+}
+.recipe-intro,
+.photo-dek,
+.front-copy p,
+.guide-grid span,
+.pantry-card p,
+.ingredients-list li,
+.steps-list li,
+.note-block p {
+  hanging-punctuation: first last;
+}
+.ingredients-list li,
+.steps-list li,
+.front-copy p,
+.guide-grid span,
+.pantry-card p,
+.note-block p {
+  text-wrap: pretty;
+}
+.meta-box,
+.photo-facts,
+.page-folio,
+.toc-row span:first-child,
+.toc-page {
+  font-variant-numeric: lining-nums tabular-nums;
 }
 
 /* print */
