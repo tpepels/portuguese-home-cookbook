@@ -25,6 +25,8 @@
     "Portugal nu"
   ];
 
+  const featureRecipeIds = new Set(["2a", "4a", "5", "7", "11", "13", "26"]);
+
   const factIcons = {
     servings: `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v8M4 3v5a2 2 0 0 0 4 0V3M6 11v10M16 3v18M16 3c3 2 4 5 4 8h-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
     time: `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 7v5l3.5 2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
@@ -87,9 +89,13 @@
 
   function renderFrontMatter() {
     const cover = page("single-page cover", `
-      <div class="cover-kicker">Portugal thuis</div>
-      <h1>Portugese<br>thuiskeuken</h1>
-      <p>Vis, zeevruchten, ei & groente — klassiek en hedendaags, zonder vlees.</p>
+      <img class="cover-image" src="images/26-sardinhas-assadas-com-batatas-e-salada-de-pimentos.jpg" alt="" loading="eager" decoding="async">
+      <div class="cover-copy">
+        <div class="cover-kicker">Portugal thuis</div>
+        <h1>Portugese<br>thuiskeuken</h1>
+        <p>Vis, zeevruchten, ei & groente — klassiek en hedendaags, zonder vlees.</p>
+        <div class="cover-meta">${recipes.length} recepten · van bacalhau tot arroz de marisco</div>
+      </div>
     `);
 
     const tocItems = chapterOrder.map(chapter => {
@@ -155,11 +161,23 @@
     `).join("");
   }
 
-  function renderRecipe(recipe) {
-    const photo = page("photo-page", `
+  function renderRecipe(recipe, options = {}) {
+    const isChapterStart = Boolean(options.isChapterStart);
+    const chapterIndex = options.chapterIndex ?? 0;
+    const isFeature = featureRecipeIds.has(recipe.id);
+    const chapterOverlay = isChapterStart ? `
+      <div class="chapter-overlay">
+        <div class="chapter-overlay-kicker">Deel ${chapterIndex + 1}</div>
+        <strong>${esc(recipe.chapter)}</strong>
+        <p>${esc(chapterCopy[recipe.chapter] || "")}</p>
+      </div>
+    ` : "";
+
+    const photo = page(`photo-page ${isFeature ? "feature-recipe" : ""} ${isChapterStart ? "chapter-lead" : ""}`, `
       <div class="photo-visual">
         <div class="photo-fallback"><span>${esc(recipe.title)}</span></div>
         <img src="${esc(recipe.image)}" alt="${esc(recipe.imageAlt || recipe.title)}" loading="eager" decoding="async">
+        ${chapterOverlay}
       </div>
       <div class="photo-panel">
         <h2>${esc(recipe.title)}</h2>
@@ -210,7 +228,7 @@
       `);
     }
 
-    const text = page("recipe-page fit-page", `
+    const text = page(`recipe-page fit-page ${isFeature ? "feature-recipe" : ""}`, `
       <div class="fit-content recipe-shell">
         <header class="recipe-header">
           <h1>${esc(recipe.title)}</h1>
@@ -238,7 +256,7 @@
       </div>
     `);
 
-    const recipeSpread = spread("recipe-spread", photo, text);
+    const recipeSpread = spread(`recipe-spread ${isFeature ? "feature-spread" : ""} ${isChapterStart ? "chapter-lead-spread" : ""}`, photo, text);
     recipeSpread.dataset.recipeId = recipe.id;
     const rightFolio = document.createElement("span");
     rightFolio.className = "page-folio page-folio-right";
@@ -367,8 +385,12 @@
     chapterOrder.forEach((chapter, index) => {
       const chapterRecipes = recipes.filter(recipe => recipe.chapter === chapter);
       if (!chapterRecipes.length) return;
-      renderChapter(chapter, index);
-      chapterRecipes.forEach(renderRecipe);
+      chapterRecipes.forEach((recipe, recipeIndex) => {
+        renderRecipe(recipe, {
+          isChapterStart: recipeIndex === 0,
+          chapterIndex: index
+        });
+      });
     });
 
     assignPageNumbers();
