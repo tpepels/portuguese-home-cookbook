@@ -724,7 +724,7 @@ button { font: inherit; }
 }
 .recipe-shell {
   display: grid;
-  grid-template-rows: auto auto auto minmax(0, 1fr) auto;
+  grid-template-rows: auto auto minmax(0, 1fr) auto auto;
   gap: 4mm;
   width: 100%;
   min-height: 100%;
@@ -799,59 +799,71 @@ button { font: inherit; }
   line-height: 1.18;
 }
 
-.nutrition-strip {
+.nutrition-note {
   display: grid;
-  grid-template-columns: 31mm repeat(4, 1fr);
-  min-height: 13.5mm;
-  overflow: hidden;
-  border: .35mm solid rgba(29,21,17,.13);
-  border-radius: 2mm;
-  background: rgba(247,243,233,.92);
+  grid-template-columns: 34mm minmax(0, 1fr);
+  gap: 5mm;
+  align-items: center;
+  min-height: 15mm;
+  padding: 2.8mm 0 2.4mm;
+  border-top: .45mm solid rgba(29,21,17,.22);
+  border-bottom: .3mm solid rgba(29,21,17,.10);
 }
-.nutrition-caption,
-.nutrition-value {
+.nutrition-heading {
   display: grid;
   align-content: center;
-  min-width: 0;
-  padding: 2mm 2.5mm;
+  gap: .7mm;
+  padding-left: 4mm;
+  border-left: 1.2mm solid var(--sage-dark);
 }
-.nutrition-caption {
-  background: var(--sage);
+.nutrition-heading strong {
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 12.5pt;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -.006em;
+}
+.nutrition-heading span {
+  color: var(--muted);
+  font-size: 6.6pt;
+  font-weight: 600;
+  letter-spacing: .045em;
   text-transform: uppercase;
 }
-.nutrition-caption strong {
-  color: var(--ink);
-  font-size: 6.9pt;
-  font-weight: 700;
-  letter-spacing: .07em;
-  line-height: 1.05;
+.nutrition-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: end;
 }
-.nutrition-caption span {
-  margin-top: .7mm;
-  color: #4f5b4c;
-  font-size: 5.9pt;
+.nutrition-metrics > div {
+  display: grid;
+  gap: .8mm;
+  min-width: 0;
+  padding: 0 3.2mm;
+}
+.nutrition-metrics > div + div {
+  border-left: 1px solid rgba(29,21,17,.11);
+}
+.nutrition-metrics span {
+  color: var(--muted);
+  font-size: 6.2pt;
+  font-weight: 700;
+  letter-spacing: .045em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+.nutrition-metrics strong {
+  color: var(--ink);
+  font-size: 10pt;
   font-weight: 600;
-  letter-spacing: .08em;
-}
-.nutrition-value {
-  justify-items: center;
-  text-align: center;
-  border-left: 1px solid rgba(29,21,17,.10);
-}
-.nutrition-value strong {
-  color: var(--ink);
-  font-size: 9.1pt;
-  font-weight: 700;
   line-height: 1;
   font-variant-numeric: lining-nums tabular-nums;
 }
-.nutrition-value span {
-  margin-top: .8mm;
-  color: var(--muted);
-  font-size: 6.25pt;
+.nutrition-metrics small {
+  color: #62564f;
+  font-size: 6.7pt;
   font-weight: 600;
-  letter-spacing: .03em;
-  text-transform: uppercase;
 }
 
 .recipe-body {
@@ -1017,11 +1029,9 @@ button { font: inherit; }
 .recipe-page.compact .meta-box .fact-card { min-height: 18mm; padding-top: 2.3mm; padding-bottom: 2.1mm; }
 .recipe-page.compact .meta-box .fact-label { font-size: 6.9pt; }
 .recipe-page.compact .meta-box .fact-value { font-size: 8.2pt; }
-.recipe-page.compact .nutrition-strip { min-height: 12mm; }
-.recipe-page.compact .nutrition-caption,
-.recipe-page.compact .nutrition-value { padding-top: 1.5mm; padding-bottom: 1.5mm; }
-.recipe-page.compact .nutrition-value strong { font-size: 8.6pt; }
-.recipe-page.compact .nutrition-value span { font-size: 5.9pt; }
+.recipe-page.compact .nutrition-note { min-height: 13.5mm; padding-top: 2.2mm; padding-bottom: 2mm; }
+.recipe-page.compact .nutrition-heading strong { font-size: 11.5pt; }
+.recipe-page.compact .nutrition-metrics strong { font-size: 9.4pt; }
 .recipe-page.compact .text-section h2,
 .recipe-page.compact .note-block h3 { font-size: 16pt; }
 .recipe-page.compact .ingredients-list li,
@@ -1038,11 +1048,11 @@ button { font: inherit; }
 .recipe-page.tight .meta-box .fact-card { min-height: 17mm; padding-top: 2mm; padding-bottom: 1.8mm; }
 .recipe-page.tight .meta-box .fact-label { font-size: 6.5pt; }
 .recipe-page.tight .meta-box .fact-value { font-size: 7.8pt; }
-.recipe-page.tight .nutrition-strip { min-height: 11mm; }
-.recipe-page.tight .nutrition-caption,
-.recipe-page.tight .nutrition-value { padding-top: 1.2mm; padding-bottom: 1.2mm; }
-.recipe-page.tight .nutrition-value strong { font-size: 8.1pt; }
-.recipe-page.tight .nutrition-value span { font-size: 5.6pt; }
+.recipe-page.tight .nutrition-note { min-height: 12.5mm; padding-top: 1.8mm; padding-bottom: 1.7mm; }
+.recipe-page.tight .nutrition-heading strong { font-size: 11pt; }
+.recipe-page.tight .nutrition-metrics > div { padding-left: 2.4mm; padding-right: 2.4mm; }
+.recipe-page.tight .nutrition-metrics strong { font-size: 9pt; }
+.recipe-page.tight .nutrition-metrics span { font-size: 5.8pt; }
 .recipe-page.tight .text-section h2,
 .recipe-page.tight .note-block h3 { font-size: 15pt; margin-bottom: 1.4mm; }
 .recipe-page.tight .ingredients-list li,
