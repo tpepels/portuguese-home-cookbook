@@ -89,12 +89,23 @@
 
   function renderFrontMatter() {
     const cover = page("single-page cover", `
-      <img class="cover-image" src="images/26-sardinhas-assadas-com-batatas-e-salada-de-pimentos.jpg" alt="" loading="eager" decoding="async">
+      <img class="cover-image" src="images/cover.png" alt="" loading="eager" decoding="async">
       <div class="cover-copy">
         <div class="cover-kicker">Portugal thuis</div>
+        <div class="cover-rule" aria-hidden="true"><span></span><i></i><span></span></div>
         <h1>Portugese<br>thuiskeuken</h1>
         <p>Vis, zeevruchten, ei & groente — klassiek en hedendaags, zonder vlees.</p>
-        <div class="cover-meta">${recipes.length} recepten · van bacalhau tot arroz de marisco</div>
+      </div>
+      <div class="cover-meta">${recipes.length} recepten</div>
+    `);
+
+    const titlePage = page("single-page title-page", `
+      <div class="title-page-mark">PT</div>
+      <div class="title-page-copy">
+        <div class="title-page-kicker">Portugal thuis</div>
+        <h1>Portugese thuiskeuken</h1>
+        <p>Vis, zeevruchten, ei & groente — klassiek en hedendaags, zonder vlees.</p>
+        <div class="title-page-meta">${recipes.length} recepten · eerste digitale editie · 2026</div>
       </div>
     `);
 
@@ -121,14 +132,34 @@
       </div>
     `);
 
-    const intro = page("single-page front-copy", `
+    const intro = page("single-page front-copy about-page", `
       <h2>Over dit boek</h2>
-      <p>Dit boek is opgezet als een praktisch Portugees thuisrepertoire. Sommige gerechten zijn oude regionale klassiekers; andere zijn gewone doordeweekse maaltijden die nu in Portugese huishoudens worden gemaakt. Moderne varianten worden ook als zodanig benoemd.</p>
-      <p>De vaste beperking is geen vlees. Vis, schaal- en schelpdieren, eieren en zuivel blijven onderdeel van het repertoire. Techniek krijgt extra aandacht waar een Portugees recept vaak veronderstelt dat je al weet wat bijvoorbeeld pocheren, malandrinho of à Brás betekent.</p>
-      <p>Elke spread bestaat uit duidelijke blokken: foto, context, ingrediënten, bereiding en praktische notities. Dat leest sneller en voorkomt dat de pagina uit losse tekstvelden blijft bestaan.</p>
+      <p>Dit is een praktisch repertoire voor wie thuis Portugees wil koken. De recepten lopen van regionale klassiekers en vertrouwde familiegerechten tot hedendaagse doordeweekse maaltijden; moderne aanpassingen worden als zodanig benoemd.</p>
+      <p>Het boek is bewust vleesvrij. Vis, schaal- en schelpdieren, eieren en zuivel blijven onderdeel van de keuken. Waar een Portugees recept vaak voorkennis veronderstelt — bijvoorbeeld bij <em>arroz malandrinho</em>, <em>à Brás</em> of <em>açorda</em> — wordt de techniek expliciet uitgelegd.</p>
+      <p>Proef tijdens het koken. Bacalhau, blikvis, olijven en kant-en-klare bouillon kunnen sterk verschillen in zoutgehalte, terwijl rijst, brood en peulvruchten juist veel smaak opnemen. De opgegeven tijden zijn daarom richtlijnen: gaarheid, textuur en smaak gaan voor de klok.</p>
+      <div class="editorial-note">
+        <strong>Oven & maatvoering</strong>
+        <span>Temperaturen zijn voor een conventionele oven. Gebruik bij hetelucht doorgaans 10–20 °C minder. Lepels zijn afgestreken eet- en theelepels; groenten en vis zijn gewichten vóór bereiding tenzij anders vermeld.</span>
+      </div>
     `);
 
-    book.append(cover, toc, intro);
+    const guide = page("single-page front-copy guide-page", `
+      <h2>Portugese keukentaal</h2>
+      <div class="guide-grid">
+        <div><strong>Azeite</strong><span>Olijfolie. Niet alleen bakvet, maar ook een smaakmaker die vaak pas aan tafel of na het koken wordt toegevoegd.</span></div>
+        <div><strong>Arroz carolino</strong><span>Portugese kortkorrelige rijst die veel vocht opneemt en ideaal is voor sappige rijstgerechten.</span></div>
+        <div><strong>Malandrinho</strong><span>Rijst die gaar is maar nog ruim, smaakvol kookvocht rond de korrels heeft. Meteen serveren.</span></div>
+        <div><strong>Bacalhau</strong><span>Gezouten en gedroogde kabeljauw. Ontzouten en gaartijd hangen af van het product; proef vóór je extra zout toevoegt.</span></div>
+        <div><strong>À Brás</strong><span>Een bereiding met ui, fijne aardappel en ei, romig gebonden en meestal afgewerkt met peterselie en olijven.</span></div>
+        <div><strong>Açorda</strong><span>Broodgerecht waarin oud brood hete, sterk gekruide vloeistof opneemt. De textuur hoort sappig en rustiek te blijven.</span></div>
+        <div><strong>Tomate pelado</strong><span>Gepelde tomaten uit blik. Een betrouwbare basis wanneer verse tomaten niet rijp genoeg zijn.</span></div>
+        <div><strong>Pimentão-doce</strong><span>Zoet paprikapoeder. Gebruik het als warme achtergrond, niet als dominante rooksmaak.</span></div>
+        <div><strong>Piripíri</strong><span>Chili of chilisaus. Begin bescheiden en bouw de scherpte op tijdens het proeven.</span></div>
+        <div><strong>Coentros</strong><span>Korianderblad. Vooral in het zuiden en bij rijst, açorda en zeevruchten vaak een essentieel fris element.</span></div>
+      </div>
+    `);
+
+    book.append(cover, titlePage, toc, intro, guide);
   }
 
   function renderChapter(chapter, index) {
@@ -425,5 +456,6 @@
     fitAllPages();
   });
 
+  window.prepareCookbookForPdf = prepareForPrint;
   render();
 })();
