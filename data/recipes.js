@@ -442,7 +442,7 @@ window.RECIPES = [
       "3 el olijfolie",
       "nootmuskaat",
       "peper",
-      "eventueel een dun laagje broodkruim"
+      "eventueel een dun laagje pão ralado fino"
     ],
     "steps": [
       "Bak of frituur de aardappelen tot ze net gaar en licht gekleurd zijn. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
