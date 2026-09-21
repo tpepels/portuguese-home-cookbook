@@ -427,8 +427,13 @@
     const content = page.querySelector(".fit-content");
     if (!content) return;
 
-    page.classList.remove("two-column", "compact", "tight", "scaled");
+    page.classList.remove("compact", "tight", "scaled");
     content.style.removeProperty("--fit-scale");
+
+    // Recipe pages use one fixed editorial grid throughout the book:
+    // ingredients left, method right. Fitting may tighten type slightly,
+    // but it must never switch the reading structure from one recipe to another.
+    if (page.classList.contains("recipe-page")) page.classList.add("two-column");
 
     const availableHeight = () => {
       const style = getComputedStyle(page);
@@ -439,9 +444,6 @@
 
     const overflows = () => content.scrollHeight > availableHeight() + 1;
 
-    // Preserve readable type first: if a full-width recipe is too long,
-    // switch the main recipe text to two balanced columns before shrinking it.
-    if (page.classList.contains("recipe-page") && overflows()) page.classList.add("two-column");
     if (overflows()) page.classList.add("compact");
     if (overflows()) page.classList.add("tight");
 
