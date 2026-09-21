@@ -30,7 +30,7 @@ window.RECIPES = [
     ],
     "steps": [
       "Fruit ui en knoflook rustig in de olijfolie. Voeg paprika en laurier toe en laat nog 3 minuten zacht worden.",
-      "Voeg tomaat toe en laat 5–7 minuten inkoken tot de rauwe tomatensmaak weg is. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten.",
+      "Voeg tomaat toe en laat 5–7 minuten inkoken tot de rauwe tomatensmaak weg is. Roer af en toe over de bodem en wacht tot de tomaat zichtbaar donkerder en zoeter ruikt; pas dan vormt hij een goede basis voor de rijst.",
       "Blus met witte wijn en laat ongeveer de helft verdampen. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
       "Voeg rijst toe en daarna ongeveer 550 ml hete bouillon. Kook zachtjes zonder de rijst droog te laten vallen. Voeg zo nodig meer bouillon toe.",
       "Wanneer de rijst net gaar is maar het geheel nog duidelijk “malandrinho” — los en bouillonachtig — voeg je de stukken lagosta toe. Verwarm 2–3 minuten.",
@@ -72,9 +72,9 @@ window.RECIPES = [
       "Stamp knoflook met een flinke snuf zout en de helft van de koriander tot een grove pasta. Werk tot een grove, vochtige pasta en niet tot een volledig gladde puree; zo blijven knoflook en kruiden herkenbaar in geur en textuur.",
       "Doe deze pasta met de olijfolie in een brede kom of pan. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
       "Breng de bouillon aan de kook. Pocheer daarin de eieren 3–4 minuten en haal ze voorzichtig uit de bouillon.",
-      "Verwarm de lagosta de laatste 2–3 minuten in dezelfde bouillon en haal ook die eruit. Proef of controleer kort vóór je verdergaat, zodat je zout, vocht en gaarheid nog makkelijk kunt bijsturen.",
+      "Verwarm de lagosta de laatste 2–3 minuten in dezelfde bouillon en haal ook die eruit. Het product is al gaar, dus het hoeft alleen door en door warm te worden; langer koken maakt het rubberachtig.",
       "Giet de kokende bouillon beetje bij beetje over het brood. Schep om: het brood moet zacht en sappig worden, maar geen gladde pap.",
-      "Meng de lagosta erdoor, leg de eieren erop en werk af met de rest van de koriander, wat citroensap en eventueel piripíri. Werk daarna op laag vuur en stop terwijl het ei nog licht glanst; de restwarmte gaart het verder en zo blijft de structuur zacht."
+      "Meng de lagosta erdoor, leg de eieren erop en werk af met de rest van de koriander, wat citroensap en eventueel piripíri. Doe dit van het vuur af en schep voorzichtig, zodat het brood sappig blijft en de eieren heel blijven."
     ],
     "technique": {
       "title": "EEN EI POCHEREN",
@@ -198,7 +198,7 @@ window.RECIPES = [
     ],
     "steps": [
       "Laat de amêijoas ontdooien en uitlekken. Laat het product daarna goed uitlekken en dep het zo nodig droog; overtollig vocht verdunt de saus en belemmert bruinen.",
-      "Verwarm de olijfolie en laat de knoflook zacht geuren zonder hem donkerbruin te bakken. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten.",
+      "Verwarm de olijfolie en laat de knoflook zacht geuren zonder hem donkerbruin te bakken. Zodra de knoflook geurt en heel licht kleurt is de olie voldoende op smaak; donkerbruine knoflook maakt het gerecht bitter.",
       "Voeg de amêijoas en 2–3 eetlepels water of bouillon toe. Kook ze kort maar volledig gaar volgens de verpakking.",
       "Haal van het vuur zodra ze gaar zijn. Voeg onmiddellijk veel koriander en citroensap toe.",
       "Proef pas daarna op zout. Schelpdieren zijn vaak al zout genoeg.",
@@ -279,7 +279,7 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Ontdooi de mariscada indien de verpakking dat toestaat en vang eventueel smakelijk ontdooivocht op; gooi troebel of vreemd ruikend vocht weg. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok.",
+      "Ontdooi de mariscada indien de verpakking dat toestaat en vang eventueel smakelijk ontdooivocht op; gooi troebel of vreemd ruikend vocht weg. Laat de zeevruchten vervolgens goed uitlekken, zodat ze straks niet onnodig veel koud water aan de rijst afgeven.",
       "Fruit ui en knoflook in olijfolie. Voeg paprika en laurier toe.",
       "Voeg tomaat toe en laat goed stoven. Blus met witte wijn.",
       "Voeg arroz carolino en ongeveer 650 ml bouillon toe. Laat rustig koken.",
@@ -322,12 +322,12 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Gebruik een echte cataplana als je die hebt; anders een brede pan met een goed sluitend deksel. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok.",
+      "Gebruik een echte cataplana als je die hebt; anders een brede pan met een goed sluitend deksel. Een brede pan verdeelt de ingrediënten in een dunne laag en een goed deksel houdt de stoom binnen, precies wat deze bereiding nodig heeft.",
       "Leg ui, knoflook, paprika en tomaat in lagen. Voeg laurier, pimentão-doce, peper, een beetje zout en olijfolie toe.",
       "Verdeel de mariscada erover en giet de witte wijn langs de rand. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
       "Sluit de cataplana of pan en gaar op middellaag vuur. Open zo weinig mogelijk. Reken grofweg 8–12 minuten zodra alles goed heet is, maar volg voor rauwe onderdelen de verpakking.",
       "Open, controleer of alles volledig gaar is en proef het kookvocht. Laat eventueel nog een paar minuten zonder deksel inkoken.",
-      "Voeg vlak voor het serveren een royale hoeveelheid koriander toe. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten."
+      "Voeg vlak voor het serveren een royale hoeveelheid koriander toe. Doe dat pas nadat de pan van het vuur is, zodat de koriander fris blijft en niet tot een vlakke, gekookte kruidensmaak verliest."
     ],
     "technique": {
       "title": "GAREN IN EEN GESLOTEN CATAPLANA",
@@ -364,10 +364,10 @@ window.RECIPES = [
     "steps": [
       "Snijd de aardappelen in zeer fijne lucifers. Frituur of bak ze goudgeel en laat uitlekken. Kant-en-klare batata palha is in Portugal ook een gewone thuisoplossing.",
       "Fruit ui en knoflook langzaam in olijfolie tot de ui zacht en zoet is. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
-      "Voeg de bacalhau toe en warm 2–3 minuten mee. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
+      "Voeg de bacalhau toe en warm 2–3 minuten mee. Schep rustig om en warm alleen door; de kabeljauw is al gaar en wordt droog wanneer hij hier te lang blijft bakken.",
       "Voeg de aardappelen toe en schep kort om. Meng rustig en van onder naar boven wanneer er kwetsbare stukken in zitten; zo verdeel je de smaken zonder alles fijn te drukken.",
       "Klop de eieren los met peper. Zet het vuur laag en meng ze door de pan.",
-      "Stop zodra het ei romig gebonden is; laat het niet droog stollen. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten.",
+      "Stop zodra het ei romig gebonden is; laat het niet droog stollen. Haal de pan van het vuur terwijl het mengsel nog glanst, want de restwarmte gaart het ei nog verder.",
       "Werk af met peterselie en zwarte olijven. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
     "technique": {
@@ -449,7 +449,7 @@ window.RECIPES = [
       "Fruit ui en knoflook in olijfolie. Voeg bacalhau toe en laat enkele minuten meegaren.",
       "Maak apart een lichte béchamel van boter, bloem en melk. Breng op smaak met peper en nootmuskaat en roer de room erdoor.",
       "Meng aardappel, bacalhau en ongeveer twee derde van de saus. Meng rustig en van onder naar boven wanneer er kwetsbare stukken in zitten; zo verdeel je de smaken zonder alles fijn te drukken.",
-      "Doe in een ovenschaal, verdeel de rest van de saus erover en eventueel een heel dun laagje broodkruim. Dep het oppervlak eerst droog en druk de paneerlaag slechts licht aan; laat hem een paar minuten rusten zodat de korst tijdens het bakken beter blijft zitten.",
+      "Doe in een ovenschaal, verdeel de rest van de saus erover en eventueel een heel dun laagje broodkruim. Strijk de bovenkant losjes glad maar druk niets aan; zo kan de bovenkant in de oven kleuren terwijl de binnenkant romig blijft.",
       "Bak 20–25 minuten op 200 °C tot de bovenkant goudkleurig is. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar."
     ],
     "technique": {
@@ -493,7 +493,7 @@ window.RECIPES = [
     "steps": [
       "Maak eerst de rijst. Fruit ui en knoflook, voeg tomaat en laurier toe en laat enkele minuten stoven.",
       "Voeg rijst, bonen en hete vloeistof toe. Kook tot de rijst gaar maar nog duidelijk sappig is.",
-      "Meng voor de pataniscas bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Werk daarna op laag vuur en stop terwijl het ei nog licht glanst; de restwarmte gaart het verder en zo blijft de structuur zacht.",
+      "Meng voor de pataniscas bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau straks kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
       "Meng bacalhau, ui, peterselie en peper erdoor. Meng rustig en van onder naar boven wanneer er kwetsbare stukken in zitten; zo verdeel je de smaken zonder alles fijn te drukken.",
       "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
       "Serveer direct met de arroz de feijão. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen."
@@ -530,11 +530,11 @@ window.RECIPES = [
     ],
     "steps": [
       "Kook aardappelen en wortel in gezouten water. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
-      "Voeg de groente toe op het moment dat de kooktijd daarom vraagt. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten.",
+      "Voeg de groente toe op het moment dat de kooktijd daarom vraagt. Stevigere groenten mogen eerder in de pan, terwijl zachte of groene groenten pas later gaan; zo eindigt alles tegelijk gaar zonder slap te worden.",
       "Pocheer of kook de pescada apart heel rustig in gezouten water tot hij net gaar is. Houd de vloeistof net onder het kookpunt, met alleen kleine belletjes; hard koken maakt de vis droger en laat de vlokken sneller uit elkaar vallen.",
       "Kook de eieren hard of halfhard. Koel de eieren na het koken kort in koud water; daardoor stopt het garen en kun je ze makkelijker pellen zonder het wit te beschadigen.",
       "Verdeel vis, aardappelen, groente en ei over de borden. Verdeel gelijkmatig zodat elke portie dezelfde verhouding van de belangrijkste ingrediënten krijgt en straks op dezelfde manier gaart of opwarmt.",
-      "Geef er royaal olijfolie en citroen bij. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten."
+      "Geef er royaal olijfolie en citroen bij. Laat iedereen aan tafel zelf doseren: de warme aardappel en vis nemen de azeite goed op en een beetje citroen maakt het geheel frisser zonder een saus nodig te hebben."
     ],
     "technique": {
       "title": "VIS POCHEREN",
@@ -570,12 +570,12 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Verwarm de oven voor op 200 °C. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok.",
+      "Verwarm de oven voor op 200 °C. Geef de oven echt de tijd om volledig op temperatuur te komen; een halfwarme oven laat aardappelen eerst stomen in plaats van roosteren.",
       "Verdeel aardappel, ui, knoflook en tomaat in een ovenschaal. Voeg laurier, zout, peper, een beetje pimentão-doce, olijfolie en witte wijn toe.",
-      "Bak de aardappelen 15 minuten voor. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
-      "Kerf de dourada enkele keren in, zout hem van binnen en buiten en leg op de aardappelen. Proef of controleer kort vóór je verdergaat, zodat je zout, vocht en gaarheid nog makkelijk kunt bijsturen.",
-      "Bak nog ongeveer 20–25 minuten, afhankelijk van de dikte van de vis. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok.",
-      "Lepel tijdens het bakken wat vocht uit de schaal over de vis. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten.",
+      "Bak de aardappelen 15 minuten voor. Ze hoeven nog niet gaar te zijn, maar de randen moeten al beginnen te verzachten zodat vis en aardappel later ongeveer tegelijk klaar zijn.",
+      "Kerf de dourada enkele keren in, zout hem van binnen en buiten en leg op de aardappelen. Maak de inkepingen alleen door het dikke vlees en niet tot op de graat; zo dringen zout en warmte gelijkmatiger binnen.",
+      "Bak nog ongeveer 20–25 minuten, afhankelijk van de dikte van de vis. Controleer bij de rugvin: het vlees moet gemakkelijk loslaten en nog sappig en glanzend zijn, niet droog en vezelig.",
+      "Lepel tijdens het bakken wat vocht uit de schaal over de vis. Doe dit één of twee keer snel, zodat de oven niet steeds afkoelt; het braadvocht houdt het oppervlak sappig en geeft extra smaak.",
       "Werk af met peterselie of koriander. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
     "technique": {
@@ -689,10 +689,10 @@ window.RECIPES = [
     ],
     "steps": [
       "Stamp knoflook, zout en koriander tot een grove pasta en meng met olijfolie. Werk tot een grove, vochtige pasta en niet tot een volledig gladde puree; zo blijven knoflook en kruiden herkenbaar in geur en textuur.",
-      "Verdeel dit over twee diepe kommen en leg het brood erbij. Verdeel gelijkmatig zodat elke portie dezelfde verhouding van de belangrijkste ingrediënten krijgt en straks op dezelfde manier gaart of opwarmt.",
+      "Verdeel dit over twee diepe kommen en leg het brood erbij. Verdeel knoflook, koriander en olie zo gelijk mogelijk, zodat elk stuk brood straks van dezelfde geurige basis en het hete water kan opnemen.",
       "Breng het water aan de kook, eventueel met een heel klein scheutje azijn. Zodra het water kookt, zet je het vuur lager als je daarna iets kwetsbaars gaat pocheren of zacht garen; hard borrelen is dan niet nodig.",
       "Pocheer de eieren in het water. Houd het water net onder de kook, breek elk ei eerst in een kopje en laat het voorzichtig in het rustige water glijden; zo blijft het wit beter rond de dooier.",
-      "Leg in elke kom een ei en giet er genoeg van het kokende pocheerwater over om het brood goed te verzadigen. Houd het water net onder de kook, breek elk ei eerst in een kopje en laat het voorzichtig in het rustige water glijden; zo blijft het wit beter rond de dooier.",
+      "Leg in elke kom een ei en giet er genoeg van het kokende pocheerwater over om het brood goed te verzadigen. Giet geleidelijk en stop zodra het brood helemaal zacht en sappig is; de açorda hoort niet in een plas water te liggen.",
       "Laat een minuut staan en eet meteen. Die korte rusttijd geeft de smaken tijd om in te trekken en stabiliseert de structuur, zodat het gerecht bij het serveren minder uiteenvalt."
     ],
     "technique": {
@@ -731,8 +731,8 @@ window.RECIPES = [
     "steps": [
       "Fruit ui en knoflook langzaam in olijfolie. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
       "Voeg paprika, laurier en tomaat toe en laat 10 minuten stoven. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
-      "Voeg water toe en laat nog ongeveer 10 minuten zacht koken. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
-      "Breek de eieren rechtstreeks in de soep en pocheer ze tot het wit gestold is. Houd het water net onder de kook, breek elk ei eerst in een kopje en laat het voorzichtig in het rustige water glijden; zo blijft het wit beter rond de dooier.",
+      "Voeg water toe en laat nog ongeveer 10 minuten zacht koken. Laat de soep rustig pruttelen zodat tomaat, ui en paprika samen één bouillon vormen; hard koken laat vooral vocht verdampen zonder extra smaak op te bouwen.",
+      "Breek de eieren rechtstreeks in de soep en pocheer ze tot het wit gestold is. Maak met een lepel kleine kuiltjes, laat de eieren daarin glijden en laat de soep slechts zacht pruttelen zodat de dooiers heel blijven.",
       "Leg brood in diepe borden en schep soep en ei erover. Meng rustig en van onder naar boven wanneer er kwetsbare stukken in zitten; zo verdeel je de smaken zonder alles fijn te drukken.",
       "Werk af met oregano of koriander. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
@@ -768,7 +768,7 @@ window.RECIPES = [
     "steps": [
       "Kook de sperziebonen 3–4 minuten voor in gezouten water. Giet af en droog goed.",
       "Meng bloem, ei, zout, peper en genoeg koud water tot een beslag dat aan de bonen blijft hangen. Dep het oppervlak eerst droog en druk de paneerlaag slechts licht aan; laat hem een paar minuten rusten zodat de korst tijdens het bakken beter blijft zitten.",
-      "Doop enkele bonen tegelijk in het beslag. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
+      "Doop enkele bonen tegelijk in het beslag. Laat overtollig beslag een paar seconden afdruipen; er moet een dunne, gelijkmatige laag om de boon blijven zitten en geen dikke deegklomp ontstaan.",
       "Bak goudbruin in hete olie en laat uitlekken. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
       "Serveer direct met citroen. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
@@ -855,7 +855,7 @@ window.RECIPES = [
       "Pocheer de bacalhau kort in water, haal eruit en verdeel in grove vlokken. Bewaar het kookvocht.",
       "Fruit ui, knoflook en laurier in olijfolie. Voeg tomaat en paprika toe en laat goed zacht worden.",
       "Voeg de rijst en ongeveer 550 ml heet kookvocht toe. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen.",
-      "Laat zacht koken en voeg zo nodig meer vocht toe. Proef of controleer kort vóór je verdergaat, zodat je zout, vocht en gaarheid nog makkelijk kunt bijsturen.",
+      "Laat zacht koken en voeg zo nodig meer vocht toe. Kijk niet alleen naar de klok: zodra de rijst aan de bodem dreigt te pakken maar nog niet gaar is, voeg je een kleine scheut heet kookvocht toe.",
       "Doe de bacalhau terug wanneer de rijst bijna gaar is. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen.",
       "Serveer zodra de rijst gaar en nog ruim vochtig is, met verse kruiden. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen."
     ],
@@ -934,9 +934,9 @@ window.RECIPES = [
       "Fruit ui en knoflook langzaam in olijfolie tot de ui zacht is. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
       "Voeg de uitgelekte tonijn toe en warm kort mee. De vis is al gaar, dus behandel hem voorzichtig en verwarm hem alleen zolang nodig; langdurig koken maakt hem droog en vezelig.",
       "Meng ongeveer twee derde van de batata palha erdoor. Meng rustig en van onder naar boven wanneer er kwetsbare stukken in zitten; zo verdeel je de smaken zonder alles fijn te drukken.",
-      "Klop de eieren los met peper en gehakte peterselie. Werk daarna op laag vuur en stop terwijl het ei nog licht glanst; de restwarmte gaart het verder en zo blijft de structuur zacht.",
+      "Klop de eieren los met peper en gehakte peterselie. Klop alleen tot dooier en wit gemengd zijn; veel lucht is niet nodig, omdat het ei straks de aardappel en tonijn romig moet binden.",
       "Zet het vuur laag en meng het ei door de pan. Stop terwijl het nog romig is.",
-      "Voeg de rest van de batata palha en zwarte olijven toe. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten."
+      "Voeg de rest van de batata palha en zwarte olijven toe. Schep deze laatste aardappel pas vlak voor het serveren erdoor, zodat een deel krokant blijft naast het romige eimengsel."
     ],
     "technique": {
       "title": "EI PAS OP HET EINDE",
@@ -973,7 +973,7 @@ window.RECIPES = [
     "steps": [
       "Kook de pasta net gaar en bewaar een kopje kookwater. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
       "Fruit ui en knoflook in olijfolie. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
-      "Voeg tomaat toe en laat 6–8 minuten inkoken. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
+      "Voeg tomaat toe en laat 6–8 minuten inkoken. Laat de saus zacht borrelen tot hij niet meer waterig oogt en de olie aan de rand weer zichtbaar wordt; dan is de tomaat voldoende geconcentreerd.",
       "Voeg tonijn en olijven toe en warm kort mee. De vis is al gaar, dus behandel hem voorzichtig en verwarm hem alleen zolang nodig; langdurig koken maakt hem droog en vezelig.",
       "Meng de pasta door de saus. Gebruik wat kookwater om alles sappig te houden.",
       "Werk af met kruiden en eventueel piripíri. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
@@ -1087,11 +1087,11 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Klop de eieren los met zout en peper. Werk daarna op laag vuur en stop terwijl het ei nog licht glanst; de restwarmte gaart het verder en zo blijft de structuur zacht.",
+      "Klop de eieren los met zout en peper. Klop alleen tot wit en dooier homogeen zijn; te veel lucht geeft een drogere, sponsachtige omelet in plaats van een zachte vulling.",
       "Meng tonijn, ui, knoflook en peterselie erdoor. De vis is al gaar, dus behandel hem voorzichtig en verwarm hem alleen zolang nodig; langdurig koken maakt hem droog en vezelig.",
       "Verhit een koekenpan met een klein beetje olijfolie. Pas het vuur aan zodra het sissen te agressief of juist te zwak wordt; je wilt gecontroleerd garen zonder verbrande randjes of een koude, waterige pan.",
       "Giet het mengsel erin en bak op middellaag vuur. Meng rustig en van onder naar boven wanneer er kwetsbare stukken in zitten; zo verdeel je de smaken zonder alles fijn te drukken.",
-      "Vouw dubbel zodra de onderkant stevig is en gaar kort verder. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok."
+      "Vouw dubbel zodra de onderkant stevig is en gaar kort verder. De bovenkant mag bij het vouwen nog licht vochtig zijn, want de opgesloten warmte gaart de binnenkant nog zonder hem droog te maken."
     ],
     "technique": {
       "title": "OMELET OP MIDDELLAAG VUUR",
@@ -1128,10 +1128,10 @@ window.RECIPES = [
     ],
     "steps": [
       "Snijd ui, knoflook, wortel, courgette, aardappel, pompoen en prei grof. Probeer de stukken ongeveer even groot te maken, zodat ze in de volgende stap gelijkmatig garen en je geen harde en zachte stukken door elkaar krijgt.",
-      "Zet net onder water, voeg een beetje zout toe en kook tot alles zeer zacht is. Zodra het water kookt, zet je het vuur lager als je daarna iets kwetsbaars gaat pocheren of zacht garen; hard borrelen is dan niet nodig.",
+      "Zet net onder water, voeg een beetje zout toe en kook tot alles zeer zacht is. Laat na het bereiken van de kook de pan rustig pruttelen; de groenten moeten zonder weerstand te pureren zijn, maar het vocht hoeft niet wild te koken.",
       "Pureer tot een gladde basis. Pureer tot de basis echt glad is en proef daarna opnieuw op zout en dikte; de soep dikt tijdens het staan nog iets verder in.",
       "Voeg fijngesneden kool, spinazie of sperziebonen toe en kook nog 5–10 minuten. Houd de groente liever net aan de stevige kant; hij gaart nog kort door in de hete pan en behoudt zo meer structuur.",
-      "Zet het vuur uit en voeg pas dan een goede scheut olijfolie toe. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok."
+      "Zet het vuur uit en voeg pas dan een goede scheut olijfolie toe. Door de azeite buiten het vuur toe te voegen blijft de frisse, peperige smaak beter herkenbaar in de soep."
     ],
     "technique": {
       "title": "TWEE TEXTUREN",
@@ -1168,7 +1168,7 @@ window.RECIPES = [
       "Fruit ui en knoflook in olijfolie. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
       "Voeg tomaat toe en laat goed zacht worden. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
       "Voeg arroz carolino en heet water toe en kook tot de rijst gaar en sappig is. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen.",
-      "Bak ondertussen de eieren in olijfolie, met zachte of stevige dooier naar voorkeur. Proef of controleer kort vóór je verdergaat, zodat je zout, vocht en gaarheid nog makkelijk kunt bijsturen.",
+      "Bak ondertussen de eieren in olijfolie, met zachte of stevige dooier naar voorkeur. Gebruik middelhoog vuur zodat het wit snel stolt zonder dat de onderkant verbrandt; lepel eventueel wat hete olie over het wit rond de dooier.",
       "Serveer de eieren bovenop de arroz de tomate en werk af met kruiden. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen."
     ],
     "technique": {
@@ -1284,7 +1284,7 @@ window.RECIPES = [
     "steps": [
       "Kook de rijst gaar, giet af indien nodig en spreid hem uit om snel af te koelen. Laat de rijst rustig garen en roer alleen wanneer dat nodig is, zodat de korrels gaar worden zonder tot pap te breken.",
       "Meng koude rijst met tonijn, mais, tomaat en olijven. Laat de rijst rustig garen en roer alleen wanneer dat nodig is, zodat de korrels gaar worden zonder tot pap te breken.",
-      "Voeg olijfolie, azijn of citroen, peper en peterselie toe. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
+      "Voeg olijfolie, azijn of citroen, peper en peterselie toe. Meng terwijl de rijst volledig koud is en proef daarna op zuur; koude rijst heeft vaak iets meer dressing nodig dan je in eerste instantie denkt.",
       "Leg de eieren erop en serveer koel of op kamertemperatuur. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
     "technique": {
@@ -1322,9 +1322,9 @@ window.RECIPES = [
     ],
     "steps": [
       "Kook de pasta al dente en spoel kort koud af. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
-      "Laat zeer goed uitlekken. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten.",
+      "Laat zeer goed uitlekken. Schud de pasta daarna los op een brede schaal en laat hem volledig afkoelen, zodat achtergebleven water de dressing straks niet verdunt.",
       "Meng met tonijn, mais, tomaat en olijven. De vis is al gaar, dus behandel hem voorzichtig en verwarm hem alleen zolang nodig; langdurig koken maakt hem droog en vezelig.",
-      "Voeg olijfolie of mayonaise, zuur en peper toe. Proef of controleer kort vóór je verdergaat, zodat je zout, vocht en gaarheid nog makkelijk kunt bijsturen.",
+      "Voeg olijfolie of mayonaise, zuur en peper toe. Begin bescheiden met de dressing en schep goed om; voeg pas meer toe als de pasta droog smaakt, zodat de salade niet zwaar en plakkerig wordt.",
       "Werk af met ei en peterselie. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
     "technique": {
@@ -1361,12 +1361,12 @@ window.RECIPES = [
       "zout indien nodig"
     ],
     "steps": [
-      "Verwarm de oven voor op 190 °C. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok.",
+      "Verwarm de oven voor op 190 °C. Een volledig voorverwarmde oven laat het deeg meteen bakken en helpt voorkomen dat de bodem slap wordt voordat de vulling stolt.",
       "Fruit de ui rustig in olijfolie en laat iets afkoelen. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
-      "Bekleed een taartvorm met deeg en prik de bodem enkele keren in. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
+      "Bekleed een taartvorm met deeg en prik de bodem enkele keren in. Druk het deeg goed in de hoeken zonder het uit te rekken; de gaatjes laten stoom ontsnappen en beperken opbollen.",
       "Verdeel ui en tonijn over de bodem. Verdeel gelijkmatig zodat elke portie dezelfde verhouding van de belangrijkste ingrediënten krijgt en straks op dezelfde manier gaart of opwarmt.",
-      "Klop eieren met melk, peper, nootmuskaat en peterselie en giet erover. Werk daarna op laag vuur en stop terwijl het ei nog licht glanst; de restwarmte gaart het verder en zo blijft de structuur zacht.",
-      "Bak 30–35 minuten tot de vulling net gestold en de bovenkant goud is. Werk rustig en controleer tussendoor de textuur; bij eenvoudige gerechten maakt precies gaar vaak meer verschil dan extra ingrediënten.",
+      "Klop eieren met melk, peper, nootmuskaat en peterselie en giet erover. Klop alleen tot alles gemengd is en giet langzaam, zodat de tonijn en ui niet allemaal naar één kant van de vorm drijven.",
+      "Bak 30–35 minuten tot de vulling net gestold en de bovenkant goud is. Het midden mag nog heel licht trillen wanneer je de vorm beweegt; tijdens het rusten gaart de quiche nog door en wordt hij stevig genoeg om te snijden.",
       "Laat 10 minuten rusten voor het aansnijden. Die korte rusttijd geeft de smaken tijd om in te trekken en stabiliseert de structuur, zodat het gerecht bij het serveren minder uiteenvalt."
     ],
     "technique": {
@@ -1405,7 +1405,7 @@ window.RECIPES = [
       "Kook de pasta 2 minuten korter dan op de verpakking staat. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
       "Fruit ui en knoflook in olijfolie en voeg tomaat toe; laat 8 minuten inkoken. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
       "Meng tonijn door de saus en daarna de pasta. Proef een minuut vóór de normale kooktijd; pasta die in saus of bouillon gaart neemt veel smaak op maar kan daardoor ook snel te zacht worden.",
-      "Doe alles in een ovenschaal en verdeel béchamel of room en kaas erover. Voeg de melk geleidelijk toe en blijf kloppen zodat er geen klontjes ontstaan; stop wanneer de saus glad is maar nog makkelijk van de lepel loopt.",
+      "Doe alles in een ovenschaal en verdeel béchamel of room en kaas erover. Verdeel de saus in een dunne, gelijkmatige laag en gebruik kaas als accent, niet als dikke deken; de pasta moet nog duidelijk naar tonijn en tomaat smaken.",
       "Bak 15–20 minuten op 200 °C tot de bovenkant kleurt. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar."
     ],
     "technique": {
@@ -1442,8 +1442,8 @@ window.RECIPES = [
     "steps": [
       "Meng tonijn met ui, peper en een klein beetje mayonaise of olijfolie. De vis is al gaar, dus behandel hem voorzichtig en verwarm hem alleen zolang nodig; langdurig koken maakt hem droog en vezelig.",
       "Verdeel over twee sneetjes brood; voeg tomaat en eventueel kaas toe. Verdeel gelijkmatig zodat elke portie dezelfde verhouding van de belangrijkste ingrediënten krijgt en straks op dezelfde manier gaart of opwarmt.",
-      "Dek af met de overige sneetjes. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
-      "Rooster in een contactgrill of koekenpan tot het brood krokant en de vulling warm is. Proef of controleer kort vóór je verdergaat, zodat je zout, vocht en gaarheid nog makkelijk kunt bijsturen."
+      "Dek af met de overige sneetjes. Druk alleen licht aan zodat de vulling zich verspreidt maar niet uit het brood wordt geperst; houd vooral vochtige tomaat weg van de randen.",
+      "Rooster in een contactgrill of koekenpan tot het brood krokant en de vulling warm is. Gebruik middelhoog vuur zodat het brood tijd heeft om goud en krokant te worden voordat de buitenkant verbrandt."
     ],
     "technique": {
       "title": "krokante tosta",
@@ -1552,7 +1552,7 @@ window.RECIPES = [
     "steps": [
       "Meng kikkererwten met zeer fijn gesneden ui en peterselie. Meng rustig en van onder naar boven wanneer er kwetsbare stukken in zitten; zo verdeel je de smaken zonder alles fijn te drukken.",
       "Voeg de cavala in grove stukken toe. De vis is al gaar, dus behandel hem voorzichtig en verwarm hem alleen zolang nodig; langdurig koken maakt hem droog en vezelig.",
-      "Breng op smaak met olijfolie, azijn en peper. Geef deze stap genoeg tijd om de smaken samen te laten komen, maar laat niets onnodig droog of papperig worden.",
+      "Breng op smaak met olijfolie, azijn en peper. Meng voorzichtig, proef na een paar minuten en voeg dan pas extra zuur of zout toe; kikkererwten nemen de dressing geleidelijk op.",
       "Proef voor je zout toevoegt. Proef vlak voor het opscheppen nog één keer op zout, zuur en olijfolie; juist die laatste balans bepaalt bij eenvoudige Portugese gerechten veel van de smaak."
     ],
     "technique": null,
@@ -1586,7 +1586,7 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Bereid de douradinhos volgens de verpakking, liefst in oven of airfryer. Ga pas verder wanneer de beschreven kleur of textuur duidelijk bereikt is; de toestand van het ingrediënt is betrouwbaarder dan alleen de klok.",
+      "Bereid de douradinhos volgens de verpakking, liefst in oven of airfryer. Laat ze goud en krokant worden en houd ze daarna onafgedekt; onder een deksel wordt de paneerlaag snel zacht.",
       "Fruit ondertussen ui en knoflook in olijfolie. Gebruik middellaag vuur en geef de ui de tijd om glazig en zoet te worden; de knoflook mag geuren maar niet donkerbruin worden.",
       "Voeg tomaat en laurier toe en laat 5–7 minuten stoven. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
       "Voeg rijst en heet water toe en kook tot de rijst gaar en nog sappig is. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; carolino blijft ook na het vuur vocht opnemen.",
