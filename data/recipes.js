@@ -14,7 +14,8 @@ window.RECIPES = [
     "image": "images/1a-arroz-malandrinho-de-lagosta-e-coentros.jpg",
     "imageAlt": "Arroz malandrinho de “lagosta” e coentros",
     "ingredients": [
-      "1 verpakking Formas de Lagosta (kreeftvormig zeevruchtenproduct), ontdooid en in grove stukken",
+      "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g, 12 uur ontdooid in de koelkast",
+      "FANCY — vervang het pak door 180 g lagostim cru (rauwe langoustine) + 200 g camarão cru (rauwe garnalen), gepeld; bewaar schalen en koppen voor de bouillon",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui, fijngehakt",
       "2 tenen knoflook, fijngehakt",
@@ -29,18 +30,18 @@ window.RECIPES = [
       "zout"
     ],
     "steps": [
-      "Fruit ui en knoflook rustig in de olijfolie. Voeg paprika en laurier toe en laat nog 3 minuten zacht worden.",
-      "Voeg tomaat toe en laat 5–7 minuten inkoken tot de rauwe tomatensmaak weg is. Roer af en toe over de bodem en wacht tot de tomaat zichtbaar donkerder en zoeter ruikt; pas dan vormt hij een goede basis voor de rijst.",
-      "Blus met witte wijn en laat ongeveer de helft verdampen. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
-      "Voeg rijst toe en daarna ongeveer 550 ml hete bouillon. Kook zachtjes zonder de rijst droog te laten vallen. Voeg zo nodig meer bouillon toe.",
-      "Wanneer de rijst net gaar is maar nog duidelijk malandrinho (sappig en bouillonachtig) is, voeg je de stukken “lagosta” (kreeftvormig zeevruchtenproduct) toe. Verwarm 2–3 minuten; de rijst hoort los en lepelbaar te blijven.",
-      "Haal van het vuur, meng de koriander erdoor en serveer meteen. Schep slechts één keer voorzichtig om, zodat de stukken “lagosta” (kreeftvormig zeevruchtenproduct) heel blijven en de koriander zijn frisse geur behoudt."
+      "Bereid eerst de zeevruchten. Voor de snelle versie: laat het product volledig ontdooien en dep droog. Voor de fancy versie: pel garnalen en langoustines; kook schalen en koppen 10 minuten zacht in ongeveer 750 ml water, zeef en gebruik die vloeistof als bouillon.",
+      "Verhit de olijfolie in een brede pan op middellaag vuur. Fruit ui 5 minuten tot hij glazig en zacht is; voeg knoflook, paprika en laurier toe en bak nog 2–3 minuten zonder bruine knoflook.",
+      "Voeg tomaat toe en zet het vuur op middelhoog. Laat 5–7 minuten inkoken tot het mengsel dikker is, donkerder rood wordt en niet meer rauw ruikt; voeg wijn toe en laat 1–2 minuten stevig pruttelen tot de scherpe alcoholgeur weg is.",
+      "Roer de arroz carolino (Portugese Carolino-rijst) erdoor, voeg 550 ml hete bouillon toe en breng op hoog vuur net aan de kook. Zet direct laag tot middellaag en laat 12 minuten rustig pruttelen; roer twee of drie keer en voeg alleen hete bouillon toe als de rijst dreigt droog te vallen.",
+      "Proef na 12 minuten. De korrel moet bijna gaar zijn maar nog een klein stevig hart hebben; voeg nu de snelle, voorgegaarde 'lagosta' 2–3 minuten toe, of de rauwe garnalen/langoustines 3–4 minuten, tot schaaldieren opaak en net stevig zijn.",
+      "Zet het vuur uit wanneer de rijst gaar is maar er nog duidelijk lepelbare bouillon rond de korrels staat. Meng koriander en piripíri erdoor, proef op zout en serveer binnen 2 minuten; wachten maakt de rijst te droog."
     ],
     "technique": {
       "title": "ARROZ MALANDRINHO",
       "text": "Voeg hete bouillon toe en serveer zodra de korrel gaar is terwijl er nog duidelijk vocht rond de rijst zit. Arroz carolino (Portugese Carolino-rijst) blijft na het vuur bouillon opnemen, dus iets te nat van het vuur is beter dan te droog."
     },
-    "attention": "Arroz malandrinho (sappig en bouillonachtig) hoort niet op risotto te lijken en ook niet droog te zijn. Er moet nog een lepelbare, smakelijke bouillon rond de rijst zitten.",
+    "attention": "De rijst is klaar wanneer de korrel gaar is én er nog zichtbaar bouillon tussen de korrels staat. Is de rijst droog vóór hij gaar is, voeg dan steeds 50–75 ml hete bouillon toe.",
     "variations": [],
     "nutrition": {
       "kcal": 740,
@@ -63,7 +64,8 @@ window.RECIPES = [
     "image": "images/1b-acorda-de-marisco-met-lagosta-en-gepocheerd-ei.jpg",
     "imageAlt": "Açorda de marisco met “lagosta” en gepocheerd ei",
     "ingredients": [
-      "1 verpakking Formas de Lagosta (kreeftvormig zeevruchtenproduct), ontdooid",
+      "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g, 12 uur ontdooid in de koelkast",
+      "FANCY — vervang het pak door 180 g lagostim cru (rauwe langoustine) + 200 g camarão cru (rauwe garnalen), gepeld; bewaar schalen en koppen voor de bouillon",
       "250–300 g pão alentejano (Alentejaans landbrood) of ander stevig pão de mistura (gemengd landbrood) van de vorige dag, in stukken",
       "500 ml lichte caldo de peixe (visbouillon) of caldo de marisco (zeevruchtenbouillon)",
       "3 tenen knoflook",
@@ -75,12 +77,12 @@ window.RECIPES = [
       "zout"
     ],
     "steps": [
-      "Stamp knoflook met een flinke snuf zout en de helft van de koriander tot een grove pasta. Werk tot een grove, vochtige pasta en niet tot een volledig gladde puree; zo blijven knoflook en kruiden herkenbaar in geur en textuur.",
-      "Doe deze pasta met de olijfolie in een brede kom of pan. Wrijf hem met de achterkant van een lepel een beetje uit, zodat knoflook, koriander en olie straks overal in contact komen met het brood en de hete bouillon.",
-      "Breng de bouillon aan de kook. Pocheer daarin de eieren 3–4 minuten en haal ze voorzichtig uit de bouillon.",
-      "Verwarm het “lagosta”-product (kreeftvormig zeevruchtenproduct) de laatste 2–3 minuten in dezelfde bouillon en haal het er weer uit. Het product is al gaar en hoeft alleen door en door warm te worden; langer koken maakt het rubberachtig.",
-      "Giet de kokende bouillon beetje bij beetje over het brood. Schep om: het brood moet zacht en sappig worden, maar geen gladde pap.",
-      "Meng het “lagosta”-product (kreeftvormig zeevruchtenproduct) erdoor, leg de eieren erop en werk af met de rest van de koriander, wat citroensap en eventueel piripíri (Portugese chili). Doe dit van het vuur af en schep voorzichtig, zodat het brood sappig blijft en de eieren heel blijven."
+      "Maak voor de fancy versie eventueel eerst een snelle bouillon: kook garnalen- en langoustineschalen 10 minuten zacht in 650 ml water en zeef. Gebruik voor de snelle versie gewoon de opgegeven vis- of zeevruchtenbouillon.",
+      "Stamp knoflook, een flinke snuf zout en ongeveer twee derde van de koriander tot een grove, vochtige pasta. Meng met de olijfolie; er mogen nog kleine stukjes kruid en knoflook zichtbaar zijn.",
+      "Breng de bouillon op hoog vuur aan de kook en zet hem daarna laag zodat hij slechts heel zacht beweegt. Pocheer de eieren 3½–4 minuten; het wit moet volledig gestold zijn en de dooier nog zacht. Schep ze uit de pan.",
+      "Gaar nu de zeevruchten in dezelfde bouillon. Verwarm de voorgegaarde snelle versie 2–3 minuten; gaar rauwe garnalen/langoustines 3–4 minuten tot ze opaak zijn. Schep ze uit de bouillon.",
+      "Verdeel het brood in een warme schaal en schep de knoflook-korianderpasta erover. Giet ongeveer drie kwart van de kokende bouillon in 2–3 keer over het brood, telkens omscheppend; wacht 30 seconden tussen toevoegingen. Stop wanneer het brood volledig zacht en sappig is maar nog duidelijke stukken vormt.",
+      "Schep de zeevruchten er voorzichtig door, leg de eieren erop en werk af met de rest van de koriander, citroensap en eventueel piripíri. Voeg alleen extra bouillon toe als de açorda na één minuut te droog oogt."
     ],
     "technique": {
       "title": "EEN EI POCHEREN",
@@ -109,7 +111,8 @@ window.RECIPES = [
     "image": "images/2a-caldeirada-a-moda-de-peniche.jpg",
     "imageAlt": "Caldeirada à moda de Peniche",
     "ingredients": [
-      "1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket)",
+      "SNEL — 1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket), ca. 800 g",
+      "FANCY — vervang het pak door 600–700 g gemengde vis van de peixaria (visafdeling), bijvoorbeeld pescada (heek), raia (rog) en carapau (horsmakreel), plus 150 g berbigão (kokkels)",
       "450 g batata para cozer (kookaardappelen), liefst vastkokend, in plakken van ongeveer 7–8 mm",
       "1 grote ui, in halve ringen",
       "3 tenen knoflook, in plakjes",
@@ -125,13 +128,13 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Leg in een brede pan een laag ui, knoflook, tomaat en paprika. Besprenkel met olijfolie.",
-      "Leg daarop de aardappelschijven. Voeg laurier, pimentão-doce (zoet paprikapoeder), peper en een beetje zout toe.",
-      "Giet wijn en ongeveer 100 ml water of bouillon erbij. Dek af en laat 10–12 minuten zacht koken.",
-      "Verdeel de stukken uit het Caldeirada de Peniche-pakket (Peniche-visstoofpakket) bovenop. Leg grotere, stevigere stukken onderaan en kwetsbare stukken erboven.",
-      "Dek opnieuw af en laat rustig garen tot aardappel en vis gaar zijn, meestal nog 10–15 minuten afhankelijk van de stukken. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
-      "Schud de pan af en toe voorzichtig heen en weer. Niet met een lepel door de vis roeren.",
-      "Werk af met veel koriander of peterselie en een scheut olijfolie. Proef vooral het kookvocht: het moet krachtig genoeg zijn om aardappel en vis te dragen, maar nog helder en niet overdreven zout."
+      "Gebruik een brede pan met goed sluitend deksel. Leg ui, knoflook, tomaat en paprika op de bodem, schenk de olijfolie erover en zet de pan 4 minuten op middellaag vuur tot de groenten beginnen te zakken maar niet bruin zijn.",
+      "Leg de aardappelschijven in één of twee lagen op de groenten. Voeg laurier, pimentão-doce, peper en weinig zout toe; het diepvriespakket en schelpdieren kunnen al zout zijn.",
+      "Giet wijn en 100 ml water of lichte bouillon erbij. Zet hoog tot het vocht kookt, dek af en zet vervolgens laag tot middellaag. Laat 10–12 minuten zacht pruttelen; de aardappel moet aan de rand zachter worden maar in het midden nog duidelijk stevig zijn.",
+      "Leg de grotere, stevigere visstukken onderaan boven de aardappel en kwetsbare vis of berbigão (kokkels) erboven. Bij de fancy versie: voeg kokkels pas nu toe. Dek direct weer af.",
+      "Laat 10–15 minuten op laag tot middellaag vuur garen zonder te roeren. De vis is klaar wanneer hij overal opaak is en gemakkelijk vlokt; aardappel moet zonder weerstand met een mes te doorboren zijn. Hele schelpen moeten openstaan; gooi exemplaren die gesloten blijven weg.",
+      "Schud de gesloten pan halverwege één keer voorzichtig heen en weer. Is er na het garen veel dun vocht, kook dan 2–4 minuten zonder deksel op middelhoog vuur; de caldeirada hoort sappig maar niet waterig te zijn.",
+      "Zet het vuur uit, proef het vocht en corrigeer pas nu zout en peper. Werk af met koriander of peterselie en een kleine scheut olijfolie; serveer meteen."
     ],
     "technique": {
       "title": "GAREN IN LAGEN",
@@ -160,7 +163,8 @@ window.RECIPES = [
     "image": "images/2b-massada-de-peixe-com-tomate-e-coentros.jpg",
     "imageAlt": "Massada de peixe com tomate e coentros",
     "ingredients": [
-      "1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket)",
+      "SNEL — 1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket), ca. 800 g",
+      "FANCY — vervang het pak door 600–700 g gemengde vis van de peixaria (visafdeling), bijvoorbeeld pescada (heek), raia (rog) en carapau (horsmakreel), plus 150 g berbigão (kokkels)",
       "180 g korte pasta, liefst cotovelos of macarrão",
       "1 ui, fijngehakt",
       "2 tenen knoflook",
@@ -175,13 +179,13 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Fruit ui en knoflook in olijfolie. Voeg paprika, laurier en eventueel malagueta (chilipeper) toe.",
-      "Voeg tomaat toe en laat 5 minuten stoven. Blus met witte wijn.",
-      "Voeg water of bouillon toe en breng aan de kook. Zodra het water kookt, zet je het vuur lager als je daarna iets kwetsbaars gaat pocheren of zacht garen; hard borrelen is dan niet nodig.",
-      "Pocheer de grotere visstukken uit het pakket kort in het vocht tot ze bijna gaar zijn. Haal ze voorzichtig uit de pan.",
-      "Voeg de pasta toe en kook hem rechtstreeks in de tomaten-visbouillon. Voeg water toe als het te droog wordt.",
-      "Doe de vis en overige zeevruchten terug wanneer de pasta bijna gaar is en laat alles volledig garen. Proef de pasta ongeveer één minuut vóór de normale kooktijd en haal de pan van het vuur zodra hij nog net beet heeft; in de hete bouillon gaart hij nog kort door.",
-      "De massada (sappig pastagerecht) moet sappig blijven. Werk af met veel koriander."
+      "Verhit olijfolie op middellaag vuur. Fruit ui 5 minuten tot glazig; voeg knoflook, paprika, laurier en eventueel malagueta toe en bak nog 2 minuten zonder te kleuren.",
+      "Voeg tomate pelado toe en laat 5 minuten op middelhoog vuur stoven tot de saus zichtbaar dikker is. Voeg wijn toe en laat 1–2 minuten stevig pruttelen tot de alcoholgeur vrijwel weg is.",
+      "Voeg 650 ml water of visbouillon toe en breng op hoog vuur aan de kook. Zet daarna middellaag zodat het vocht rustig pruttelt.",
+      "Gaar grote, kwetsbare visstukken eerst 3–4 minuten in de bouillon tot de buitenkant opaak is maar het midden nog net niet volledig gaar. Schep ze voorzichtig uit de pan; kleine schaal- en schelpdieren blijven nog apart.",
+      "Voeg de pasta toe. Houd het vocht aan een rustige kook en kook volgens de verpakking minus ongeveer 2 minuten, meestal 7–9 minuten; roer elke 2 minuten over de bodem en voeg heet water toe als de pasta niet meer ruim in vocht ligt.",
+      "Doe de vis terug en voeg overige zeevruchten toe. Laat nog 2–4 minuten zacht pruttelen tot de pasta al dente is en alle vis/schaaldieren volledig gaar zijn; de massada moet op dit moment nog duidelijk bouillonachtig zijn.",
+      "Zet het vuur uit, meng een royale hand koriander erdoor en proef op zout en peper. Serveer onmiddellijk; na 5 minuten neemt de pasta veel van het vocht op."
     ],
     "technique": {
       "title": "PASTA IN DE BOUILLON",
@@ -210,7 +214,8 @@ window.RECIPES = [
     "image": "images/3a-miolo-de-ameijoa-a-bulhao-pato.jpg",
     "imageAlt": "Miolo de amêijoa à Bulhão Pato",
     "ingredients": [
-      "250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen)",
+      "SNEL — 250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen), 12 uur ontdooid in de koelkast",
+      "FANCY — vervang door 750 g verse amêijoas (venusschelpen) in de schelp, goed gespoeld; laat zandige exemplaren vooraf volgens de aanwijzingen van de visboer weken",
       "4 tenen knoflook, in dunne plakjes",
       "4 el olijfolie",
       "2–3 el water of lichte visbouillon",
@@ -221,12 +226,12 @@ window.RECIPES = [
       "100 g pão de mistura (gemengd landbrood) of pão alentejano (Alentejaans landbrood), om het knoflook-koriandervocht op te nemen"
     ],
     "steps": [
-      "Laat de amêijoas (venusschelpen) ontdooien en uitlekken. Laat het product daarna goed uitlekken en dep het zo nodig droog; overtollig vocht verdunt de saus en belemmert bruinen.",
-      "Verwarm de olijfolie en laat de knoflook zacht geuren zonder hem donkerbruin te bakken. Zodra de knoflook geurt en heel licht kleurt is de olie voldoende op smaak; donkerbruine knoflook maakt het gerecht bitter.",
-      "Voeg de amêijoas (venusschelpen) en 2–3 eetlepels water of bouillon toe. Kook ze kort maar volledig gaar volgens de verpakking.",
-      "Haal van het vuur zodra ze gaar zijn. Voeg onmiddellijk veel koriander en citroensap toe.",
-      "Proef pas daarna op zout. Schelpdieren zijn vaak al zout genoeg.",
-      "Serveer direct met brood. Zet extra citroen op tafel en gebruik het brood om de knoflook-korianderolie op te nemen; juist dat vocht is een essentieel deel van het gerecht."
+      "Voor de snelle versie: laat het schelpdiervlees volledig ontdooien, goed uitlekken en dep droog. Voor de fancy versie: spoel de hele amêijoas grondig; gooi beschadigde exemplaren en schelpen die open blijven na een tik weg.",
+      "Verhit de olijfolie met knoflook op laag vuur 1½–2 minuten. De knoflook moet geuren en hooguit heel licht goud worden; wordt hij bruin, zet het vuur direct lager.",
+      "Zet het vuur middelhoog. Voor schelpdiervlees: voeg het met 2–3 el water toe en gaar 2–4 minuten tot het volledig heet en opaak is. Voor hele amêijoas: voeg ze toe, dek af en kook 5–7 minuten; schud de pan halverwege en stop zodra de schelpen open zijn.",
+      "Haal de pan onmiddellijk van het vuur. Gooi bij de fancy versie schelpen weg die na het garen gesloten blijven; meng koriander en sap van een halve citroen door het hete kookvocht.",
+      "Proef het vocht voordat je zout toevoegt. Voeg zo nodig extra citroen en piripíri toe; de saus hoort krachtig naar knoflook, koriander en zee te smaken, niet zout of zuur te overheersen.",
+      "Serveer binnen enkele minuten met brood en lepel het kookvocht erover. Laat het gerecht niet warmhouden: extra hitte maakt het schelpdiervlees snel taai."
     ],
     "technique": {
       "title": "SCHELPDIEREN KORT GAREN",
@@ -255,7 +260,8 @@ window.RECIPES = [
     "image": "images/3b-acorda-de-ameijoas-a-alentejana.jpg",
     "imageAlt": "Açorda de amêijoas à alentejana",
     "ingredients": [
-      "250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen)",
+      "SNEL — 250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen), 12 uur ontdooid in de koelkast",
+      "FANCY — vervang door 750 g verse amêijoas (venusschelpen) in de schelp, goed gespoeld; laat zandige exemplaren vooraf volgens de aanwijzingen van de visboer weken",
       "250 g pão alentejano (Alentejaans landbrood) van de vorige dag",
       "600 ml water of lichte visbouillon",
       "3 tenen knoflook",
@@ -266,12 +272,12 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Stamp knoflook, zout en een groot deel van de koriander tot een grove pasta. Meng met de olijfolie.",
-      "Breng water of bouillon aan de kook en gaar daarin de amêijoas (venusschelpen). Schep ze eruit zodra ze gaar zijn.",
-      "Pocheer vervolgens de eieren in hetzelfde vocht. Houd het water net onder de kook, breek elk ei eerst in een kopje en laat het voorzichtig in het rustige water glijden; zo blijft het wit beter rond de dooier.",
-      "Leg het brood in een schaal en verdeel de knoflook-korianderpasta erover. Druk het brood niet aan; losse stukken nemen de hete bouillon gelijkmatiger op en houden meer structuur.",
-      "Giet er genoeg hete schelpdierenbouillon over om het brood volledig zacht en sappig te maken. Voeg de hete vloeistof geleidelijk toe en geef het brood telkens even tijd om op te nemen; de bedoeling is sappig en rustiek, niet glad gepureerd.",
-      "Verdeel de amêijoas (venusschelpen) en gepocheerde eieren erover. Werk af met de rest van de koriander en een klein beetje citroen."
+      "Maak eerst de korianderpasta: stamp knoflook, een flinke snuf zout en ongeveer twee derde van de koriander grof en meng met olijfolie. Leg het brood alvast los in een brede schaal.",
+      "Breng 600 ml water of lichte visbouillon op hoog vuur aan de kook. Gaar snel schelpdiervlees 2–4 minuten, of hele amêijoas afgedekt 5–7 minuten tot ze open zijn; schep de schelpdieren eruit en houd warm.",
+      "Zet de bouillon laag zodat hij net onder de kook blijft. Pocheer de eieren 3½–4 minuten; het eiwit moet stevig zijn en de dooier zacht. Schep ze voorzichtig uit de pan.",
+      "Verdeel de knoflook-korianderpasta over het brood. Giet de zeer hete bouillon in 2–3 porties over het brood en schep na elke toevoeging kort om; geef het brood telkens 30 seconden om vocht op te nemen.",
+      "Stop met bouillon zodra alle brood zacht is maar nog in grove stukken ligt en er onderin slechts een klein beetje vrij vocht staat. Is het na één minuut te droog, voeg dan nog 50–100 ml hete bouillon toe.",
+      "Verdeel de schelpdieren en eieren erover en werk af met de rest van de koriander en een paar druppels citroen. Serveer direct."
     ],
     "technique": {
       "title": "AÇORDA OPBOUWEN",
@@ -300,7 +306,8 @@ window.RECIPES = [
     "image": "images/4a-arroz-de-marisco-malandrinho.jpg",
     "imageAlt": "Arroz de marisco malandrinho",
     "ingredients": [
-      "1 verpakking Mariscada (500 g)",
+      "SNEL — 1 verpakking Mariscada (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
+      "FANCY — vervang door 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); gebruik de garnalenschalen voor de bouillon",
       "200 g arroz carolino (Portugese Carolino-rijst)",
       "1 ui, fijngehakt",
       "3 tenen knoflook",
@@ -315,13 +322,13 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Ontdooi de mariscada (zeevruchtenmix) indien de verpakking dat toestaat en vang eventueel smakelijk ontdooivocht op; gooi troebel of vreemd ruikend vocht weg. Laat de zeevruchten vervolgens goed uitlekken, zodat ze straks niet onnodig veel koud water aan de rijst afgeven.",
-      "Fruit ui en knoflook in olijfolie. Voeg paprika en laurier toe.",
-      "Voeg tomaat toe en laat goed stoven. Blus met witte wijn.",
-      "Voeg arroz carolino (Portugese Carolino-rijst) en ongeveer 650 ml bouillon toe. Laat rustig koken.",
-      "Voeg de mariscada (zeevruchtenmix) pas toe wanneer de rijst nog ongeveer 6–8 minuten nodig heeft, of eerder/later volgens de gaartijd op de verpakking. Zo krijgt de rijst tijd om smaak uit de bouillon op te nemen zonder dat de zeevruchten taai worden.",
-      "Voeg extra hete bouillon toe tot de rijst gaar maar duidelijk vochtig en lepelbaar is. Zet de pan van het vuur terwijl er nog royaal vocht rond de korrels zit; arroz carolino (Portugese Carolino-rijst) blijft ook tijdens het opscheppen bouillon opnemen.",
-      "Breng op smaak met piripíri (Portugese chili) en peper. Meng vlak voor het serveren een royale hoeveelheid koriander erdoor."
+      "Voor de snelle versie: laat de Mariscada 12 uur in de koelkast ontdooien en uitlekken. Voor de fancy versie: pel de garnalen, kook schalen en koppen 10–15 minuten zacht in 1 liter water en zeef; spoel amêijoas en mosselen goed.",
+      "Verhit olijfolie op middellaag vuur. Fruit ui 5 minuten tot glazig; voeg knoflook, paprika en laurier toe en bak nog 2 minuten.",
+      "Voeg tomate pelado toe en zet middelhoog. Laat 5 minuten inkoken tot de tomaat dikker en zoeter ruikt; voeg wijn toe en laat 1–2 minuten stevig pruttelen.",
+      "Voeg arroz carolino en 650 ml hete bouillon toe. Breng aan de kook, zet daarna laag tot middellaag en laat 8 minuten rustig pruttelen; roer om de paar minuten over de bodem.",
+      "Voeg nu de zeevruchten toe. Voor de snelle mix: houd de gaartijd van de verpakking aan, doorgaans circa 6–8 minuten. Voor de fancy versie: voeg mosselen en amêijoas eerst toe en de garnalen pas de laatste 3–4 minuten.",
+      "Proef de rijst na ongeveer 15 minuten totale rijsttijd. Zet het vuur uit zodra de korrel gaar is maar er nog royaal bouillon rond staat; voeg per keer 75–100 ml hete bouillon toe als de pan eerder droog dreigt te worden.",
+      "Gooi bij hele schelpdieren gesloten exemplaren weg. Meng koriander en piripíri door de rijst, proef op zout en serveer onmiddellijk."
     ],
     "technique": {
       "title": "MALANDRINHO SERVEREN",
@@ -350,7 +357,8 @@ window.RECIPES = [
     "image": "images/4b-cataplana-de-marisco-a-algarvia-zonder-vlees.jpg",
     "imageAlt": "Cataplana de marisco à algarvia, zonder vlees",
     "ingredients": [
-      "1 verpakking Mariscada (500 g)",
+      "SNEL — 1 verpakking Mariscada (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
+      "FANCY — vervang door 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); gebruik de garnalenschalen voor de bouillon",
       "1 grote ui, in dunne halve ringen",
       "3 tenen knoflook, in plakjes",
       "2 rijpe tomaten, in plakken of grove stukken",
@@ -364,12 +372,12 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Gebruik een echte cataplana (schelpvormige Portugese stoompan) als je die hebt; anders een brede pan met een goed sluitend deksel. Een brede pan verdeelt de ingrediënten in een dunne laag en een goed deksel houdt de stoom binnen.",
-      "Leg ui, knoflook, paprika en tomaat in lagen. Voeg laurier, pimentão-doce (zoet paprikapoeder), peper, een beetje zout en olijfolie toe.",
-      "Verdeel de mariscada (zeevruchtenmix) erover en giet de witte wijn langs de rand. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
-      "Sluit de cataplana (schelpvormige Portugese stoompan) of pan en gaar op middellaag vuur. Open zo weinig mogelijk en reken grofweg 8–12 minuten zodra alles goed heet is; volg voor rauwe onderdelen altijd de gaartijd op de verpakking.",
-      "Open, controleer of alles volledig gaar is en proef het kookvocht. Laat eventueel nog een paar minuten zonder deksel inkoken.",
-      "Voeg vlak voor het serveren een royale hoeveelheid koriander toe. Doe dat pas nadat de pan van het vuur is, zodat de koriander fris blijft en niet tot een vlakke, gekookte kruidensmaak verliest."
+      "Voor de snelle versie: laat de Mariscada volledig ontdooien en uitlekken. Voor de fancy versie: spoel mosselen en amêijoas, verwijder beschadigde schelpen en houd rauwe garnalen apart omdat die korter hoeven te garen.",
+      "Zet de cataplana of een brede pan op middellaag vuur met de olijfolie. Leg ui, knoflook, paprika en tomaat in lagen, voeg laurier en pimentão-doce toe en laat 4–5 minuten zonder deksel zacht worden.",
+      "Verdeel de snelle zeevruchtenmix erover, of bij de fancy versie eerst mosselen en amêijoas. Giet wijn langs de rand, zet het vuur 1 minuut hoog tot het duidelijk stoomt en sluit de pan.",
+      "Zet middellaag en gaar gesloten 6 minuten. Open kort: voeg bij de fancy versie nu de rauwe garnalen toe, sluit opnieuw en gaar nog 3–4 minuten; bij de snelle versie volg je de volledige gaartijd op de verpakking.",
+      "Open de pan. Garnalen moeten opaak en stevig zijn en hele schelpen open; gooi gesloten schelpen weg. Laat bij te veel dun vocht 2–3 minuten zonder deksel op middelhoog vuur inkoken.",
+      "Zet het vuur uit, meng koriander erdoor en proef het kookvocht op zout, peper en piripíri. Serveer direct uit de cataplana of pan."
     ],
     "technique": {
       "title": "GAREN IN EEN GESLOTEN CATAPLANA",
@@ -399,7 +407,7 @@ window.RECIPES = [
     "imageAlt": "Bacalhau à Brás",
     "ingredients": [
       "300 g ontzoute bacalhau (gezouten kabeljauw), gaar en in vlokken",
-      "300 g batata para fritar (frituuraardappelen), voor fijne lucifers",
+      "300 g batata palha (krokante aardappelreepjes), of 300 g batata para fritar (frituuraardappelen) om zelf in fijne lucifers te snijden",
       "1 grote ui, in dunne halve ringen",
       "2 tenen knoflook",
       "4 eieren",
@@ -410,13 +418,12 @@ window.RECIPES = [
       "zout alleen indien nodig"
     ],
     "steps": [
-      "Snijd de aardappelen in zeer fijne lucifers. Frituur of bak ze goudgeel en laat uitlekken. Kant-en-klare batata palha (krokante aardappelreepjes) is in Portugal ook een gewone thuisoplossing.",
-      "Fruit ui en knoflook langzaam in olijfolie tot de ui zacht en zoet is. Laat de ui doorschijnend worden zonder veel kleur en voeg de knoflook pas toe zodra de ui vrijwel klaar is.",
-      "Voeg de bacalhau (gezouten kabeljauw) toe en warm 2–3 minuten mee. Schep rustig om en warm alleen door; de kabeljauw is al gaar en wordt droog wanneer hij hier te lang blijft bakken.",
-      "Voeg de aardappelen toe en schep kort om. Werk met een brede spatel en til het mengsel voorzichtig op, zodat de fijne aardappel en bacalhau (gezouten kabeljauw) niet tot een compacte massa worden gedrukt.",
-      "Klop de eieren los met peper. Zet het vuur laag en meng ze door de pan.",
-      "Stop zodra het ei romig gebonden is; laat het niet droog stollen. Haal de pan van het vuur terwijl het mengsel nog glanst, want de restwarmte gaart het ei nog verder.",
-      "Werk af met peterselie en zwarte olijven. Proef pas daarna op zout: bacalhau (gezouten kabeljauw), aardappel en olijven brengen samen vaak al genoeg zoutigheid mee."
+      "Gebruik je verse aardappel, frituur de fijne lucifers in olie van 175–180 °C in 4–6 minuten goudgeel en laat goed uitlekken. Gebruik je batata palha uit de zak, sla deze stap over.",
+      "Verhit olijfolie op laag tot middellaag vuur. Fruit de ui 10–12 minuten tot hij volledig zacht en zoet is maar nauwelijks kleurt; voeg knoflook alleen de laatste minuut toe.",
+      "Voeg de gare bacalhau toe en zet middelhoog. Schep 1–2 minuten om, alleen tot de vis goed warm is; laat hem niet bakken of uitdrogen.",
+      "Meng ongeveer twee derde van de aardappel erdoor en warm 1 minuut mee. Zet daarna het vuur laag.",
+      "Klop de eieren los met zwarte peper en giet ze over de pan. Schep 1–2 minuten rustig van onder naar boven; haal de pan van het vuur zodra het ei romig bindt maar nog glanst.",
+      "Meng de resterende batata palha er pas na het vuur door voor extra krokant contrast. Werk af met peterselie en olijven en proef pas daarna op zout."
     ],
     "technique": {
       "title": "ROMIG EI IN À BRÁS",
@@ -457,12 +464,12 @@ window.RECIPES = [
       "zout"
     ],
     "steps": [
-      "Kook de aardappelen in de schil bijna gaar. Laat iets afkoelen, pel ze en snijd in dikke plakken.",
-      "Pocheer de bacalhau (gezouten kabeljauw) zachtjes tot hij net gaar is. Verwijder vel en graten en verdeel in grove vlokken.",
-      "Fruit ui en knoflook langzaam in ruim olijfolie. Laat de ui zacht en licht zoet worden zonder hem donker te bakken; de royale hoeveelheid azeite (olijfolie) hoort later ook de aardappel en bacalhau (gezouten kabeljauw) te bevochtigen.",
-      "Meng aardappel, bacalhau (gezouten kabeljauw) en ui voorzichtig in een ovenschaal. Besprenkel royaal met olijfolie en peper.",
-      "Bak ongeveer 15–20 minuten op 190 °C. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar.",
-      "Kook ondertussen de eieren hard, snijd in parten en verdeel ze met olijven en peterselie over de schaal. Leg de garnering pas na het bakken erop, zodat ei, peterselie en olijven fris en herkenbaar blijven."
+      "Zet de aardappelen in koud gezouten water, breng aan de kook en laat 15–20 minuten zacht koken tot een mes er met lichte weerstand ingaat. Giet af, laat 5 minuten uitdampen, pel en snijd in plakken van ongeveer 1 cm.",
+      "Breng een tweede pan water tot net onder de kook, ongeveer 85–90 °C. Pocheer de ontzoute bacalhau 5–7 minuten tot hij net opaak en vlokkig is; haal eruit, laat kort afkoelen en verwijder vel en graten.",
+      "Verhit de olijfolie op laag tot middellaag vuur. Fruit uien 10–12 minuten tot ze zacht en zoet zijn zonder bruin te worden; voeg knoflook de laatste minuut toe.",
+      "Verwarm de oven voor op 190 °C. Meng aardappel, bacalhau en ui heel voorzichtig in een ovenschaal, kruid met peper en lepel de olie uit de pan erover.",
+      "Bak 15–20 minuten, tot de randen van aardappel en ui licht goud kleuren en het gerecht door en door heet is. Het hoeft niet droog of donker gegratineerd te worden.",
+      "Kook intussen de eieren 9 minuten, koel ze kort, pel en snijd in parten. Leg ei, olijven en peterselie pas na het bakken op de schaal en serveer warm."
     ],
     "technique": {
       "title": "BACALHAU POCHEREN",
@@ -505,12 +512,12 @@ window.RECIPES = [
       "eventueel een dun laagje pão ralado fino (fijn paneermeel)"
     ],
     "steps": [
-      "Bak of frituur de aardappelen tot ze net gaar en licht gekleurd zijn. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
-      "Fruit ui en knoflook in olijfolie. Voeg bacalhau (gezouten kabeljauw) toe en laat enkele minuten meegaren.",
-      "Maak apart een lichte béchamel van boter, bloem en melk. Breng op smaak met peper en nootmuskaat en roer de room erdoor.",
-      "Meng aardappel, bacalhau (gezouten kabeljauw) en ongeveer twee derde van de saus. Schep voorzichtig tot alles net bedekt is; te veel roeren breekt de aardappel en maakt de vulling zwaar.",
-      "Doe in een ovenschaal, verdeel de rest van de saus erover en eventueel een heel dun laagje broodkruim. Strijk de bovenkant losjes glad maar druk niets aan; zo kan de bovenkant in de oven kleuren terwijl de binnenkant romig blijft.",
-      "Bak 20–25 minuten op 200 °C tot de bovenkant goudkleurig is. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar."
+      "Verwarm de oven voor op 200 °C. Bak de aardappelblokjes in olie van 175–180 °C in 5–7 minuten licht goud en net gaar; ze hoeven niet krokant te worden. Laat goed uitlekken.",
+      "Verhit 3 el olijfolie op middellaag vuur. Fruit ui 8–10 minuten tot zacht en glazig; voeg knoflook 1 minuut toe en daarna bacalhau. Warm 2–3 minuten mee en zet het vuur uit.",
+      "Smelt boter in een steelpan op middellaag vuur, roer bloem erdoor en gaar 1½–2 minuten zonder te kleuren. Voeg de melk in 3–4 porties kloppend toe en laat 3–5 minuten zacht koken tot de saus de achterkant van een lepel dun bedekt; roer natas, peper en nootmuskaat erdoor.",
+      "Meng aardappel, bacalhau en ongeveer twee derde van de saus. Schep slechts tot alles bedekt is; proef op zout voordat er iets extra bij gaat.",
+      "Doe in een ovenschaal en verdeel de rest van de saus erover. Strooi eventueel een flinterdun laagje pão ralado over de bovenkant.",
+      "Bak 15–20 minuten op 200 °C tot de saus langs de randen borrelt en de bovenkant goudbruin is. Laat 5 minuten rusten voordat je opschept; de saus wordt dan iets steviger."
     ],
     "technique": {
       "title": "LICHTE BÉCHAMEL",
@@ -557,12 +564,12 @@ window.RECIPES = [
       "1 laurierblad"
     ],
     "steps": [
-      "Maak eerst de rijst. Fruit ui en knoflook, voeg tomaat en laurier toe en laat enkele minuten stoven.",
-      "Voeg rijst, bonen en hete vloeistof toe. Kook tot de rijst gaar maar nog duidelijk sappig is.",
-      "Meng voor de pataniscas (platte kabeljauwbeignets) bloem, eieren en genoeg water tot een dik maar schepbaar beslag. Het beslag moet langzaam van de lepel vallen en de bacalhau (gezouten kabeljauw) kunnen vasthouden; voeg water daarom in kleine beetjes toe.",
-      "Meng bacalhau (gezouten kabeljauw), ui, peterselie en peper erdoor. Roer alleen tot alles gelijkmatig verdeeld is; een te lang gemengd beslag wordt taai en verliest de losse structuur van de vis.",
-      "Schep platte hoopjes in een laag hete olie en bak aan beide zijden goudbruin. Houd de olie rond 175–180 °C en bak in kleine porties, zodat de pataniscas (platte kabeljauwbeignets) snel kleuren zonder veel vet op te nemen.",
-      "Serveer direct met de arroz de feijão (bonenrijst). Schep de rijst op terwijl er nog zichtbaar vocht rond de korrels zit; tijdens het eten dikt hij vanzelf verder in."
+      "Maak eerst de arroz de feijão. Verhit 2 el olijfolie op middellaag vuur, fruit ui 4–5 minuten en knoflook 30 seconden; voeg tomaat en laurier toe en laat 5 minuten inkoken tot de tomaat niet meer rauw ruikt.",
+      "Voeg rijst, bonen en 550 ml hete vloeistof toe. Breng aan de kook, zet laag en laat 15–18 minuten rustig pruttelen; roer af en toe en voeg zo nodig extra heet water toe. Stop wanneer de rijst gaar is maar nog zichtbaar sappig.",
+      "Maak ondertussen het beslag: klop bloem en eieren glad en voeg 80 ml koud water toe. Voeg alleen extra water toe tot het beslag dik van de lepel valt, ongeveer als dikke yoghurt.",
+      "Meng bacalhau, ui, peterselie en peper erdoor en laat het beslag 5 minuten staan. Het moet een lepelvorm behouden; loopt het meteen uit, roer dan 1 el bloem extra erdoor.",
+      "Verhit 5–8 mm zonnebloemolie in een koekenpan tot 175–180 °C. Schep platte hoopjes beslag in de pan en bak 2–3 minuten per kant tot diep goud en gaar; bak in porties zodat de olietemperatuur niet instort.",
+      "Laat 1 minuut uitlekken op een rooster of keukenpapier. Serveer meteen met de nog sappige bonenrijst."
     ],
     "technique": {
       "title": "ONDIEP BAKKEN",
@@ -580,40 +587,45 @@ window.RECIPES = [
   {
     "id": "9",
     "label": "9",
-    "title": "Pescada cozida com batatas e legumes",
+    "title": "Bacalhau com todos e couve portuguesa",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "DAGELIJKSE BASIS"
+      "WINTERKLASSIEKER",
+      "KOOL"
     ],
-    "time": "30 minuten",
+    "time": "40 minuten",
     "servings": "2 personen",
-    "intro": "Dit is misschien het minst spectaculaire gerecht in het boek en juist daarom belangrijk. Pescada (heek) met gekookte aardappelen, groenten en ei is eenvoudige Portugese dagelijkse kost waarin goede vis en olijfolie niet achter saus verdwijnen.",
+    "intro": "Bacalhau com todos (gezouten kabeljauw met aardappel, groenten en ei) is een van de duidelijkste plekken waar couve portuguesa (Portugese bladkool) thuishoort. De onderdelen worden eenvoudig gekookt en pas aan tafel rijk gemaakt met goede olijfolie.",
     "image": "images/9-pescada-cozida-com-batatas-e-legumes.jpg",
-    "imageAlt": "Pescada cozida com batatas e legumes",
+    "imageAlt": "Bacalhau com todos met couve portuguesa, aardappelen, wortel en ei",
     "ingredients": [
-      "2 moten of filets pescada (heek), ongeveer 350–400 g totaal",
-      "450 g batata para cozer (kookaardappelen), liefst vastkokend",
-      "2 wortels",
-      "200 g grelos, sperziebonen of kool",
+      "350 g bacalhau demolhado (ontzoute gezouten kabeljauw), in 2–3 dikke stukken",
+      "450 g batata para cozer (kookaardappelen), gehalveerd als ze groot zijn",
+      "300 g couve portuguesa (Portugese bladkool), dikke nerven verwijderd en bladeren grof gesneden",
+      "2 wortels, in dikke stukken",
       "2 eieren",
-      "2 el goede olijfolie",
-      "1 citroen",
-      "zout en peper"
+      "3 el azeite virgem extra (extra vierge olijfolie), plus extra aan tafel",
+      "2 tenen knoflook, zeer fijn gehakt of in dunne plakjes",
+      "1–2 tl wijnazijn of citroensap, optioneel",
+      "zwarte peper; zout alleen indien nodig"
     ],
     "steps": [
-      "Kook aardappelen en wortel in gezouten water. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
-      "Voeg de groente toe op het moment dat de kooktijd daarom vraagt. Stevigere groenten mogen eerder in de pan, terwijl zachte of groene groenten pas later gaan; zo eindigt alles tegelijk gaar zonder slap te worden.",
-      "Pocheer of kook de pescada (heek) apart heel rustig in gezouten water tot hij net gaar is. Houd de vloeistof net onder het kookpunt, met alleen kleine belletjes; hard koken maakt de vis droger en laat de vlokken sneller uit elkaar vallen.",
-      "Kook de eieren hard of halfhard. Koel de eieren na het koken kort in koud water; daardoor stopt het garen en kun je ze makkelijker pellen zonder het wit te beschadigen.",
-      "Verdeel vis, aardappelen, groente en ei over de borden. Houd de onderdelen herkenbaar naast elkaar in plaats van alles te mengen; zo kan iedereen zelf olijfolie en citroen naar smaak toevoegen.",
-      "Geef er royaal olijfolie en citroen bij. Laat iedereen aan tafel zelf doseren: de warme aardappel en vis nemen de azeite (olijfolie) goed op en een beetje citroen maakt het geheel frisser zonder een saus nodig te hebben."
+      "Zet aardappelen en wortels in een ruime pan met koud water en weinig zout. Breng aan de kook, zet middellaag en laat 10 minuten rustig koken; de aardappelen moeten dan halfgaar zijn.",
+      "Voeg de couve portuguesa toe en druk de bladeren onder water. Laat 5–7 minuten zacht koken tot de kool mals is maar nog groen en licht stevig; schep kool en wortel eruit als ze eerder klaar zijn.",
+      "Leg de stukken bacalhau in dezelfde pan wanneer de aardappelen nog ongeveer 6 minuten nodig hebben. Houd het water net onder de kook, 85–90 °C, en pocheer 5–7 minuten tot de vis net opaak is en in grote vlokken loslaat.",
+      "Kook de eieren apart 9 minuten, koel kort en pel. Controleer de aardappelen: een mes moet zonder weerstand tot het midden gaan, maar de stukken moeten heel blijven.",
+      "Verwarm 3 el olijfolie met de knoflook 1 minuut op laag vuur, alleen tot hij geurt. Zet het vuur uit voordat de knoflook kleurt.",
+      "Schik bacalhau, aardappel, kool, wortel en gehalveerde eieren op een warme schaal. Lepel de knoflookolie erover en geef extra olijfolie en eventueel een paar druppels azijn of citroen aan tafel."
     ],
     "technique": {
-      "title": "VIS POCHEREN",
-      "text": "Pocheren is zacht garen in water dat net niet kookt. Houd de vloeistof rond 80–90 °C: kleine belletjes mogen, wild borrelen niet. Zo blijft pescada (heek) sappig en valt hij minder snel uit elkaar."
+      "title": "BACALHAU EN KOOL SAMEN GAREN",
+      "text": "Laat het water na het toevoegen van de bacalhau niet hard koken. Zacht pocheren houdt de vis sappig; couve portuguesa is klaar zodra de dikke delen mals zijn maar de bladeren nog duidelijk structuur hebben."
     },
-    "attention": "Dit is bewust eenvoudig. In de Portugese dagelijkse keuken wordt vis vaak veel minder “aangekleed” dan in restaurantrecepten.",
-    "variations": [],
+    "attention": "Zout pas aan tafel. Zelfs goed ontzoute bacalhau kan voldoende zout meebrengen voor aardappel en kool.",
+    "variations": [
+      "Voeg 150–200 g gekookte grão-de-bico (kikkererwten) toe voor een steviger bord.",
+      "Couve coração (spitskool) kan als mildere winkelvariant; kook die slechts 3–5 minuten."
+    ],
     "nutrition": {
       "kcal": 610,
       "protein": 47,
@@ -648,13 +660,13 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Verwarm de oven voor op 200 °C. Geef de oven echt de tijd om volledig op temperatuur te komen; een halfwarme oven laat aardappelen eerst stomen in plaats van roosteren.",
-      "Verdeel aardappel, ui, knoflook en tomaat in een ovenschaal. Voeg laurier, zout, peper, een beetje pimentão-doce (zoet paprikapoeder), olijfolie en witte wijn toe.",
-      "Bak de aardappelen 15 minuten voor. Ze hoeven nog niet gaar te zijn, maar de randen moeten al beginnen te verzachten zodat vis en aardappel later ongeveer tegelijk klaar zijn.",
-      "Kerf de dourada (goudbrasem) enkele keren in, zout hem van binnen en buiten en leg op de aardappelen. Maak de inkepingen alleen door het dikke vlees en niet tot op de graat; zo dringen zout en warmte gelijkmatiger binnen.",
-      "Bak nog ongeveer 20–25 minuten, afhankelijk van de dikte van de vis. Controleer bij de rugvin: het vlees moet gemakkelijk loslaten en nog sappig en glanzend zijn, niet droog en vezelig.",
-      "Lepel tijdens het bakken wat vocht uit de schaal over de vis. Doe dit één of twee keer snel, zodat de oven niet steeds afkoelt; het braadvocht houdt het oppervlak sappig en geeft extra smaak.",
-      "Werk af met peterselie of koriander. Lepel nog wat braadvocht over de aardappelen en vis en proef dat vocht op zout voordat de schaal naar tafel gaat."
+      "Verwarm de oven volledig voor op 200 °C, boven- en onderwarmte. Snijd aardappelen 4–5 mm dik; dikkere plakken hebben aanzienlijk langer nodig.",
+      "Meng aardappel, ui, knoflook, tomaat, laurier, wijn en ongeveer drie kwart van de olijfolie in een brede ovenschaal. Kruid met peper, pimentão-doce en weinig zout.",
+      "Bak de aardappelen 15 minuten. Schep ze één keer om; de randen moeten zacht beginnen te worden maar het midden mag nog stevig zijn.",
+      "Dep de dourada droog, maak 2–3 ondiepe sneden in het dikste deel en zout binnen- en buitenkant. Leg de vis op de aardappelen en lepel de resterende olie en wat braadvocht erover.",
+      "Bak nog 20–25 minuten op 200 °C. Controleer vanaf 18 minuten bij de dikste rug: het vlees moet opaak zijn, gemakkelijk van de graat loskomen en nog glanzen; bij een kernthermometer is circa 60–63 °C een goed eindpunt.",
+      "Lepel halverwege één keer snel braadvocht over de vis. Zijn de aardappelen nog hard terwijl de vis gaar is, haal de vis uit de schaal en geef de aardappelen nog 5–10 minuten.",
+      "Laat de vis 3 minuten rusten, werk af met peterselie of koriander en proef het braadvocht op zout voordat je serveert."
     ],
     "technique": {
       "title": "HELE VIS IN DE OVEN",
@@ -696,13 +708,13 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Kook de octopus zonder veel extra water zacht tot hij mals is. Bewaar het kookvocht.",
-      "Snijd de octopus in stukken. Maak de stukken ongeveer hapgroot, maar laat de dunnere tentakelpunten wat groter zodat ze tijdens het verdere garen niet uitdrogen.",
-      "Fruit ui en knoflook in olijfolie. Voeg tomaat en laurier toe en laat goed stoven.",
-      "Blus met wijn. Laat de wijn één à twee minuten stevig pruttelen, zodat de scherpe alcoholgeur verdwijnt en alleen frisheid en aroma overblijven.",
-      "Voeg arroz carolino (Portugese Carolino-rijst) toe en gebruik ongeveer 650–750 ml heet octopuskookvocht. Vul zo nodig aan met water.",
-      "Voeg de octopus terug wanneer de rijst ongeveer halverwege is. Laat de rijst rustig garen en roer alleen wanneer dat nodig is, zodat de korrels gaar worden zonder tot pap te breken.",
-      "Laat de rijst sappig en licht bouillonachtig; voeg op het einde koriander en eventueel piripíri (Portugese chili) toe. Zet de pan van het vuur zodra de korrel gaar is terwijl er nog royaal octopuskookvocht rond zit, en serveer meteen."
+      "Leg de octopus in een zware pan met deksel, zonder veel extra water; hij laat zelf vocht los. Breng op middelhoog vuur aan de kook, zet laag en laat 35–50 minuten zacht garen. Hij is klaar wanneer een dun mes zonder weerstand in het dikste deel van een tentakel glijdt.",
+      "Haal de octopus uit de pan en zeef het kookvocht. Meet 750 ml af en houd dit heet; vul met water aan als er te weinig is. Snijd de octopus in hapgrote stukken.",
+      "Verhit olijfolie op middellaag vuur. Fruit ui 5–6 minuten tot glazig, voeg knoflook 30 seconden toe en daarna tomaat en laurier; laat 5 minuten inkoken tot de tomaat geconcentreerd ruikt.",
+      "Voeg wijn toe, zet middelhoog en laat 1–2 minuten pruttelen. Roer de rijst erdoor en voeg 650 ml heet octopuskookvocht toe.",
+      "Breng aan de kook en zet daarna laag tot middellaag. Laat 9–10 minuten rustig pruttelen, roer af en toe en voeg heet kookvocht toe als het niveau onder de rijst zakt.",
+      "Voeg de octopus toe en laat nog 6–8 minuten zacht garen. Proef de rijst: de korrel moet gaar zijn maar intact; er moet nog duidelijk roodbruin kookvocht rond de rijst staan.",
+      "Zet het vuur uit, meng koriander en eventueel piripíri erdoor en proef op zout en peper. Serveer binnen 2–3 minuten."
     ],
     "technique": {
       "title": "OCTOPUS MALS KOKEN",
