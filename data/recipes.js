@@ -639,7 +639,7 @@ window.RECIPES = [
       "Dep de dourada droog, maak 2–3 ondiepe sneden in het dikste deel en zout binnen- en buitenkant. Leg de vis op de aardappelen en lepel de resterende olie en wat braadvocht erover.",
       "Bak nog 20–25 minuten op 200 °C. Controleer vanaf 18 minuten bij de dikste rug: het vlees moet opaak zijn, gemakkelijk van de graat loskomen en nog glanzen; bij een kernthermometer is circa 60–63 °C een goed eindpunt.",
       "Lepel halverwege één keer snel braadvocht over de vis. Zijn de aardappelen nog hard terwijl de vis gaar is, haal de vis uit de schaal en geef de aardappelen nog 5–10 minuten.",
-      "Laat de vis 3 minuten rusten, werk af met peterselie of koriander en proef het braadvocht op zout voordat je serveert."
+      "Laat de vis 3 minuten rusten, werk af met peterselie of koriander en proef het braadvocht op zout voordat je serveert. Serveer zodra de aardappelen volledig gaar zijn en de vis nog sappig vanbinnen is."
     ],
     "technique": {
       "title": "HELE VIS IN DE OVEN",
@@ -1141,12 +1141,12 @@ window.RECIPES = [
       "zout en zwarte peper"
     ],
     "steps": [
-      "Verhit de olijfolie op middellaag vuur en fruit de ui 5–6 minuten tot zacht en glazig.",
+      "Verhit de olijfolie op middellaag vuur en fruit de ui 5–6 minuten tot zacht en glazig. De ui mag zoet ruiken maar niet bruin worden.",
       "Voeg paprika, uitgelekte tonijn en polpa de tomate toe. Zet middelhoog en bak 4 minuten, af en toe omscheppend, tot de paprika iets zachter is en de tomaat niet meer rauw ruikt.",
       "Roer de rijst erdoor en voeg 400 ml kokend water en een kleine snuf zout toe. Breng snel aan de kook.",
       "Dek af, zet laag en laat 10–12 minuten rustig koken. Kijk vanaf 9 minuten: de rijst is klaar wanneer het water vrijwel is opgenomen en de korrels zacht maar los zijn; voeg alleen zo nodig nog 50 ml heet water toe.",
       "Haal van het vuur en laat 3 minuten afgedekt staan. Maak los met een vork en proef op zout en peper.",
-      "Werk af met peterselie en serveer direct."
+      "Werk af met peterselie en serveer direct. De rijst hoort los te zijn, zonder zichtbaar kookwater onderin de pan."
     ],
     "technique": {
       "title": "TONIJN LAAT TOEVOEGEN",
@@ -1870,7 +1870,7 @@ window.RECIPES = [
     "steps": [
       "Bereid de rissóis volgens hun type. Diepvries: volg de verpakking; bij frituren houd je de olie op 175–180 °C en bak je in kleine porties tot diep goud en door en door heet. Verse rissóis hebben meestal korter nodig: stop zodra de korst krokant en de vulling heet is.",
       "Begin de rijst ongeveer 20 minuten vóór de rissóis klaar moeten zijn. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
-      "Voeg tomate pelado en laurier toe en laat 5–7 minuten op middelhoog vuur stoven tot de tomaat dikker en zoeter ruikt.",
+      "Voeg tomate pelado en laurier toe en laat 5–7 minuten op middelhoog vuur stoven tot de tomaat dikker en zoeter ruikt. De basis is klaar wanneer een spatel een spoor over de bodem trekt dat niet meteen volloopt.",
       "Voeg arroz carolino en 500 ml heet water toe. Breng aan de kook, zet laag tot middellaag en laat 15–18 minuten zacht pruttelen; roer af en toe en voeg alleen extra heet water toe als de rijst vóór het gaar zijn droogvalt.",
       "Zet het vuur uit zodra de rijst gaar maar nog lepelbaar en sappig is. Proef op zout en werk af met koriander of peterselie.",
       "Laat gefrituurde rissóis 1 minuut uitlekken en serveer ze naast de rijst. Leg ze nooit op de rijst en dek ze niet af, zodat de korst krokant blijft."
