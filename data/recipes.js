@@ -402,7 +402,7 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Bacalhau (gezouten kabeljauw) à Brás (bacalhau (gezouten kabeljauw) met fijne aardappel en romig ei) is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau (gezouten kabeljauw), zachte ui, dunne aardappel en ei. Het wordt thuis net zo gemakkelijk gemaakt met kant-en-klare batata palha (krokante aardappelreepjes) als met zelfgesneden aardappel.",
+    "intro": "Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei) is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau, zachte ui, fijne aardappel en ei. Thuis wordt het net zo gemakkelijk met kant-en-klare batata palha (krokante aardappelreepjes) gemaakt als met zelfgesneden aardappel.",
     "image": "images/5-bacalhau-a-bras.jpg",
     "imageAlt": "Bacalhau à Brás",
     "ingredients": [
@@ -720,7 +720,7 @@ window.RECIPES = [
       "title": "OCTOPUS MALS KOKEN",
       "text": "Laat octopus rustig garen tot een mes zonder weerstand in het dikste deel glijdt. Bewaar het kookvocht: daarin zit precies de smaak die je later voor de arroz carolino (Portugese Carolino-rijst) nodig hebt."
     },
-    "attention": "Net als arroz de marisco (zeevruchtenrijst) moet arroz de polvo (octopus) niet droog op het bord staan.",
+    "attention": "Net als arroz de marisco (zeevruchtenrijst) hoort arroz de polvo (octopusrijst) sappig en licht bouillonachtig op het bord te komen.",
     "variations": [],
     "nutrition": {
       "kcal": 680,
@@ -966,7 +966,7 @@ window.RECIPES = [
     ],
     "time": "40 minuten",
     "servings": "2–3 personen",
-    "intro": "arroz de bacalhau (rijst met gezouten kabeljauw) is minder beroemd buiten Portugal dan veel ovenschotels, maar past perfect in de thuiskooktraditie. De kabeljauw geeft zijn smaak af aan een sappige tomaat- en paprikarijst.",
+    "intro": "Arroz de bacalhau (rijst met gezouten kabeljauw) is minder beroemd buiten Portugal dan veel ovenschotels, maar past perfect in de thuiskooktraditie. De kabeljauw geeft zijn smaak af aan een sappige tomaat- en paprikarijst.",
     "image": "images/17-arroz-de-bacalhau-malandrinho.jpg",
     "imageAlt": "Arroz de bacalhau malandrinho",
     "ingredients": [
@@ -1151,7 +1151,7 @@ window.RECIPES = [
     ],
     "time": "25 minuten",
     "servings": "2–3 personen",
-    "intro": "arroz de atum (tonijnrijst) is functioneel thuiskoken op zijn best: rijst, ui, knoflook en bliktonijn leveren met weinig planning een warme maaltijd. De tonijn hoeft nauwelijks te garen en gaat daarom pas op het einde erbij.",
+    "intro": "Arroz de atum (tonijnrijst) is functioneel thuiskoken op zijn best: rijst, ui, knoflook en bliktonijn leveren met weinig planning een warme maaltijd. De tonijn hoeft nauwelijks te garen en gaat daarom pas op het einde erbij.",
     "image": "images/21-arroz-de-atum-rapido.jpg",
     "imageAlt": "Arroz de atum rápido",
     "ingredients": [
@@ -1335,7 +1335,7 @@ window.RECIPES = [
     ],
     "time": "25 minuten",
     "servings": "2 personen",
-    "intro": "arroz de tomate (tomatenrijst) is op zichzelf al een Portugese basisbereiding. Met een in olijfolie gebakken ei erbovenop wordt het een complete, goedkope maaltijd zonder dat er een hoofdproduct uit vlees of vis nodig is.",
+    "intro": "Arroz de tomate (tomatenrijst) is op zichzelf al een Portugese basisbereiding. Met een in olijfolie gebakken ei erbovenop wordt het een complete, goedkope maaltijd zonder dat er vlees of vis nodig is.",
     "image": "images/25-arroz-de-tomate-com-ovo-estrelado.jpg",
     "imageAlt": "Arroz de tomate com ovo estrelado",
     "ingredients": [
@@ -1360,7 +1360,7 @@ window.RECIPES = [
       "title": "RIJST IETS TE NAT VAN HET VUUR",
       "text": "Arroz carolino (Portugese Carolino-rijst) blijft na het koken vocht opnemen. Zet arroz de tomate (tomatenrijst) daarom van het vuur wanneer hij nog duidelijk sappig is en bak de eieren pas op het laatste moment."
     },
-    "attention": "arroz de tomate (tomatenrijst) is een basisgerecht op zichzelf. Met een gebakken ei wordt het een zeer goedkope complete doordeweekse maaltijd.",
+    "attention": "Arroz de tomate (tomatenrijst) is een basisgerecht op zichzelf. Met een gebakken ei wordt het een zeer goedkope complete doordeweekse maaltijd.",
     "variations": [],
     "nutrition": {
       "kcal": 640,
