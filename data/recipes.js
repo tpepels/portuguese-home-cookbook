@@ -37,10 +37,6 @@ window.RECIPES = [
       "Proef na 12 minuten. De korrel moet bijna gaar zijn maar nog een klein stevig hart hebben; voeg nu de snelle, voorgegaarde 'lagosta' 2–3 minuten toe, of de rauwe garnalen/langoustines 3–4 minuten, tot schaaldieren opaak en net stevig zijn.",
       "Zet het vuur uit wanneer de rijst gaar is maar er nog duidelijk lepelbare bouillon rond de korrels staat. Meng koriander en piripíri erdoor, proef op zout en serveer binnen 2 minuten; wachten maakt de rijst te droog."
     ],
-    "technique": {
-      "title": "ARROZ MALANDRINHO",
-      "text": "Voeg hete bouillon toe en serveer zodra de korrel gaar is terwijl er nog duidelijk vocht rond de rijst zit. Arroz carolino (Portugese Carolino-rijst) blijft na het vuur bouillon opnemen, dus iets te nat van het vuur is beter dan te droog."
-    },
     "attention": "De rijst is klaar wanneer de korrel gaar is én er nog zichtbaar bouillon tussen de korrels staat. Is de rijst droog vóór hij gaar is, voeg dan steeds 50–75 ml hete bouillon toe.",
     "variations": [],
     "nutrition": {
@@ -84,10 +80,6 @@ window.RECIPES = [
       "Verdeel het brood in een warme schaal en schep de knoflook-korianderpasta erover. Giet ongeveer drie kwart van de kokende bouillon in 2–3 keer over het brood, telkens omscheppend; wacht 30 seconden tussen toevoegingen. Stop wanneer het brood volledig zacht en sappig is maar nog duidelijke stukken vormt.",
       "Schep de zeevruchten er voorzichtig door, leg de eieren erop en werk af met de rest van de koriander, citroensap en eventueel piripíri. Voeg alleen extra bouillon toe als de açorda na één minuut te droog oogt."
     ],
-    "technique": {
-      "title": "EEN EI POCHEREN",
-      "text": "Houd het water net onder de kook en laat het ei er voorzichtig in glijden. Drie tot vier minuten geeft gestold eiwit en een zachte dooier; hard borrelend water trekt het ei uit elkaar."
-    },
     "attention": "Dit gebruikt de techniek van açorda (Portugees broodgerecht), niet die van een gladde broodsoep. Houd structuur in het brood en gebruik genoeg olijfolie en koriander.",
     "variations": [],
     "nutrition": {
@@ -136,10 +128,6 @@ window.RECIPES = [
       "Schud de gesloten pan halverwege één keer voorzichtig heen en weer. Is er na het garen veel dun vocht, kook dan 2–4 minuten zonder deksel op middelhoog vuur; de caldeirada hoort sappig maar niet waterig te zijn.",
       "Zet het vuur uit, proef het vocht en corrigeer pas nu zout en peper. Werk af met koriander of peterselie en een kleine scheut olijfolie; serveer meteen."
     ],
-    "technique": {
-      "title": "GAREN IN LAGEN",
-      "text": "Leg stevige ingrediënten onderin en kwetsbare vis bovenop. Roer niet met een lepel; schud de pan af en toe voorzichtig zodat de stukken heel blijven."
-    },
     "attention": "Een caldeirada (Portugese visstoof) moet voldoende vocht hebben om brood in te dopen, maar het is geen dunne vissoep. De aardappel bindt het kookvocht licht.",
     "variations": [],
     "nutrition": {
@@ -187,10 +175,6 @@ window.RECIPES = [
       "Doe de vis terug en voeg overige zeevruchten toe. Laat nog 2–4 minuten zacht pruttelen tot de pasta al dente is en alle vis/schaaldieren volledig gaar zijn; de massada moet op dit moment nog duidelijk bouillonachtig zijn.",
       "Zet het vuur uit, meng een royale hand koriander erdoor en proef op zout en peper. Serveer onmiddellijk; na 5 minuten neemt de pasta veel van het vocht op."
     ],
-    "technique": {
-      "title": "PASTA IN DE BOUILLON",
-      "text": "Kook de pasta rechtstreeks in het stoofvocht en giet niets af. Voeg tijdens het koken wat heet water toe als het te droog wordt; de gewenste textuur is stevig maar duidelijk sappig."
-    },
     "attention": "De pasta kookt in de saus en bouillon zelf. Afgieten vernietigt precies het karakter van het gerecht.",
     "variations": [],
     "nutrition": {
@@ -330,10 +314,6 @@ window.RECIPES = [
       "Proef de rijst na ongeveer 15 minuten totale rijsttijd. Zet het vuur uit zodra de korrel gaar is maar er nog royaal bouillon rond staat; voeg per keer 75–100 ml hete bouillon toe als de pan eerder droog dreigt te worden.",
       "Gooi bij hele schelpdieren gesloten exemplaren weg. Meng koriander en piripíri door de rijst, proef op zout en serveer onmiddellijk."
     ],
-    "technique": {
-      "title": "MALANDRINHO SERVEREN",
-      "text": "Zet de rijst van het vuur terwijl er nog ruim bouillon rond zit en serveer direct. Vijf minuten wachten kan al genoeg zijn om van sappige arroz de marisco (zeevruchtenrijst) een droge rijstschotel te maken."
-    },
     "attention": "Serveer onmiddellijk. arroz de marisco (zeevruchtenrijst) blijft niet netjes “wachten”: de rijst zuigt het vocht op en wordt droog.",
     "variations": [],
     "nutrition": {
@@ -379,10 +359,6 @@ window.RECIPES = [
       "Open de pan. Garnalen moeten opaak en stevig zijn en hele schelpen open; gooi gesloten schelpen weg. Laat bij te veel dun vocht 2–3 minuten zonder deksel op middelhoog vuur inkoken.",
       "Zet het vuur uit, meng koriander erdoor en proef het kookvocht op zout, peper en piripíri. Serveer direct uit de cataplana of pan."
     ],
-    "technique": {
-      "title": "GAREN IN EEN GESLOTEN CATAPLANA",
-      "text": "Sluit de pan zodra alle ingrediënten erin zitten en open zo weinig mogelijk. De opgesloten stoom gaart de inhoud; na het openen kun je het vocht eventueel nog kort laten inkoken."
-    },
     "attention": "Geen chouriço, bacon of room nodig. De smaak hoort uit azeite (olijfolie), wijn, tomaat, paprika, knoflook, koriander en het vocht van de zeevruchten te komen.",
     "variations": [],
     "nutrition": {
