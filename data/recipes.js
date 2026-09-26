@@ -1350,11 +1350,11 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Fruit ui en knoflook in olijfolie. Laat de ui eerst zacht en zoet worden en voeg de knoflook pas in de laatste minuut toe, zodat de basis geurig maar niet bitter wordt.",
-      "Voeg tomaat toe en laat goed zacht worden. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
-      "Voeg arroz carolino (Portugese Carolino-rijst) en heet water toe en kook tot de rijst gaar en sappig is. Houd tegen het einde wat heet water bij de hand en zet de pan van het vuur voordat alle vloeistof is opgenomen.",
-      "Bak ondertussen de eieren in olijfolie, met zachte of stevige dooier naar voorkeur. Gebruik middelhoog vuur zodat het wit snel stolt zonder dat de onderkant verbrandt; lepel eventueel wat hete olie over het wit rond de dooier.",
-      "Serveer de eieren bovenop de arroz de tomate (tomatenrijst) en werk af met kruiden. Schep de rijst op terwijl hij nog sappig is en laat de dooier aan tafel als extra saus in de tomatenrijst lopen."
+      "Verhit 2 el olijfolie op middellaag vuur. Fruit ui 5 minuten tot glazig; voeg knoflook toe en bak nog 30–60 seconden zonder te laten bruinen.",
+      "Voeg tomaat toe, zet middelhoog en laat 6–8 minuten stoven. De basis is klaar wanneer de tomaat volledig is ingestort, dikker oogt en niet meer rauw ruikt.",
+      "Roer de arroz carolino erdoor en voeg 450 ml heet water toe. Breng aan de kook, zet laag tot middellaag en laat 15–18 minuten rustig pruttelen; roer af en toe en voeg extra heet water toe als de rijst droogvalt.",
+      "Bak de eieren wanneer de rijst nog ongeveer 5 minuten nodig heeft. Verhit de resterende olijfolie op middelhoog vuur, breek de eieren erin en bak 2–4 minuten tot het wit volledig gestold is; lepel eventueel hete olie over het wit rond de dooier.",
+      "Zet de rijst van het vuur zodra de korrels gaar zijn maar er nog duidelijk tomatenvocht rond staat. Proef op zout en peper, schep direct op en leg de eieren erop; de rijst hoort bij het serveren nog sappig te zijn."
     ],
     "technique": {
       "title": "RIJST IETS TE NAT VAN HET VUUR",
@@ -1394,12 +1394,12 @@ window.RECIPES = [
       "peterselie"
     ],
     "steps": [
-      "Bestrooi de sardines royaal met grof zout en laat ze kort staan. Tien tot vijftien minuten is genoeg om het oppervlak te kruiden; langer zouten trekt onnodig veel vocht uit de vis.",
-      "Kook de aardappelen gaar. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
-      "Rooster of grill de paprika’s tot de schil zwart blakert. Laat afgedekt stomen, verwijder de schil en snijd in repen.",
-      "Meng paprika met dunne ui, olijfolie, azijn en peterselie. Laat de salade tien minuten staan en proef daarna opnieuw, omdat de geroosterde paprika en ui de dressing nog opnemen.",
-      "Grill de sardines kort en heet aan beide zijden. Gebruik hoge hitte en draai zo weinig mogelijk; de vis is goed wanneer hij makkelijk loslaat en het vlees nog sappig is.",
-      "Serveer met aardappelen en paprikasalade. Geef de aardappelen nog een scheut goede olijfolie en proef vooral de paprikasalade op de balans tussen zoet, zuur en zout."
+      "Bestrooi de sardines 10–15 minuten vóór het grillen met grof zout. Veeg vlak vóór het grillen los overtollig zout af; laat de vis niet veel langer gezouten staan.",
+      "Zet de aardappelen in koud gezouten water, breng aan de kook en laat 15–20 minuten zacht koken. Ze zijn klaar wanneer een mes zonder weerstand tot het midden gaat maar de aardappelen nog heel blijven.",
+      "Rooster de paprika's onder een zeer hete grill of rechtstreeks boven hoge hitte 8–12 minuten, regelmatig keren, tot de schil rondom zwart geblakerd is. Leg ze 10 minuten afgedekt in een kom, trek de schil eraf en snijd in repen.",
+      "Meng paprika, zeer dun gesneden ui, 2 el olijfolie, azijn en peterselie. Laat 10 minuten staan en proef daarna op zout en zuur.",
+      "Verhit barbecue, grillplaat of grillpan zeer heet. Grill de sardines ongeveer 2–3 minuten per kant en keer ze maar één keer; ze zijn klaar wanneer het vel goed gekleurd is en het vlees gemakkelijk van de graat loskomt.",
+      "Serveer onmiddellijk met aardappelen en paprikasalade. Lepel de resterende olijfolie over de warme aardappelen; houd de sardines niet warm onder folie, want dan wordt het vel slap."
     ],
     "technique": {
       "title": "SARDINES HEET EN KORT GRILLEN",
@@ -1439,18 +1439,21 @@ window.RECIPES = [
       "zout en zwarte peper"
     ],
     "steps": [
-      "Kook de eieren 9–10 minuten, koel ze af en snijd in parten. Door direct te koelen stopt het garen en blijft de dooier mooier van kleur.",
-      "Meng kikkererwten, tonijn, ui en peterselie. Schep met een grote lepel van onder naar boven zodat de kikkererwten heel blijven en de tonijn niet tot fijne draadjes uiteenvalt.",
-      "Klop olijfolie en azijn los met peper en eventueel een beetje zout. Houd de dressing eenvoudig en proef hem eerst apart: hij mag iets pittiger smaken dan je uiteindelijk in de salade wilt.",
-      "Schep de dressing door de salade en leg de eieren erop. Laat vijf tot tien minuten staan en proef opnieuw, omdat kikkererwten verrassend veel zuur en zout opnemen.",
-      "Laat eventueel 10 minuten staan zodat de smaken intrekken. Serveer daarna op kamertemperatuur; zo zijn tonijn, azeite (olijfolie) en ui duidelijker te proeven dan rechtstreeks uit de koelkast."
+      "Kook de eieren 9 minuten vanaf het moment dat het water zacht kookt. Koel ze 2 minuten in koud water, pel en snijd in parten.",
+      "Spoel kikkererwten uit pot of blik kort af en laat minstens 5 minuten goed uitlekken. Meng ze met ui en peterselie; voeg de tonijn pas daarna in grove vlokken toe.",
+      "Klop olijfolie, 1 el wijnazijn en peper tot een eenvoudige dressing. Schep door de salade en laat 5–10 minuten op kamertemperatuur staan.",
+      "Proef opnieuw: voeg alleen de resterende ½ el azijn en zout toe als dat echt nodig is. De kikkererwten moeten gekruid smaken maar de dressing mag niet onderin de kom blijven staan.",
+      "Leg de eieren erop en serveer op kamertemperatuur. Komt de salade uit de koelkast, haal hem ongeveer 15 minuten vóór het eten eruit."
     ],
     "technique": {
       "title": "EENVOUDIGE PORTUGESE VINAIGRETTE",
       "text": "Gebruik ongeveer twee delen olijfolie op één deel wijnazijn en proef pas daarna op zout. Tonijn uit blik is vaak al vrij zout."
     },
     "attention": "Laat de kikkererwten zeer goed uitlekken en serveer de salade liever op kamertemperatuur dan ijskoud. Zo blijft de dressing geconcentreerd en proef je tonijn, ui en azeite (olijfolie) beter.",
-    "variations": [],
+    "variations": [
+      "Voor een knapperige koolvariant: voeg 100 g couve roxa (rode kool), flinterdun gesneden, toe en kneed die vooraf 30 seconden met een snuf zout en 1 tl azijn.",
+      "Couve coração (spitskool) kan ook rauw zeer fijn worden gesneden; gebruik ongeveer 100 g."
+    ],
     "nutrition": {
       "kcal": 760,
       "protein": 48,
@@ -1485,10 +1488,11 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Kook de rijst gaar, giet af indien nodig en spreid hem uit om snel af te koelen. Een dunne laag laat stoom ontsnappen en voorkomt dat de korrels in hun eigen warmte verder zacht worden.",
-      "Meng koude rijst met tonijn, mais, tomaat en olijven. Schep voorzichtig zodat de rijstkorrels los blijven en de tomaat niet tot sap wordt gedrukt.",
-      "Voeg olijfolie, azijn of citroen, peper en peterselie toe. Meng terwijl de rijst volledig koud is en proef daarna op zuur; koude rijst heeft vaak iets meer dressing nodig dan je in eerste instantie denkt.",
-      "Leg de eieren erop en serveer koel of op kamertemperatuur. Proef vlak voor het serveren nogmaals op zuur en zout, want koude rijst dempt smaken sterker dan warme rijst."
+      "Spoel de rijst indien gewenst en kook hem volgens de verpakking tot de korrels gaar maar los zijn. Giet direct af als er water over is en spreid de rijst in een dunne laag op een grote schaal.",
+      "Laat de stoom 10–15 minuten ontsnappen en zet de rijst daarna koel zodra hij niet meer heet is. Meng de salade pas wanneer de rijst volledig koud en droog aanvoelt.",
+      "Meng koude rijst met tonijn, mais, tomaat en olijven. Schep met een brede lepel van onder naar boven zodat de rijst los blijft en de tomaat niet wordt geplet.",
+      "Klop olijfolie met azijn of citroen en zwarte peper. Meng door de salade en laat 5 minuten staan; proef daarna opnieuw op zuur en zout.",
+      "Leg hardgekookte eieren en peterselie erop. Serveer koel maar niet ijskoud; bewaar de salade tot gebruik in de koelkast."
     ],
     "technique": {
       "title": "RIJST VOOR KOUDE SALADE",
@@ -1530,11 +1534,11 @@ window.RECIPES = [
       "peper"
     ],
     "steps": [
-      "Kook de pasta al dente in ruim gezouten water. Giet af en spoel heel kort koud om het garen te stoppen; laat daarna zeer goed uitlekken voordat de salade wordt gemengd.",
-      "Laat zeer goed uitlekken. Schud de pasta daarna los op een brede schaal en laat hem volledig afkoelen, zodat achtergebleven water de dressing straks niet verdunt.",
-      "Meng met tonijn, mais, tomaat en olijven. Schep voorzichtig zodat de tonijn in grove stukken blijft en de tomaat niet wordt stukgedrukt tot extra vocht.",
-      "Voeg olijfolie of mayonaise, zuur en peper toe. Begin bescheiden met de dressing en schep goed om; voeg pas meer toe als de pasta droog smaakt, zodat de salade niet zwaar en plakkerig wordt.",
-      "Werk af met ei en peterselie. Proef de koude salade vlak voor het serveren opnieuw op zuur en peper, omdat smaken uit de koelkast altijd iets vlakker overkomen."
+      "Kook de pasta in ruim gezouten water tot net al dente, volgens de verpakking. Giet af en spoel slechts 10–15 seconden met koud water om het doorgaren te stoppen.",
+      "Laat de pasta minstens 5 minuten zeer goed uitlekken en spreid hem daarna uit op een brede schaal. Laat volledig afkoelen; er mag geen zichtbaar water meer onderin staan.",
+      "Meng de koude pasta met tonijn, mais, tomaat en olijven. Schep voorzichtig zodat de tonijn in grove vlokken en de tomaat in blokjes blijft.",
+      "Meng 2 el olijfolie óf mayonaise met 1 tl azijn of citroensap en peper. Schep door de salade en wacht 5 minuten; voeg alleen extra dressing toe als de pasta daarna nog droog smaakt.",
+      "Werk af met ei en peterselie en proef op zout en zuur. Zet koel tot gebruik en haal ongeveer 10 minuten vóór het eten uit de koelkast."
     ],
     "technique": {
       "title": "KOUDE PASTA",
@@ -1576,13 +1580,12 @@ window.RECIPES = [
       "zout indien nodig"
     ],
     "steps": [
-      "Verwarm de oven voor op 190 °C. Een volledig voorverwarmde oven laat het deeg meteen bakken en helpt voorkomen dat de bodem slap wordt voordat de vulling stolt.",
-      "Fruit de ui rustig in olijfolie en laat iets afkoelen. Laat hem volledig zacht en doorschijnend worden zonder veel kleur; zo verdwijnt de scherpe rauwe uiensmaak uit de zachte vulling.",
-      "Bekleed een taartvorm met deeg en prik de bodem enkele keren in. Druk het deeg goed in de hoeken zonder het uit te rekken; de gaatjes laten stoom ontsnappen en beperken opbollen.",
-      "Verdeel ui en tonijn over de bodem. Laat de tonijn in losse vlokken en verdeel de vulling tot vlak bij de rand, zodat elke punt genoeg vulling krijgt zonder dat er een compacte laag ontstaat.",
-      "Klop eieren met melk, peper, nootmuskaat en peterselie en giet erover. Klop alleen tot alles gemengd is en giet langzaam, zodat de tonijn en ui niet allemaal naar één kant van de vorm drijven.",
-      "Bak 30–35 minuten tot de vulling net gestold en de bovenkant goud is. Het midden mag nog heel licht trillen wanneer je de vorm beweegt; tijdens het rusten gaart de quiche nog door en wordt hij stevig genoeg om te snijden.",
-      "Laat 10 minuten rusten voor het aansnijden. In die tijd zet de vulling zich en kan de stoom ontsnappen, waardoor de punten veel netter snijden."
+      "Verwarm de oven volledig voor op 190 °C. Bekleed een taartvorm van ongeveer 24 cm met deeg, druk het zonder uitrekken in de hoeken en prik de bodem 8–10 keer met een vork.",
+      "Verhit olijfolie op middellaag vuur en fruit de ui 8–10 minuten tot volledig zacht en glazig. Laat 5 minuten afkoelen; een hete vulling laat het eimengsel te vroeg stollen.",
+      "Verdeel ui en zeer goed uitgelekte tonijn in een gelijkmatige laag over de bodem. Houd de vulling los en laat ongeveer 1 cm rand vrij.",
+      "Klop eieren, melk, peper, nootmuskaat en peterselie alleen tot homogeen. Giet langzaam over de vulling; de vloeistof moet net onder de bovenrand van het deeg blijven.",
+      "Bak 30–35 minuten op 190 °C. De quiche is klaar wanneer de rand stevig is en het midden bij zacht schudden nog slechts heel licht trilt, niet vloeibaar golft.",
+      "Laat 10 minuten op een rooster rusten vóór het aansnijden. De vulling zet dan verder zonder droog te worden."
     ],
     "technique": {
       "title": "WANNEER BLIND BAKKEN?",
@@ -1623,11 +1626,12 @@ window.RECIPES = [
       "peper en oregano of peterselie"
     ],
     "steps": [
-      "Kook de pasta 2 minuten korter dan op de verpakking staat. Hij gaart straks verder in de oven; volledig gare pasta wordt daar snel te zacht.",
-      "Fruit ui en knoflook in olijfolie en voeg tomaat toe; laat 8 minuten inkoken. Laat de ui eerst zacht worden en laat daarna de tomaat concentreren tot de saus dik genoeg is om aan de pasta te blijven hangen.",
-      "Meng tonijn door de saus en daarna de pasta. Schep alleen tot alles gelijkmatig bedekt is en laat de tonijn in grove stukjes, zodat de ovenschotel niet papperig wordt.",
-      "Doe alles in een ovenschaal en verdeel béchamel of room en kaas erover. Verdeel de saus in een dunne, gelijkmatige laag en gebruik kaas als accent, niet als dikke deken; de pasta moet nog duidelijk naar tonijn en tomaat smaken.",
-      "Bak 15–20 minuten op 200 °C tot de bovenkant kleurt. Gebruik de tijd als richtlijn en controleer vooral kleur en gaarheid, want ovens en de dikte van de schaal verschillen merkbaar."
+      "Verwarm de oven voor op 200 °C. Kook de pasta in ruim gezouten water 2 minuten korter dan de al-dente-tijd op de verpakking, giet af en bewaar 100 ml kookwater.",
+      "Verhit olijfolie op middellaag vuur. Fruit ui 5–6 minuten tot glazig, voeg knoflook 30 seconden toe en daarna tomaat; laat 8 minuten op middelhoog vuur inkoken tot de saus dik genoeg is om aan een lepel te blijven hangen.",
+      "Zet het vuur laag, voeg tonijn toe en warm 1 minuut mee. Meng pasta erdoor en voeg 50–100 ml kookwater toe tot alles sappig maar niet waterig is.",
+      "Doe in een ovenschaal en verdeel béchamel of natas in een dunne laag bovenop. Strooi 50–75 g kaas gelijkmatig erover.",
+      "Bak 15–20 minuten op 200 °C tot de rand borrelt en de kaas goudbruine plekken heeft. Zet eventueel de grill alleen de laatste 1–2 minuten aan als de schotel heet is maar nog weinig kleur heeft.",
+      "Laat 5 minuten rusten vóór het opscheppen. De pasta hoort nog duidelijke beet en voldoende saus tussen de stukken te hebben."
     ],
     "technique": {
       "title": "PASTA VOOR DE OVEN",
@@ -1667,10 +1671,11 @@ window.RECIPES = [
       "oregano, optioneel"
     ],
     "steps": [
-      "Meng tonijn met ui, peper en een klein beetje mayonaise of olijfolie. Houd de vulling vrij droog en laat de tonijn in grove vlokken, zodat het brood tijdens het roosteren krokant kan worden.",
-      "Verdeel over twee sneetjes brood; voeg tomaat en eventueel kaas toe. Leg de tomaat in een dunne laag en houd een kleine rand vrij, zodat vocht en gesmolten kaas niet uit de tosta lopen.",
-      "Dek af met de overige sneetjes. Druk alleen licht aan zodat de vulling zich verspreidt maar niet uit het brood wordt geperst; houd vooral vochtige tomaat weg van de randen.",
-      "Rooster in een contactgrill of koekenpan tot het brood krokant en de vulling warm is. Gebruik middelhoog vuur zodat het brood tijd heeft om goud en krokant te worden voordat de buitenkant verbrandt."
+      "Laat de tonijn minstens 5 minuten uitlekken en dep de plakjes tomaat droog. Meng tonijn met ui, peper en 1 el mayonaise of olijfolie; de vulling moet smeuïg maar beslist niet nat zijn.",
+      "Verdeel de vulling over twee sneetjes brood en houd ongeveer 1 cm rand vrij. Leg tomaat en eventueel queijo Flamengo erop en dek af met de overige sneetjes.",
+      "Voor een contactgrill: verwarm volledig voor en rooster 4–6 minuten tot het brood diep goud en krokant is en de kaas gesmolten. Druk niet hard op de grill, anders wordt de vulling eruit geperst.",
+      "Voor een koekenpan: bak op middellaag vuur ongeveer 3–4 minuten per kant, eventueel met een tweede pan als licht gewicht erbovenop. Zet het vuur lager als het brood kleurt voordat de vulling warm is.",
+      "Laat de tosta 1 minuut rusten en snijd dan doormidden. De buitenkant hoort krokant te zijn en de vulling heet, zonder natte broodlaag rond de tomaat."
     ],
     "technique": {
       "title": "KROKANTE TOSTA",
@@ -1709,11 +1714,11 @@ window.RECIPES = [
       "100 g pão de mistura (gemengd landbrood), papo-seco (Portugees wit broodje) of ander eenvoudig Portugees brood erbij"
     ],
     "steps": [
-      "Bak de champignons op vrij hoog vuur in 1 el olijfolie tot hun vrijgekomen vocht grotendeels verdampt en ze licht kleuren. Bak liever in een brede pan, zodat ze echt bakken in plaats van in hun eigen vocht te stoven.",
-      "Voeg knoflook en spinazie toe en laat kort slinken. Houd de groente liever net aan de stevige kant; hij gaart nog kort door in de hete pan en behoudt zo meer structuur.",
-      "Klop de eieren los met peper en een kleine snuf zout. Klop alleen tot wit en dooier gemengd zijn; een luchtig schuim is niet nodig voor zachte roereieren.",
-      "Zet het vuur laag, voeg de eieren toe en roer rustig tot ze nog net glanzen. Haal de pan dan meteen van het vuur, want de hete champignons en pan garen het ei nog verder.",
-      "Serveer onmiddellijk met brood. De roereieren zijn op hun best terwijl ze nog zacht zijn; na enkele minuten worden ze merkbaar steviger en droger."
+      "Verhit 1 el olijfolie in een brede koekenpan op middelhoog tot hoog vuur. Bak de champignons 5–7 minuten in één laag, af en toe omscheppen, tot vrijgekomen vocht is verdampt en de randen beginnen te kleuren.",
+      "Zet het vuur middelhoog, voeg knoflook toe en bak 30 seconden. Voeg spinazie toe en schep 1–2 minuten om tot net geslonken; als er zichtbaar vocht in de pan staat, laat dat eerst verdampen.",
+      "Klop de eieren 20 seconden los met peper en een kleine snuf zout. Zet het vuur laag en voeg de resterende eetlepel olijfolie en de eieren toe.",
+      "Roer 1½–3 minuten langzaam met een spatel, steeds van rand naar midden. Haal de pan van het vuur wanneer de eieren zachte, vochtige vlokken vormen en nog licht glanzen.",
+      "Laat 30 seconden rusten en serveer direct met brood. De eieren horen zacht te zijn; als er droog, korrelig ei ontstaat, is de pan te heet of is te lang doorgegaard."
     ],
     "technique": {
       "title": "ZACHT ROEREI",
@@ -1753,10 +1758,11 @@ window.RECIPES = [
       "1–2 tl sojasaus, optioneel"
     ],
     "steps": [
-      "Bak ui en wortel 3–4 minuten in olijfolie. Houd de wortel nog licht stevig; de groenten krijgen later op hoog vuur nog extra hitte.",
-      "Voeg erwten en koude rijst toe en bak op hoog vuur terwijl je de rijst losmaakt. Gebruik bij voorkeur rijst van de vorige dag: drogere, koude korrels bakken losser en krijgen makkelijker geroosterde randjes.",
-      "Schuif alles naar één kant en roer de eieren aan de lege kant van de pan net gaar. Laat het ei eerst enkele seconden stollen voordat je roert, zodat je zachte stukjes ei krijgt in plaats van een dun laagje rond elke rijstkorrel.",
-      "Meng door de rijst en breng op smaak. Bak nog één minuut op hoog vuur en schep voortdurend om; de rijst moet heet en los zijn, niet zacht worden door extra vocht."
+      "Verhit 1 el olijfolie in een grote koekenpan of wok op middelhoog vuur. Bak ui en wortel 3–4 minuten; de ui moet glazig zijn en de wortel nog lichte beet hebben.",
+      "Voeg erwten en koude rijst toe, zet het vuur hoog en maak klonten direct los met een spatel. Bak 3–4 minuten en schep regelmatig om tot de rijst door en door heet en droger aan de buitenkant is.",
+      "Schuif de rijst naar één kant en voeg de resterende olie aan de lege kant toe. Giet de losgeklopte eieren erin, laat 15–20 seconden stollen en roer dan 45–60 seconden tot zachte stukjes ei ontstaan.",
+      "Meng ei en rijst, voeg eventueel sojasaus toe en bak nog 1 minuut op hoog vuur terwijl je voortdurend omschept. Stop wanneer de rijst los, heet en licht geroosterd is; voeg geen water toe.",
+      "Proef op peper en zout en serveer meteen. Gebruik rijst die gekoeld bewaard is en verhit hem slechts één keer opnieuw."
     ],
     "technique": {
       "title": "WAAROM KOUDE RIJST?",
@@ -1795,10 +1801,11 @@ window.RECIPES = [
       "citroen, optioneel"
     ],
     "steps": [
-      "Meng kikkererwten met zeer fijn gesneden ui en peterselie. Schep rustig zodat de kikkererwten heel blijven; juist hun stevige structuur maakt de salade aantrekkelijk.",
-      "Voeg de cavala (makreel) in grove stukken toe. Leg de vis er pas op het einde doorheen en schep hooguit een paar keer om, zodat de zachte makreel niet tot vlokkenpap uiteenvalt.",
-      "Breng op smaak met olijfolie, azijn en peper. Meng voorzichtig, proef na een paar minuten en voeg dan pas extra zuur of zout toe; kikkererwten nemen de dressing geleidelijk op.",
-      "Proef voor je zout toevoegt. Cavala (makreel) uit blik kan al behoorlijk zout zijn; corrigeer liever eerst met een beetje extra azijn, citroen of peper."
+      "Spoel kikkererwten uit blik of pot kort en laat minstens 5 minuten goed uitlekken. Snijd de ui zeer fijn en meng hem met kikkererwten en peterselie.",
+      "Klop 2 el olijfolie met 1 el wijnazijn en zwarte peper. Meng door de kikkererwten en laat 5 minuten staan; voeg de derde lepel olie alleen toe als de salade nog droog is.",
+      "Laat de cavala goed uitlekken en verdeel in grote stukken. Leg de vis op de salade en schep hooguit twee of drie keer voorzichtig om.",
+      "Proef op zuur en pas daarna op zout. Voeg eventueel een paar druppels citroen toe; blikmakreel kan al behoorlijk zout zijn.",
+      "Serveer op kamertemperatuur. Als je de olie uit een kwalitatief blik wilt gebruiken, vervang daarmee een deel van de extra olijfolie."
     ],
     "technique": {
       "title": "BLIKVIS HEEL HOUDEN",
@@ -1828,7 +1835,8 @@ window.RECIPES = [
     "image": "images/36-douradinhos-com-arroz-de-tomate.jpg",
     "imageAlt": "Douradinhos com arroz de tomate",
     "ingredients": [
-      "10 douradinhos (vissticks), ca. 280 g totaal",
+      "SNEL — 10 douradinhos (vissticks), ca. 280 g totaal",
+      "FANCY — vervang door 350–400 g filetes de pescada (heek) + 40 g farinha de trigo T55 (tarwebloem) + 1 ei + 70 g pão ralado (paneermeel) + olie om te bakken",
       "160 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
@@ -1840,11 +1848,12 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Bereid de douradinhos (vissticks) volgens de verpakking, liefst in oven of airfryer. Laat ze goud en krokant worden en houd ze daarna onafgedekt; onder een deksel wordt de paneerlaag snel zacht.",
-      "Fruit ondertussen ui en knoflook in olijfolie. Laat de ui zacht worden zonder veel kleur en voeg de knoflook pas in de laatste minuut toe, zodat hij geurig blijft.",
-      "Voeg tomaat en laurier toe en laat 5–7 minuten stoven. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
-      "Voeg de arroz carolino (Portugese Carolino-rijst) en het hete water toe en kook tot de rijst gaar en nog sappig is. Zet hem iets natter van het vuur dan je uiteindelijk wilt, want de rijst blijft tijdens het opscheppen vocht opnemen.",
-      "Werk af met kruiden en serveer direct met de krokante vis. Proef de rijst op zout en peper vóór de douradinhos (vissticks) erbij komen, zodat je hun zoute paneerlaag niet per ongeluk dubbel compenseert."
+      "Maak eerst de viskeuze. Voor douradinhos: bak volgens de verpakking, bij veel ovenvarianten ongeveer 20 minuten rond 180–200 °C, tot goud en krokant. Voor de fancy versie: dep pescada droog, haal door bloem, ei en paneermeel en bak 2–3 minuten per kant in olie van 175–180 °C.",
+      "Begin de rijst ongeveer 20 minuten voordat de vis klaar is. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
+      "Voeg tomate pelado en laurier toe en zet middelhoog. Laat 5–7 minuten stoven tot de tomaat volledig is ingestort en niet meer rauw ruikt.",
+      "Voeg arroz carolino en 450 ml heet water toe. Breng aan de kook, zet laag en laat 15–18 minuten rustig pruttelen; roer af en toe en voeg extra heet water toe als de rijst droogvalt.",
+      "Zet het vuur uit zodra de rijst gaar maar nog duidelijk sappig is. Meng kruiden erdoor en proef op zout en peper.",
+      "Serveer de krokante vis direct naast de rijst. Dek gebakken vis niet af en leg hem niet bovenop de rijst, anders wordt de korst snel zacht."
     ],
     "technique": {
       "title": "ARROZ DE TOMATE",
@@ -1873,7 +1882,8 @@ window.RECIPES = [
     "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
     "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "ingredients": [
-      "8 rissóis de camarão (Portugese deeghapjes met garnalenvulling) of rissóis de bacalhau (Portugese deeghapjes met gezouten kabeljauwvulling), ca. 360 g totaal",
+      "SNEL — 8 diepvries-rissóis de camarão (Portugese deeghapjes met garnalenvulling) of rissóis de bacalhau, ca. 360 g totaal",
+      "FANCY — gebruik 8 verse, ambachtelijke rissóis van pastelaria/charcutaria; kies exemplaren met duidelijke garnalen- of bacalhauvulling in plaats van een zeer dikke deeglaag",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
@@ -1884,11 +1894,12 @@ window.RECIPES = [
       "koriander of peterselie"
     ],
     "steps": [
-      "Bereid de rissóis (gevulde Portugese deeghapjes) volgens de verpakking: frituur, oven of airfryer. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
-      "Fruit ui en knoflook in olijfolie. Laat de ui rustig zacht worden en voeg de knoflook pas op het einde toe, zodat de basis zoet en geurig blijft zonder verbrande tonen.",
-      "Voeg tomaat en laurier toe en laat goed zacht worden. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
-      "Voeg rijst en heet water toe en kook rustig gaar. Roer af en toe langs de bodem en voeg alleen extra heet water toe als de rijst nog hard is terwijl het vocht vrijwel verdwenen is.",
-      "Houd de arroz de tomate (tomatenrijst) sappig en serveer de rissóis (gevulde Portugese deeghapjes) pas op het laatste moment zodat ze krokant blijven. Leg ze liever naast dan bovenop de rijst, anders maakt de stoom de korst snel zacht."
+      "Bereid de rissóis volgens hun type. Diepvries: volg de verpakking; bij frituren houd je de olie op 175–180 °C en bak je in kleine porties tot diep goud en door en door heet. Verse rissóis hebben meestal korter nodig: stop zodra de korst krokant en de vulling heet is.",
+      "Begin de rijst ongeveer 20 minuten vóór de rissóis klaar moeten zijn. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
+      "Voeg tomate pelado en laurier toe en laat 5–7 minuten op middelhoog vuur stoven tot de tomaat dikker en zoeter ruikt.",
+      "Voeg arroz carolino en 500 ml heet water toe. Breng aan de kook, zet laag tot middellaag en laat 15–18 minuten zacht pruttelen; roer af en toe en voeg alleen extra heet water toe als de rijst vóór het gaar zijn droogvalt.",
+      "Zet het vuur uit zodra de rijst gaar maar nog lepelbaar en sappig is. Proef op zout en werk af met koriander of peterselie.",
+      "Laat gefrituurde rissóis 1 minuut uitlekken en serveer ze naast de rijst. Leg ze nooit op de rijst en dek ze niet af, zodat de korst krokant blijft."
     ],
     "technique": {
       "title": "FRITUREN ZONDER VETTIG RESULTAAT",
