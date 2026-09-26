@@ -943,11 +943,11 @@ button { font: inherit; }
 }
 .ingredients-list .ingredient-route {
   display: grid;
-  grid-template-columns: 14mm minmax(0, 1fr);
-  gap: 2mm;
+  grid-template-columns: 13mm minmax(0, 1fr);
+  gap: 1.6mm;
   align-items: start;
-  margin: 0 0 1.8mm;
-  padding: 2mm 2.2mm;
+  margin: 0 0 1.25mm;
+  padding: 1.5mm 1.8mm;
   border-radius: 1.6mm;
   list-style: none;
   background: #f2eee5;
