@@ -627,10 +627,10 @@ window.RECIPES = [
       "Couve coração (spitskool) kan als mildere winkelvariant; kook die slechts 3–5 minuten."
     ],
     "nutrition": {
-      "kcal": 610,
-      "protein": 47,
-      "carbs": 55,
-      "fat": 21
+      "kcal": 640,
+      "protein": 46,
+      "carbs": 52,
+      "fat": 27
     }
   },
   {
@@ -1319,10 +1319,10 @@ window.RECIPES = [
       "Met droge bonen: week 200 g feijão encarnado een nacht en kook ze volledig gaar vóór stap 1."
     ],
     "nutrition": {
-      "kcal": 220,
-      "protein": 9,
-      "carbs": 26,
-      "fat": 9
+      "kcal": 240,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10
     }
   },
   {
