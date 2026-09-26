@@ -168,7 +168,7 @@ window.RECIPES = [
       "Voeg tomate pelado toe en laat 5 minuten op middelhoog vuur stoven tot de saus zichtbaar dikker is. Voeg wijn toe en laat 1–2 minuten stevig pruttelen tot de alcoholgeur vrijwel weg is.",
       "Voeg 650 ml water of visbouillon toe en breng op hoog vuur aan de kook. Zet daarna middellaag zodat het vocht rustig pruttelt.",
       "Gaar grote, kwetsbare visstukken eerst 3–4 minuten in de bouillon tot de buitenkant opaak is maar het midden nog net niet volledig gaar. Schep ze voorzichtig uit de pan; kleine schaal- en schelpdieren blijven nog apart.",
-      "Voeg de pasta toe. Houd het vocht aan een rustige kook en kook volgens de verpakking minus ongeveer 2 minuten, meestal 7–9 minuten; roer elke 2 minuten over de bodem en voeg heet water toe als de pasta niet meer ruim in vocht ligt.",
+      "Voeg de pasta toe en houd het vocht aan een rustige kook op middelhoog vuur. Kook 7–9 minuten vóór de vis teruggaat, roer elke 2 minuten over de bodem en proef vanaf minuut 7; de pasta moet dan nog ongeveer 2 minuten van al dente verwijderd zijn. Voeg heet water toe als de pasta niet meer ruim in vocht ligt.",
       "Doe de vis terug en voeg overige zeevruchten toe. Laat nog 2–4 minuten zacht pruttelen tot de pasta al dente is en alle vis/schaaldieren volledig gaar zijn; de massada moet op dit moment nog duidelijk bouillonachtig zijn.",
       "Zet het vuur uit, meng een royale hand koriander erdoor en proef op zout en peper. Serveer onmiddellijk; na 5 minuten neemt de pasta veel van het vocht op."
     ],
@@ -211,7 +211,7 @@ window.RECIPES = [
       "Zet het vuur middelhoog. Voor schelpdiervlees: voeg het met 2–3 el water toe en gaar 2–4 minuten tot het volledig heet en opaak is. Voor hele amêijoas: voeg ze toe, dek af en kook 5–7 minuten; schud de pan halverwege en stop zodra de schelpen open zijn.",
       "Haal de pan onmiddellijk van het vuur. Gooi bij de fancy versie schelpen weg die na het garen gesloten blijven; meng koriander en sap van een halve citroen door het hete kookvocht.",
       "Proef het vocht voordat je zout toevoegt. Voeg zo nodig extra citroen en piripíri toe; de saus hoort krachtig naar knoflook, koriander en zee te smaken, niet zout of zuur te overheersen.",
-      "Serveer binnen enkele minuten met brood en lepel het kookvocht erover. Laat het gerecht niet warmhouden: extra hitte maakt het schelpdiervlees snel taai."
+      "Serveer uiterlijk binnen 2–3 minuten met brood en lepel het kookvocht erover. Laat het gerecht niet warmhouden: extra hitte maakt het schelpdiervlees snel taai."
     ],
     "technique": {
       "title": "SCHELPDIEREN KORT GAREN",
@@ -286,7 +286,7 @@ window.RECIPES = [
     "image": "images/4a-arroz-de-marisco-malandrinho.jpg",
     "imageAlt": "Arroz de marisco malandrinho",
     "ingredients": [
-      "SNEL — 1 verpakking Mariscada (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
+      "SNEL — 1 verpakking Mariscada Auchan sem glúten (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
       "FANCY — vervang door 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); gebruik de garnalenschalen voor de bouillon",
       "200 g arroz carolino (Portugese Carolino-rijst)",
       "1 ui, fijngehakt",
@@ -332,7 +332,7 @@ window.RECIPES = [
     "image": "images/4b-cataplana-de-marisco-a-algarvia-zonder-vlees.jpg",
     "imageAlt": "Cataplana de marisco à algarvia, zonder vlees",
     "ingredients": [
-      "SNEL — 1 verpakking Mariscada (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
+      "SNEL — 1 verpakking Mariscada Auchan sem glúten (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
       "FANCY — vervang door 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); gebruik de garnalenschalen voor de bouillon",
       "1 grote ui, in dunne halve ringen",
       "3 tenen knoflook, in plakjes",
@@ -1466,7 +1466,7 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Spoel de rijst indien gewenst en kook hem volgens de verpakking tot de korrels gaar maar los zijn. Giet direct af als er water over is en spreid de rijst in een dunne laag op een grote schaal.",
+      "Breng ruim water met zout aan de kook en voeg de arroz agulha toe. Kook ongeveer 10–12 minuten en proef vanaf minuut 9; de korrel moet volledig gaar maar nog los en stevig zijn. Giet direct af en spreid de rijst in een dunne laag op een grote schaal.",
       "Laat de stoom 10–15 minuten ontsnappen en zet de rijst daarna koel zodra hij niet meer heet is. Meng de salade pas wanneer de rijst volledig koud en droog aanvoelt.",
       "Meng koude rijst met tonijn, mais, tomaat en olijven. Schep met een brede lepel van onder naar boven zodat de rijst los blijft en de tomaat niet wordt geplet.",
       "Klop olijfolie met azijn of citroen en zwarte peper. Meng door de salade en laat 5 minuten staan; proef daarna opnieuw op zuur en zout.",
@@ -1512,7 +1512,7 @@ window.RECIPES = [
       "peper"
     ],
     "steps": [
-      "Kook de pasta in ruim gezouten water tot net al dente, volgens de verpakking. Giet af en spoel slechts 10–15 seconden met koud water om het doorgaren te stoppen.",
+      "Breng ruim gezouten water aan de kook en voeg de korte pasta toe. Kook ongeveer 8–10 minuten en proef vanaf minuut 8; stop zodra hij net al dente is. Giet af en spoel slechts 10–15 seconden met koud water om het doorgaren te stoppen.",
       "Laat de pasta minstens 5 minuten zeer goed uitlekken en spreid hem daarna uit op een brede schaal. Laat volledig afkoelen; er mag geen zichtbaar water meer onderin staan.",
       "Meng de koude pasta met tonijn, mais, tomaat en olijven. Schep voorzichtig zodat de tonijn in grove vlokken en de tomaat in blokjes blijft.",
       "Meng 2 el olijfolie óf mayonaise met 1 tl azijn of citroensap en peper. Schep door de salade en wacht 5 minuten; voeg alleen extra dressing toe als de pasta daarna nog droog smaakt.",
