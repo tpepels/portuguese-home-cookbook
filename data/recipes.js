@@ -34,7 +34,7 @@ window.RECIPES = [
       "Verhit de olijfolie in een brede pan op middellaag vuur. Fruit ui 5 minuten tot hij glazig en zacht is; voeg knoflook, paprika en laurier toe en bak nog 2–3 minuten zonder bruine knoflook.",
       "Voeg tomaat toe en zet het vuur op middelhoog. Laat 5–7 minuten inkoken tot het mengsel dikker is, donkerder rood wordt en niet meer rauw ruikt; voeg wijn toe en laat 1–2 minuten stevig pruttelen tot de scherpe alcoholgeur weg is.",
       "Roer de arroz carolino (Portugese Carolino-rijst) erdoor, voeg 550 ml hete bouillon toe en breng op hoog vuur net aan de kook. Zet direct laag tot middellaag en laat 12 minuten rustig pruttelen; roer twee of drie keer en voeg alleen hete bouillon toe als de rijst dreigt droog te vallen.",
-      "Proef na 12 minuten. De korrel moet bijna gaar zijn maar nog een klein stevig hart hebben; voeg nu de snelle, voorgegaarde 'lagosta' 2–3 minuten toe, of de rauwe garnalen/langoustines 3–4 minuten, tot schaaldieren opaak en net stevig zijn.",
+      "Proef na 12 minuten en houd het vuur laag tot middellaag. De korrel moet bijna gaar zijn maar nog een klein stevig hart hebben; voeg nu de snelle, voorgegaarde 'lagosta' 2–3 minuten toe, of de rauwe garnalen/langoustines 3–4 minuten, tot de schaaldieren opaak en net stevig zijn.",
       "Zet het vuur uit wanneer de rijst gaar is maar er nog duidelijk lepelbare bouillon rond de korrels staat. Meng koriander en piripíri erdoor, proef op zout en serveer binnen 2 minuten; wachten maakt de rijst te droog."
     ],
     "variations": [],
@@ -75,7 +75,7 @@ window.RECIPES = [
       "Maak voor de fancy versie eventueel eerst een snelle bouillon: kook garnalen- en langoustineschalen 10 minuten zacht in 650 ml water en zeef. Voor de snelle Pescanova-versie laat je het product volgens het huidige etiket ongeveer 2 uur ontdooien; het is al gaar en hoeft later alleen te worden verwarmd.",
       "Stamp knoflook, een flinke snuf zout en ongeveer twee derde van de koriander tot een grove, vochtige pasta. Meng met de olijfolie; er mogen nog kleine stukjes kruid en knoflook zichtbaar zijn.",
       "Breng de bouillon op hoog vuur aan de kook en zet hem daarna laag zodat hij slechts heel zacht beweegt. Pocheer de eieren 3½–4 minuten; het wit moet volledig gestold zijn en de dooier nog zacht. Schep ze uit de pan.",
-      "Gaar nu de zeevruchten in dezelfde bouillon. Verwarm de voorgegaarde snelle versie 2–3 minuten; gaar rauwe garnalen/langoustines 3–4 minuten tot ze opaak zijn. Schep ze uit de bouillon.",
+      "Houd de bouillon op laag vuur net onder de kook en gaar nu de zeevruchten. Verwarm de voorgegaarde snelle versie 2–3 minuten; gaar rauwe garnalen/langoustines 3–4 minuten tot ze opaak en net stevig zijn. Schep ze daarna uit de bouillon.",
       "Verdeel het brood in een warme schaal en schep de knoflook-korianderpasta erover. Giet ongeveer drie kwart van de kokende bouillon in 2–3 keer over het brood, telkens omscheppend; wacht 30 seconden tussen toevoegingen. Stop wanneer het brood volledig zacht en sappig is maar nog duidelijke stukken vormt.",
       "Schep de zeevruchten er voorzichtig door, leg de eieren erop en werk af met de rest van de koriander, citroensap en eventueel piripíri. Voeg alleen extra bouillon toe als de açorda na één minuut te droog oogt."
     ],
@@ -166,10 +166,10 @@ window.RECIPES = [
     "steps": [
       "Verhit olijfolie op middellaag vuur. Fruit ui 5 minuten tot glazig; voeg knoflook, paprika, laurier en eventueel malagueta toe en bak nog 2 minuten zonder te kleuren.",
       "Voeg tomate pelado toe en laat 5 minuten op middelhoog vuur stoven tot de saus zichtbaar dikker is. Voeg wijn toe en laat 1–2 minuten stevig pruttelen tot de alcoholgeur vrijwel weg is.",
-      "Voeg 650 ml water of visbouillon toe en breng op hoog vuur aan de kook. Zet daarna middellaag zodat het vocht rustig pruttelt.",
-      "Gaar grote, kwetsbare visstukken eerst 3–4 minuten in de bouillon tot de buitenkant opaak is maar het midden nog net niet volledig gaar. Schep ze voorzichtig uit de pan; kleine schaal- en schelpdieren blijven nog apart.",
+      "Voeg 650 ml water of visbouillon toe en breng op hoog vuur in ongeveer 3–5 minuten aan de kook. Zet daarna middellaag zodat het vocht rustig pruttelt, met kleine maar constante belletjes.",
+      "Houd het vuur middellaag en gaar de grotere, kwetsbare visstukken 3–4 minuten in de bouillon, tot de buitenkant opaak is maar het midden nog net niet volledig gaar. Schep ze voorzichtig uit de pan; kleine schaal- en schelpdieren blijven nog apart.",
       "Voeg de pasta toe en houd het vocht aan een rustige kook op middelhoog vuur. Kook 7–9 minuten vóór de vis teruggaat, roer elke 2 minuten over de bodem en proef vanaf minuut 7; de pasta moet dan nog ongeveer 2 minuten van al dente verwijderd zijn. Voeg heet water toe als de pasta niet meer ruim in vocht ligt.",
-      "Doe de vis terug en voeg overige zeevruchten toe. Laat nog 2–4 minuten zacht pruttelen tot de pasta al dente is en alle vis/schaaldieren volledig gaar zijn; de massada moet op dit moment nog duidelijk bouillonachtig zijn.",
+      "Doe de vis terug en voeg overige zeevruchten toe. Laat op middellaag vuur nog 2–4 minuten zacht pruttelen tot de pasta al dente is en alle vis en schaaldieren volledig gaar zijn; de massada moet op dit moment nog duidelijk bouillonachtig zijn.",
       "Zet het vuur uit, meng een royale hand koriander erdoor en proef op zout en peper. Serveer onmiddellijk; na 5 minuten neemt de pasta veel van het vocht op."
     ],
     "variations": [],
@@ -638,9 +638,9 @@ window.RECIPES = [
     "steps": [
       "Verwarm de oven volledig voor op 200 °C, boven- en onderwarmte. Snijd aardappelen 4–5 mm dik; dikkere plakken hebben aanzienlijk langer nodig.",
       "Meng aardappel, ui, knoflook, tomaat, laurier, wijn en ongeveer drie kwart van de olijfolie in een brede ovenschaal. Kruid met peper, pimentão-doce en weinig zout.",
-      "Bak de aardappelen 15 minuten. Schep ze één keer om; de randen moeten zacht beginnen te worden maar het midden mag nog stevig zijn.",
+      "Bak de aardappelen 15 minuten op 200 °C. Schep ze één keer om; de randen moeten zacht beginnen te worden maar het midden mag nog stevig zijn.",
       "Dep de dourada droog, maak 2–3 ondiepe sneden in het dikste deel en zout binnen- en buitenkant. Leg de vis op de aardappelen en lepel de resterende olie en wat braadvocht erover.",
-      "Bak nog 20–25 minuten op 200 °C. Controleer vanaf 18 minuten bij de dikste rug: het vlees moet opaak zijn, gemakkelijk van de graat loskomen en nog glanzen; bij een kernthermometer is circa 60–63 °C een goed eindpunt.",
+      "Bak de vis en aardappelen nog 20–25 minuten op 200 °C. Controleer vanaf 18 minuten bij de dikste rug: het vlees moet opaak zijn, gemakkelijk van de graat loskomen en nog glanzen; bij een kernthermometer is circa 60–63 °C een goed eindpunt.",
       "Lepel halverwege één keer snel braadvocht over de vis. Zijn de aardappelen nog hard terwijl de vis gaar is, haal de vis uit de schaal en geef de aardappelen nog 5–10 minuten.",
       "Laat de vis 3 minuten rusten, werk af met peterselie of koriander en proef het braadvocht op zout voordat je serveert. Serveer zodra de aardappelen volledig gaar zijn en de vis nog sappig vanbinnen is."
     ],
@@ -689,7 +689,7 @@ window.RECIPES = [
       "Verhit olijfolie op middellaag vuur. Fruit ui 5–6 minuten tot glazig, voeg knoflook 30 seconden toe en daarna tomaat en laurier; laat 5 minuten inkoken tot de tomaat geconcentreerd ruikt.",
       "Voeg wijn toe, zet middelhoog en laat 1–2 minuten pruttelen. Roer de rijst erdoor en voeg 650 ml heet octopuskookvocht toe.",
       "Breng aan de kook en zet daarna laag tot middellaag. Laat 9–10 minuten rustig pruttelen, roer af en toe en voeg heet kookvocht toe als het niveau onder de rijst zakt.",
-      "Voeg de octopus toe en laat nog 6–8 minuten zacht garen. Proef de rijst: de korrel moet gaar zijn maar intact; er moet nog duidelijk roodbruin kookvocht rond de rijst staan.",
+      "Voeg de octopus toe en laat op laag tot middellaag vuur nog 6–8 minuten zacht garen. Proef de rijst: de korrel moet gaar zijn maar intact; er moet nog duidelijk roodbruin kookvocht rond de rijst staan.",
       "Zet het vuur uit, meng koriander en eventueel piripíri erdoor en proef op zout en peper. Serveer binnen 2–3 minuten."
     ],
     "technique": {
@@ -776,7 +776,7 @@ window.RECIPES = [
       "Stamp knoflook, ongeveer twee derde van de koriander, eventueel poejo en ½ tl grof zout tot een grove pasta. Roer de olijfolie erdoor; het mengsel moet geurig en vochtig zijn, niet volledig glad.",
       "Verdeel de kruidenpasta over twee diepe kommen en leg het brood los erop. Druk het brood niet samen, zodat het hete vocht straks overal kan komen.",
       "Breng 700 ml water op hoog vuur aan de kook. Zet daarna laag tot middellaag: het water moet net onder de kook blijven, met alleen kleine belletjes.",
-      "Breek elk ei eerst in een kopje en laat het voorzichtig in het water glijden. Pocheer 3–5 minuten: na circa 3½–4 minuten is het wit stevig en de dooier nog zacht.",
+      "Houd het water op laag tot middellaag vuur net onder de kook. Breek elk ei eerst in een kopje en laat het voorzichtig in het water glijden. Pocheer 3–5 minuten; na circa 3½–4 minuten is het wit stevig en de dooier nog zacht.",
       "Leg in elke kom een ei. Giet het zeer hete pocheerwater in 2–3 porties over brood en kruiden; wacht telkens ongeveer 20–30 seconden en stop zodra het brood volledig zacht en sappig is maar niet in water drijft.",
       "Laat 3–5 minuten staan zodat brood en hete kruidenbouillon samenkomen, zoals bij de traditionele Alentejaanse werkwijze. Werk af met de resterende koriander en serveer direct; roer het brood niet tot een gladde massa."
     ],
@@ -823,7 +823,7 @@ window.RECIPES = [
       "Verhit de olijfolie op middellaag vuur. Fruit ui 7–8 minuten tot zacht en zoet zonder bruine randen; voeg knoflook de laatste 45 seconden toe.",
       "Voeg paprika, laurier en tomaat toe en zet middelhoog. Laat 10–12 minuten stoven, roer om de paar minuten, tot de tomaat volledig is ingestort en de saus zichtbaar dikker en donkerder is.",
       "Voeg 500 ml water toe en breng aan de kook. Zet laag en laat 8–10 minuten rustig pruttelen; proef daarna op zout en peper. De bouillon moet duidelijk naar tomaat en olijfolie smaken, niet waterig.",
-      "Maak met een lepel ruimte voor de eieren en laat ze één voor één in de zacht pruttelende soep glijden. Pocheer zonder roeren 4–5 minuten, tot het wit gestold is; dek eventueel de laatste minuut af.",
+      "Houd de soep op laag tot middellaag vuur zodat ze zacht blijft pruttelen. Maak met een lepel ruimte voor de eieren en laat ze één voor één in het vocht glijden. Pocheer zonder roeren 4–5 minuten, tot het wit gestold is; dek eventueel de laatste minuut af.",
       "Leg het brood in diepe borden en schep eerst hete tomatenbouillon erover. Wacht 30 seconden, leg daarna een ei op elk bord en voeg meer soep toe tot het brood zacht maar nog herkenbaar is.",
       "Werk af met oregano of koriander en serveer direct. Is de soep te dik geworden, verdun dan vóór het opscheppen met een kleine scheut kokend water."
     ],
