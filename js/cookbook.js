@@ -363,15 +363,6 @@
         </aside>
       `);
     }
-    if (!noteBlocks.length) {
-      noteBlocks.push(`
-        <aside class="note-block note-warm single">
-          <h3>Keukennotitie</h3>
-          <p>Houd de pan eenvoudig en proef op het einde nog eens op zout, zuur en textuur. Dat is bij dit soort Portugese thuiskost meestal belangrijker dan perfectie.</p>
-        </aside>
-      `);
-    }
-
     const text = page(`recipe-page fit-page ${isFeature ? "feature-recipe" : ""} ${featureClass}`, `
       <div class="fit-content recipe-shell">
         <header class="recipe-header">
