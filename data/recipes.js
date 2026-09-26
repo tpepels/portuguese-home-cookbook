@@ -549,7 +549,7 @@ window.RECIPES = [
       "250 g ontzoute bacalhau (gezouten kabeljauw), gaar en fijngemaakt",
       "100 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
       "2 eieren",
-      "80–120 ml koud water",
+      "80 ml koud bier + 20–40 ml koud water",
       "½ ui, zeer fijn gesneden",
       "flinke hand peterselie",
       "peper",
@@ -566,8 +566,8 @@ window.RECIPES = [
     "steps": [
       "Maak eerst de arroz de feijão. Verhit 2 el olijfolie op middellaag vuur, fruit ui 4–5 minuten en knoflook 30 seconden; voeg tomaat en laurier toe en laat 5 minuten inkoken tot de tomaat niet meer rauw ruikt.",
       "Voeg rijst, bonen en 550 ml hete vloeistof toe. Breng aan de kook, zet laag en laat 15–18 minuten rustig pruttelen; roer af en toe en voeg zo nodig extra heet water toe. Stop wanneer de rijst gaar is maar nog zichtbaar sappig.",
-      "Maak ondertussen het beslag: klop bloem en eieren glad en voeg 80 ml koud water toe. Voeg alleen extra water toe tot het beslag dik van de lepel valt, ongeveer als dikke yoghurt.",
-      "Meng bacalhau, ui, peterselie en peper erdoor en laat het beslag 5 minuten staan. Het moet een lepelvorm behouden; loopt het meteen uit, roer dan 1 el bloem extra erdoor.",
+      "Maak ondertussen het beslag: klop bloem en eieren glad en voeg 80 ml koud bier toe. Voeg daarna alleen per eetlepel koud water toe tot het beslag dik van de lepel valt, ongeveer als dikke yoghurt; dit sluit beter aan bij gangbare Portugese patanisca-beslagen dan een waterig beslag.",
+      "Meng bacalhau, ui, peterselie en peper erdoor en laat het beslag 10 minuten staan terwijl de olie opwarmt. Het moet een lepelvorm behouden; loopt het meteen uit, roer dan 1 el bloem extra erdoor.",
       "Verhit 5–8 mm zonnebloemolie in een koekenpan tot 175–180 °C. Schep platte hoopjes beslag in de pan en bak 2–3 minuten per kant tot diep goud en gaar; bak in porties zodat de olietemperatuur niet instort.",
       "Laat 1 minuut uitlekken op een rooster of keukenpapier. Serveer meteen met de nog sappige bonenrijst."
     ],
@@ -871,7 +871,7 @@ window.RECIPES = [
     "tags": [
       "PETISCO"
     ],
-    "time": "30 minuten",
+    "time": "45 minuten",
     "servings": "2–3 personen als bijgerecht of lichte maaltijd",
     "intro": "Peixinhos da horta — letterlijk “visjes uit de tuin” — zijn sperziebonen in beslag. Het is een oud Portugees groentegerecht en een goed voorbeeld van hoe beslag en frituren van een eenvoudige groente iets heel anders maken.",
     "image": "images/15-peixinhos-da-horta.jpg",
@@ -880,14 +880,14 @@ window.RECIPES = [
       "300 g fijne sperziebonen",
       "100 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
       "1 ei",
-      "120–150 ml koud water",
+      "100 ml ijskoud bier + 20–50 ml ijskoud water",
       "zout en peper",
       "óleo de girassol om te bakken",
       "citroen"
     ],
     "steps": [
       "Breng ruim gezouten water aan de kook en blancheer de sperziebonen 4 minuten. Ze moeten heldergroen en net buigzaam zijn maar nog duidelijke beet hebben; giet af, koel kort en dep zeer goed droog.",
-      "Klop bloem, ei, 120 ml ijskoud water, een snuf zout en peper tot een vrij dik beslag. Laat 5 minuten staan; het beslag moet aan een boon blijven hangen maar nog langzaam afdruipen. Voeg zo nodig per eetlepel extra water toe.",
+      "Klop bloem, ei en 100 ml ijskoud bier met een snuf zout en peper tot een glad, vrij dik beslag. Voeg alleen zo veel ijskoud water toe dat het beslag aan een boon blijft hangen maar langzaam afdruipt, en laat het 20–30 minuten rusten; bier en rusttijd geven een lichtere, krokantere korst.",
       "Verhit 3–4 cm zonnebloemolie tot 175–180 °C. Doop 3–5 bonen tegelijk in het beslag en laat overtollig beslag enkele seconden afdruipen.",
       "Frituur in kleine porties 2–3 minuten, eenmaal keren, tot de buitenkant goud en krokant is. Wacht tussen porties tot de olie weer minstens 175 °C is; te koude olie maakt het beslag vet.",
       "Laat 1 minuut uitlekken op een rooster of keukenpapier en bestrooi licht met zout. Serveer onmiddellijk met citroen apart, zodat het beslag krokant blijft."
