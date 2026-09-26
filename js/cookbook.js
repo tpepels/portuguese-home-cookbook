@@ -48,7 +48,8 @@
     beans: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 29c0-8 8-15 15-12 5 2 3 8 7 10 5 2 8-3 8 2 0 8-8 13-16 13S10 37 10 29Z"/><path d="M17 31c3 2 7 2 10 0"/></svg>`,
     bread: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 30c0-12 8-20 17-20s17 8 17 20v8H7v-8Z"/><path d="M15 18c2 2 3 5 3 8M23 14c2 3 3 6 3 10M31 18c1 2 2 5 2 8"/></svg>`,
     cheese: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 22 28 9l13 8v22H7V22Z"/><circle cx="27" cy="22" r="3"/><circle cx="17" cy="31" r="2.5"/><circle cx="33" cy="33" r="2"/></svg>`,
-    pantry: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M9 10h30v29H9V10Z"/><path d="M9 24h30M24 10v29"/><circle cx="20" cy="19" r="1.2"/><circle cx="28" cy="29" r="1.2"/></svg>`
+    pantry: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M9 10h30v29H9V10Z"/><path d="M9 24h30M24 10v29"/><circle cx="20" cy="19" r="1.2"/><circle cx="28" cy="29" r="1.2"/></svg>`,
+    cabbage: `<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 41c-8 0-15-6-15-14 0-6 4-11 9-13 1-5 11-5 12 0 5 2 9 7 9 13 0 8-7 14-15 14Z"/><path d="M24 14v27M14 22c5 1 8 4 10 8M34 22c-5 1-8 4-10 8M12 30c4 0 8 2 12 6M36 30c-4 0-8 2-12 6"/></svg>`
   };
 
   const esc = (value = "") => String(value)
@@ -220,8 +221,8 @@
             <div><strong>Queijo & natas (kaas & kookroom)</strong><p><b>Koop</b> queijo Flamengo (milde Portugese Flamengo-kaas) voor milde tostas en snelle gratins; queijo da Ilha (pittige Azorenkaas) voor een krachtigere geraspte kaas.</p><p><b>Neem</b> natas para culinária (kookroom) wanneer een recept om kookroom vraagt.</p></div>
           </div>
           <div class="pantry-card">
-            <div class="pantry-icon">${pantryIcons.pantry}</div>
-            <div><strong>De kleine smaakmakers</strong><p><b>Koop</b> azeitona Galega (kleine Portugese Galega-olijf), batata palha (krokante aardappelreepjes), tomate pelado (gepelde tomaten), louro (laurier), pimentão-doce (zoet paprikapoeder), piripíri (Portugese chili) en vinho branco seco (droge witte wijn).</p><p><b>Met deze kast</b> kun je het grootste deel van dit boek koken zonder gespecialiseerde ingrediënten.</p></div>
+            <div class="pantry-icon">${pantryIcons.cabbage}</div>
+            <div><strong>Couve (kool) in de winkel</strong><p><b>Koop</b> couve portuguesa (Portugese bladkool) voor bacalhau com todos; couve lombarda (savooiekool) voor bonensoep; couve coração (spitskool) of couve branca (witte kool) voor snelle bereidingen.</p><p><b>Ook normaal</b> zijn couve roxa (rode kool) voor rauwe salades en couve-flor (bloemkool) voor soep of oven. Kies dus niet automatisch “kool”: het type bepaalt de bereiding.</p></div>
           </div>
         </div>
       </div>
@@ -274,7 +275,7 @@
       <section class="nutrition-note" aria-label="Geschatte voedingswaarden per portie">
         <div class="nutrition-heading">
           <strong>Voedingswaarde</strong>
-          <span>ca. per portie</span>
+          <span>${(recipe.ingredients || []).some(item => String(item).startsWith("SNEL —")) ? "ca. per portie · snelle variant" : "ca. per portie"}</span>
         </div>
         <div class="nutrition-metrics">
           <div><span>Energie</span><strong>${esc(n.kcal)} <small>kcal</small></strong></div>
@@ -284,6 +285,20 @@
         </div>
       </section>
     `;
+  }
+
+  function renderIngredient(item) {
+    const value = String(item || "");
+    if (value.startsWith("SNEL — ")) {
+      return `<li class="ingredient-route route-fast"><span class="route-label">Snel</span><span>${esc(value.slice(7))}</span></li>`;
+    }
+    if (value.startsWith("FANCY — ")) {
+      return `<li class="ingredient-route route-fancy"><span class="route-label">Fancy</span><span>${esc(value.slice(8))}</span></li>`;
+    }
+    if (value.startsWith("OPTIONEEL KOOL — ")) {
+      return `<li class="ingredient-route route-cabbage"><span class="route-label">Kooloptie</span><span>${esc(value.slice(17))}</span></li>`;
+    }
+    return `<li>${esc(value)}</li>`;
   }
 
   function renderRecipe(recipe, options = {}) {
@@ -370,7 +385,7 @@
         <div class="recipe-body">
           <section class="text-section ingredients-section">
             <h2>Ingrediënten</h2>
-            <ul class="ingredients-list">${(recipe.ingredients || []).map(item => `<li>${esc(item)}</li>`).join("")}</ul>
+            <ul class="ingredients-list">${(recipe.ingredients || []).map(renderIngredient).join("")}</ul>
           </section>
 
           <section class="text-section method-section">
