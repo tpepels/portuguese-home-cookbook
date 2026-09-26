@@ -446,7 +446,9 @@ window.RECIPES = [
       "text": "Laat de ontzoute bacalhau (gezouten kabeljauw) zacht garen in water dat net onder de kook blijft. Hard koken maakt de vis droog en laat de vlokken sneller uit elkaar vallen."
     },
     "attention": "Niet verdrinken in saus. Dit gerecht draait om goede bacalhau (gezouten kabeljauw), aardappel, ui en veel fatsoenlijke olijfolie.",
-    "variations": [],
+    "variations": [
+      "Een oudere Porto-variant laat de gepocheerde bacalhau 30–60 minuten in warme leite meio-gordo (halfvolle melk) rusten vóór hij met aardappel en cebolada wordt gemengd. Laat hem daarna goed uitlekken."
+    ],
     "nutrition": {
       "kcal": 670,
       "protein": 42,
@@ -763,7 +765,7 @@ window.RECIPES = [
       "700 ml water",
       "3 tenen knoflook",
       "1 grote bos koriander",
-      "½ kleine bos poejo (pennyroyal), optioneel maar traditioneel",
+      "½ kleine bos poejos (polei), optioneel maar traditioneel",
       "4 el olijfolie",
       "2 eieren",
       "zout",
@@ -775,7 +777,7 @@ window.RECIPES = [
       "Breng 700 ml water op hoog vuur aan de kook. Zet daarna laag tot middellaag: het water moet net onder de kook blijven, met alleen kleine belletjes.",
       "Breek elk ei eerst in een kopje en laat het voorzichtig in het water glijden. Pocheer 3–5 minuten: na circa 3½–4 minuten is het wit stevig en de dooier nog zacht.",
       "Leg in elke kom een ei. Giet het zeer hete pocheerwater in 2–3 porties over brood en kruiden; wacht telkens ongeveer 20–30 seconden en stop zodra het brood volledig zacht en sappig is maar niet in water drijft.",
-      "Laat 1 minuut staan, werk af met de resterende koriander en proef het vocht. Serveer meteen; langer wachten maakt het brood steeds papperiger."
+      "Laat 3–5 minuten staan zodat brood en hete kruidenbouillon samenkomen, zoals bij de traditionele Alentejaanse werkwijze. Werk af met de resterende koriander en serveer direct; roer het brood niet tot een gladde massa."
     ],
     "technique": {
       "title": "HETE VLOEISTOF OP BROOD",
@@ -1003,8 +1005,8 @@ window.RECIPES = [
       "peterselie"
     ],
     "steps": [
-      "Zet aardappel en wortel in koud gezouten water, breng aan de kook en laat 7 minuten zacht koken. Voeg sperziebonen toe voor nog 4–5 minuten en erwten alleen de laatste 2–3 minuten; alles moet gaar zijn maar zijn vorm behouden.",
-      "Giet de groenten onmiddellijk af en spreid ze 15–20 minuten uit op een brede schaal. Ze moeten volledig afgekoeld en droog aanvoelen voordat de mayonaise erbij gaat.",
+      "Breng ruim gezouten water aan de kook. Kook aardappel en wortel in blokjes in totaal ongeveer 10 minuten; voeg de sperziebonen na 3 minuten toe zodat die circa 7 minuten meekoken, en de erwten pas de laatste 4 minuten. Proef een blokje aardappel: gaar, maar nog stevig genoeg om heel te blijven.",
+      "Giet de groenten onmiddellijk af en spreid ze 15–20 minuten uit op een brede schaal. Ze moeten volledig koud en droog aanvoelen voordat de mayonaise erbij gaat; vochtige warme groente maakt de salade waterig.",
       "Kook de eieren 9 minuten, koel in koud water, pel en snijd in parten. Laat de tonijn zeer goed uitlekken.",
       "Meng de koude groenten met de tonijn en eerst 3 el mayonaise. Schep van onder naar boven zodat aardappelblokjes heel blijven; voeg alleen de vierde lepel toe als de salade nog droog is.",
       "Proef op zout en peper en voeg eventueel ½–1 tl citroensap of azijn toe. Zet 15 minuten koel, maar haal de salade 10 minuten vóór het serveren uit de koelkast.",
@@ -1125,7 +1127,7 @@ window.RECIPES = [
     ],
     "time": "25 minuten",
     "servings": "2–3 personen",
-    "intro": "Arroz de atum (tonijnrijst) is functioneel thuiskoken op zijn best: rijst, ui, knoflook en bliktonijn leveren met weinig planning een warme maaltijd. De tonijn hoeft nauwelijks te garen en gaat daarom pas op het einde erbij.",
+    "intro": "Arroz de atum (tonijnrijst) is functioneel thuiskoken op zijn best: arroz agulha (Portugese langkorrelrijst), ui, paprika, tomaat en bliktonijn leveren in ongeveer 25 minuten een losse, hartige maaltijd.",
     "image": "images/21-arroz-de-atum-rapido.jpg",
     "imageAlt": "Arroz de atum rápido",
     "ingredients": [
@@ -1149,16 +1151,16 @@ window.RECIPES = [
       "Werk af met peterselie en serveer direct. De rijst hoort los te zijn, zonder zichtbaar kookwater onderin de pan."
     ],
     "technique": {
-      "title": "TONIJN LAAT TOEVOEGEN",
-      "text": "Bliktonijn is al gaar. Laat hem alleen de laatste paar minuten mee warmen; langdurig meekoken maakt de vis droog en vezelig."
+      "title": "LOSSE ARROZ AGULHA",
+      "text": "Bak ui, paprika, tomaat en tonijn eerst kort samen en voeg daarna arroz agulha (Portugese langkorrelrijst) en kokend water toe. Kook afgedekt op laag vuur tot het vocht net is opgenomen en laat 3 minuten van het vuur rusten voordat je de korrels losmaakt."
     },
     "attention": "Gebruik hier arroz agulha (Portugese langkorrelrijst), niet carolino: dit gerecht hoort losser en droger te zijn dan een malandrinho-rijst.",
     "variations": [],
     "nutrition": {
-      "kcal": 440,
-      "protein": 27,
-      "carbs": 58,
-      "fat": 12
+      "kcal": 500,
+      "protein": 23,
+      "carbs": 65,
+      "fat": 16
     }
   },
   {
@@ -1175,24 +1177,26 @@ window.RECIPES = [
     "image": "images/22-legumes-a-bras.jpg",
     "imageAlt": "Legumes à Brás",
     "ingredients": [
+      "½ middelgrote ui, in dunne halve ringen",
+      "1 teen knoflook, fijngehakt",
       "1 kleine prei, in dunne halve ringen",
       "1 kleine courgette, in dunne reepjes",
       "1 wortel, geraspt of in fijne reepjes",
       "OPTIONEEL KOOL — 150 g couve coração (spitskool) of couve branca (witte kool), zeer fijn gesneden; vervang hiermee ongeveer de helft van de courgette",
-      "250 g batata palha (krokante aardappelreepjes)",
+      "120 g batata palha (krokante aardappelreepjes)",
       "4 eieren",
-      "2–3 el olijfolie",
+      "2 el olijfolie",
       "koriander of peterselie",
       "40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "zout en peper"
     ],
     "steps": [
-      "Verhit olijfolie op middellaag vuur. Bak prei 5–6 minuten tot zacht en zoet maar niet bruin.",
-      "Voeg wortel en eventueel de fijn gesneden kool toe en bak 3 minuten op middelhoog vuur. Voeg courgette toe en bak nog 3–4 minuten tot de groenten gaar zijn maar nog structuur hebben en vrijgekomen vocht grotendeels is verdampt.",
-      "Zet het vuur middellaag en meng ongeveer twee derde van de batata palha erdoor. Schep 1 minuut om zodat een deel wat vocht opneemt.",
+      "Verhit 2 el olijfolie op middellaag vuur. Fruit ui en prei 5–6 minuten tot ze zacht en zoet zijn; voeg knoflook de laatste 45 seconden toe zonder hem te laten bruinen.",
+      "Voeg wortel en eventueel de fijn gesneden kool toe en bak 3 minuten op middelhoog vuur. Voeg courgette toe en bak nog 3–4 minuten tot de groenten gaar zijn maar nog structuur hebben en zichtbaar vocht grotendeels is verdampt.",
+      "Zet het vuur middellaag en meng ongeveer 80 g batata palha erdoor. Schep 1 minuut om zodat de aardappel wat vocht opneemt zonder volledig zacht te worden.",
       "Klop de eieren los met peper en kruiden. Zet het vuur laag, giet het ei erbij en schep 1–2 minuten rustig om.",
-      "Haal de pan van het vuur zodra het ei bindt maar nog glanzend is. Meng de resterende batata palha erdoor voor een krokant element.",
-      "Werk af met olijven en serveer direct. Als er water onderin de pan staat vóór het ei erbij gaat, bak de groenten eerst nog 1–2 minuten op hoger vuur droog."
+      "Haal de pan van het vuur zodra het ei romig bindt maar nog glanst. Meng de resterende 40 g batata palha erdoor voor een krokant contrast.",
+      "Werk af met olijven en serveer direct. Staat er vóór het ei zichtbaar water in de pan, bak de groenten dan eerst nog 1–2 minuten op middelhoog tot hoog vuur droog."
     ],
     "technique": {
       "title": "GROENTEN EERST DROOG BAKKEN",
@@ -1204,10 +1208,10 @@ window.RECIPES = [
       "Couve roxa (rode kool) is minder geschikt voor à Brás; gebruik die liever rauw en zeer fijn gesneden in een salade."
     ],
     "nutrition": {
-      "kcal": 800,
-      "protein": 18,
-      "carbs": 64,
-      "fat": 54
+      "kcal": 590,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 35
     }
   },
   {
@@ -1536,7 +1540,7 @@ window.RECIPES = [
       "Modern thuisgerecht",
       "oven"
     ],
-    "time": "50 minuten",
+    "time": "60 minuten",
     "servings": "3–4 personen",
     "intro": "Quiche is Frans van oorsprong, maar is in Portugal volledig ingeburgerd als makkelijke gezins- en studentenmaaltijd. Tonijn is een logische vulling omdat hij goedkoop is, lang houdbaar en goed combineert met ui, ei en een eenvoudige melk- of roomvulling.",
     "image": "images/30-quiche-de-atum.jpg",
@@ -1554,12 +1558,12 @@ window.RECIPES = [
       "zout indien nodig"
     ],
     "steps": [
-      "Verwarm de oven volledig voor op 180 °C. Bekleed een taartvorm van ongeveer 24 cm met deeg, druk het zonder uitrekken in de hoeken en prik de bodem 8–10 keer met een vork.",
+      "Verwarm de oven volledig voor op 160 °C, boven- en onderwarmte. Bekleed een taartvorm van ongeveer 24 cm met blader- of kruimeldeeg, druk het zonder uitrekken in de hoeken en prik de bodem 8–10 keer met een vork.",
       "Verhit olijfolie op middellaag vuur en fruit de ui 8–10 minuten tot volledig zacht en glazig. Laat 5 minuten afkoelen; een hete vulling laat het eimengsel te vroeg stollen.",
       "Verdeel ui en zeer goed uitgelekte tonijn in een gelijkmatige laag over de bodem. Houd de vulling los en laat ongeveer 1 cm rand vrij.",
       "Klop eieren, melk, peper, nootmuskaat en peterselie alleen tot homogeen. Giet langzaam over de vulling; de vloeistof moet net onder de bovenrand van het deeg blijven.",
-      "Bak 30–35 minuten op 180 °C. De quiche is klaar wanneer de rand stevig is en het midden bij zacht schudden nog slechts heel licht trilt, niet vloeibaar golft. Wordt het deeg bleek, geef dan maximaal enkele minuten extra.",
-      "Laat 10 minuten op een rooster rusten vóór het aansnijden. De vulling zet dan verder zonder droog te worden."
+      "Bak ongeveer 40 minuten op 160 °C. De quiche is klaar wanneer de buitenste 4–5 cm stevig zijn en het midden bij zacht schudden nog slechts licht trilt, niet vloeibaar golft.",
+      "Laat 10 minuten op een rooster rusten vóór het aansnijden. Is de bodem bij jouw oven vaak bleek, bak het deeg de volgende keer eerst 10–15 minuten blind voor."
     ],
     "technique": {
       "title": "WANNEER BLIND BAKKEN?",
@@ -1583,7 +1587,7 @@ window.RECIPES = [
       "Doordeweeks",
       "meal prep"
     ],
-    "time": "55 minuten",
+    "time": "45–50 minuten",
     "servings": "3–4 personen",
     "intro": "Ovenpasta met tonijn is hedendaags comfort food: één schaal, goedkope ingrediënten en genoeg voor de volgende dag. Portugese versies variëren sterk; de kern is meestal tonijn, pasta, tomaat en een kleine hoeveelheid romige saus of kaas voor een goudbruine bovenkant.",
     "image": "images/31-massa-de-atum-no-forno.jpg",
@@ -1604,8 +1608,8 @@ window.RECIPES = [
       "Verhit olijfolie op middellaag vuur. Fruit ui 5–6 minuten tot glazig, voeg knoflook 30 seconden toe en daarna tomaat; laat 8 minuten op middelhoog vuur inkoken tot de saus dik genoeg is om aan een lepel te blijven hangen.",
       "Zet het vuur laag, voeg tonijn toe en warm 1 minuut mee. Meng pasta erdoor en voeg 50–100 ml kookwater toe tot alles sappig maar niet waterig is.",
       "Doe in een ovenschaal en verdeel béchamel of natas in een dunne laag bovenop. Strooi 50–75 g kaas gelijkmatig erover.",
-      "Bak 25–35 minuten op 180 °C tot de saus langs de randen duidelijk borrelt en de kaas goudbruine plekken heeft. Is de schotel na 25 minuten door en door heet maar nog bleek, zet de grill alleen de laatste 1–2 minuten aan.",
-      "Laat 5 minuten rusten vóór het opscheppen. De pasta hoort nog beet te hebben en er moet voldoende romige saus tussen de stukken zitten; een droge ovenschotel heeft te lang gebakken."
+      "Bak 15–20 minuten op 180 °C tot de saus langs de rand borrelt en de kaas goudbruine plekken heeft. Is de schaal al door en door heet maar nog bleek, zet de grill alleen de laatste 1–2 minuten aan.",
+      "Laat 5 minuten rusten vóór het opscheppen. De pasta hoort nog beet te hebben en er moet voldoende saus tussen de stukken zitten; een droge ovenschotel heeft te lang gebakken."
     ],
     "technique": {
       "title": "PASTA VOOR DE OVEN",
@@ -1809,7 +1813,7 @@ window.RECIPES = [
     "image": "images/36-douradinhos-com-arroz-de-tomate.jpg",
     "imageAlt": "Douradinhos com arroz de tomate",
     "ingredients": [
-      "SNEL — 10 douradinhos (vissticks), ca. 280 g totaal",
+      "SNEL — ca. 300 g douradinhos (vissticks), bijvoorbeeld Auchan escamudo-do-Alasca MSC of Iglo pescada",
       "FANCY — vervang door 350–400 g filetes de pescada (heek) + 40 g farinha de trigo T55 (tarwebloem) + 1 ei + 70 g pão ralado (paneermeel) + olie om te bakken",
       "160 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
@@ -1822,7 +1826,7 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Maak eerst de viskeuze. Voor douradinhos: bak volgens de verpakking, bij veel ovenvarianten ongeveer 20 minuten rond 180–200 °C, tot goud en krokant. Voor de fancy versie: dep pescada droog, haal door bloem, ei en paneermeel en bak 2–3 minuten per kant in olie van 175–180 °C.",
+      "Voor de snelle Auchan-variant: bak de diepgevroren douradinhos zonder ontdooien 15–17 minuten in een voorverwarmde oven op 220 °C en keer halverwege; in de airfryer 10–12 minuten op 180 °C, of in een koekenpan circa 3 minuten per kant. Stop zodra de korst diep goud en krokant is. Voor de fancy versie: dep pescada droog, haal door bloem, ei en paneermeel en bak 2–3 minuten per kant in olie van 175–180 °C.",
       "Begin de rijst ongeveer 20 minuten voordat de vis klaar is. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
       "Voeg tomate pelado en laurier toe en zet middelhoog. Laat 5–7 minuten stoven tot de tomaat volledig is ingestort en niet meer rauw ruikt.",
       "Voeg arroz carolino en 450 ml heet water toe. Breng aan de kook, zet laag en laat 15–18 minuten rustig pruttelen; roer af en toe en voeg extra heet water toe als de rijst droogvalt.",
@@ -1836,10 +1840,10 @@ window.RECIPES = [
     "attention": "Douradinhos (vissticks) zijn alleen aantrekkelijk zolang de paneerlaag krokant is. Maak de arroz de tomate (tomatenrijst) eerst vrijwel klaar en bak de vis pas op het einde.",
     "variations": [],
     "nutrition": {
-      "kcal": 830,
-      "protein": 24,
-      "carbs": 105,
-      "fat": 35
+      "kcal": 780,
+      "protein": 23,
+      "carbs": 90,
+      "fat": 32
     }
   },
   {
@@ -1856,7 +1860,7 @@ window.RECIPES = [
     "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
     "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "ingredients": [
-      "SNEL — 8 diepvries-rissóis de camarão (Portugese deeghapjes met garnalenvulling) of rissóis de bacalhau, ca. 360 g totaal",
+      "SNEL — 1 verpakking Auchan rissóis de camarão para forno/airfryer, 8 stuks / 360 g, rechtstreeks uit de diepvries; rissóis de bacalhau kunnen op dezelfde manier als hun etiket aangeeft",
       "FANCY — gebruik 8 verse, ambachtelijke rissóis van pastelaria/charcutaria; kies exemplaren met duidelijke garnalen- of bacalhauvulling in plaats van een zeer dikke deeglaag",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
@@ -1868,7 +1872,7 @@ window.RECIPES = [
       "koriander of peterselie"
     ],
     "steps": [
-      "Bereid de rissóis volgens hun type. Diepvries: volg de verpakking; bij frituren houd je de olie op 175–180 °C en bak je in kleine porties tot diep goud en door en door heet. Verse rissóis hebben meestal korter nodig: stop zodra de korst krokant en de vulling heet is.",
+      "Voor de Auchan-rissóis de camarão: niet ontdooien. Oven: voorverwarmen op 220 °C en 8–13 minuten bakken op het middelste niveau; airfryer: 7–9 minuten op 180 °C. Stop wanneer de korst rondom krokant en heet is. Gebruik je een ander merk of rissóis de bacalhau, volg dan het etiket; verse ambachtelijke rissóis hebben meestal korter nodig.",
       "Begin de rijst ongeveer 20 minuten vóór de rissóis klaar moeten zijn. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
       "Voeg tomate pelado en laurier toe en laat 5–7 minuten op middelhoog vuur stoven tot de tomaat dikker en zoeter ruikt. De basis is klaar wanneer een spatel een spoor over de bodem trekt dat niet meteen volloopt.",
       "Voeg arroz carolino en 500 ml heet water toe. Breng aan de kook, zet laag tot middellaag en laat 15–18 minuten zacht pruttelen; roer af en toe en voeg alleen extra heet water toe als de rijst vóór het gaar zijn droogvalt.",
@@ -1882,10 +1886,10 @@ window.RECIPES = [
     "attention": "Leg de rissóis (gevulde Portugese deeghapjes) naast de arroz de tomate (tomatenrijst) en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
     "variations": [],
     "nutrition": {
-      "kcal": 780,
+      "kcal": 770,
       "protein": 14,
-      "carbs": 111,
-      "fat": 31
+      "carbs": 103,
+      "fat": 30
     }
   }
 ];
