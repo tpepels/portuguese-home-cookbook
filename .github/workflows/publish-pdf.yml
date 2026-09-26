@@ -60,11 +60,20 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Keep the generated binary outside the worktree while syncing to the
+          # newest main. Committing first and rebasing can never merge two PDFs
+          # and used to fail whenever a previous PDF run landed concurrently.
+          cp Portugese-thuiskeuken.pdf /tmp/Portugese-thuiskeuken.pdf
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/Portugese-thuiskeuken.pdf Portugese-thuiskeuken.pdf
+
           git add -f Portugese-thuiskeuken.pdf
           if git diff --cached --quiet; then
             echo "PDF unchanged"
             exit 0
           fi
+
           git commit -m "Publish cookbook PDF"
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main
