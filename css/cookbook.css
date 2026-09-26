@@ -941,6 +941,31 @@ button { font: inherit; }
   color: var(--accent);
   font-size: .82em;
 }
+.ingredients-list .ingredient-route {
+  display: grid;
+  grid-template-columns: 14mm minmax(0, 1fr);
+  gap: 2mm;
+  align-items: start;
+  margin: 0 0 1.8mm;
+  padding: 2mm 2.2mm;
+  border-radius: 1.6mm;
+  list-style: none;
+  background: #f2eee5;
+}
+.ingredients-list .route-fancy { background: #e8eee5; }
+.ingredients-list .route-cabbage { background: #e9eff1; }
+.route-label {
+  display: inline-block;
+  padding-top: .3mm;
+  color: var(--accent);
+  font-size: 6.2pt;
+  font-weight: 700;
+  letter-spacing: .06em;
+  line-height: 1.05;
+  text-transform: uppercase;
+}
+.route-fancy .route-label { color: var(--sage-dark); }
+.route-cabbage .route-label { color: var(--azulejo); }
 .steps-list {
   list-style: none;
   counter-reset: step;
