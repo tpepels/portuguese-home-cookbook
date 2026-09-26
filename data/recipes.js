@@ -602,7 +602,10 @@ window.RECIPES = [
       "350 g bacalhau demolhado (ontzoute gezouten kabeljauw), in 2–3 dikke stukken",
       "450 g batata para cozer (kookaardappelen), gehalveerd als ze groot zijn",
       "300 g couve portuguesa (Portugese bladkool), dikke nerven verwijderd en bladeren grof gesneden",
+      "150 g grelos (raapstelen), schoongemaakt",
+      "120 g nabo (raap), in parten",
       "2 wortels, in dikke stukken",
+      "2 cebolinhas (kleine jonge uien), gepeld",
       "2 eieren",
       "3 el azeite virgem extra (extra vierge olijfolie), plus extra aan tafel",
       "2 tenen knoflook, zeer fijn gehakt of in dunne plakjes",
@@ -610,26 +613,26 @@ window.RECIPES = [
       "zwarte peper; zout alleen indien nodig"
     ],
     "steps": [
-      "Zet aardappelen en wortels in een ruime pan met koud water en weinig zout. Breng aan de kook, zet middellaag en laat 10 minuten rustig koken; de aardappelen moeten dan halfgaar zijn.",
-      "Voeg de couve portuguesa toe en druk de bladeren onder water. Laat 5–7 minuten zacht koken tot de kool mals is maar nog groen en licht stevig; schep kool en wortel eruit als ze eerder klaar zijn.",
-      "Leg de stukken bacalhau in dezelfde pan wanneer de aardappelen nog ongeveer 6 minuten nodig hebben. Houd het water net onder de kook, 85–90 °C, en pocheer 5–7 minuten tot de vis net opaak is en in grote vlokken loslaat.",
-      "Kook de eieren apart 9 minuten, koel kort en pel. Controleer de aardappelen: een mes moet zonder weerstand tot het midden gaan, maar de stukken moeten heel blijven.",
-      "Verwarm 3 el olijfolie met de knoflook 1 minuut op laag vuur, alleen tot hij geurt. Zet het vuur uit voordat de knoflook kleurt.",
-      "Schik bacalhau, aardappel, kool, wortel en gehalveerde eieren op een warme schaal. Lepel de knoflookolie erover en geef extra olijfolie en eventueel een paar druppels azijn of citroen aan tafel."
+      "Leg de eieren in een ruime pan met koud water en breng aan de kook. Voeg aardappelen en wortel toe zodra het water kookt en laat 3 minuten op middelhoog vuur koken.",
+      "Voeg couve portuguesa, grelos, nabo en cebolinhas toe. Zet het vuur zo dat het water rustig blijft koken en gaar 12–15 minuten; haal onderdelen die eerder mals zijn met een schuimspaan uit de pan.",
+      "Controleer de aardappelen na ongeveer 15 minuten totale kooktijd: een mes moet bijna zonder weerstand tot het midden gaan. Houd groenten warm op een schaal en laat het kookwater terugzakken tot net onder de kook, ongeveer 85–90 °C.",
+      "Leg de bacalhau in het hete water en pocheer 5–7 minuten, afhankelijk van de dikte. De vis is klaar wanneer hij overal opaak is en met lichte druk in grote vlokken uiteenvalt; laat het water niet hard koken.",
+      "Kook de eieren in totaal 9–10 minuten, koel kort, pel en halveer. Verwarm 3 el olijfolie met de knoflook 1 minuut op laag vuur, alleen tot de knoflook geurt.",
+      "Schik bacalhau, aardappel, couve, grelos, nabo, wortel, cebolinhas en ei op een warme schaal. Lepel de knoflookolie erover en geef extra olijfolie en eventueel een paar druppels azijn of citroen aan tafel."
     ],
     "technique": {
       "title": "BACALHAU EN KOOL SAMEN GAREN",
       "text": "Laat het water na het toevoegen van de bacalhau niet hard koken. Zacht pocheren houdt de vis sappig; couve portuguesa is klaar zodra de dikke delen mals zijn maar de bladeren nog duidelijk structuur hebben."
     },
-    "attention": "Zout pas aan tafel. Zelfs goed ontzoute bacalhau kan voldoende zout meebrengen voor aardappel en kool.",
+    "attention": "Bacalhau com todos betekent hier letterlijk dat vis, aardappel, ei en meerdere wintergroenten samen op de schaal komen. Laat de bacalhau niet hard meekoken: de groenten verdragen koken, de vis blijft sappiger bij pocheren.",
     "variations": [
       "Voeg 150–200 g gekookte grão-de-bico (kikkererwten) toe voor een steviger bord.",
       "Couve coração (spitskool) kan als mildere winkelvariant; kook die slechts 3–5 minuten."
     ],
     "nutrition": {
-      "kcal": 640,
-      "protein": 46,
-      "carbs": 52,
+      "kcal": 690,
+      "protein": 50,
+      "carbs": 62,
       "fat": 27
     }
   },
@@ -790,13 +793,14 @@ window.RECIPES = [
       "700 ml water",
       "3 tenen knoflook",
       "1 grote bos koriander",
+      "½ kleine bos poejo (pennyroyal), optioneel maar traditioneel",
       "4 el olijfolie",
       "2 eieren",
       "zout",
       "eventueel een klein scheutje azijn"
     ],
     "steps": [
-      "Stamp knoflook, ongeveer twee derde van de koriander en ½ tl grof zout tot een grove pasta. Roer de olijfolie erdoor; het mengsel moet geurig en vochtig zijn, niet volledig glad.",
+      "Stamp knoflook, ongeveer twee derde van de koriander, eventueel poejo en ½ tl grof zout tot een grove pasta. Roer de olijfolie erdoor; het mengsel moet geurig en vochtig zijn, niet volledig glad.",
       "Verdeel de kruidenpasta over twee diepe kommen en leg het brood los erop. Druk het brood niet samen, zodat het hete vocht straks overal kan komen.",
       "Breng 700 ml water op hoog vuur aan de kook. Zet daarna laag tot middellaag: het water moet net onder de kook blijven, met alleen kleine belletjes.",
       "Breek elk ei eerst in een kopje en laat het voorzichtig in het water glijden. Pocheer 3–5 minuten: na circa 3½–4 minuten is het wit stevig en de dooier nog zacht.",
@@ -879,15 +883,15 @@ window.RECIPES = [
     "ingredients": [
       "300 g fijne sperziebonen",
       "100 g farinha de trigo T55 sem fermento (tarwebloem T55 zonder rijsmiddel)",
-      "1 ei",
-      "100 ml ijskoud bier + 20–50 ml ijskoud water",
+      "2 eieren",
+      "100 ml ijskoud bier",
       "zout en peper",
       "óleo de girassol om te bakken",
       "citroen"
     ],
     "steps": [
       "Breng ruim gezouten water aan de kook en blancheer de sperziebonen 4 minuten. Ze moeten heldergroen en net buigzaam zijn maar nog duidelijke beet hebben; giet af, koel kort en dep zeer goed droog.",
-      "Klop bloem, ei en 100 ml ijskoud bier met een snuf zout en peper tot een glad, vrij dik beslag. Voeg alleen zo veel ijskoud water toe dat het beslag aan een boon blijft hangen maar langzaam afdruipt, en laat het 20–30 minuten rusten; bier en rusttijd geven een lichtere, krokantere korst.",
+      "Klop bloem, de 2 eieren en 100 ml ijskoud bier met een snuf zout en peper tot een glad beslag. Laat 20–30 minuten rusten; na het rusten moet het beslag een dunne maar gesloten laag rond een boon vormen. Is het uitzonderlijk dik, verdun dan hooguit met 1 el koud water.",
       "Verhit 3–4 cm zonnebloemolie tot 175–180 °C. Doop 3–5 bonen tegelijk in het beslag en laat overtollig beslag enkele seconden afdruipen.",
       "Frituur in kleine porties 2–3 minuten, eenmaal keren, tot de buitenkant goud en krokant is. Wacht tussen porties tot de olie weer minstens 175 °C is; te koude olie maakt het beslag vet.",
       "Laat 1 minuut uitlekken op een rooster of keukenpapier en bestrooi licht met zout. Serveer onmiddellijk met citroen apart, zodat het beslag krokant blijft."
@@ -899,8 +903,8 @@ window.RECIPES = [
     "attention": "De naam betekent letterlijk “visjes uit de tuin”: de bonen worden door het beslag visachtig van vorm. Dit is een oud Portugees groentegerecht, niet een moderne vegetarische imitatie.",
     "variations": [],
     "nutrition": {
-      "kcal": 320,
-      "protein": 9,
+      "kcal": 340,
+      "protein": 12,
       "carbs": 40,
       "fat": 14
     }
@@ -1064,23 +1068,23 @@ window.RECIPES = [
     "imageAlt": "Atum à Brás",
     "ingredients": [
       "2 blikjes atum em azeite (tonijn in olijfolie) of atum ao natural (tonijn naturel), ca. 170 g uitgelekt totaal",
-      "250 g batata palha (krokante aardappelreepjes)",
-      "1 grote ui, in dunne halve ringen",
-      "2 tenen knoflook",
-      "4 eieren",
+      "100 g batata palha (krokante aardappelreepjes)",
+      "1 middelgrote ui, in dunne halve ringen",
+      "1 teen knoflook",
+      "2 eieren + 1 eidooier",
       "2 el olijfolie",
       "peterselie",
-      "40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
+      "30–40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "peper",
       "zout indien nodig"
     ],
     "steps": [
-      "Verhit olijfolie op laag tot middellaag vuur. Fruit de ui 12–15 minuten tot hij heel zacht en zoet is zonder donkerbruin te worden; voeg knoflook alleen de laatste minuut toe.",
-      "Voeg de uitgelekte tonijn toe en zet het vuur middelhoog. Schep 1 minuut om, alleen om de tonijn op te warmen; breek hem niet volledig fijn.",
-      "Voeg ongeveer twee derde van de batata palha toe en schep 1 minuut om. Zet daarna het vuur laag.",
-      "Klop de eieren met peper en peterselie alleen tot dooier en wit gemengd zijn. Giet ze in de pan en schep 1–2 minuten rustig om.",
-      "Haal de pan van het vuur zodra het ei romig gebonden maar nog zichtbaar glanzend is. De restwarmte gaart het ei verder; wacht niet tot het in de pan droog lijkt.",
-      "Meng de resterende batata palha erdoor en werk af met olijven. Serveer onmiddellijk, zodat een deel van de aardappel krokant blijft."
+      "Verhit olijfolie op laag tot middellaag vuur. Fruit de ui 10–12 minuten tot hij volledig zacht en licht goud is; voeg knoflook alleen de laatste minuut toe.",
+      "Voeg de uitgelekte tonijn toe en kook 2–3 minuten op middellaag vuur, rustig omscheppend. De tonijn moet heet zijn maar nog in grove vlokken liggen.",
+      "Voeg ongeveer twee derde van de batata palha toe en meng 30–60 seconden. Zet daarna het vuur laag.",
+      "Klop de 2 hele eieren met peper en peterselie. Giet in de pan en schep 1–2 minuten rustig om, tot het ei romig bindt maar nog duidelijk glanst.",
+      "Haal de pan volledig van het vuur en meng nu pas de losse eidooier erdoor. De dooier maakt het gerecht romiger zonder dat je het ei langer hoeft te garen.",
+      "Meng de resterende batata palha erdoor, werk af met olijven en serveer onmiddellijk. Wacht niet: aardappel en ei worden snel droger."
     ],
     "technique": {
       "title": "EI PAS OP HET EINDE",
@@ -1089,10 +1093,10 @@ window.RECIPES = [
     "attention": "Dit is bewust geen traditioneel oud gerecht, maar een moderne, snelle afgeleide van Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei) en precies het soort voorraadkastmaaltijd dat logisch is voor een doordeweekse avond.",
     "variations": [],
     "nutrition": {
-      "kcal": 1130,
-      "protein": 45,
-      "carbs": 77,
-      "fat": 72
+      "kcal": 650,
+      "protein": 34,
+      "carbs": 30,
+      "fat": 44
     }
   },
   {
@@ -1157,34 +1161,34 @@ window.RECIPES = [
     "ingredients": [
       "180 g arroz agulha português (Portugese langkorrelrijst)",
       "2 blikjes atum em azeite (tonijn in olijfolie), ca. 170 g uitgelekt totaal",
-      "1 ui",
-      "2 tenen knoflook",
-      "1 laurierblad",
-      "3 el olijfolie",
-      "450 ml water",
+      "1 middelgrote ui, fijngehakt",
+      "¼ rode paprika, in kleine blokjes",
+      "¼ groene paprika, in kleine blokjes",
+      "2 el polpa de tomate (tomatenpuree/passata)",
+      "1½ el olijfolie",
+      "400–450 ml kokend water",
       "peterselie",
-      "peper",
-      "eventueel 75 g queijo Flamengo ralado (geraspte milde Portugese Flamengo-kaas); queijo da Ilha (pittige Azorenkaas) kan voor een krachtigere smaak"
+      "zout en zwarte peper"
     ],
     "steps": [
-      "Verhit olijfolie op middellaag vuur. Fruit ui 5–6 minuten tot glazig; voeg knoflook en laurier de laatste minuut toe zonder te laten bruinen.",
-      "Voeg de rijst toe en roer 1 minuut zodat alle korrels met olie bedekt zijn. Voeg 450 ml kokend water toe en breng opnieuw aan de kook.",
-      "Zet het vuur laag, dek af en laat 10–12 minuten rustig koken zonder voortdurend te roeren. Controleer vanaf 9 minuten: de rijst is klaar wanneer het water is opgenomen en de korrels gaar maar los zijn.",
-      "Haal de pan van het vuur en laat 3 minuten afgedekt staan. Maak de rijst los met een vork en schep de uitgelekte tonijn erdoor; de restwarmte is genoeg om hem op te warmen zonder uit te drogen.",
-      "Meng eventueel een kleine hoeveelheid geraspte queijo erdoor terwijl de rijst nog heet is. Gebruik alleen genoeg om smaak te geven, niet om een kaassaus te maken.",
-      "Werk af met peterselie en peper en proef pas daarna op zout. Serveer direct."
+      "Verhit de olijfolie op middellaag vuur en fruit de ui 5–6 minuten tot zacht en glazig.",
+      "Voeg paprika, uitgelekte tonijn en polpa de tomate toe. Zet middelhoog en bak 4 minuten, af en toe omscheppend, tot de paprika iets zachter is en de tomaat niet meer rauw ruikt.",
+      "Roer de rijst erdoor en voeg 400 ml kokend water en een kleine snuf zout toe. Breng snel aan de kook.",
+      "Dek af, zet laag en laat 10–12 minuten rustig koken. Kijk vanaf 9 minuten: de rijst is klaar wanneer het water vrijwel is opgenomen en de korrels zacht maar los zijn; voeg alleen zo nodig nog 50 ml heet water toe.",
+      "Haal van het vuur en laat 3 minuten afgedekt staan. Maak los met een vork en proef op zout en peper.",
+      "Werk af met peterselie en serveer direct."
     ],
     "technique": {
       "title": "TONIJN LAAT TOEVOEGEN",
       "text": "Bliktonijn is al gaar. Laat hem alleen de laatste paar minuten mee warmen; langdurig meekoken maakt de vis droog en vezelig."
     },
-    "attention": "Dit is functioneel thuiskoken: goedkoop, snel en gemaakt uit dingen die vaak al in de kast staan.",
+    "attention": "Gebruik hier arroz agulha (Portugese langkorrelrijst), niet carolino: dit gerecht hoort losser en droger te zijn dan een malandrinho-rijst.",
     "variations": [],
     "nutrition": {
-      "kcal": 560,
-      "protein": 25,
-      "carbs": 63,
-      "fat": 23
+      "kcal": 440,
+      "protein": 27,
+      "carbs": 58,
+      "fat": 12
     }
   },
   {
@@ -1580,16 +1584,16 @@ window.RECIPES = [
       "zout indien nodig"
     ],
     "steps": [
-      "Verwarm de oven volledig voor op 190 °C. Bekleed een taartvorm van ongeveer 24 cm met deeg, druk het zonder uitrekken in de hoeken en prik de bodem 8–10 keer met een vork.",
+      "Verwarm de oven volledig voor op 180 °C. Bekleed een taartvorm van ongeveer 24 cm met deeg, druk het zonder uitrekken in de hoeken en prik de bodem 8–10 keer met een vork.",
       "Verhit olijfolie op middellaag vuur en fruit de ui 8–10 minuten tot volledig zacht en glazig. Laat 5 minuten afkoelen; een hete vulling laat het eimengsel te vroeg stollen.",
       "Verdeel ui en zeer goed uitgelekte tonijn in een gelijkmatige laag over de bodem. Houd de vulling los en laat ongeveer 1 cm rand vrij.",
       "Klop eieren, melk, peper, nootmuskaat en peterselie alleen tot homogeen. Giet langzaam over de vulling; de vloeistof moet net onder de bovenrand van het deeg blijven.",
-      "Bak 30–35 minuten op 190 °C. De quiche is klaar wanneer de rand stevig is en het midden bij zacht schudden nog slechts heel licht trilt, niet vloeibaar golft.",
+      "Bak 30–35 minuten op 180 °C. De quiche is klaar wanneer de rand stevig is en het midden bij zacht schudden nog slechts heel licht trilt, niet vloeibaar golft. Wordt het deeg bleek, geef dan maximaal enkele minuten extra.",
       "Laat 10 minuten op een rooster rusten vóór het aansnijden. De vulling zet dan verder zonder droog te worden."
     ],
     "technique": {
       "title": "WANNEER BLIND BAKKEN?",
-      "text": "Bij een vrij droge vulling zoals deze hoeft het meestal niet. Gebruik je veel vochtige groenten, bak de bodem dan 10 minuten voor met bakpapier en bakbonen zodat hij niet zompig wordt."
+      "text": "Voor een extra krokante bodem kun je het deeg 10–15 minuten blind voorbakken met bakpapier en bakgewichten. Dat is vooral nuttig bij een vochtige vulling; bij deze relatief droge tonijnvulling is het optioneel."
     },
     "attention": "Bak de quiche niet tot hij overal keihard gestold is. Een midden dat nog heel licht trilt wordt tijdens het rusten precies stevig genoeg en blijft sappiger.",
     "variations": [],
@@ -1609,7 +1613,7 @@ window.RECIPES = [
       "Doordeweeks",
       "meal prep"
     ],
-    "time": "45 minuten",
+    "time": "55 minuten",
     "servings": "3–4 personen",
     "intro": "Ovenpasta met tonijn is hedendaags comfort food: één schaal, goedkope ingrediënten en genoeg voor de volgende dag. Portugese versies variëren sterk; de kern is meestal tonijn, pasta, tomaat en een kleine hoeveelheid romige saus of kaas voor een goudbruine bovenkant.",
     "image": "images/31-massa-de-atum-no-forno.jpg",
@@ -1626,12 +1630,12 @@ window.RECIPES = [
       "peper en oregano of peterselie"
     ],
     "steps": [
-      "Verwarm de oven voor op 200 °C. Kook de pasta in ruim gezouten water 2 minuten korter dan de al-dente-tijd op de verpakking, giet af en bewaar 100 ml kookwater.",
+      "Verwarm de oven voor op 180 °C. Kook de pasta in ruim gezouten water 2 minuten korter dan de al-dente-tijd op de verpakking, giet af en bewaar 100 ml kookwater.",
       "Verhit olijfolie op middellaag vuur. Fruit ui 5–6 minuten tot glazig, voeg knoflook 30 seconden toe en daarna tomaat; laat 8 minuten op middelhoog vuur inkoken tot de saus dik genoeg is om aan een lepel te blijven hangen.",
       "Zet het vuur laag, voeg tonijn toe en warm 1 minuut mee. Meng pasta erdoor en voeg 50–100 ml kookwater toe tot alles sappig maar niet waterig is.",
       "Doe in een ovenschaal en verdeel béchamel of natas in een dunne laag bovenop. Strooi 50–75 g kaas gelijkmatig erover.",
-      "Bak 15–20 minuten op 200 °C tot de rand borrelt en de kaas goudbruine plekken heeft. Zet eventueel de grill alleen de laatste 1–2 minuten aan als de schotel heet is maar nog weinig kleur heeft.",
-      "Laat 5 minuten rusten vóór het opscheppen. De pasta hoort nog duidelijke beet en voldoende saus tussen de stukken te hebben."
+      "Bak 25–35 minuten op 180 °C tot de saus langs de randen duidelijk borrelt en de kaas goudbruine plekken heeft. Is de schotel na 25 minuten door en door heet maar nog bleek, zet de grill alleen de laatste 1–2 minuten aan.",
+      "Laat 5 minuten rusten vóór het opscheppen. De pasta hoort nog beet te hebben en er moet voldoende romige saus tussen de stukken zitten; een droge ovenschotel heeft te lang gebakken."
     ],
     "technique": {
       "title": "PASTA VOOR DE OVEN",
