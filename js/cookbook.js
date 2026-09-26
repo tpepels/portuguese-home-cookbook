@@ -164,8 +164,8 @@
       <p>Het boek is bewust vleesvrij. Vis, schaal- en schelpdieren, eieren en zuivel blijven onderdeel van de keuken. Waar een Portugees recept vaak voorkennis veronderstelt — bijvoorbeeld bij <em>arroz malandrinho</em> (sappige bouillonrijst), <em>à Brás</em> (met fijne aardappel en romig ei) of <em>açorda</em> (Portugees broodgerecht) — wordt de techniek expliciet uitgelegd.</p>
       <p>Proef tijdens het koken. Bacalhau (gezouten kabeljauw), blikvis, olijven en kant-en-klare bouillon kunnen sterk verschillen in zoutgehalte, terwijl rijst, brood en peulvruchten juist veel smaak opnemen. De opgegeven tijden zijn daarom richtlijnen: gaarheid, textuur en smaak gaan voor de klok.</p>
       <div class="editorial-note">
-        <strong>Oven & maatvoering</strong>
-        <span>Temperaturen zijn voor een conventionele oven. Gebruik bij hetelucht doorgaans 10–20 °C minder. Lepels zijn afgestreken eet- en theelepels; groenten en vis zijn gewichten vóór bereiding tenzij anders vermeld. De voedingswaarden zijn indicatieve schattingen per portie, opnieuw berekend uit de opgegeven hoeveelheden met gemiddelde productwaarden. Bij frituren is een realistische olie-opname meegerekend; optionele ingrediënten tellen niet mee. Bij merkproducten en portiegroottes kunnen de werkelijke waarden afwijken — controleer daarvoor het etiket.</span>
+        <strong>Vuur, oven & maatvoering</strong>
+        <span>Vuurstanden zijn relatief: laag = nauwelijks borrelen of zacht stollen; middellaag = rustig pruttelen of zacht bakken zonder snelle bruining; middelhoog = duidelijk sissen en actief pruttelen; hoog = snel aan de kook brengen, hard bakken of grillen. Gebruik altijd óók het eindpunt in de stap — kleur, textuur en gaarheid gaan voor de klok. Temperaturen zijn voor een conventionele oven; gebruik bij hetelucht doorgaans 10–20 °C minder. Lepels zijn afgestreken eet- en theelepels; groenten en vis zijn gewichten vóór bereiding tenzij anders vermeld. Voedingswaarden zijn indicatieve schattingen per portie; bij merkproducten blijft het etiket leidend.</span>
       </div>
     `);
 
