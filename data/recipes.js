@@ -282,12 +282,12 @@ window.RECIPES = [
     ],
     "time": "40 minuten",
     "servings": "2–3 personen",
-    "intro": "Arroz de marisco (zeevruchtenrijst) is een bekende familie- en weekendmaaltijd. De kern is niet een enorme hoeveelheid luxe zeevruchten, maar arroz carolino (Portugese Carolino-rijst) die in een krachtige zeevruchtenbouillon gaart en zeer sappig wordt geserveerd.",
+    "intro": "Arroz de marisco (zeevruchtenrijst) is Portugese familie- en weekendkeuken: arroz carolino (Portugese Carolino-rijst) gaart in krachtige zeevruchtenbouillon en wordt zeer sappig geserveerd.",
     "image": "images/4a-arroz-de-marisco-malandrinho.jpg",
     "imageAlt": "Arroz de marisco malandrinho",
     "ingredients": [
-      "SNEL — 1 verpakking Mariscada Auchan sem glúten (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
-      "FANCY — vervang door 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); gebruik de garnalenschalen voor de bouillon",
+      "SNEL — Mariscada Auchan sem glúten (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
+      "FANCY — 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); maak bouillon van de garnalenschalen",
       "200 g arroz carolino (Portugese Carolino-rijst)",
       "1 ui, fijngehakt",
       "3 tenen knoflook",
@@ -302,12 +302,12 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Voor de snelle versie: laat de Mariscada 12 uur in de koelkast ontdooien en uitlekken. Voor de fancy versie: pel de garnalen, kook schalen en koppen 10–15 minuten zacht in 1 liter water en zeef; spoel amêijoas en mosselen goed.",
+      "Snel: laat de Mariscada 12 uur in de koelkast ontdooien en uitlekken. Fancy: pel de garnalen, kook schalen en koppen 10–15 minuten zacht in 1 liter water en zeef; spoel amêijoas en mosselen.",
       "Verhit olijfolie op middellaag vuur. Fruit ui 5 minuten tot glazig; voeg knoflook, paprika en laurier toe en bak nog 2 minuten.",
       "Voeg tomate pelado toe en zet middelhoog. Laat 5 minuten inkoken tot de tomaat dikker en zoeter ruikt; voeg wijn toe en laat 1–2 minuten stevig pruttelen.",
       "Voeg arroz carolino en 650 ml hete bouillon toe. Breng aan de kook, zet daarna laag tot middellaag en laat 8 minuten rustig pruttelen; roer om de paar minuten over de bodem.",
-      "Voeg nu de zeevruchten toe. Voor de snelle mix: houd de gaartijd van de verpakking aan, doorgaans circa 6–8 minuten. Voor de fancy versie: voeg mosselen en amêijoas eerst toe en de garnalen pas de laatste 3–4 minuten.",
-      "Proef de rijst na ongeveer 15 minuten totale rijsttijd. Zet het vuur uit zodra de korrel gaar is maar er nog royaal bouillon rond staat; voeg per keer 75–100 ml hete bouillon toe als de pan eerder droog dreigt te worden.",
+      "Voeg de zeevruchten toe. Snel: reken doorgaans 6–8 minuten of volg het etiket. Fancy: voeg mosselen en amêijoas eerst toe en de garnalen pas de laatste 3–4 minuten.",
+      "Proef na ongeveer 15 minuten totale rijsttijd. Zet het vuur uit zodra de korrel gaar is en er nog royaal bouillon rond staat; dreigt de pan eerder droog te worden, voeg dan 75–100 ml hete bouillon toe.",
       "Gooi bij hele schelpdieren gesloten exemplaren weg. Meng koriander en piripíri door de rijst, proef op zout en serveer onmiddellijk."
     ],
     "variations": [],
@@ -484,12 +484,12 @@ window.RECIPES = [
       "eventueel een dun laagje pão ralado fino (fijn paneermeel)"
     ],
     "steps": [
-      "Verwarm de oven voor op 200 °C. Bak de aardappelblokjes in olie van 175–180 °C in 5–7 minuten licht goud en net gaar; ze hoeven niet krokant te worden. Laat goed uitlekken.",
+      "Verwarm de oven voor op 180 °C. Bak de aardappelblokjes in olie van 175–180 °C in 5–7 minuten licht goud en net gaar; ze hoeven niet krokant te worden. Laat goed uitlekken.",
       "Verhit 3 el olijfolie op middellaag vuur. Fruit ui 8–10 minuten tot zacht en glazig; voeg knoflook 1 minuut toe en daarna bacalhau. Warm 2–3 minuten mee en zet het vuur uit.",
       "Smelt boter in een steelpan op middellaag vuur, roer bloem erdoor en gaar 1½–2 minuten zonder te kleuren. Voeg de melk in 3–4 porties kloppend toe en laat 3–5 minuten zacht koken tot de saus de achterkant van een lepel dun bedekt; roer natas, peper en nootmuskaat erdoor.",
       "Meng aardappel, bacalhau en ongeveer twee derde van de saus. Schep slechts tot alles bedekt is; proef op zout voordat er iets extra bij gaat.",
       "Doe in een ovenschaal en verdeel de rest van de saus erover. Strooi eventueel een flinterdun laagje pão ralado over de bovenkant.",
-      "Bak 15–20 minuten op 200 °C tot de saus langs de randen borrelt en de bovenkant goudbruin is. Laat 5 minuten rusten voordat je opschept; de saus wordt dan iets steviger."
+      "Bak 15–20 minuten op 180 °C, tot de saus langs de randen duidelijk borrelt en de bovenkant goud kleurt. Laat 5 minuten rusten voordat je opschept; de saus wordt dan iets steviger."
     ],
     "technique": {
       "title": "LICHTE BÉCHAMEL",
@@ -1856,12 +1856,12 @@ window.RECIPES = [
     ],
     "time": "30 minuten",
     "servings": "2–3 personen",
-    "intro": "Rissóis (gevulde Portugese deeghapjes) worden thuis soms zelf gemaakt, maar veel vaker liggen ze kant-en-klaar in diepvries of delicatessenzaak. Met arroz de tomate (tomatenrijst) ernaast ontstaat een heel normaal Portugees bord: iets krokants uit de frituur of oven naast zachte, sappige rijst.",
+    "intro": "Rissóis (gevulde Portugese deeghapjes) uit diepvries of pastelaria vormen met sappige arroz de tomate (tomatenrijst) een heel normaal Portugees bord: krokant naast zacht.",
     "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
     "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "ingredients": [
-      "SNEL — 1 verpakking Auchan rissóis de camarão para forno/airfryer, 8 stuks / 360 g, rechtstreeks uit de diepvries; rissóis de bacalhau kunnen op dezelfde manier als hun etiket aangeeft",
-      "FANCY — gebruik 8 verse, ambachtelijke rissóis van pastelaria/charcutaria; kies exemplaren met duidelijke garnalen- of bacalhauvulling in plaats van een zeer dikke deeglaag",
+      "SNEL — Auchan rissóis de camarão para forno/airfryer, 8 stuks / 360 g, rechtstreeks uit de diepvries",
+      "FANCY — 8 verse ambachtelijke rissóis van pastelaria/charcutaria, met garnalen- of bacalhauvulling",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui",
       "2 tenen knoflook",
@@ -1872,9 +1872,9 @@ window.RECIPES = [
       "koriander of peterselie"
     ],
     "steps": [
-      "Voor de Auchan-rissóis de camarão: niet ontdooien. Oven: voorverwarmen op 220 °C en 8–13 minuten bakken op het middelste niveau; airfryer: 7–9 minuten op 180 °C. Stop wanneer de korst rondom krokant en heet is. Gebruik je een ander merk of rissóis de bacalhau, volg dan het etiket; verse ambachtelijke rissóis hebben meestal korter nodig.",
+      "Auchan diepvries: niet ontdooien. Oven: 8–13 minuten op 220 °C; airfryer: 7–9 minuten op 180 °C. Stop wanneer de korst rondom krokant en de vulling heet is. Voor een ander merk geldt het etiket; verse ambachtelijke rissóis hebben meestal korter nodig.",
       "Begin de rijst ongeveer 20 minuten vóór de rissóis klaar moeten zijn. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
-      "Voeg tomate pelado en laurier toe en laat 5–7 minuten op middelhoog vuur stoven tot de tomaat dikker en zoeter ruikt. De basis is klaar wanneer een spatel een spoor over de bodem trekt dat niet meteen volloopt.",
+      "Voeg tomate pelado en laurier toe en stoof 5–7 minuten op middelhoog vuur. De basis is klaar wanneer de tomaat dikker en zoeter ruikt en een spatel kort een spoor over de bodem trekt.",
       "Voeg arroz carolino en 500 ml heet water toe. Breng aan de kook, zet laag tot middellaag en laat 15–18 minuten zacht pruttelen; roer af en toe en voeg alleen extra heet water toe als de rijst vóór het gaar zijn droogvalt.",
       "Zet het vuur uit zodra de rijst gaar maar nog lepelbaar en sappig is. Proef op zout en werk af met koriander of peterselie.",
       "Laat gefrituurde rissóis 1 minuut uitlekken en serveer ze naast de rijst. Leg ze nooit op de rijst en dek ze niet af, zodat de korst krokant blijft."
@@ -1883,7 +1883,7 @@ window.RECIPES = [
       "title": "FRITUREN ZONDER VETTIG RESULTAAT",
       "text": "Als je frituurt, houd de olie rond 175–180 °C en bak niet te veel stuks tegelijk. Te koude olie wordt door het paneermeel opgenomen; te hete olie kleurt buiten voordat de vulling warm is."
     },
-    "attention": "Leg de rissóis (gevulde Portugese deeghapjes) naast de arroz de tomate (tomatenrijst) en niet erop. De stoom en het vocht van de rijst maken de krokante korst anders binnen enkele minuten zacht.",
+    "attention": "Serveer de rissóis naast de arroz de tomate (tomatenrijst), nooit erop. Stoom van de rijst maakt de krokante korst snel zacht.",
     "variations": [],
     "nutrition": {
       "kcal": 770,
