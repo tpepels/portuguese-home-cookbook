@@ -753,11 +753,11 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Kook de eieren hard en snijd in parten. Koel ze kort in koud water zodat het garen stopt en de dooier mooi geel blijft in plaats van grijs aan de rand.",
-      "Meng bonen, ui, peterselie en uitgelekte tonijn. Schep voorzichtig zodat de tonijn in grove stukken blijft en de bonen niet kapot worden gedrukt.",
-      "Meng olijfolie met wijnazijn, peper en zo nodig een beetje zout. Begin met iets minder zuur dan je denkt nodig te hebben; je kunt na het mengen makkelijker nog een scheutje toevoegen.",
-      "Schep de dressing door de salade en leg de eieren erop. Laat de salade vijf minuten staan en proef dan opnieuw, omdat de bonen een deel van zout, olie en zuur opnemen.",
-      "Serveer op kamertemperatuur. Dan proef je de olijfolie, ui en tonijn duidelijker dan wanneer de salade ijskoud uit de koelkast komt."
+      "Leg de eieren in koud water, breng aan de kook en kook 9 minuten vanaf het moment dat het water zacht kookt. Koel direct 2 minuten in koud water, pel en snijd in parten.",
+      "Spoel de feijão-frade kort als hij uit blik of pot komt en laat minstens 5 minuten zeer goed uitlekken. Meng bonen, ui en peterselie; voeg de tonijn in grove vlokken als laatste toe.",
+      "Klop olijfolie, wijnazijn en zwarte peper 20 seconden los. Proef de dressing vóór het zouten; tonijn en bonen uit blik kunnen al voldoende zout bevatten.",
+      "Schep de dressing voorzichtig door de salade en laat 5–10 minuten op kamertemperatuur staan. Proef daarna opnieuw: de bonen zijn klaar wanneer ze duidelijk gekruid smaken zonder in een plas dressing te liggen.",
+      "Leg de eieren erop en serveer op kamertemperatuur. Komt de salade uit de koelkast, haal hem 10–15 minuten vóór het eten eruit."
     ],
     "technique": {
       "title": "OP KAMERTEMPERATUUR SERVEREN",
@@ -796,12 +796,12 @@ window.RECIPES = [
       "eventueel een klein scheutje azijn"
     ],
     "steps": [
-      "Stamp knoflook, zout en koriander tot een grove pasta en meng met olijfolie. Werk tot een grove, vochtige pasta en niet tot een volledig gladde puree; zo blijven knoflook en kruiden herkenbaar in geur en textuur.",
-      "Verdeel dit over twee diepe kommen en leg het brood erbij. Verdeel knoflook, koriander en olie zo gelijk mogelijk, zodat elk stuk brood straks van dezelfde geurige basis en het hete water kan opnemen.",
-      "Breng het water aan de kook, eventueel met een heel klein scheutje azijn. Zodra het water kookt, zet je het vuur lager als je daarna iets kwetsbaars gaat pocheren of zacht garen; hard borrelen is dan niet nodig.",
-      "Pocheer de eieren in het water. Houd het water net onder de kook, breek elk ei eerst in een kopje en laat het voorzichtig in het rustige water glijden; zo blijft het wit beter rond de dooier.",
-      "Leg in elke kom een ei en giet er genoeg van het kokende pocheerwater over om het brood goed te verzadigen. Giet geleidelijk en stop zodra het brood helemaal zacht en sappig is; de açorda (Portugees broodgerecht) hoort niet in een plas water te liggen.",
-      "Laat een minuut staan en eet meteen. Die korte rust is alleen bedoeld om het brood het laatste hete vocht te laten opnemen; wacht langer en de açorda (Portugees broodgerecht) verliest haar sappige karakter."
+      "Stamp knoflook, ongeveer twee derde van de koriander en ½ tl grof zout tot een grove pasta. Roer de olijfolie erdoor; het mengsel moet geurig en vochtig zijn, niet volledig glad.",
+      "Verdeel de kruidenpasta over twee diepe kommen en leg het brood los erop. Druk het brood niet samen, zodat het hete vocht straks overal kan komen.",
+      "Breng 700 ml water op hoog vuur aan de kook. Zet daarna laag tot middellaag: het water moet net onder de kook blijven, met alleen kleine belletjes.",
+      "Breek elk ei eerst in een kopje en laat het voorzichtig in het water glijden. Pocheer 3–5 minuten: na circa 3½–4 minuten is het wit stevig en de dooier nog zacht.",
+      "Leg in elke kom een ei. Giet het zeer hete pocheerwater in 2–3 porties over brood en kruiden; wacht telkens ongeveer 20–30 seconden en stop zodra het brood volledig zacht en sappig is maar niet in water drijft.",
+      "Laat 1 minuut staan, werk af met de resterende koriander en proef het vocht. Serveer meteen; langer wachten maakt het brood steeds papperiger."
     ],
     "technique": {
       "title": "HETE VLOEISTOF OP BROOD",
@@ -843,12 +843,12 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Fruit ui en knoflook langzaam in olijfolie. Laat de ui zacht en zoet worden zonder bruine randjes en laat de knoflook pas op het einde kort geuren.",
-      "Voeg paprika, laurier en tomaat toe en laat 10 minuten stoven. Laat de tomaat echt instorten tot de rauwe geur verdwenen is en de saus iets geconcentreerd smaakt; dat vormt de zoete basis van het gerecht.",
-      "Voeg water toe en laat nog ongeveer 10 minuten zacht koken. Laat de soep rustig pruttelen zodat tomaat, ui en paprika samen één bouillon vormen; hard koken laat vooral vocht verdampen zonder extra smaak op te bouwen.",
-      "Breek de eieren rechtstreeks in de soep en pocheer ze tot het wit gestold is. Maak met een lepel kleine kuiltjes, laat de eieren daarin glijden en laat de soep slechts zacht pruttelen zodat de dooiers heel blijven.",
-      "Leg brood in diepe borden en schep soep en ei erover. Giet eerst wat tomatenbouillon over het brood en leg daarna het ei erop, zodat het brood week wordt zonder dat de dooier breekt.",
-      "Werk af met oregano of koriander. Proef de bouillon nog één keer op zout en peper; de tomaat moet fris en hartig blijven en niet door extra olie of zuur worden overstemd."
+      "Verhit de olijfolie op middellaag vuur. Fruit ui 7–8 minuten tot zacht en zoet zonder bruine randen; voeg knoflook de laatste 45 seconden toe.",
+      "Voeg paprika, laurier en tomaat toe en zet middelhoog. Laat 10–12 minuten stoven, roer om de paar minuten, tot de tomaat volledig is ingestort en de saus zichtbaar dikker en donkerder is.",
+      "Voeg 500 ml water toe en breng aan de kook. Zet laag en laat 8–10 minuten rustig pruttelen; proef daarna op zout en peper. De bouillon moet duidelijk naar tomaat en olijfolie smaken, niet waterig.",
+      "Maak met een lepel ruimte voor de eieren en laat ze één voor één in de zacht pruttelende soep glijden. Pocheer zonder roeren 4–5 minuten, tot het wit gestold is; dek eventueel de laatste minuut af.",
+      "Leg het brood in diepe borden en schep eerst hete tomatenbouillon erover. Wacht 30 seconden, leg daarna een ei op elk bord en voeg meer soep toe tot het brood zacht maar nog herkenbaar is.",
+      "Werk af met oregano of koriander en serveer direct. Is de soep te dik geworden, verdun dan vóór het opscheppen met een kleine scheut kokend water."
     ],
     "technique": {
       "title": "EI IN SOEP POCHEREN",
@@ -886,11 +886,11 @@ window.RECIPES = [
       "citroen"
     ],
     "steps": [
-      "Kook de sperziebonen 3–4 minuten voor in gezouten water. Giet af en droog goed.",
-      "Meng bloem, ei, zout, peper en genoeg koud water tot een beslag dat aan de bonen blijft hangen. Dep het oppervlak eerst droog en druk de paneerlaag slechts licht aan; laat hem een paar minuten rusten zodat de korst tijdens het bakken beter blijft zitten.",
-      "Doop enkele bonen tegelijk in het beslag. Laat overtollig beslag een paar seconden afdruipen; er moet een dunne, gelijkmatige laag om de boon blijven zitten en geen dikke deegklomp ontstaan.",
-      "Bak goudbruin in hete olie en laat uitlekken. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
-      "Serveer direct met citroen. Bestrooi desgewenst met een klein beetje fijn zout zodra de bonen uit de olie komen en geef de citroen apart, zodat de korst krokant blijft."
+      "Breng ruim gezouten water aan de kook en blancheer de sperziebonen 4 minuten. Ze moeten heldergroen en net buigzaam zijn maar nog duidelijke beet hebben; giet af, koel kort en dep zeer goed droog.",
+      "Klop bloem, ei, 120 ml ijskoud water, een snuf zout en peper tot een vrij dik beslag. Laat 5 minuten staan; het beslag moet aan een boon blijven hangen maar nog langzaam afdruipen. Voeg zo nodig per eetlepel extra water toe.",
+      "Verhit 3–4 cm zonnebloemolie tot 175–180 °C. Doop 3–5 bonen tegelijk in het beslag en laat overtollig beslag enkele seconden afdruipen.",
+      "Frituur in kleine porties 2–3 minuten, eenmaal keren, tot de buitenkant goud en krokant is. Wacht tussen porties tot de olie weer minstens 175 °C is; te koude olie maakt het beslag vet.",
+      "Laat 1 minuut uitlekken op een rooster of keukenpapier en bestrooi licht met zout. Serveer onmiddellijk met citroen apart, zodat het beslag krokant blijft."
     ],
     "technique": {
       "title": "BESLAG FRITUREN",
@@ -936,12 +936,12 @@ window.RECIPES = [
       "koriander of peterselie"
     ],
     "steps": [
-      "Marineer de pescada (heek) 15–30 minuten met knoflook, citroen, zout en peper. Een korte rusttijd is genoeg om het oppervlak op smaak te brengen; laat vis niet uren in veel citroensap liggen, want het zuur verandert de textuur.",
-      "Fruit voor de rijst ui en knoflook in olijfolie. Voeg tomaat toe en laat enkele minuten stoven.",
-      "Voeg arroz carolino (Portugese Carolino-rijst) en heet water toe. Kook zacht tot de rijst gaar maar nog duidelijk caldoso (bouillonachtig)/malandrinho (sappig en bouillonachtig) is.",
-      "Haal de vis achtereenvolgens door bloem, losgeklopt ei en pão ralado. Dep het oppervlak eerst droog en druk de paneerlaag slechts licht aan; laat hem een paar minuten rusten zodat de korst tijdens het bakken beter blijft zitten.",
-      "Bak goudbruin in een laag olie en laat uitlekken. Bak in kleine porties en houd de olie heet, ongeveer 175–180 °C; te koude olie wordt opgenomen en geeft een vettige in plaats van krokante korst.",
-      "Werk de rijst af met koriander of peterselie en serveer direct met de filetes. Houd wat extra hete vloeistof bij de hand en stop terwijl de rijst nog duidelijk sappig is; arroz carolino (Portugese Carolino-rijst) blijft ook na het vuur vocht opnemen."
+      "Dep de filetes droog en marineer 20–30 minuten in de koelkast met knoflook, citroensap, peper en weinig zout. Haal ze 5 minuten vóór het paneren uit de marinade en dep het oppervlak opnieuw droog.",
+      "Maak ondertussen de rijst. Verhit olijfolie op middellaag vuur, fruit ui 4–5 minuten en knoflook 30 seconden; voeg tomaat toe en laat 3–5 minuten stoven tot de rauwe geur weg is.",
+      "Voeg arroz carolino en 450 ml heet water toe, breng aan de kook en zet daarna laag. Laat 15–18 minuten rustig pruttelen; roer af en toe en voeg extra heet water toe als de rijst droogvalt. Stop wanneer de korrel gaar is en er nog duidelijk tomatenbouillon rond staat.",
+      "Zet drie borden klaar met bloem, losgeklopt ei en pão ralado. Haal elke filet eerst dun door bloem, daarna ei en ten slotte paneermeel; druk licht aan en laat de gepaneerde vis 5 minuten liggen.",
+      "Verhit 5–8 mm zonnebloemolie tot 175–180 °C. Bak de filets 2–3 minuten per kant, afhankelijk van dikte, tot de korst diep goud is en de vis vanbinnen opaak en net vlokkig is.",
+      "Laat de vis 1 minuut uitlekken en werk de rijst af met koriander of peterselie. Serveer direct met de krokante vis naast, niet op, de sappige arroz de tomate."
     ],
     "technique": {
       "title": "PANEREN",
@@ -983,12 +983,12 @@ window.RECIPES = [
       "peper"
     ],
     "steps": [
-      "Pocheer de bacalhau (gezouten kabeljauw) kort in water, haal eruit en verdeel in grove vlokken. Bewaar het kookvocht.",
-      "Fruit ui, knoflook en laurier in olijfolie. Voeg tomaat en paprika toe en laat goed zacht worden.",
-      "Voeg de rijst en ongeveer 550 ml heet kookvocht toe. Laat zacht pruttelen en houd extra kookvocht warm; koude vloeistof zou het garen telkens onderbreken.",
-      "Laat zacht koken en voeg zo nodig meer vocht toe. Kijk niet alleen naar de klok: zodra de rijst aan de bodem dreigt te pakken maar nog niet gaar is, voeg je een kleine scheut heet kookvocht toe.",
-      "Doe de bacalhau (gezouten kabeljauw) terug wanneer de rijst bijna gaar is. Schep de vlokken voorzichtig door de rijst zodat ze warm worden maar niet helemaal uit elkaar vallen.",
-      "Serveer zodra de rijst gaar en nog ruim vochtig is, met verse kruiden. Wacht niet in de pan: carolino-rijst blijft vocht opnemen en dan verdwijnt het malandrinho-karakter (sappige, bouillonachtige textuur)."
+      "Breng 750 ml water tot net onder de kook, ongeveer 85–90 °C. Pocheer de bacalhau 5–7 minuten tot hij net opaak is; haal eruit, verdeel in grove vlokken en houd minimaal 650 ml kookvocht heet.",
+      "Verhit olijfolie op middellaag vuur. Fruit ui 5 minuten, voeg knoflook en laurier 30 seconden toe en daarna tomaat en paprika; laat 6–8 minuten stoven tot de groenten zacht en de tomaat geconcentreerd is.",
+      "Voeg de rijst en 550 ml heet kookvocht toe. Breng aan de kook, zet laag tot middellaag en laat 10 minuten rustig pruttelen; roer om de paar minuten over de bodem.",
+      "Proef na 10 minuten en voeg zo nodig telkens 50–75 ml heet kookvocht toe. Laat nog 5–7 minuten garen tot de korrel bijna zacht is maar nog een klein stevig hart heeft.",
+      "Schep de bacalhau door de rijst en verwarm 2–3 minuten op laag vuur. Stop wanneer de vis heet is en de rijst volledig gaar, maar er nog royaal vocht rond de korrels staat.",
+      "Zet het vuur uit, meng kruiden erdoor en proef op peper en zout. Serveer binnen 2 minuten; carolino-rijst blijft snel vocht opnemen."
     ],
     "technique": {
       "title": "EERST POCHEREN, DAN TERUGVOEGEN",
@@ -1029,11 +1029,12 @@ window.RECIPES = [
       "peterselie"
     ],
     "steps": [
-      "Kook aardappel, wortel, erwten en sperziebonen afzonderlijk of samen tot net gaar. Laat volledig uitlekken en afkoelen.",
-      "Kook de eieren hard en snijd in parten. Koel ze kort in koud water en pel ze pas wanneer ze handelbaar zijn, zodat het eiwit heel blijft.",
-      "Meng de groenten voorzichtig met tonijn en genoeg mayonaise om alles licht te binden. De bedoeling is dat de afzonderlijke groenten zichtbaar blijven; gebruik dus minder mayonaise dan bij een zware, romige aardappelsalade.",
-      "Proef op zout en peper. Voeg eventueel een paar druppels citroen of azijn toe als de salade vlak smaakt, maar houd het frisse zuurtje ondergeschikt aan de groente en tonijn.",
-      "Leg de eieren erop en werk af met peterselie. Laat de salade voor het serveren kort koel worden, maar serveer hem niet ijskoud zodat de smaken herkenbaar blijven."
+      "Zet aardappel en wortel in koud gezouten water, breng aan de kook en laat 7 minuten zacht koken. Voeg sperziebonen toe voor nog 4–5 minuten en erwten alleen de laatste 2–3 minuten; alles moet gaar zijn maar zijn vorm behouden.",
+      "Giet de groenten onmiddellijk af en spreid ze 15–20 minuten uit op een brede schaal. Ze moeten volledig afgekoeld en droog aanvoelen voordat de mayonaise erbij gaat.",
+      "Kook de eieren 9 minuten, koel in koud water, pel en snijd in parten. Laat de tonijn zeer goed uitlekken.",
+      "Meng de koude groenten met de tonijn en eerst 3 el mayonaise. Schep van onder naar boven zodat aardappelblokjes heel blijven; voeg alleen de vierde lepel toe als de salade nog droog is.",
+      "Proef op zout en peper en voeg eventueel ½–1 tl citroensap of azijn toe. Zet 15 minuten koel, maar haal de salade 10 minuten vóór het serveren uit de koelkast.",
+      "Leg de eieren en peterselie pas vlak voor het serveren erop. De salade is goed wanneer de groenten licht gebonden zijn en niet in mayonaise verdwijnen."
     ],
     "technique": {
       "title": "GROENTEN GOED LATEN UITLEKKEN",
@@ -1074,12 +1075,12 @@ window.RECIPES = [
       "zout indien nodig"
     ],
     "steps": [
-      "Fruit ui en knoflook langzaam in olijfolie tot de ui zacht is. Laat de ui bijna smelten zonder hem bruin te bakken; dat geeft de zachte basis die een à Brás nodig heeft.",
-      "Voeg de uitgelekte tonijn toe en warm kort mee. Breek de tonijn in grove vlokken en houd deze stap kort, zodat hij sappig blijft voordat ei en aardappel erbij gaan.",
-      "Meng ongeveer twee derde van de batata palha (krokante aardappelreepjes) erdoor. Schep snel en losjes, zodat een deel van de aardappel het vocht opneemt terwijl er nog structuur overblijft.",
-      "Klop de eieren los met peper en gehakte peterselie. Klop alleen tot dooier en wit gemengd zijn; veel lucht is niet nodig, omdat het ei straks de aardappel en tonijn romig moet binden.",
-      "Zet het vuur laag en meng het ei door de pan. Stop terwijl het nog romig is.",
-      "Voeg de rest van de batata palha (krokante aardappelreepjes) en zwarte olijven toe. Schep deze laatste aardappel pas vlak voor het serveren erdoor, zodat een deel krokant blijft naast het romige eimengsel."
+      "Verhit olijfolie op laag tot middellaag vuur. Fruit de ui 12–15 minuten tot hij heel zacht en zoet is zonder donkerbruin te worden; voeg knoflook alleen de laatste minuut toe.",
+      "Voeg de uitgelekte tonijn toe en zet het vuur middelhoog. Schep 1 minuut om, alleen om de tonijn op te warmen; breek hem niet volledig fijn.",
+      "Voeg ongeveer twee derde van de batata palha toe en schep 1 minuut om. Zet daarna het vuur laag.",
+      "Klop de eieren met peper en peterselie alleen tot dooier en wit gemengd zijn. Giet ze in de pan en schep 1–2 minuten rustig om.",
+      "Haal de pan van het vuur zodra het ei romig gebonden maar nog zichtbaar glanzend is. De restwarmte gaart het ei verder; wacht niet tot het in de pan droog lijkt.",
+      "Meng de resterende batata palha erdoor en werk af met olijven. Serveer onmiddellijk, zodat een deel van de aardappel krokant blijft."
     ],
     "technique": {
       "title": "EI PAS OP HET EINDE",
@@ -1120,12 +1121,12 @@ window.RECIPES = [
       "piripíri (Portugese chili), optioneel"
     ],
     "steps": [
-      "Kook de pasta in ruim gezouten water net al dente en bewaar een kopje kookwater voordat je afgiet. Stop ongeveer één minuut vóór de aangegeven kooktijd; de pasta gaart later nog kort door in de saus.",
-      "Fruit ui en knoflook in olijfolie. Laat de ui rustig zacht worden en voeg de knoflook pas toe zodra hij nog maar een minuut nodig heeft, zodat die niet bitter wordt.",
-      "Voeg tomaat toe en laat 6–8 minuten inkoken. Laat de saus zacht borrelen tot hij niet meer waterig oogt en de olie aan de rand weer zichtbaar wordt; dan is de tomaat voldoende geconcentreerd.",
-      "Voeg tonijn en olijven toe en warm kort mee. Schep de tonijn pas vlak voor de pasta door de saus, zodat de vlokken herkenbaar en sappig blijven.",
-      "Meng de pasta door de saus. Gebruik wat kookwater om alles sappig te houden.",
-      "Werk af met kruiden en eventueel piripíri (Portugese chili). Proef eerst op peper en pit en pas daarna op zout, omdat tonijn en olijven al een flinke hartige basis geven."
+      "Breng een grote pan ruim gezouten water aan de kook. Kook de pasta 1 minuut korter dan de aangegeven al-dente-tijd en bewaar 150 ml kookwater vóór het afgieten.",
+      "Verhit olijfolie op middellaag vuur. Fruit ui 5 minuten tot glazig; voeg knoflook toe en bak nog 30–60 seconden zonder te kleuren.",
+      "Voeg tomaat toe, zet middelhoog en laat 6–8 minuten zacht borrelen. De saus is klaar voor de volgende stap wanneer hij dikker is en de olie weer licht zichtbaar wordt aan de rand.",
+      "Voeg olijven en tonijn toe en warm 1–2 minuten op laag vuur. Schep voorzichtig zodat de tonijn in grove vlokken blijft.",
+      "Voeg de pasta toe met eerst 50 ml kookwater. Schep 1–2 minuten op middellaag vuur tot de saus aan de pasta hecht; voeg meer kookwater per 1–2 el toe als het geheel droog wordt.",
+      "Zet het vuur uit, voeg kruiden en eventueel piripíri toe en proef op zout. Serveer zodra de pasta gaar maar nog stevig is en de saus glanzend aan de pasta kleeft."
     ],
     "technique": {
       "title": "PASTAWATER GEBRUIKEN",
@@ -1166,12 +1167,12 @@ window.RECIPES = [
       "eventueel 75 g queijo Flamengo ralado (geraspte milde Portugese Flamengo-kaas); queijo da Ilha (pittige Azorenkaas) kan voor een krachtigere smaak"
     ],
     "steps": [
-      "Fruit ui, knoflook en laurier in olijfolie. Laat de ui rustig zacht worden en zorg dat de knoflook alleen geurt; bruine knoflook zou in deze eenvoudige rijst snel bitter opvallen.",
-      "Voeg de uitgelekte tonijn toe en bak 2 minuten mee. Houd de stukken vrij grof en warm ze alleen door, zodat de tonijn niet uitdroogt voordat de rijst gaar is.",
-      "Voeg de rijst toe en roer kort om. Laat de korrels een minuut in de olie en smaakmakers meedraaien zodat ze gelijkmatig bedekt zijn voordat het water erbij gaat.",
-      "Voeg heet water toe en kook op laag vuur tot de rijst gaar is. Houd de pan grotendeels met rust en controleer tegen het einde vaker, zodat de bodem niet droog kookt terwijl de bovenste korrels nog hard zijn.",
-      "Meng er eventueel op het eind een kleine hoeveelheid geraspte kaas door. Doe dit van het vuur af en gebruik weinig: de rijst moet los en hartig blijven, niet veranderen in een zware kaassaus.",
-      "Werk af met peper en peterselie. Proef eerst voordat je zout toevoegt, omdat tonijn uit blik en eventuele kaas al behoorlijk zout kunnen zijn."
+      "Verhit olijfolie op middellaag vuur. Fruit ui 5–6 minuten tot glazig; voeg knoflook en laurier de laatste minuut toe zonder te laten bruinen.",
+      "Voeg de rijst toe en roer 1 minuut zodat alle korrels met olie bedekt zijn. Voeg 450 ml kokend water toe en breng opnieuw aan de kook.",
+      "Zet het vuur laag, dek af en laat 10–12 minuten rustig koken zonder voortdurend te roeren. Controleer vanaf 9 minuten: de rijst is klaar wanneer het water is opgenomen en de korrels gaar maar los zijn.",
+      "Haal de pan van het vuur en laat 3 minuten afgedekt staan. Maak de rijst los met een vork en schep de uitgelekte tonijn erdoor; de restwarmte is genoeg om hem op te warmen zonder uit te drogen.",
+      "Meng eventueel een kleine hoeveelheid geraspte queijo erdoor terwijl de rijst nog heet is. Gebruik alleen genoeg om smaak te geven, niet om een kaassaus te maken.",
+      "Werk af met peterselie en peper en proef pas daarna op zout. Serveer direct."
     ],
     "technique": {
       "title": "TONIJN LAAT TOEVOEGEN",
@@ -1200,9 +1201,10 @@ window.RECIPES = [
     "image": "images/22-legumes-a-bras.jpg",
     "imageAlt": "Legumes à Brás",
     "ingredients": [
-      "1 kleine prei, in halve ringen",
+      "1 kleine prei, in dunne halve ringen",
       "1 kleine courgette, in dunne reepjes",
       "1 wortel, geraspt of in fijne reepjes",
+      "OPTIONEEL KOOL — 150 g couve coração (spitskool) of couve branca (witte kool), zeer fijn gesneden; vervang hiermee ongeveer de helft van de courgette",
       "250 g batata palha (krokante aardappelreepjes)",
       "4 eieren",
       "2–3 el olijfolie",
@@ -1211,19 +1213,22 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Bak prei rustig in olijfolie. Laat hem zacht en zoet worden zonder veel kleur; hij vormt de zachte basis die in de klassieke à Brás door ui wordt geleverd.",
-      "Voeg courgette en wortel toe en laat enkele minuten zacht worden zonder alles tot moes te koken. Stop zodra de groenten gaar maar nog herkenbaar zijn, want ze garen verder wanneer aardappel en ei erbij komen.",
-      "Meng de batata palha (krokante aardappelreepjes) erdoor. Werk snel zodat een deel van de aardappel het vocht opneemt terwijl een ander deel nog wat krokant blijft.",
-      "Klop de eieren los met peper en kruiden. Klop alleen tot dooier en wit gemengd zijn; veel lucht is hier niet nodig, omdat het ei vooral alles romig moet binden.",
-      "Zet het vuur laag, voeg het ei toe en roer tot het romig bindt. Haal de pan van het vuur terwijl het nog glanst: restwarmte maakt het ei in enkele seconden verder gaar.",
-      "Serveer direct met zwarte olijven. Wachten maakt zowel het ei droger als de batata palha (krokante aardappelreepjes) zachter, dus dit gerecht hoort meteen op tafel."
+      "Verhit olijfolie op middellaag vuur. Bak prei 5–6 minuten tot zacht en zoet maar niet bruin.",
+      "Voeg wortel en eventueel de fijn gesneden kool toe en bak 3 minuten op middelhoog vuur. Voeg courgette toe en bak nog 3–4 minuten tot de groenten gaar zijn maar nog structuur hebben en vrijgekomen vocht grotendeels is verdampt.",
+      "Zet het vuur middellaag en meng ongeveer twee derde van de batata palha erdoor. Schep 1 minuut om zodat een deel wat vocht opneemt.",
+      "Klop de eieren los met peper en kruiden. Zet het vuur laag, giet het ei erbij en schep 1–2 minuten rustig om.",
+      "Haal de pan van het vuur zodra het ei bindt maar nog glanzend is. Meng de resterende batata palha erdoor voor een krokant element.",
+      "Werk af met olijven en serveer direct. Als er water onderin de pan staat vóór het ei erbij gaat, bak de groenten eerst nog 1–2 minuten op hoger vuur droog."
     ],
     "technique": {
       "title": "GROENTEN EERST DROOG BAKKEN",
       "text": "Laat courgette en andere waterige groenten eerst vocht verliezen voordat aardappel en ei erbij gaan. Anders wordt de batata palha (krokante aardappelreepjes) slap en bindt het ei slecht."
     },
     "attention": "De techniek is dezelfde als bij Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei). De moderne groenteversie is inmiddels een gewone Portugese vegetarische oplossing; houd vooral het ei romig.",
-    "variations": [],
+    "variations": [
+      "Couve coração (spitskool) geeft een milde, zoete variant en ligt breed in Portugese supermarkten.",
+      "Couve roxa (rode kool) is minder geschikt voor à Brás; gebruik die liever rauw en zeer fijn gesneden in een salade."
+    ],
     "nutrition": {
       "kcal": 800,
       "protein": 18,
@@ -1254,11 +1259,11 @@ window.RECIPES = [
       "zout en peper"
     ],
     "steps": [
-      "Klop de eieren los met zout en peper. Klop alleen tot wit en dooier homogeen zijn; te veel lucht geeft een drogere, sponsachtige omelet in plaats van een zachte vulling.",
-      "Meng tonijn, ui, knoflook en peterselie erdoor. Breek de tonijn slechts grof en roer net genoeg om de vulling te verdelen, zodat de omelet niet zwaar en compact wordt.",
-      "Verhit een koekenpan met een klein beetje olijfolie op middelhoog vuur. De pan moet heet genoeg zijn om het ei meteen rustig te laten stollen, maar niet zo heet dat de onderkant bruin wordt vóór de bovenkant begint te garen.",
-      "Giet het mengsel erin en bak op middellaag vuur. Trek met een spatel enkele keren gestold ei van de rand naar het midden, zodat vloeibaar ei naar de hete pan kan lopen zonder alles fijn te roeren.",
-      "Vouw dubbel zodra de onderkant stevig is en gaar kort verder. De bovenkant mag bij het vouwen nog licht vochtig zijn, want de opgesloten warmte gaart de binnenkant nog zonder hem droog te maken."
+      "Klop de eieren 20–30 seconden met peper en een kleine snuf zout, alleen tot wit en dooier gemengd zijn. Meng tonijn, ui en peterselie erdoor; houd de tonijn in grove stukjes.",
+      "Verhit een koekenpan van ongeveer 22–24 cm 1 minuut op middelhoog vuur. Voeg de olijfolie toe; hij moet vloeibaar glanzen maar niet roken.",
+      "Giet het eimengsel in de pan en zet direct middellaag. Trek de eerste 30–45 seconden met een spatel gestold ei van de rand naar het midden, zodat vloeibaar ei naar de bodem loopt.",
+      "Laat daarna 1–2 minuten vrijwel met rust. Vouw zodra de onderkant stevig is, de randen loslaten en de bovenkant nog duidelijk vochtig glanst.",
+      "Bak na het vouwen nog 30–60 seconden op laag vuur en schuif op een bord. De binnenkant hoort net gestold en sappig te zijn, niet droog."
     ],
     "technique": {
       "title": "OMELET OP MIDDELLAAG VUUR",
@@ -1276,47 +1281,48 @@ window.RECIPES = [
   {
     "id": "24",
     "label": "24",
-    "title": "Sopa de legumes",
+    "title": "Sopa de feijão com couve lombarda",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "DAGELIJKSE BASIS"
+      "REGIONALE SOEP",
+      "KOOL"
     ],
-    "time": "35–45 minuten",
-    "servings": "ongeveer 6 kommen",
-    "intro": "Groentesoep is minder een afzonderlijk recept dan een vaste aanwezigheid in veel Portugese huishoudens. Een grote pan in de koelkast betekent dat er altijd iets eenvoudigs voor lunch, avondeten of als eerste gang klaarstaat.",
+    "time": "35 minuten met gekookte bonen",
+    "servings": "4 kommen",
+    "intro": "Sopa de feijão com couve lombarda (bonensoep met savooiekool) is stevige Portugese huissoep. Een deel van de bonen wordt gepureerd voor body, terwijl de rest heel blijft en de fijn gesneden kool pas op het einde gaart.",
     "image": "images/24-sopa-de-legumes.jpg",
-    "imageAlt": "Sopa de legumes",
+    "imageAlt": "Portugese bonensoep met couve lombarda",
     "ingredients": [
-      "1 ui",
-      "2 tenen knoflook",
-      "2 wortels",
-      "1 courgette",
-      "1 kleine batata para cozer (kookaardappelen)",
-      "200 g pompoen",
-      "½ prei",
-      "hand kool, spinazie of sperziebonen",
-      "2 el olijfolie",
-      "zout",
-      "water"
+      "400 g feijão encarnado cozido (gekookte rode bonen), uitgelekt; bewaar 500 ml kookvocht of gebruik water",
+      "250 g couve lombarda (savooiekool), in zeer fijne reepjes",
+      "1 middelgrote ui, fijngehakt",
+      "1 teen knoflook, fijngehakt",
+      "3 el azeite (olijfolie), plus 1 tl voor het einde",
+      "500–700 ml heet bonenkookvocht of water",
+      "zout en zwarte peper"
     ],
     "steps": [
-      "Snijd ui, knoflook, wortel, courgette, aardappel, pompoen en prei grof. Houd wortel en aardappel iets kleiner dan courgette en pompoen, zodat de verschillende groenten ongeveer tegelijk zacht zijn.",
-      "Zet net onder water, voeg een beetje zout toe en kook tot alles zeer zacht is. Laat na het bereiken van de kook de pan rustig pruttelen; de groenten moeten zonder weerstand te pureren zijn, maar het vocht hoeft niet wild te koken.",
-      "Pureer tot een gladde basis. Pureer tot de basis echt glad is en proef daarna opnieuw op zout en dikte; de soep dikt tijdens het staan nog iets verder in.",
-      "Voeg fijngesneden kool, spinazie of sperziebonen toe en kook nog 5–10 minuten. Houd de groente liever net aan de stevige kant; hij gaart nog kort door in de hete pan en behoudt zo meer structuur.",
-      "Zet het vuur uit en voeg pas dan een goede scheut olijfolie toe. Door de azeite (olijfolie) buiten het vuur toe te voegen blijft de frisse, peperige smaak beter herkenbaar in de soep."
+      "Verhit 3 el olijfolie op middellaag vuur. Fruit ui 6–8 minuten tot volledig zacht en glazig; voeg knoflook toe en bak nog 30 seconden zonder te kleuren.",
+      "Voeg de helft van de bonen en 500 ml heet kookvocht of water toe. Breng op hoog vuur aan de kook en laat daarna 5 minuten zacht pruttelen.",
+      "Haal de pan van het vuur en pureer de soep glad met een staafmixer. Zet terug op middelhoog vuur en verdun zo nodig met extra heet water tot een vrij dikke maar lepelbare soep.",
+      "Zodra de soep opnieuw kookt, voeg je de resterende hele bonen en de zeer fijn gesneden couve lombarda toe. Zet middellaag en laat 8–10 minuten zacht koken.",
+      "Proef een reep kool: hij moet mals zijn maar nog lichte beet hebben. Is de soep te dik, voeg 50–100 ml heet water toe; breng pas nu definitief op smaak met zout en peper.",
+      "Zet het vuur uit, roer 1 tl goede olijfolie erdoor en laat 2 minuten staan. Serveer heet."
     ],
     "technique": {
-      "title": "TWEE TEXTUREN",
-      "text": "Kook de basisgroenten zeer zacht en pureer die glad. Voeg pas daarna kool, spinazie of sperziebonen toe en laat die herkenbaar; zo krijg je de typische combinatie van romige basis en groentestukjes."
+      "title": "BONEN PUREREN, KOOL HEEL LATEN",
+      "text": "Pureer slechts een deel van de bonen tot een romige basis en voeg de rest heel toe. Snijd couve lombarda dun en kook hem pas op het einde, zodat de soep zowel romigheid als duidelijke groentestructuur houdt."
     },
-    "attention": "Maak meteen een grotere pan. Portugese groentesoep is juist nuttig als koelkastbasis: een kom voor het avondeten, lunch of voorafgaand aan een hoofdgerecht.",
-    "variations": [],
+    "attention": "Couve lombarda (savooiekool) is hier geen bijzaak: snijd hem fijn en kook hem niet tot grauwe pap. De regionale bron gebruikt droge rode bonen; gekookte bonen uit pot of blik maken dezelfde techniek praktisch voor doordeweeks.",
+    "variations": [
+      "Gebruik couve branca (witte kool) als couve lombarda niet beschikbaar is; reken ongeveer dezelfde gaartijd.",
+      "Met droge bonen: week 200 g feijão encarnado een nacht en kook ze volledig gaar vóór stap 1."
+    ],
     "nutrition": {
-      "kcal": 100,
-      "protein": 2,
-      "carbs": 12,
-      "fat": 5
+      "kcal": 220,
+      "protein": 9,
+      "carbs": 26,
+      "fat": 9
     }
   },
   {
