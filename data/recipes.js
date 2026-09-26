@@ -376,36 +376,37 @@ window.RECIPES = [
     "image": "images/5-bacalhau-a-bras.jpg",
     "imageAlt": "Bacalhau à Brás",
     "ingredients": [
-      "300 g ontzoute bacalhau (gezouten kabeljauw), gaar en in vlokken",
-      "300 g batata palha (krokante aardappelreepjes), of 300 g batata para fritar (frituuraardappelen) om zelf in fijne lucifers te snijden",
+      "300 g bacalhau demolhado (ontzoute gezouten kabeljauw), gaar en in grove vlokken",
+      "SNEL — 120 g batata palha (krokante aardappelreepjes)",
+      "FANCY — 350 g batata para fritar (frituuraardappelen), in zeer fijne lucifers + olie om te frituren",
       "1 grote ui, in dunne halve ringen",
-      "2 tenen knoflook",
-      "4 eieren",
-      "3–4 el olijfolie",
+      "2 tenen knoflook, fijngehakt",
+      "3 eieren + 1 eidooier",
+      "2 el olijfolie",
       "hand peterselie, fijngehakt",
       "40 g zwarte Portugese olijven, liefst azeitona Galega (kleine Portugese Galega-olijf)",
       "zwarte peper",
       "zout alleen indien nodig"
     ],
     "steps": [
-      "Gebruik je verse aardappel, frituur de fijne lucifers in olie van 175–180 °C in 4–6 minuten goudgeel en laat goed uitlekken. Gebruik je batata palha uit de zak, sla deze stap over.",
-      "Verhit olijfolie op laag tot middellaag vuur. Fruit de ui 10–12 minuten tot hij volledig zacht en zoet is maar nauwelijks kleurt; voeg knoflook alleen de laatste minuut toe.",
-      "Voeg de gare bacalhau toe en zet middelhoog. Schep 1–2 minuten om, alleen tot de vis goed warm is; laat hem niet bakken of uitdrogen.",
-      "Meng ongeveer twee derde van de aardappel erdoor en warm 1 minuut mee. Zet daarna het vuur laag.",
-      "Klop de eieren los met zwarte peper en giet ze over de pan. Schep 1–2 minuten rustig van onder naar boven; haal de pan van het vuur zodra het ei romig bindt maar nog glanst.",
-      "Meng de resterende batata palha er pas na het vuur door voor extra krokant contrast. Werk af met peterselie en olijven en proef pas daarna op zout."
+      "Gebruik je de fancy aardappelroute, verhit frituurolie tot 175–180 °C en frituur de fijne lucifers 4–6 minuten in porties tot goud en krokant; laat goed uitlekken. Met batata palha uit de zak sla je deze stap over.",
+      "Verhit 2 el olijfolie op laag tot middellaag vuur. Fruit de ui 10–12 minuten tot volledig zacht en licht zoet zonder donker te worden; voeg knoflook alleen de laatste minuut toe.",
+      "Voeg de gare bacalhau toe en zet middelhoog. Schep 2–3 minuten rustig om tot de vis door en door warm is maar nog in grove vlokken ligt.",
+      "Meng ongeveer twee derde van de aardappel erdoor en warm 30–60 seconden mee. Zet het vuur daarna laag.",
+      "Klop de 3 hele eieren los met zwarte peper. Giet ze in de pan en schep 1–2 minuten rustig van onder naar boven; haal de pan van het vuur zodra het ei romig bindt maar nog duidelijk glanst.",
+      "Meng buiten het vuur de losse eidooier en de resterende batata palha erdoor. Werk af met peterselie en olijven, proef pas nu op zout en serveer onmiddellijk."
     ],
     "technique": {
       "title": "ROMIG EI IN À BRÁS",
-      "text": "Voeg het losgeklopte ei pas op laag vuur toe en blijf rustig omscheppen. Stop terwijl het mengsel nog glanst; droge roereieren maken het hele gerecht zwaar."
+      "text": "Laat de hele eieren alleen op laag vuur binden en voeg de extra eidooier pas buiten het vuur toe. Zo blijft de à Brás smeuïg; de laatste batata palha gaat er eveneens pas op het einde door voor wat krokante structuur."
     },
     "attention": "Het eindresultaat hoort smeuïg te zijn. Droog roerei met kabeljauw is de meest voorkomende mislukking.",
     "variations": [],
     "nutrition": {
-      "kcal": 730,
-      "protein": 48,
-      "carbs": 33,
-      "fat": 45
+      "kcal": 740,
+      "protein": 44,
+      "carbs": 35,
+      "fat": 47
     }
   },
   {
@@ -585,16 +586,16 @@ window.RECIPES = [
       "zwarte peper; zout alleen indien nodig"
     ],
     "steps": [
-      "Leg de eieren in een ruime pan met koud water en breng aan de kook. Voeg aardappelen en wortel toe zodra het water kookt en laat 3 minuten op middelhoog vuur koken.",
-      "Voeg couve portuguesa, grelos, nabo en cebolinhas toe. Zet het vuur zo dat het water rustig blijft koken en gaar 12–15 minuten; haal onderdelen die eerder mals zijn met een schuimspaan uit de pan.",
-      "Controleer de aardappelen na ongeveer 15 minuten totale kooktijd: een mes moet bijna zonder weerstand tot het midden gaan. Houd groenten warm op een schaal en laat het kookwater terugzakken tot net onder de kook, ongeveer 85–90 °C.",
-      "Leg de bacalhau in het hete water en pocheer 5–7 minuten, afhankelijk van de dikte. De vis is klaar wanneer hij overal opaak is en met lichte druk in grote vlokken uiteenvalt; laat het water niet hard koken.",
-      "Kook de eieren in totaal 9–10 minuten, koel kort, pel en halveer. Verwarm 3 el olijfolie met de knoflook 1 minuut op laag vuur, alleen tot de knoflook geurt.",
-      "Schik bacalhau, aardappel, couve, grelos, nabo, wortel, cebolinhas en ei op een warme schaal. Lepel de knoflookolie erover en geef extra olijfolie en eventueel een paar druppels azijn of citroen aan tafel."
+      "Kook de eieren apart 9–10 minuten, koel ze kort in koud water, pel en halveer. Zo hoef je tijdens het garen van de groenten niet op een tweede klok in dezelfde pan te letten.",
+      "Breng in een ruime pan licht gezouten water aan de kook. Voeg aardappelen en wortel toe en laat 3 minuten op middelhoog vuur koken.",
+      "Voeg couve portuguesa, grelos, nabo en cebolinhas toe. Houd het water rustig aan de kook en gaar 12–15 minuten; haal groenten die eerder mals zijn met een schuimspaan uit de pan.",
+      "Controleer de aardappelen: een mes moet vrijwel zonder weerstand tot het midden gaan. Zet nu het vuur uit, leg de bacalhau in het zeer hete kookwater, dek af en laat 7–10 minuten staan, afhankelijk van de dikte.",
+      "Controleer de bacalhau in het dikste deel. Hij is klaar wanneer het vlees overal opaak is en onder lichte druk in grote sappige vlokken uiteenvalt; laat hem niet opnieuw hard koken.",
+      "Verwarm 3 el olijfolie met de knoflook 1 minuut op laag vuur, alleen tot hij geurt. Schik bacalhau, aardappel, couve, grelos, nabo, wortel, cebolinhas en ei op een warme schaal en lepel de knoflookolie erover."
     ],
     "technique": {
-      "title": "BACALHAU EN KOOL SAMEN GAREN",
-      "text": "Laat het water na het toevoegen van de bacalhau niet hard koken. Zacht pocheren houdt de vis sappig; couve portuguesa is klaar zodra de dikke delen mals zijn maar de bladeren nog duidelijk structuur hebben."
+      "title": "BACALHAU IN HET HETE KOOKWATER",
+      "text": "De traditionele werkwijze voegt de bacalhau als laatste toe. Zet het vuur uit, dek af en laat de vis in het zeer hete groentewater gaar trekken; zo blijft hij sappiger dan bij hard doorkoken."
     },
     "attention": "Bacalhau com todos betekent hier letterlijk dat vis, aardappel, ei en meerdere wintergroenten samen op de schaal komen. Laat de bacalhau niet hard meekoken: de groenten verdragen koken, de vis blijft sappiger bij pocheren.",
     "variations": [
