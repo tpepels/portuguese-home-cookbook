@@ -14,7 +14,7 @@ window.RECIPES = [
     "image": "images/1a-arroz-malandrinho-de-lagosta-e-coentros.jpg",
     "imageAlt": "Arroz malandrinho de “lagosta” e coentros",
     "ingredients": [
-      "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g, 12 uur ontdooid in de koelkast",
+      "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g; het huidige etiket adviseert ongeveer 2 uur ontdooien vóór gebruik",
       "FANCY — vervang het pak door 180 g lagostim cru (rauwe langoustine) + 200 g camarão cru (rauwe garnalen), gepeld; bewaar schalen en koppen voor de bouillon",
       "180 g arroz carolino (Portugese Carolino-rijst)",
       "1 kleine ui, fijngehakt",
@@ -30,7 +30,7 @@ window.RECIPES = [
       "zout"
     ],
     "steps": [
-      "Bereid eerst de zeevruchten. Voor de snelle versie: laat het product volledig ontdooien en dep droog. Voor de fancy versie: pel garnalen en langoustines; kook schalen en koppen 10 minuten zacht in ongeveer 750 ml water, zeef en gebruik die vloeistof als bouillon.",
+      "Bereid eerst de zeevruchten. Voor de snelle Pescanova-versie: laat het product volgens het huidige etiket ongeveer 2 uur ontdooien en dep het daarna droog; het product is al gaar. Voor de fancy versie: pel garnalen en langoustines, kook schalen en koppen 10 minuten zacht in ongeveer 750 ml water, zeef en gebruik die vloeistof als bouillon.",
       "Verhit de olijfolie in een brede pan op middellaag vuur. Fruit ui 5 minuten tot hij glazig en zacht is; voeg knoflook, paprika en laurier toe en bak nog 2–3 minuten zonder bruine knoflook.",
       "Voeg tomaat toe en zet het vuur op middelhoog. Laat 5–7 minuten inkoken tot het mengsel dikker is, donkerder rood wordt en niet meer rauw ruikt; voeg wijn toe en laat 1–2 minuten stevig pruttelen tot de scherpe alcoholgeur weg is.",
       "Roer de arroz carolino (Portugese Carolino-rijst) erdoor, voeg 550 ml hete bouillon toe en breng op hoog vuur net aan de kook. Zet direct laag tot middellaag en laat 12 minuten rustig pruttelen; roer twee of drie keer en voeg alleen hete bouillon toe als de rijst dreigt droog te vallen.",
@@ -59,7 +59,7 @@ window.RECIPES = [
     "image": "images/1b-acorda-de-marisco-met-lagosta-en-gepocheerd-ei.jpg",
     "imageAlt": "Açorda de marisco met “lagosta” en gepocheerd ei",
     "ingredients": [
-      "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g, 12 uur ontdooid in de koelkast",
+      "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g; het huidige etiket adviseert ongeveer 2 uur ontdooien vóór gebruik",
       "FANCY — vervang het pak door 180 g lagostim cru (rauwe langoustine) + 200 g camarão cru (rauwe garnalen), gepeld; bewaar schalen en koppen voor de bouillon",
       "250–300 g pão alentejano (Alentejaans landbrood) of ander stevig pão de mistura (gemengd landbrood) van de vorige dag, in stukken",
       "500 ml lichte caldo de peixe (visbouillon) of caldo de marisco (zeevruchtenbouillon)",
@@ -72,7 +72,7 @@ window.RECIPES = [
       "zout"
     ],
     "steps": [
-      "Maak voor de fancy versie eventueel eerst een snelle bouillon: kook garnalen- en langoustineschalen 10 minuten zacht in 650 ml water en zeef. Gebruik voor de snelle versie gewoon de opgegeven vis- of zeevruchtenbouillon.",
+      "Maak voor de fancy versie eventueel eerst een snelle bouillon: kook garnalen- en langoustineschalen 10 minuten zacht in 650 ml water en zeef. Voor de snelle Pescanova-versie laat je het product volgens het huidige etiket ongeveer 2 uur ontdooien; het is al gaar en hoeft later alleen te worden verwarmd.",
       "Stamp knoflook, een flinke snuf zout en ongeveer twee derde van de koriander tot een grove, vochtige pasta. Meng met de olijfolie; er mogen nog kleine stukjes kruid en knoflook zichtbaar zijn.",
       "Breng de bouillon op hoog vuur aan de kook en zet hem daarna laag zodat hij slechts heel zacht beweegt. Pocheer de eieren 3½–4 minuten; het wit moet volledig gestold zijn en de dooier nog zacht. Schep ze uit de pan.",
       "Gaar nu de zeevruchten in dezelfde bouillon. Verwarm de voorgegaarde snelle versie 2–3 minuten; gaar rauwe garnalen/langoustines 3–4 minuten tot ze opaak zijn. Schep ze uit de bouillon.",
