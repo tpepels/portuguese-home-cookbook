@@ -2082,5 +2082,109 @@ window.RECIPES = [
       "carbs": 68,
       "fat": 21
     }
+  },
+  {
+    "id": "42",
+    "label": "42",
+    "title": "Migas de couve portuguesa com broa e feijão-frade",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "KOOL",
+      "BROA",
+      "VEGETARISCH"
+    ],
+    "time": "35 minuten",
+    "servings": "3–4 personen",
+    "intro": "Migas de couve (migas met Portugese kool) maken van couve portuguesa, broa de milho (maïsbrood), knoflook en azeite (olijfolie) een gerecht waarin de kool echt de hoofdrol speelt. Veel versies bevatten bacon; hier zorgen feijão-frade (zwartoogbonen), extra knoflook en goede olijfolie voor body en hartigheid.",
+    "image": "images/42-migas-de-couve-portuguesa-com-broa-e-feijao-frade.jpg",
+    "imageAlt": "Migas de couve portuguesa met broa en feijão-frade",
+    "ingredients": [
+      "500 g couve portuguesa (Portugese kool), in zeer fijne repen",
+      "250 g broa de milho (Portugees maïsbrood), liefst een dag oud",
+      "250 g feijão-frade cozido (gekookte zwartoogbonen), goed uitgelekt",
+      "4 tenen knoflook, fijngehakt",
+      "5 el azeite virgem extra (extra vierge olijfolie)",
+      "80–120 ml kookwater van de kool",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Breng een ruime pan gezouten water op hoog vuur aan de kook. Voeg de fijngesneden couve portuguesa toe en blancheer 2–3 minuten, tot de kool net mals is maar nog helder groen en licht veerkrachtig. Schep uit de pan en bewaar 150 ml kookwater.",
+      "Laat de kool minstens 5 minuten zeer goed uitlekken. Verkruimel intussen de broa met je handen tot grove kruimels; maak er geen fijn paneermeel van.",
+      "Verhit 4 el olijfolie in een brede pan op middellaag vuur. Voeg knoflook toe en bak 45–60 seconden tot hij geurt maar niet bruint.",
+      "Voeg kool en feijão-frade toe, zet het vuur middelhoog en schep 2 minuten om. Voeg de broakruimels toe en meng stevig zodat brood, kool en bonen zich verdelen.",
+      "Voeg 80 ml van het warme koolwater toe en bak nog 3–5 minuten op middelhoog vuur terwijl je regelmatig omschept en met de spatel licht aandrukt. De migas zijn klaar wanneer ze samenhangend en sappig zijn zonder natte vloeistof onderin de pan.",
+      "Proef op zout en peper en werk af met de resterende eetlepel olijfolie. Voeg alleen extra koolwater toe als de broa droog en kruimelig blijft."
+    ],
+    "technique": {
+      "title": "BROA BINDEN ZONDER PAP",
+      "text": "De broa moet genoeg koolwater en olijfolie opnemen om samenhang te krijgen, maar herkenbare kruimels houden. Voeg vloeistof daarom in kleine hoeveelheden toe en stop zodra de migas sappig maar niet nat zijn."
+    },
+    "attention": "Laat de geblancheerde kool goed uitlekken voordat hij de pan in gaat. Te veel achtergebleven water maakt de broa zompig en verdunt de knoflook- en olijfoliesmaak.",
+    "variations": [
+      "Gebruik couve-galega in dezelfde fijne snede voor een donkerdere, uitgesprokener koolversie.",
+      "Voor een hoofdgerecht kun je er een zacht gepocheerd ei per persoon op leggen."
+    ],
+    "nutrition": {
+      "kcal": 430,
+      "protein": 13,
+      "carbs": 55,
+      "fat": 18
+    }
+  },
+  {
+    "id": "43",
+    "label": "43",
+    "title": "Feijoada de pota com feijão branco e couve-coração",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "KOOL",
+      "POTA",
+      "FEIJOADA"
+    ],
+    "time": "60 minuten",
+    "servings": "4 personen",
+    "intro": "Deze feijoada de pota (bonenstoof met pijlinktvis) combineert feijão branco (witte bonen), pota, aardappel, wortel, nabo (raap) en couve-coração (spitskool). De kool gaat pas op het einde in de pan en blijft daardoor een duidelijk onderdeel van het gerecht in plaats van weg te koken in de saus.",
+    "image": "images/43-feijoada-de-pota-com-feijao-branco-e-couve-coracao.jpg",
+    "imageAlt": "Feijoada de pota met witte bonen en couve-coração",
+    "ingredients": [
+      "400 g pota (pijlinktvis), schoongemaakt en in stukken van ca. 2 cm",
+      "400 g feijão branco cozido (gekookte witte bonen), uitgelekt",
+      "8 grote bladeren couve-coração (spitskool), in brede repen",
+      "1 wortel, in kleine blokjes",
+      "1 kleine nabo (raap), in kleine blokjes",
+      "2 middelgrote aardappelen, in blokjes",
+      "1 ui, fijngehakt",
+      "2 tenen knoflook, fijngehakt",
+      "1 el concentrado de tomate (tomatenpuree)",
+      "1 tl pimentão-doce (zoet paprikapoeder)",
+      "50 ml witte wijn",
+      "3 el olijfolie",
+      "250–350 ml heet water",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Verhit de olijfolie in een brede stoofpan op middellaag vuur. Fruit ui 5 minuten tot glazig, voeg knoflook toe en bak nog 45 seconden.",
+      "Voeg de pota toe, zet middelhoog en bak 2 minuten. Breng op smaak met peper, voeg pimentão-doce en tomatenpuree toe en roer 30 seconden. Blus af met witte wijn en laat 2 minuten stevig pruttelen.",
+      "Voeg 200 ml heet water toe, zet laag en laat de pota 15 minuten afgedekt zacht stoven. Het vocht moet rustig bubbelen; voeg een scheut water toe als de bodem droog dreigt te worden.",
+      "Voeg wortel, nabo en aardappel toe met nog 100 ml heet water. Laat 15 minuten op laag tot middellaag vuur koken tot de aardappel bijna gaar is maar nog niet uit elkaar valt.",
+      "Schep de witte bonen erdoor en laat 8–10 minuten zacht pruttelen. Voeg extra heet water toe als de saus te dik wordt voordat de groenten gaar zijn.",
+      "Leg de repen couve-coração bovenop, schep één keer om en dek af. Laat nog 8–10 minuten op laag vuur garen tot de kool mals is maar nog structuur heeft. Proef pas daarna definitief op zout.",
+      "Laat de feijoada 5 minuten zonder vuur staan. Serveer wanneer de saus gebonden maar nog lepelbaar is en de kool duidelijk zichtbaar blijft."
+    ],
+    "technique": {
+      "title": "KOOL ALS LAATSTE GROENTE",
+      "text": "Couve-coração heeft minder tijd nodig dan aardappel en wortel. Door hem pas op het einde toe te voegen blijft hij groen, zoet en herkenbaar en wordt de feijoada geen uniforme zachte massa."
+    },
+    "attention": "Pota kan taai zijn wanneer hij net halfgaar is. Geef hem eerst zijn eigen stooftijd en voeg de kool pas helemaal op het einde toe.",
+    "variations": [
+      "Gebruik couve lombarda (savooiekool) als couve-coração niet beschikbaar is; snijd de dikkere nerf dan iets fijner.",
+      "Laat de aardappel weg en serveer met arroz branco (witte rijst) als je een lichtere stoof wilt."
+    ],
+    "nutrition": {
+      "kcal": 520,
+      "protein": 34,
+      "carbs": 60,
+      "fat": 15
+    }
   }
 ];
