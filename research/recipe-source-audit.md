@@ -177,3 +177,15 @@ Four recipes were added as **modern Portuguese vegetarian/vegan interpretations*
 Editorial wording deliberately avoids claims that eryngii is the standard or “ultimate” Portuguese fish substitute, or that these variants are long-standing traditional dishes. The chapter names were broadened to **Legumes, cogumelos, ovos & feijão** and **Petiscos, conservas & refeições rápidas** so the additions fit normal cookbook navigation.
 
 The cookbook now contains **61 recipes**.
+
+
+## Broa de milho expansion — 2026-09-27
+
+Broa de milho was underrepresented despite being a normal Portuguese table bread and an important cooking ingredient. The cookbook now gives it a dedicated small chapter and makes its uses visible.
+
+- **Broa de milho caseira.** The home-bread recipe follows the proportions and long fermentation documented by 24Kitchen: wheat flour, corn flour, corn semolina, water, salt and fresh yeast, baked hot after a long room-temperature rise. Supporting source: https://www.24kitchen.pt/receita/broa-de-milho . Continente also describes broa de milho as a typical bread eaten with soups and stews and publishes a scalded-cornmeal version: https://feed.continente.pt/receitas/yammi/broa-milho-xl
+- **Bacalhau com broa de milho e grelos.** The core combination - desalted cod, broa, garlic, coriander and generous olive oil baked until the bread is golden - follows Teleculinária's bacalhau com broa de milho. The cookbook adds grelos as a vegetable accompaniment and keeps the recipe meat-free. Sources: https://teleculinaria.pt/receitas/peixes/bacalhau-com-broa-de-milho/ and https://teleculinaria.pt/receitas/bacalhau-com-broa-de-milho-e-couve-lombarda/
+- The existing **Migas de couve portuguesa com broa e feijão-frade** was moved into the new **Pão, broa & acompanhamentos** chapter so broa is visible as a culinary category rather than hidden inside the vegetable chapter.
+- The pantry page now explains that stale broa is especially useful for migas and baked crusts.
+
+The cookbook now contains **63 recipes**.
