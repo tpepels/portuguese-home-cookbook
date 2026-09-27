@@ -24,8 +24,10 @@
       "Groenten, paddenstoelen, eieren en peulvruchten als volwaardige maaltijd: van tomatada en peixinhos da horta tot hedendaagse Portugese bereidingen met eryngii.",
     "Saladas & pratos frios":
       "Koude en lauwe gerechten met scherpe vinaigrette, bonen, kikkererwten, rijst, pasta en kool: van simpele bijsalade tot complete lunch.",
-    "Petiscos, conservas & refeições rápidas":
-      "Petiscos en snelle voorraadkastmaaltijden: vegetarische pica-pau en Bulhão Pato naast sardinha, carapau, cavala, pota, bacalhau en atum uit blik, rissóis, douradinhos, tostas en quiche."
+    "Petiscos & conservas":
+      "Petiscos en voorraadkastklassiekers: Bulhão Pato en pica-pau naast sardinha, carapau, cavala, pota en bacalhau uit blik, plus rissóis voor wanneer het klein en hartig mag zijn.",
+    "Do dia-a-dia & novas influências":
+      "Hoe er nu ook thuis wordt gegeten: snelle werkdagmaaltijden, marmitas en internationale invloeden naast Portugese producten. Zalm uit de oven, teriyaki, curry, noodles, ramen, wraps en tacos horen inmiddels net zo goed bij een moderne week als rijst, tonijn en diepvriesvis."
   };
 
   const chapterOrder = [
@@ -37,7 +39,8 @@
     "Arroz, massa & pratos de tacho",
     "Legumes, cogumelos, ovos & feijão",
     "Saladas & pratos frios",
-    "Petiscos, conservas & refeições rápidas"
+    "Petiscos & conservas",
+    "Do dia-a-dia & novas influências"
   ];
 
   const featureRecipes = {
