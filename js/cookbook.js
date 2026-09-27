@@ -19,10 +19,10 @@
   };
 
   const chapterOrder = [
-    "Diepvriespakketten als startpunt",
     "Portugees thuisrepertoire",
     "Snel, dagelijks & hedendaags",
-    "Portugal nu"
+    "Portugal nu",
+    "Diepvriespakketten als startpunt"
   ];
 
   const featureRecipes = {
@@ -128,35 +128,34 @@
       </div>
     `);
 
-    const tocFor = chapters => chapters.map(chapter => {
-      const rows = recipes
-        .filter(recipe => recipe.chapter === chapter)
-        .map(recipe => `
+    const tocPages = [];
+    const tocChunkSize = 16;
+
+    chapterOrder.forEach(chapter => {
+      const chapterRecipes = recipes.filter(recipe => recipe.chapter === chapter);
+      for (let offset = 0; offset < chapterRecipes.length; offset += tocChunkSize) {
+        const chunk = chapterRecipes.slice(offset, offset + tocChunkSize);
+        const isFirstTocPage = tocPages.length === 0;
+        const isContinuation = offset > 0;
+        const rows = chunk.map(recipe => `
           <div class="toc-row" data-recipe-id="${esc(recipe.id)}">
             <span>${esc(recipe.label)}</span>
             <span>${esc(recipe.title)}</span>
             <span class="toc-page">…</span>
           </div>
         `).join("");
-      return `
-        <div class="toc-chapter">${esc(chapter)}</div>
-        ${rows}
-      `;
-    }).join("");
 
-    const tocOne = page("single-page front-copy fit-page toc-page-sheet", `
-      <div class="fit-content front-shell">
-        <h2>Inhoud</h2>
-        <div class="toc-list">${tocFor(chapterOrder.slice(0, 2))}</div>
-      </div>
-    `);
-
-    const tocTwo = page("single-page front-copy fit-page toc-page-sheet", `
-      <div class="fit-content front-shell">
-        <div class="front-kicker">Inhoud — vervolg</div>
-        <div class="toc-list toc-list-continuation">${tocFor(chapterOrder.slice(2))}</div>
-      </div>
-    `);
+        tocPages.push(page("single-page front-copy fit-page toc-page-sheet", `
+          <div class="fit-content front-shell">
+            ${isFirstTocPage ? "<h2>Inhoud</h2>" : '<div class="front-kicker">Inhoud — vervolg</div>'}
+            <div class="toc-list ${isFirstTocPage ? "" : "toc-list-continuation"}">
+              <div class="toc-chapter">${esc(chapter)}${isContinuation ? " — vervolg" : ""}</div>
+              ${rows}
+            </div>
+          </div>
+        `));
+      }
+    });
 
     const intro = page("single-page front-copy about-page", `
       <h2>Over dit boek</h2>
@@ -228,7 +227,7 @@
       </div>
     `);
 
-    book.append(cover, titlePage, tocOne, tocTwo, intro, guide, pantry);
+    book.append(cover, titlePage, ...tocPages, intro, guide, pantry);
   }
 
   function renderChapter(chapter, index) {
