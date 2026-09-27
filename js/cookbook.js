@@ -18,12 +18,12 @@
       "Schelpdieren, zeevruchten, polvo (octopus) en pota (pijlinktvis): van amêijoas (venusschelpen) en cataplana tot arroz de polvo en pota à lagareiro.",
     "Arroz, massa & pratos de tacho":
       "Rijst, pasta en éénpansgerechten voor alledag: sappige Carolino-rijst, massada (Portugese pastastoof), tomatenrijst en makkelijke tacho-gerechten.",
-    "Ovos, legumes & feijão":
-      "Eieren, groenten en peulvruchten als volwaardige maaltijd: tomatada, omelet, à Brás zonder vis, peixinhos da horta en stevige migas.",
+    "Legumes, cogumelos, ovos & feijão":
+      "Groenten, paddenstoelen, eieren en peulvruchten als volwaardige maaltijd: van tomatada en migas tot hedendaagse Portugese bereidingen met eryngii.",
     "Saladas & pratos frios":
       "Koude en lauwe gerechten met scherpe vinaigrette, bonen, kikkererwten, rijst, pasta en kool: van simpele bijsalade tot complete lunch.",
-    "Conservas & refeições rápidas":
-      "De Portugese voorraadkast op zijn best: sardinha, carapau, cavala, pota, bacalhau en atum uit blik, plus praktische rissóis, douradinhos, tostas en quiche."
+    "Petiscos, conservas & refeições rápidas":
+      "Petiscos en snelle voorraadkastmaaltijden: vegetarische pica-pau en Bulhão Pato naast sardinha, carapau, cavala, pota, bacalhau en atum uit blik, rissóis, douradinhos, tostas en quiche."
   };
 
   const chapterOrder = [
@@ -32,9 +32,9 @@
     "Peixe",
     "Marisco, polvo & pota",
     "Arroz, massa & pratos de tacho",
-    "Ovos, legumes & feijão",
+    "Legumes, cogumelos, ovos & feijão",
     "Saladas & pratos frios",
-    "Conservas & refeições rápidas"
+    "Petiscos, conservas & refeições rápidas"
   ];
 
   const featureRecipes = {
