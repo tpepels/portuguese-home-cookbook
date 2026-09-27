@@ -393,8 +393,40 @@ button { font: inherit; }
   letter-spacing: .16em;
   text-transform: uppercase;
 }
-.toc-list { display: grid; gap: 1.35mm; margin-top: 6mm; }
+.toc-list { display: grid; gap: 1.05mm; margin-top: 0; }
 .toc-list-continuation { margin-top: 0; }
+.toc-columns {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 9mm;
+  margin-top: 5mm;
+  align-items: start;
+}
+.toc-columns > .toc-list + .toc-list {
+  padding-left: 7mm;
+  border-left: .35mm solid rgba(29,21,17,.12);
+}
+.toc-two-column-page .toc-row {
+  grid-template-columns: 8mm minmax(0, 1fr) 8mm;
+  gap: 1.5mm;
+  padding: .65mm 0 .9mm;
+  font-size: 7.9pt;
+  line-height: 1.18;
+}
+.toc-two-column-page .toc-row span:first-child {
+  font-size: 6.8pt;
+}
+.toc-two-column-page .toc-page {
+  font-size: 7.3pt;
+}
+.toc-two-column-page .toc-chapter {
+  margin-top: 2.7mm;
+  font-size: 7.1pt;
+  letter-spacing: .085em;
+}
+.toc-two-column-page .toc-list > .toc-chapter:first-child {
+  margin-top: 0;
+}
 
 .pantry-shell {
   display: grid;
