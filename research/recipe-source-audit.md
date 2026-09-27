@@ -87,3 +87,13 @@ The earlier cabbage pass accidentally replaced two existing recipes instead of e
 | 41 | Arroz de couve lombarda com ovo | https://www.arrozsaludaes.pt/receita/arroz-de-couve/ ; https://www.cigala.pt/receitas/arroz-de-couve/ | Carolino rice, cabbage, onion and hot liquid follow documented Portuguese arroz de couve technique; the usual chouriço route is replaced with a soft egg for a complete meat-free meal. |
 
 The active cookbook now contains 45 recipes. Cabbage is represented as a main ingredient across boiled fish plates, bean soup, caldo verde, vegetable rice and several variations rather than only as an optional substitute.
+
+
+## Additional cabbage dishes — 2026-09-27
+
+Two further cabbage-led dishes were added so cabbage is not merely an optional variation:
+
+- **42 — Migas de couve portuguesa com broa e feijão-frade.** Based on Continente's current Migas de Couve structure (couve portuguesa, broa, feijão-frade, garlic and olive oil), with bacon deliberately omitted and compensated with more olive oil/garlic to keep the book meat-free. Source: https://cozinha.continente.pt/receitas/migas-de-couve
+- **43 — Feijoada de pota com feijão branco e couve-coração.** Based directly on 24Kitchen's Portuguese pota/white-bean/couve-coração stew; cabbage is added late so it stays visible and textured. Source: https://www.24kitchen.pt/receita/feijoada-de-pota-com-feijao-branco
+
+The active cookbook now contains **47 recipes**.
