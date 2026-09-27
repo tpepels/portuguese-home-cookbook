@@ -8,21 +8,33 @@
   const printButton = document.getElementById("print-book");
 
   const chapterCopy = {
-    "Diepvriespakketten als startpunt":
-      "Vier supermarktproducten als ingang naar Portugese technieken: malandrinho (sappig en bouillonachtig), açorda (Portugees broodgerecht), caldeirada (Portugese visstoof), massada (sappig pastagerecht) en cataplana (schelpvormige Portugese stoompan en kookmethode).",
-    "Portugees thuisrepertoire":
-      "De kern van het boek: bacalhau (gezouten kabeljauw), pescada (heek), dourada (goudbrasem), polvo (octopus), brood, bonen en eenvoudige bereidingen die daadwerkelijk op de Portugese familietafel thuishoren.",
-    "Snel, dagelijks & hedendaags":
-      "Doordeweeks koken zonder folklore: tonijn, eieren, soep, pasta, rijst en snelle varianten die weinig planning vragen.",
-    "Portugal nu":
-      "Voorraadkast, marmita (meeneemlunch) en studentenkeuken: hedendaagse gerechten die niet eeuwenoud hoeven te zijn om normaal Portugees thuiseten te zijn."
+    "Sopas, caldos & açordas":
+      "Van caldo verde (groene koolsoep) en eenvoudige groentesoep tot açorda (Portugees broodgerecht): kommen en diepe borden waarin bouillon, brood, tomaat, kool en vis centraal staan.",
+    "Bacalhau":
+      "De Portugese klassieker in zijn bekendste vormen: eenvoudig gekookt, à Brás (met fijne aardappel en romig ei), uit de oven, als patanisca (kabeljauwbeignet) en in sappige rijst.",
+    "Peixe":
+      "Verse vis zoals pescada (heek), dourada (goudbrasem), robalo (zeebaars), carapau (horsmakreel) en sardinha (sardine), gegrild, gekookt, gepaneerd, gestoofd of uit de oven.",
+    "Marisco, polvo & pota":
+      "Schelpdieren, zeevruchten, polvo (octopus) en pota (pijlinktvis): van amêijoas (venusschelpen) en cataplana tot arroz de polvo en pota à lagareiro.",
+    "Arroz, massa & pratos de tacho":
+      "Rijst, pasta en éénpansgerechten voor alledag: sappige Carolino-rijst, massada (Portugese pastastoof), tomatenrijst en makkelijke tacho-gerechten.",
+    "Ovos, legumes & feijão":
+      "Eieren, groenten en peulvruchten als volwaardige maaltijd: tomatada, omelet, à Brás zonder vis, peixinhos da horta en stevige migas.",
+    "Saladas & pratos frios":
+      "Koude en lauwe gerechten met scherpe vinaigrette, bonen, kikkererwten, rijst, pasta en kool: van simpele bijsalade tot complete lunch.",
+    "Conservas & refeições rápidas":
+      "De Portugese voorraadkast op zijn best: sardinha, carapau, cavala, pota, bacalhau en atum uit blik, plus praktische rissóis, douradinhos, tostas en quiche."
   };
 
   const chapterOrder = [
-    "Portugees thuisrepertoire",
-    "Snel, dagelijks & hedendaags",
-    "Portugal nu",
-    "Diepvriespakketten als startpunt"
+    "Sopas, caldos & açordas",
+    "Bacalhau",
+    "Peixe",
+    "Marisco, polvo & pota",
+    "Arroz, massa & pratos de tacho",
+    "Ovos, legumes & feijão",
+    "Saladas & pratos frios",
+    "Conservas & refeições rápidas"
   ];
 
   const featureRecipes = {
