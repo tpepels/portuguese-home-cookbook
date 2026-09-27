@@ -143,3 +143,23 @@ New reading order:
 4. **Diepvriespakketten als startpunt** — the paired freezer-product transformations, now placed after the core repertoire rather than before it.
 
 Visible recipe labels were renumbered **1–57 in reading order** while internal recipe IDs were preserved for stable code and asset references. The table of contents now paginates automatically in chunks of 16 recipes, so future additions cannot silently fall off the bottom of a fixed two-page index.
+
+
+## Cookbook chapter structure — 2026-09-27
+
+The earlier editorial categories ("Portugees thuisrepertoire", "Snel, dagelijks & hedendaags", "Portugal nu" and "Diepvriespakketten als startpunt") were removed. They were project-specific abstractions rather than useful cookbook navigation.
+
+The 57 recipes are now organised by recognisable dish type / principal ingredient:
+
+1. **Sopas, caldos & açordas**
+2. **Bacalhau**
+3. **Peixe**
+4. **Marisco, polvo & pota**
+5. **Arroz, massa & pratos de tacho**
+6. **Ovos, legumes & feijão**
+7. **Saladas & pratos frios**
+8. **Conservas & refeições rápidas**
+
+The former freezer-product chapter no longer exists. Recipes that have a **SNEL** supermarket/freezer route and a **FANCY** fresh route remain in their culinary chapter; the route is a preparation option, not a cuisine category.
+
+Visible recipe numbers were regenerated **1–57 in reading order**. Internal recipe IDs and image references remain unchanged.
