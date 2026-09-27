@@ -385,8 +385,106 @@ window.RECIPES = [
     "heroLabel": "FANCY"
   },
   {
-    "id": "38",
+    "id": "58",
     "label": "9",
+    "title": "Broa de milho caseira",
+    "chapter": "Pão, broa & acompanhamentos",
+    "tags": [
+      "BROA",
+      "PÃO",
+      "MILHO",
+      "BASIS"
+    ],
+    "time": "7 uur 15 minuten, waarvan ca. 40 minuten actief",
+    "servings": "1 brood van ca. 750 g",
+    "intro": "Broa de milho is een stevig Portugees maïsbrood met een grove kruim, stevige korst en uitgesproken maïssmaak. Het wordt gewoon aan tafel gegeten bij soep en stoofgerechten, maar oud geworden broa is minstens zo nuttig voor migas en krokante korsten op vis.",
+    "image": "images/58-broa-de-milho-caseira.png",
+    "imageAlt": "Ronde Portugese broa de milho met gebarsten korst op een houten tafel",
+    "ingredients": [
+      "200 g farinha de trigo T55 (tarwebloem T55)",
+      "115 g farinha de milho (maïsmeel, fijn)",
+      "115 g sêmola de milho (maïsgriesmeel)",
+      "250 ml lauwwarm water",
+      "15 g verse bakkersgist, of 5 g instantgist",
+      "5 g fijn zout",
+      "extra maïsmeel om te bestuiven"
+    ],
+    "steps": [
+      "Meng tarwebloem, maïsmeel en maïsgriesmeel in een ruime kom. Los verse gist op in 50 ml van het water; instantgist kan direct bij de bloem.",
+      "Voeg het gistwater en vervolgens geleidelijk de rest van het water toe. Meng tot er geen droge bloem meer zichtbaar is en laat 10 minuten staan.",
+      "Voeg het zout toe en kneed 8–10 minuten stevig met de hand, tot het deeg samenhangend en elastischer wordt. Het blijft zwaarder en korreliger dan witbrooddeeg; voeg alleen 1–2 el water toe als er droge stukken blijven.",
+      "Vorm een bol, leg terug in de kom, dek af met een vochtige doek en laat op kamertemperatuur ongeveer 6 uur rijzen. Het deeg hoeft niet te verdubbelen, maar moet duidelijk lichter en luchtiger aanvoelen.",
+      "Bestuif een bakplaat royaal met maïsmeel. Vorm het deeg voorzichtig opnieuw tot een compacte ronde bol zonder alle lucht eruit te drukken. Leg op de plaat, bestuif de bovenkant en laat 15 minuten rusten.",
+      "Verwarm de oven voor op 220 °C. Besprenkel de bovenkant heel licht met water en bak 38–45 minuten, tot de korst diep goudbruin is en het brood hol klinkt wanneer je op de onderkant tikt.",
+      "Laat minstens 1 uur volledig afkoelen op een rooster voordat je het aansnijdt. Warm brood lijkt vanbinnen sneller klef dan het werkelijk is."
+    ],
+    "technique": {
+      "title": "BROA IS GEEN WITBROOD",
+      "text": "Deeg met veel maïs ontwikkelt minder gluten en blijft compacter. Zoek dus niet naar een zijdezachte, extreem elastische bol; een stevige, licht grove structuur is juist kenmerkend."
+    },
+    "attention": "Gebruik echt maïsmeel en maïsgriesmeel, geen maïzena. Maïzena is zuiver zetmeel en geeft geen broodstructuur.",
+    "variations": [
+      "Voor een iets rustiekere versie kun je 50 g tarwebloem vervangen door roggemeel.",
+      "Rooster plakken broa de volgende dag en wrijf ze in met knoflook en olijfolie voor bij soep."
+    ],
+    "nutrition": {
+      "kcal": 220,
+      "protein": 6,
+      "carbs": 43,
+      "fat": 2
+    }
+  },
+  {
+    "id": "42",
+    "label": "10",
+    "title": "Migas de couve portuguesa com broa e feijão-frade",
+    "chapter": "Pão, broa & acompanhamentos",
+    "tags": [
+      "KOOL",
+      "BROA",
+      "VEGETARISCH"
+    ],
+    "time": "35 minuten",
+    "servings": "3–4 personen",
+    "intro": "Migas de couve (migas met Portugese kool) maken van couve portuguesa, broa de milho (maïsbrood), knoflook en azeite (olijfolie) een gerecht waarin de kool echt de hoofdrol speelt. Veel versies bevatten bacon; hier zorgen feijão-frade (zwartoogbonen), extra knoflook en goede olijfolie voor body en hartigheid.",
+    "image": "images/42-migas-de-couve-portuguesa-com-broa-e-feijao-frade.jpg",
+    "imageAlt": "Migas de couve portuguesa met broa en feijão-frade",
+    "ingredients": [
+      "500 g couve portuguesa (Portugese kool), in zeer fijne repen",
+      "250 g broa de milho (Portugees maïsbrood), liefst een dag oud",
+      "250 g feijão-frade cozido (gekookte zwartoogbonen), goed uitgelekt",
+      "4 tenen knoflook, fijngehakt",
+      "5 el azeite virgem extra (extra vierge olijfolie)",
+      "80–120 ml kookwater van de kool",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Breng een ruime pan gezouten water op hoog vuur aan de kook. Voeg de fijngesneden couve portuguesa toe en blancheer 2–3 minuten, tot de kool net mals is maar nog helder groen en licht veerkrachtig. Schep uit de pan en bewaar 150 ml kookwater.",
+      "Laat de kool minstens 5 minuten zeer goed uitlekken. Verkruimel intussen de broa met je handen tot grove kruimels; maak er geen fijn paneermeel van.",
+      "Verhit 4 el olijfolie in een brede pan op middellaag vuur. Voeg knoflook toe en bak 45–60 seconden tot hij geurt maar niet bruint.",
+      "Voeg kool en feijão-frade toe, zet het vuur middelhoog en schep 2 minuten om. Voeg de broakruimels toe en meng stevig zodat brood, kool en bonen zich verdelen.",
+      "Voeg 80 ml van het warme koolwater toe en bak nog 3–5 minuten op middelhoog vuur terwijl je regelmatig omschept en met de spatel licht aandrukt. De migas zijn klaar wanneer ze samenhangend en sappig zijn zonder natte vloeistof onderin de pan.",
+      "Proef op zout en peper en werk af met de resterende eetlepel olijfolie. Voeg alleen extra koolwater toe als de broa droog en kruimelig blijft."
+    ],
+    "technique": {
+      "title": "BROA BINDEN ZONDER PAP",
+      "text": "De broa moet genoeg koolwater en olijfolie opnemen om samenhang te krijgen, maar herkenbare kruimels houden. Voeg vloeistof daarom in kleine hoeveelheden toe en stop zodra de migas sappig maar niet nat zijn."
+    },
+    "attention": "Laat de geblancheerde kool goed uitlekken voordat hij de pan in gaat. Te veel achtergebleven water maakt de broa zompig en verdunt de knoflook- en olijfoliesmaak.",
+    "variations": [
+      "Gebruik couve-galega in dezelfde fijne snede voor een donkerdere, uitgesprokener koolversie.",
+      "Voor een hoofdgerecht kun je er een zacht gepocheerd ei per persoon op leggen."
+    ],
+    "nutrition": {
+      "kcal": 430,
+      "protein": 13,
+      "carbs": 55,
+      "fat": 18
+    }
+  },
+  {
+    "id": "38",
+    "label": "11",
     "title": "Bacalhau com todos e couve portuguesa",
     "chapter": "Bacalhau",
     "tags": [
@@ -438,7 +536,7 @@ window.RECIPES = [
   },
   {
     "id": "5",
-    "label": "10",
+    "label": "12",
     "title": "Bacalhau à Brás",
     "chapter": "Bacalhau",
     "tags": [
@@ -490,7 +588,7 @@ window.RECIPES = [
   },
   {
     "id": "6",
-    "label": "11",
+    "label": "13",
     "title": "Bacalhau à Gomes de Sá",
     "chapter": "Bacalhau",
     "tags": [
@@ -538,7 +636,7 @@ window.RECIPES = [
   },
   {
     "id": "7",
-    "label": "12",
+    "label": "14",
     "title": "Bacalhau com natas",
     "chapter": "Bacalhau",
     "tags": [
@@ -585,8 +683,61 @@ window.RECIPES = [
     }
   },
   {
+    "id": "59",
+    "label": "15",
+    "title": "Bacalhau com broa de milho e grelos",
+    "chapter": "Bacalhau",
+    "tags": [
+      "BACALHAU",
+      "BROA",
+      "FORNO",
+      "Grelos"
+    ],
+    "time": "50 minuten",
+    "servings": "4 personen",
+    "intro": "Bacalhau com broa is een Portugese ovenklassieker waarin een dikke laag verkruimelde broa, knoflook, koriander en olijfolie bovenop de vis goudbruin en krokant bakt. Grelos geven er een bittere, groene tegenhanger bij die goed past bij het rijke brood en de olie.",
+    "image": "images/59-bacalhau-com-broa-milho-grelos.png",
+    "imageAlt": "Bacalhau uit de oven met krokante broa de milho en grelos",
+    "ingredients": [
+      "4 lombos de bacalhau demolhado (ontzoute kabeljauwfilets), ca. 160–180 g per stuk",
+      "250 g broa de milho, liefst 1–2 dagen oud",
+      "500 g grelos, schoongemaakt",
+      "4 tenen knoflook",
+      "1 grote ui, in dunne halve ringen",
+      "1 laurierblad",
+      "100 ml azeite virgem extra (extra vierge olijfolie)",
+      "grote hand coentros (koriander), grof gehakt",
+      "zwarte peper",
+      "zout, alleen indien nodig",
+      "citroen, optioneel"
+    ],
+    "steps": [
+      "Verwarm de oven voor op 190 °C. Blancheer de grelos 2–4 minuten in ruim kokend water tot ze net mals zijn. Giet af, druk overtollig water eruit en verdeel over de bodem van een ovenschaal.",
+      "Verhit 2 el olijfolie in een koekenpan op middellaag vuur. Fruit de ui met laurier 8–10 minuten tot zacht en licht goud. Verdeel de ui over de grelos.",
+      "Dep de bacalhau droog en leg de stukken bovenop. Maal er zwarte peper over; voeg pas zout toe als je bacalhau uitzonderlijk mild is.",
+      "Verkruimel de broa grof. Hak 3 tenen knoflook met de coentros fijn en meng met de broa en ongeveer 50 ml olijfolie. Het mengsel moet vochtig en los zijn, niet tot pasta gekneed.",
+      "Verdeel de broa in een royale laag over de bacalhau. Druppel de resterende olijfolie langs en over de korst en bak 18–22 minuten, tot de vis net gaar is en de broa diep goudbruin en krokant is.",
+      "Snijd de laatste teen knoflook in flinterdunne plakjes en bak die desgewenst kort in een scheutje olie tot licht goud. Strooi over het gerecht en serveer meteen, eventueel met citroen."
+    ],
+    "technique": {
+      "title": "OUDE BROA MAAKT DE BESTE KORST",
+      "text": "Broa van een dag oud verkruimelt beter en neemt olijfolie op zonder meteen pap te worden. Houd de kruim grof zodat de bovenkant echt krokant kan roosteren."
+    },
+    "attention": "Bacalhau is al gezouten geweest. Proef of controleer de ontzouting voordat je extra zout aan grelos of brood toevoegt.",
+    "variations": [
+      "Vervang grelos door couve lombarda of spinazie; laat spinazie zeer goed uitlekken.",
+      "Voor een eenvoudigere versie laat je de groente weg en serveer je er kleine geroosterde aardappelen naast."
+    ],
+    "nutrition": {
+      "kcal": 610,
+      "protein": 44,
+      "carbs": 38,
+      "fat": 31
+    }
+  },
+  {
     "id": "8",
-    "label": "13",
+    "label": "16",
     "title": "Pataniscas de bacalhau com arroz de feijão",
     "chapter": "Bacalhau",
     "tags": [
@@ -638,7 +789,7 @@ window.RECIPES = [
   },
   {
     "id": "17",
-    "label": "14",
+    "label": "17",
     "title": "Arroz de bacalhau malandrinho",
     "chapter": "Bacalhau",
     "tags": [
@@ -685,7 +836,7 @@ window.RECIPES = [
   },
   {
     "id": "9",
-    "label": "15",
+    "label": "18",
     "title": "Pescada cozida com batatas e legumes",
     "chapter": "Peixe",
     "tags": [
@@ -729,7 +880,7 @@ window.RECIPES = [
   },
   {
     "id": "10",
-    "label": "16",
+    "label": "19",
     "title": "Dourada assada no forno com batatas",
     "chapter": "Peixe",
     "tags": [
@@ -777,7 +928,7 @@ window.RECIPES = [
   },
   {
     "id": "49",
-    "label": "17",
+    "label": "20",
     "title": "Carapau grelhado com batata cozida e salada",
     "chapter": "Peixe",
     "tags": [
@@ -827,7 +978,7 @@ window.RECIPES = [
   },
   {
     "id": "50",
-    "label": "18",
+    "label": "21",
     "title": "Robalo no forno com legumes",
     "chapter": "Peixe",
     "tags": [
@@ -879,7 +1030,7 @@ window.RECIPES = [
   },
   {
     "id": "26",
-    "label": "19",
+    "label": "22",
     "title": "Sardinhas assadas com batatas e salada de pimentos",
     "chapter": "Peixe",
     "tags": [
@@ -924,7 +1075,7 @@ window.RECIPES = [
   },
   {
     "id": "16",
-    "label": "20",
+    "label": "23",
     "title": "Filetes de pescada panados com arroz de tomate",
     "chapter": "Peixe",
     "tags": [
@@ -975,7 +1126,7 @@ window.RECIPES = [
   },
   {
     "id": "2a",
-    "label": "21",
+    "label": "24",
     "title": "Caldeirada à moda de Peniche",
     "chapter": "Peixe",
     "tags": [
@@ -1027,7 +1178,7 @@ window.RECIPES = [
   },
   {
     "id": "3a",
-    "label": "22",
+    "label": "25",
     "title": "Miolo de amêijoa à Bulhão Pato",
     "chapter": "Marisco, polvo & pota",
     "tags": [
@@ -1078,7 +1229,7 @@ window.RECIPES = [
   },
   {
     "id": "4b",
-    "label": "23",
+    "label": "26",
     "title": "Cataplana de marisco à algarvia, zonder vlees",
     "chapter": "Marisco, polvo & pota",
     "tags": [
@@ -1127,7 +1278,7 @@ window.RECIPES = [
   },
   {
     "id": "1a",
-    "label": "24",
+    "label": "27",
     "title": "Arroz malandrinho de “lagosta” e coentros",
     "chapter": "Marisco, polvo & pota",
     "tags": [
@@ -1177,7 +1328,7 @@ window.RECIPES = [
   },
   {
     "id": "11",
-    "label": "25",
+    "label": "28",
     "title": "Arroz de polvo",
     "chapter": "Marisco, polvo & pota",
     "tags": [
@@ -1225,7 +1376,7 @@ window.RECIPES = [
   },
   {
     "id": "51",
-    "label": "26",
+    "label": "29",
     "title": "Pota à lagareiro com batatas a murro",
     "chapter": "Marisco, polvo & pota",
     "tags": [
@@ -1275,7 +1426,7 @@ window.RECIPES = [
   },
   {
     "id": "43",
-    "label": "27",
+    "label": "30",
     "title": "Feijoada de pota com feijão branco e couve-coração",
     "chapter": "Marisco, polvo & pota",
     "tags": [
@@ -1331,7 +1482,7 @@ window.RECIPES = [
   },
   {
     "id": "25",
-    "label": "28",
+    "label": "31",
     "title": "Arroz de tomate com ovo estrelado",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1375,7 +1526,7 @@ window.RECIPES = [
   },
   {
     "id": "41",
-    "label": "29",
+    "label": "32",
     "title": "Arroz de couve lombarda com ovo",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1427,7 +1578,7 @@ window.RECIPES = [
   },
   {
     "id": "4a",
-    "label": "30",
+    "label": "33",
     "title": "Arroz de marisco malandrinho",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1478,7 +1629,7 @@ window.RECIPES = [
   },
   {
     "id": "56",
-    "label": "31",
+    "label": "34",
     "title": "Arroz malandrinho de eryngii - arroz de “polvo” vegetal",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1533,7 +1684,7 @@ window.RECIPES = [
   },
   {
     "id": "21",
-    "label": "32",
+    "label": "35",
     "title": "Arroz de atum rápido",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1579,7 +1730,7 @@ window.RECIPES = [
   },
   {
     "id": "34",
-    "label": "33",
+    "label": "36",
     "title": "Arroz frito com legumes e ovo",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1623,7 +1774,7 @@ window.RECIPES = [
   },
   {
     "id": "20",
-    "label": "34",
+    "label": "37",
     "title": "Massa de atum com tomate e azeitonas",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1669,7 +1820,7 @@ window.RECIPES = [
   },
   {
     "id": "31",
-    "label": "35",
+    "label": "38",
     "title": "Massa de atum no forno",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1715,7 +1866,7 @@ window.RECIPES = [
   },
   {
     "id": "2b",
-    "label": "36",
+    "label": "39",
     "title": "Massada de peixe com tomate e coentros",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1766,7 +1917,7 @@ window.RECIPES = [
   },
   {
     "id": "54",
-    "label": "37",
+    "label": "40",
     "title": "Cogumelos eryngii à lagareiro com batatas a murro",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -1819,7 +1970,7 @@ window.RECIPES = [
   },
   {
     "id": "52",
-    "label": "38",
+    "label": "41",
     "title": "Ovos em tomatada",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -1869,7 +2020,7 @@ window.RECIPES = [
   },
   {
     "id": "33",
-    "label": "39",
+    "label": "42",
     "title": "Ovos mexidos com cogumelos e espinafres",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -1912,7 +2063,7 @@ window.RECIPES = [
   },
   {
     "id": "23",
-    "label": "40",
+    "label": "43",
     "title": "Omelete de atum e salsa",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -1954,7 +2105,7 @@ window.RECIPES = [
   },
   {
     "id": "22",
-    "label": "41",
+    "label": "44",
     "title": "Legumes à Brás",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -2005,7 +2156,7 @@ window.RECIPES = [
   },
   {
     "id": "15",
-    "label": "42",
+    "label": "45",
     "title": "Peixinhos da horta",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -2046,56 +2197,8 @@ window.RECIPES = [
     }
   },
   {
-    "id": "42",
-    "label": "43",
-    "title": "Migas de couve portuguesa com broa e feijão-frade",
-    "chapter": "Legumes, cogumelos, ovos & feijão",
-    "tags": [
-      "KOOL",
-      "BROA",
-      "VEGETARISCH"
-    ],
-    "time": "35 minuten",
-    "servings": "3–4 personen",
-    "intro": "Migas de couve (migas met Portugese kool) maken van couve portuguesa, broa de milho (maïsbrood), knoflook en azeite (olijfolie) een gerecht waarin de kool echt de hoofdrol speelt. Veel versies bevatten bacon; hier zorgen feijão-frade (zwartoogbonen), extra knoflook en goede olijfolie voor body en hartigheid.",
-    "image": "images/42-migas-de-couve-portuguesa-com-broa-e-feijao-frade.jpg",
-    "imageAlt": "Migas de couve portuguesa met broa en feijão-frade",
-    "ingredients": [
-      "500 g couve portuguesa (Portugese kool), in zeer fijne repen",
-      "250 g broa de milho (Portugees maïsbrood), liefst een dag oud",
-      "250 g feijão-frade cozido (gekookte zwartoogbonen), goed uitgelekt",
-      "4 tenen knoflook, fijngehakt",
-      "5 el azeite virgem extra (extra vierge olijfolie)",
-      "80–120 ml kookwater van de kool",
-      "zout en zwarte peper"
-    ],
-    "steps": [
-      "Breng een ruime pan gezouten water op hoog vuur aan de kook. Voeg de fijngesneden couve portuguesa toe en blancheer 2–3 minuten, tot de kool net mals is maar nog helder groen en licht veerkrachtig. Schep uit de pan en bewaar 150 ml kookwater.",
-      "Laat de kool minstens 5 minuten zeer goed uitlekken. Verkruimel intussen de broa met je handen tot grove kruimels; maak er geen fijn paneermeel van.",
-      "Verhit 4 el olijfolie in een brede pan op middellaag vuur. Voeg knoflook toe en bak 45–60 seconden tot hij geurt maar niet bruint.",
-      "Voeg kool en feijão-frade toe, zet het vuur middelhoog en schep 2 minuten om. Voeg de broakruimels toe en meng stevig zodat brood, kool en bonen zich verdelen.",
-      "Voeg 80 ml van het warme koolwater toe en bak nog 3–5 minuten op middelhoog vuur terwijl je regelmatig omschept en met de spatel licht aandrukt. De migas zijn klaar wanneer ze samenhangend en sappig zijn zonder natte vloeistof onderin de pan.",
-      "Proef op zout en peper en werk af met de resterende eetlepel olijfolie. Voeg alleen extra koolwater toe als de broa droog en kruimelig blijft."
-    ],
-    "technique": {
-      "title": "BROA BINDEN ZONDER PAP",
-      "text": "De broa moet genoeg koolwater en olijfolie opnemen om samenhang te krijgen, maar herkenbare kruimels houden. Voeg vloeistof daarom in kleine hoeveelheden toe en stop zodra de migas sappig maar niet nat zijn."
-    },
-    "attention": "Laat de geblancheerde kool goed uitlekken voordat hij de pan in gaat. Te veel achtergebleven water maakt de broa zompig en verdunt de knoflook- en olijfoliesmaak.",
-    "variations": [
-      "Gebruik couve-galega in dezelfde fijne snede voor een donkerdere, uitgesprokener koolversie.",
-      "Voor een hoofdgerecht kun je er een zacht gepocheerd ei per persoon op leggen."
-    ],
-    "nutrition": {
-      "kcal": 430,
-      "protein": 13,
-      "carbs": 55,
-      "fat": 18
-    }
-  },
-  {
     "id": "48",
-    "label": "44",
+    "label": "46",
     "title": "Salada de couve-coração com cenoura e vinagre",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2143,7 +2246,7 @@ window.RECIPES = [
   },
   {
     "id": "12",
-    "label": "45",
+    "label": "47",
     "title": "Salada de feijão-frade com atum e ovo",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2186,7 +2289,7 @@ window.RECIPES = [
   },
   {
     "id": "27",
-    "label": "46",
+    "label": "48",
     "title": "Salada de grão com atum e ovo",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2233,7 +2336,7 @@ window.RECIPES = [
   },
   {
     "id": "18",
-    "label": "47",
+    "label": "49",
     "title": "Salada russa de atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2279,7 +2382,7 @@ window.RECIPES = [
   },
   {
     "id": "28",
-    "label": "48",
+    "label": "50",
     "title": "Salada fria de arroz com atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2325,7 +2428,7 @@ window.RECIPES = [
   },
   {
     "id": "29",
-    "label": "49",
+    "label": "51",
     "title": "Massa fria de atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2371,7 +2474,7 @@ window.RECIPES = [
   },
   {
     "id": "55",
-    "label": "50",
+    "label": "52",
     "title": "Cogumelos à Bulhão Pato",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2422,7 +2525,7 @@ window.RECIPES = [
   },
   {
     "id": "57",
-    "label": "51",
+    "label": "53",
     "title": "Pica-pau de cogumelos com pickles",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2477,7 +2580,7 @@ window.RECIPES = [
   },
   {
     "id": "44",
-    "label": "52",
+    "label": "54",
     "title": "Sardinhas de conserva com batata, pimento assado e cebola",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2526,7 +2629,7 @@ window.RECIPES = [
   },
   {
     "id": "45",
-    "label": "53",
+    "label": "55",
     "title": "Carapau de conserva com feijão-frade",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2574,7 +2677,7 @@ window.RECIPES = [
   },
   {
     "id": "35",
-    "label": "54",
+    "label": "56",
     "title": "Cavala com grão",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2617,7 +2720,7 @@ window.RECIPES = [
   },
   {
     "id": "46",
-    "label": "55",
+    "label": "57",
     "title": "Pota em azeite com grão, alho e salsa",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2665,7 +2768,7 @@ window.RECIPES = [
   },
   {
     "id": "47",
-    "label": "56",
+    "label": "58",
     "title": "Bacalhau em azeite e alho com batata e grelos",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2712,7 +2815,7 @@ window.RECIPES = [
   },
   {
     "id": "19",
-    "label": "57",
+    "label": "59",
     "title": "Atum à Brás",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2758,7 +2861,7 @@ window.RECIPES = [
   },
   {
     "id": "30",
-    "label": "58",
+    "label": "60",
     "title": "Quiche de atum",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2805,7 +2908,7 @@ window.RECIPES = [
   },
   {
     "id": "32",
-    "label": "59",
+    "label": "61",
     "title": "Tosta de atum",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2849,7 +2952,7 @@ window.RECIPES = [
   },
   {
     "id": "36",
-    "label": "60",
+    "label": "62",
     "title": "Douradinhos com arroz de tomate",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
@@ -2902,7 +3005,7 @@ window.RECIPES = [
   },
   {
     "id": "37",
-    "label": "61",
+    "label": "63",
     "title": "Rissóis de camarão ou bacalhau com arroz de tomate",
     "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
