@@ -2433,5 +2433,53 @@ window.RECIPES = [
       "carbs": 51,
       "fat": 27
     }
+  },
+  {
+    "id": "48",
+    "label": "48",
+    "title": "Salada de couve-coração com cenoura e vinagre",
+    "chapter": "Portugal nu",
+    "tags": [
+      "SALADE",
+      "KOOL",
+      "RESTAURANTSTIJL"
+    ],
+    "time": "15 minuten + 15 minuten rust",
+    "servings": "4 bijgerechten",
+    "intro": "Dit is het type eenvoudige, uitgesproken zure salade dat je in Portugese tascas en churrasqueiras vaak naast vis, aardappelen of rijst krijgt. Geen romige coleslaw: couve-coração (spitskool), wortel en ui worden stevig aangemaakt met azeite (olijfolie), wijnazijn en zout en krijgen even tijd om zachter en smaakvoller te worden.",
+    "image": "images/48-salada-couve-coracao-cenoura-vinagre.jpg",
+    "imageAlt": "Portugese koolsalade met couve-coração, wortel, ui, olijfolie en wijnazijn",
+    "ingredients": [
+      "350 g couve-coração (spitskool), flinterdun gesneden",
+      "1 middelgrote wortel, grof geraspt",
+      "½ kleine rode of witte ui, zeer dun gesneden",
+      "3 el azeite virgem extra (extra vierge olijfolie)",
+      "2 el vinagre de vinho branco of tinto (witte- of rodewijnazijn)",
+      "½ tl fijn zout, plus meer naar smaak",
+      "zwarte peper, optioneel",
+      "1 el fijngehakte peterselie, optioneel"
+    ],
+    "steps": [
+      "Snijd de couve-coração zo dun mogelijk, liefst 1–2 mm. Doe kool, wortel en ui in een ruime kom.",
+      "Strooi het zout erover en masseer de groenten 45–60 seconden met schone handen. De kool moet iets soepeler worden maar nog duidelijk knapperig blijven.",
+      "Meng de wijnazijn erdoor en laat 5 minuten staan. Voeg daarna de olijfolie toe en schep grondig om; zo krijgt de azijn eerst direct contact met de groenten.",
+      "Laat de salade 10–15 minuten op kamertemperatuur rusten. Schep halverwege nog een keer om zodat het vocht zich opnieuw verdeelt.",
+      "Proef vlak voor serveren. De salade hoort duidelijk zuur en zoutig te smaken, niet voorzichtig of zoet. Voeg naar smaak nog 1–2 theelepels azijn toe en werk eventueel af met peper en peterselie."
+    ],
+    "technique": {
+      "title": "EERST ZUUR, DAN OLIE",
+      "text": "Door de azijn vóór de olie door de gezouten kool te mengen kan het zuur direct intrekken. Voeg daarna de olijfolie toe om de scherpe rand af te ronden zonder de salade mild te maken."
+    },
+    "attention": "Maak de kool echt dun. Dikke repen blijven stug en vragen veel meer rusttijd. Serveer de salade niet ijskoud; op kamertemperatuur proef je azijn en olijfolie duidelijker.",
+    "variations": [
+      "Salada mista de restaurante: vervang kool en wortel door 1 kleine krop sla, 2 rijpe tomaten, ½ komkommer en dezelfde dun gesneden ui. Gebruik dezelfde dressing, maar meng pas vlak voor het serveren zodat de sla niet slap wordt.",
+      "Rode-koolvariant: vervang de helft van de couve-coração door couve-roxa (rode kool), snijd nog fijner en geef de salade 25–30 minuten rusttijd."
+    ],
+    "nutrition": {
+      "kcal": 120,
+      "protein": 2,
+      "carbs": 9,
+      "fat": 9
+    }
   }
 ];
