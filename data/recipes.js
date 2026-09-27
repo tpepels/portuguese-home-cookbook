@@ -2495,7 +2495,7 @@ window.RECIPES = [
     "time": "35 minuten",
     "servings": "2 personen",
     "intro": "Carapau grelhado (gegrilde horsmakreel) met aardappel en een scherpe salade is precies het soort eenvoudige Portugese vismaaltijd dat weinig uitleg nodig heeft. De vis krijgt alleen zout, hitte en olijfolie; de rest van het bord komt van goede aardappelen en een zure salade.",
-    "image": "images/49-carapau-grelhado-batata-salada.jpg",
+    "image": "images/49-carapau-grelhado-com-batata-cozida-e-salada.png",
     "imageAlt": "Gegrilde carapau met gekookte aardappel en zure salade",
     "ingredients": [
       "4 kleine carapaus (horsmakrelen), schoongemaakt",
@@ -2545,7 +2545,7 @@ window.RECIPES = [
     "time": "50 minuten",
     "servings": "2 personen",
     "intro": "Robalo no forno (zeebaars uit de oven) is een heel gewone manier om een hele vis thuis te bereiden. Ui, tomaat, paprika en aardappel garen in dezelfde schaal en nemen het braadvocht, de wijn en de olijfolie op.",
-    "image": "images/50-robalo-forno-legumes.jpg",
+    "image": "images/50-robalo-no-forno-com-legumes.png",
     "imageAlt": "Robalo uit de oven met aardappel, tomaat, ui en paprika",
     "ingredients": [
       "1 hele robalo (zeebaars) van 700–900 g, schoongemaakt",
@@ -2597,7 +2597,7 @@ window.RECIPES = [
     "time": "75 minuten",
     "servings": "4 personen",
     "intro": "Pota à lagareiro is de betaalbaardere neef van polvo à lagareiro: malse pota, kleine aardappelen die na het roosteren een 'murro' krijgen, veel knoflook en royaal olijfolie. Dit is een gerecht waar de olijfolie echt onderdeel van de saus is.",
-    "image": "images/51-pota-lagareiro-batatas-murro.jpg",
+    "image": "images/51-pota-a-lagareiro-com-batatas-a-murro.png",
     "imageAlt": "Pota à lagareiro met knoflook, olijfolie en batatas a murro",
     "ingredients": [
       "800 g tentáculos de pota (potatentakels), ontdooid",
@@ -2647,7 +2647,7 @@ window.RECIPES = [
     "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Ovos em tomatada is pure Portugese voorraadkastlogica: ui, knoflook en tomaat rustig laten indikken en de eieren rechtstreeks in de saus garen. Met brood of witte rijst is het een complete, goedkope maaltijd.",
-    "image": "images/52-ovos-em-tomatada.jpg",
+    "image": "images/52-ovos-em-tomatada.png",
     "imageAlt": "Eieren gepocheerd in Portugese tomatensaus met ui en paprika",
     "ingredients": [
       "4 eieren",
@@ -2697,7 +2697,7 @@ window.RECIPES = [
     "time": "40 minuten",
     "servings": "4 kommen",
     "intro": "Een eenvoudige sopa de peixe hoeft geen restaurantbouillon te zijn. Pescada (heek), tomaat, ui en couve-coração vormen een zachte dagelijkse soep; een gepocheerd ei maakt er een volledige lichte maaltijd van.",
-    "image": "images/53-sopa-peixe-couve-ovo.jpg",
+    "image": "images/53-sopa-de-peixe-simples-com-couve-e-ovo.png",
     "imageAlt": "Portugese vissoep met pescada, kool, tomaat en gepocheerd ei",
     "ingredients": [
       "400 g lombos de pescada (heekfilet), in grove stukken",
