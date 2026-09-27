@@ -109,3 +109,11 @@ Four additional pantry dishes were added to better represent the Portuguese cann
 - **47 — Bacalhau em azeite e alho com batata e grelos.** Modern pantry meal using ready-to-eat bacalhau in olive oil and garlic with classic potato/greens accompaniments. Current retail examples include Gallo, Bom Petisco and Pitéu bacalhau em azeite e alho. Retail reference: https://www.continente.pt/mercearia/conservas/conservas-de-peixe/bacalhau-salmaopescada-e-truta/
 
 These are explicitly presented as current Portuguese pantry meals, not as canonical named traditional dishes. The active cookbook now contains **51 recipes**.
+
+
+## Restaurant-style vinegar salad — 2026-09-27
+
+- **48 — Salada de couve-coração com cenoura e vinagre.** A simple current Portuguese-style cabbage salad built around very thin cabbage, carrot, onion, wine vinegar and olive oil. The deliberately assertive acid level reflects the strongly dressed side salads commonly served in Portuguese restaurants rather than creamy coleslaw. Portuguese recipe references commonly use roughly 2–3 parts olive oil to 1 part vinegar in simple salads; this version is intentionally sharper at 3 tbsp oil to 2 tbsp wine vinegar. Supporting references: Teleculinária's cabbage/carrot salad uses 3 tbsp olive oil with 2 tbsp apple vinegar plus lemon (https://teleculinaria.pt/receitas/salada-de-flores/), while its vegetable salad dressing uses 100 ml olive oil with 3 tbsp red-wine vinegar (https://teleculinaria.pt/receitas/salada-de-legumes-em-caixa-de-pepino/).
+- The recipe includes a **salada mista de restaurante** variation using lettuce, tomato and cucumber with the same sharp vinaigrette, plus a slower red-cabbage variation.
+
+The active cookbook now contains **52 recipes**.
