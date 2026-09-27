@@ -18,7 +18,7 @@ This file records the web/retail comparison behind the cookbook. The sources are
 | 6 | Bacalhau à Gomes de Sá | https://www.feed.continente.pt/receitas/bacalhau-a-gomes-de-sa | Low-temperature bacalhau cooking, pre-cooked potato and oven finish cross-checked. |
 | 7 | Bacalhau com natas | https://cozinha.continente.pt/receitas/bacalhau-com-natas ; https://feed.continente.pt/receitas/yammi/bacalhau-com-natas | Béchamel/natas structure and 15–20 minute gratin window checked; sauce thickness and browning cues made explicit. |
 | 8 | Pataniscas de bacalhau com arroz de feijão | https://voltaportugal.continente.pt/receitas/pataniscas-de-bacalhau ; https://www.24kitchen.pt/receita/pataniscas-de-bacalhau | Beer-based batter, thick spoonable texture and hot-oil frying adopted; rice remains sappier than dry rice. |
-| 9 | Bacalhau com todos e couve portuguesa | https://www.visitportugal.com/pt-pt/content/receitas-tradicionais-portuguesas-bacalhau-com-todos | Couve portuguesa, grelos, nabo, potato, carrot, egg and bacalhau restored to the “com todos” composition; cod poached gently for reliability. |
+| 9 | Pescada cozida com batatas e legumes | https://www.visitportugal.com/pt-pt/content/receitas-tradicionais-portuguesas-bacalhau-com-todos | Couve portuguesa, grelos, nabo, potato, carrot, egg and bacalhau restored to the “com todos” composition; cod poached gently for reliability. |
 | 10 | Dourada assada no forno com batatas | https://cozinha.continente.pt/receitas/dourada-forno | Whole-fish oven timing cross-checked; visual doneness and optional core-temperature cue added; potatoes pre-started so both finish together. |
 | 11 | Arroz de polvo | https://www.feed.continente.pt/receitas/arroz-de-polvo | Octopus tender-first approach and use of its cooking liquid confirmed; rice endpoint made explicitly wet. |
 | 12 | Salada de feijão-frade com atum e ovo | https://cozinha.continente.pt/receitas/salada-de-atum-e-feijao-frade ; https://www.foodfromportugal.com/pt-pt/receitas/salada-feijao-frade/ | Tuna/bean/egg combination, drained beans and vinaigrette confirmed; cooling and second tasting made explicit. |
@@ -33,7 +33,7 @@ This file records the web/retail comparison behind the cookbook. The sources are
 | 21 | Arroz de atum rápido | https://feed.continente.pt/receitas/arroz-atum | Reworked to current Portuguese supermarket/home style: arroz agulha, peppers, tomato and 10–12 minute covered cook; removed the stray cheese option. |
 | 22 | Legumes à Brás | https://feed.continente.pt/receitas/legumes-a-bras ; https://www.24kitchen.pt/receita/legumes-a-bras-1 | Vegetable sauté, batata palha and egg finish checked; cabbage option added for current Portuguese retail produce. |
 | 23 | Omelete de atum e salsa | https://www.foodfromportugal.com/pt-pt/receitas/omelete-simples/ | Modern tuna variation; omelette heat, folding and moist-centre cues checked against a current Portuguese home-recipe reference. |
-| 24 | Sopa de feijão com couve lombarda | https://foodlab.cascais.pt/pt-pt/sopa-de-feijao-com-couve-lombarda | Directly based on a documented Lisbon-region soup: half the beans puréed, half kept whole, lombarda added at the end. |
+| 24 | Sopa de legumes | https://foodlab.cascais.pt/pt-pt/sopa-de-feijao-com-couve-lombarda | Directly based on a documented Lisbon-region soup: half the beans puréed, half kept whole, lombarda added at the end. |
 | 25 | Arroz de tomate com ovo estrelado | https://feed.continente.pt/receitas/arroz-de-tomate-caldoso | Three-parts-liquid concept and caldoso endpoint checked; fried egg remains a practical modern meal addition. |
 | 26 | Sardinhas assadas com batatas e salada de pimentos | https://teleculinaria.pt/receitas/sardinhas-assadas-com-salada-de-batata-e-pimentos/ | Sardine grilling, cooked potatoes and charred pepper salad confirmed; visual fish doneness added. |
 | 27 | Salada de grão com atum e ovo | https://feed.continente.pt/receitas/salada-de-grao-e-atum | Chickpea/tuna/egg structure, drainage and dressing confirmed; optional raw cabbage variation added. |
@@ -73,3 +73,17 @@ A final retail/source check was run after the recipe rewrite.
 - **Pescanova “forma de lagosta”:** the current Auchan product page identifies it as a cooked processed fish/surimi product, not lobster, and recommends approximately 2 hours of thawing. The cookbook now says this explicitly and never treats it as raw shellfish.
 
 The final editorial rule remains: package instructions control branded frozen products, while visual/tactile endpoints control the recipe whenever they are more useful than a generic clock time. Every active cooking step was then re-read for **heat, approximate time, end-point and recovery guidance**.
+
+
+## Cabbage expansion — 2026-09-27
+
+The earlier cabbage pass accidentally replaced two existing recipes instead of expanding the book. Recipe 9 (Pescada cozida com batatas e legumes) and recipe 24 (Sopa de legumes) were restored, and four additional cabbage-centred recipes were added:
+
+| ID | Dish | Source / basis | Audit outcome |
+|---|---|---|---|
+| 38 | Bacalhau com todos e couve portuguesa | https://www.visitportugal.com/pt-pt/content/receitas-tradicionais-portuguesas-bacalhau-com-todos | Couve portuguesa, grelos, nabo, potato, carrot, egg and bacalhau retained as a separate winter classic rather than replacing pescada cozida. |
+| 39 | Sopa de feijão com couve lombarda | https://foodlab.cascais.pt/pt-pt/sopa-de-feijao-com-couve-lombarda | Half-puréed red beans, whole beans and finely cut couve lombarda retained as a separate cabbage soup rather than replacing the general vegetable soup. |
+| 40 | Caldo verde zonder chouriço | https://teleculinaria.pt/receitas/caldo-verde/ ; https://teleculinaria.pt/receitas/caldo-verde-2/ | Potato, onion, garlic, finely cut couve-galega and olive oil follow the Portuguese structure; chouriço is deliberately omitted to keep the cookbook meat-free. |
+| 41 | Arroz de couve lombarda com ovo | https://www.arrozsaludaes.pt/receita/arroz-de-couve/ ; https://www.cigala.pt/receitas/arroz-de-couve/ | Carolino rice, cabbage, onion and hot liquid follow documented Portuguese arroz de couve technique; the usual chouriço route is replaced with a soft egg for a complete meat-free meal. |
+
+The active cookbook now contains 45 recipes. Cabbage is represented as a main ingredient across boiled fish plates, bean soup, caldo verde, vegetable rice and several variations rather than only as an optional substitute.
