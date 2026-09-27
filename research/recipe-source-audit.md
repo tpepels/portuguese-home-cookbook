@@ -59,3 +59,17 @@ This file records the web/retail comparison behind the cookbook. The sources are
 ## Editorial rule after this audit
 
 Every active cooking step should answer as many of these as relevant: **what to do, heat level, approximate time, visible/tactile endpoint, and what to do if the pan is too dry/wet/hot**. Package-based recipes keep a realistic **Snel** route and also offer a **Fancy** route from ingredients obtainable through Portuguese supermarkets or a normal peixaria/pastelaria.
+
+
+## Final verification — 2026-09-27
+
+A final retail/source check was run after the recipe rewrite.
+
+- **Auchan cabbage availability:** the fresh-vegetable category currently lists couve lombarda, couve branca, couve roxa and couve coração, alongside couve-flor. The cookbook therefore names the cabbage explicitly instead of using generic “kool”, and now contains two cabbage-centred recipes plus cabbage variations.
+- **Bacalhau com todos:** the VisitPortugal reference explicitly includes couve portuguesa, grelos, nabo, batata, cenoura, ovo and bacalhau. The cookbook keeps couve portuguesa as the core cabbage and uses a gentler cod-poaching sequence for clearer home execution.
+- **Sopa de feijão com couve lombarda:** the Cascais Foodlab reference confirms the regional method of puréeing half the red beans, returning the remaining beans whole and adding finely cut couve lombarda at the end.
+- **Caldeirada frozen route:** Auchan currently lists the 800 g Peniche pack with safio, raia, red-fish, carapau, berbigão, tomate and pimento; the cookbook keeps this as the **Snel** route and adds a peixaria-based **Fancy** route.
+- **Mariscada frozen route:** Auchan currently lists the 500 g mix and instructs 12 hours of refrigerator thawing before normal cooking; the cookbook uses that handling and gives a fresh shrimp/clam/mussel alternative.
+- **Pescanova “forma de lagosta”:** the current Auchan product page identifies it as a cooked processed fish/surimi product, not lobster, and recommends approximately 2 hours of thawing. The cookbook now says this explicitly and never treats it as raw shellfish.
+
+The final editorial rule remains: package instructions control branded frozen products, while visual/tactile endpoints control the recipe whenever they are more useful than a generic clock time. Every active cooking step was then re-read for **heat, approximate time, end-point and recovery guidance**.
