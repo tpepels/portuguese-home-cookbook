@@ -560,53 +560,45 @@ window.RECIPES = [
   {
     "id": "9",
     "label": "9",
-    "title": "Bacalhau com todos e couve portuguesa",
+    "title": "Pescada cozida com batatas e legumes",
     "chapter": "Portugees thuisrepertoire",
     "tags": [
-      "WINTERKLASSIEKER",
-      "KOOL"
+      "DAGELIJKSE BASIS"
     ],
-    "time": "40 minuten",
+    "time": "30 minuten",
     "servings": "2 personen",
-    "intro": "Bacalhau com todos (gezouten kabeljauw met aardappel, groenten en ei) is een van de duidelijkste plekken waar couve portuguesa (Portugese bladkool) thuishoort. De onderdelen worden eenvoudig gekookt en pas aan tafel rijk gemaakt met goede olijfolie.",
+    "intro": "Dit is misschien het minst spectaculaire gerecht in het boek en juist daarom belangrijk. Pescada (heek) met gekookte aardappelen, groenten en ei is eenvoudige Portugese dagelijkse kost waarin goede vis en olijfolie niet achter saus verdwijnen.",
     "image": "images/9-pescada-cozida-com-batatas-e-legumes.jpg",
-    "imageAlt": "Bacalhau com todos met couve portuguesa, aardappelen, wortel en ei",
+    "imageAlt": "Pescada cozida com batatas e legumes",
     "ingredients": [
-      "350 g bacalhau demolhado (ontzoute gezouten kabeljauw), in 2–3 dikke stukken",
-      "450 g batata para cozer (kookaardappelen), gehalveerd als ze groot zijn",
-      "300 g couve portuguesa (Portugese bladkool), dikke nerven verwijderd en bladeren grof gesneden",
-      "150 g grelos (raapstelen), schoongemaakt",
-      "120 g nabo (raap), in parten",
-      "2 wortels, in dikke stukken",
-      "2 cebolinhas (kleine jonge uien), gepeld",
+      "2 moten of filets pescada (heek), ongeveer 350–400 g totaal",
+      "450 g batata para cozer (kookaardappelen), liefst vastkokend",
+      "2 wortels",
+      "200 g grelos, sperziebonen of kool",
       "2 eieren",
-      "3 el azeite virgem extra (extra vierge olijfolie), plus extra aan tafel",
-      "2 tenen knoflook, zeer fijn gehakt of in dunne plakjes",
-      "1–2 tl wijnazijn of citroensap, optioneel",
-      "zwarte peper; zout alleen indien nodig"
+      "2 el goede olijfolie",
+      "1 citroen",
+      "zout en peper"
     ],
     "steps": [
-      "Kook de eieren apart 9–10 minuten, koel ze kort in koud water, pel en halveer. Zo hoef je tijdens het garen van de groenten niet op een tweede klok in dezelfde pan te letten.",
-      "Breng in een ruime pan licht gezouten water aan de kook. Voeg aardappelen en wortel toe en laat 3 minuten op middelhoog vuur koken.",
-      "Voeg couve portuguesa, grelos, nabo en cebolinhas toe. Houd het water rustig aan de kook en gaar 12–15 minuten; haal groenten die eerder mals zijn met een schuimspaan uit de pan.",
-      "Controleer de aardappelen: een mes moet vrijwel zonder weerstand tot het midden gaan. Zet nu het vuur uit, leg de bacalhau in het zeer hete kookwater, dek af en laat 7–10 minuten staan, afhankelijk van de dikte.",
-      "Controleer de bacalhau in het dikste deel. Hij is klaar wanneer het vlees overal opaak is en onder lichte druk in grote sappige vlokken uiteenvalt; laat hem niet opnieuw hard koken.",
-      "Verwarm 3 el olijfolie met de knoflook 1 minuut op laag vuur, alleen tot hij geurt. Schik bacalhau, aardappel, couve, grelos, nabo, wortel, cebolinhas en ei op een warme schaal en lepel de knoflookolie erover."
+      "Kook aardappelen en wortel in gezouten water. Test met de punt van een mes: de aardappel moet gaar zijn maar nog voldoende stevigheid hebben om bij het mengen heel te blijven.",
+      "Voeg de groente toe op het moment dat de kooktijd daarom vraagt. Stevigere groenten mogen eerder in de pan, terwijl zachte of groene groenten pas later gaan; zo eindigt alles tegelijk gaar zonder slap te worden.",
+      "Pocheer of kook de pescada (heek) apart heel rustig in gezouten water tot hij net gaar is. Houd de vloeistof net onder het kookpunt, met alleen kleine belletjes; hard koken maakt de vis droger en laat de vlokken sneller uit elkaar vallen.",
+      "Kook de eieren hard of halfhard. Koel de eieren na het koken kort in koud water; daardoor stopt het garen en kun je ze makkelijker pellen zonder het wit te beschadigen.",
+      "Verdeel vis, aardappelen, groente en ei over de borden. Houd de onderdelen herkenbaar naast elkaar in plaats van alles te mengen; zo kan iedereen zelf olijfolie en citroen naar smaak toevoegen.",
+      "Geef er royaal olijfolie en citroen bij. Laat iedereen aan tafel zelf doseren: de warme aardappel en vis nemen de azeite (olijfolie) goed op en een beetje citroen maakt het geheel frisser zonder een saus nodig te hebben."
     ],
     "technique": {
-      "title": "BACALHAU IN HET HETE KOOKWATER",
-      "text": "De traditionele werkwijze voegt de bacalhau als laatste toe. Zet het vuur uit, dek af en laat de vis in het zeer hete groentewater gaar trekken; zo blijft hij sappiger dan bij hard doorkoken."
+      "title": "VIS POCHEREN",
+      "text": "Pocheren is zacht garen in water dat net niet kookt. Houd de vloeistof rond 80–90 °C: kleine belletjes mogen, wild borrelen niet. Zo blijft pescada (heek) sappig en valt hij minder snel uit elkaar."
     },
-    "attention": "Bacalhau com todos betekent hier letterlijk dat vis, aardappel, ei en meerdere wintergroenten samen op de schaal komen. Laat de bacalhau niet hard meekoken: de groenten verdragen koken, de vis blijft sappiger bij pocheren.",
-    "variations": [
-      "Voeg 150–200 g gekookte grão-de-bico (kikkererwten) toe voor een steviger bord.",
-      "Couve coração (spitskool) kan als mildere winkelvariant; kook die slechts 3–5 minuten."
-    ],
+    "attention": "Dit is bewust eenvoudig. In de Portugese dagelijkse keuken wordt vis vaak veel minder “aangekleed” dan in restaurantrecepten.",
+    "variations": [],
     "nutrition": {
-      "kcal": 690,
-      "protein": 50,
-      "carbs": 62,
-      "fat": 27
+      "kcal": 610,
+      "protein": 47,
+      "carbs": 55,
+      "fat": 21
     }
   },
   {
@@ -1260,48 +1252,47 @@ window.RECIPES = [
   {
     "id": "24",
     "label": "24",
-    "title": "Sopa de feijão com couve lombarda",
+    "title": "Sopa de legumes",
     "chapter": "Snel, dagelijks & hedendaags",
     "tags": [
-      "REGIONALE SOEP",
-      "KOOL"
+      "DAGELIJKSE BASIS"
     ],
-    "time": "35 minuten met gekookte bonen",
-    "servings": "4 kommen",
-    "intro": "Sopa de feijão com couve lombarda (bonensoep met savooiekool) is stevige Portugese huissoep. Een deel van de bonen wordt gepureerd voor body, terwijl de rest heel blijft en de fijn gesneden kool pas op het einde gaart.",
+    "time": "35–45 minuten",
+    "servings": "ongeveer 6 kommen",
+    "intro": "Groentesoep is minder een afzonderlijk recept dan een vaste aanwezigheid in veel Portugese huishoudens. Een grote pan in de koelkast betekent dat er altijd iets eenvoudigs voor lunch, avondeten of als eerste gang klaarstaat.",
     "image": "images/24-sopa-de-legumes.jpg",
-    "imageAlt": "Portugese bonensoep met couve lombarda",
+    "imageAlt": "Sopa de legumes",
     "ingredients": [
-      "400 g feijão encarnado cozido (gekookte rode bonen), uitgelekt; bewaar 500 ml kookvocht of gebruik water",
-      "250 g couve lombarda (savooiekool), in zeer fijne reepjes",
-      "1 middelgrote ui, fijngehakt",
-      "1 teen knoflook, fijngehakt",
-      "3 el azeite (olijfolie), plus 1 tl voor het einde",
-      "500–700 ml heet bonenkookvocht of water",
-      "zout en zwarte peper"
+      "1 ui",
+      "2 tenen knoflook",
+      "2 wortels",
+      "1 courgette",
+      "1 kleine batata para cozer (kookaardappelen)",
+      "200 g pompoen",
+      "½ prei",
+      "hand kool, spinazie of sperziebonen",
+      "2 el olijfolie",
+      "zout",
+      "water"
     ],
     "steps": [
-      "Verhit 3 el olijfolie op middellaag vuur. Fruit ui 6–8 minuten tot volledig zacht en glazig; voeg knoflook toe en bak nog 30 seconden zonder te kleuren.",
-      "Voeg de helft van de bonen en 500 ml heet kookvocht of water toe. Breng op hoog vuur aan de kook en laat daarna 5 minuten zacht pruttelen.",
-      "Haal de pan van het vuur en pureer de soep glad met een staafmixer. Zet terug op middelhoog vuur en verdun zo nodig met extra heet water tot een vrij dikke maar lepelbare soep.",
-      "Zodra de soep opnieuw kookt, voeg je de resterende hele bonen en de zeer fijn gesneden couve lombarda toe. Zet middellaag en laat 8–10 minuten zacht koken.",
-      "Proef een reep kool: hij moet mals zijn maar nog lichte beet hebben. Is de soep te dik, voeg 50–100 ml heet water toe; breng pas nu definitief op smaak met zout en peper.",
-      "Zet het vuur uit, roer 1 tl goede olijfolie erdoor en laat 2 minuten staan. Serveer heet."
+      "Snijd ui, knoflook, wortel, courgette, aardappel, pompoen en prei grof. Houd wortel en aardappel iets kleiner dan courgette en pompoen, zodat de verschillende groenten ongeveer tegelijk zacht zijn.",
+      "Zet net onder water, voeg een beetje zout toe en kook tot alles zeer zacht is. Laat na het bereiken van de kook de pan rustig pruttelen; de groenten moeten zonder weerstand te pureren zijn, maar het vocht hoeft niet wild te koken.",
+      "Pureer tot een gladde basis. Pureer tot de basis echt glad is en proef daarna opnieuw op zout en dikte; de soep dikt tijdens het staan nog iets verder in.",
+      "Voeg fijngesneden kool, spinazie of sperziebonen toe en kook nog 5–10 minuten. Houd de groente liever net aan de stevige kant; hij gaart nog kort door in de hete pan en behoudt zo meer structuur.",
+      "Zet het vuur uit en voeg pas dan een goede scheut olijfolie toe. Door de azeite (olijfolie) buiten het vuur toe te voegen blijft de frisse, peperige smaak beter herkenbaar in de soep."
     ],
     "technique": {
-      "title": "BONEN PUREREN, KOOL HEEL LATEN",
-      "text": "Pureer slechts een deel van de bonen tot een romige basis en voeg de rest heel toe. Snijd couve lombarda dun en kook hem pas op het einde, zodat de soep zowel romigheid als duidelijke groentestructuur houdt."
+      "title": "TWEE TEXTUREN",
+      "text": "Kook de basisgroenten zeer zacht en pureer die glad. Voeg pas daarna kool, spinazie of sperziebonen toe en laat die herkenbaar; zo krijg je de typische combinatie van romige basis en groentestukjes."
     },
-    "attention": "Couve lombarda (savooiekool) is hier geen bijzaak: snijd hem fijn en kook hem niet tot grauwe pap. De regionale bron gebruikt droge rode bonen; gekookte bonen uit pot of blik maken dezelfde techniek praktisch voor doordeweeks.",
-    "variations": [
-      "Gebruik couve branca (witte kool) als couve lombarda niet beschikbaar is; reken ongeveer dezelfde gaartijd.",
-      "Met droge bonen: week 200 g feijão encarnado een nacht en kook ze volledig gaar vóór stap 1."
-    ],
+    "attention": "Maak meteen een grotere pan. Portugese groentesoep is juist nuttig als koelkastbasis: een kom voor het avondeten, lunch of voorafgaand aan een hoofdgerecht.",
+    "variations": [],
     "nutrition": {
-      "kcal": 240,
-      "protein": 10,
-      "carbs": 30,
-      "fat": 10
+      "kcal": 100,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 5
     }
   },
   {
@@ -1891,6 +1882,205 @@ window.RECIPES = [
       "protein": 14,
       "carbs": 103,
       "fat": 30
+    }
+  },
+  {
+    "id": "38",
+    "label": "38",
+    "title": "Bacalhau com todos e couve portuguesa",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "WINTERKLASSIEKER",
+      "KOOL"
+    ],
+    "time": "40 minuten",
+    "servings": "2 personen",
+    "intro": "Bacalhau com todos (gezouten kabeljauw met aardappel, groenten en ei) is een van de duidelijkste plekken waar couve portuguesa (Portugese bladkool) thuishoort. De onderdelen worden eenvoudig gekookt en pas aan tafel rijk gemaakt met goede olijfolie.",
+    "image": "images/38-bacalhau-com-todos-e-couve-portuguesa.jpg",
+    "imageAlt": "Bacalhau com todos met couve portuguesa, aardappelen, wortel en ei",
+    "ingredients": [
+      "350 g bacalhau demolhado (ontzoute gezouten kabeljauw), in 2–3 dikke stukken",
+      "450 g batata para cozer (kookaardappelen), gehalveerd als ze groot zijn",
+      "300 g couve portuguesa (Portugese bladkool), dikke nerven verwijderd en bladeren grof gesneden",
+      "150 g grelos (raapstelen), schoongemaakt",
+      "120 g nabo (raap), in parten",
+      "2 wortels, in dikke stukken",
+      "2 cebolinhas (kleine jonge uien), gepeld",
+      "2 eieren",
+      "3 el azeite virgem extra (extra vierge olijfolie), plus extra aan tafel",
+      "2 tenen knoflook, zeer fijn gehakt of in dunne plakjes",
+      "1–2 tl wijnazijn of citroensap, optioneel",
+      "zwarte peper; zout alleen indien nodig"
+    ],
+    "steps": [
+      "Kook de eieren apart 9–10 minuten, koel ze kort in koud water, pel en halveer. Zo hoef je tijdens het garen van de groenten niet op een tweede klok in dezelfde pan te letten.",
+      "Breng in een ruime pan licht gezouten water aan de kook. Voeg aardappelen en wortel toe en laat 3 minuten op middelhoog vuur koken.",
+      "Voeg couve portuguesa, grelos, nabo en cebolinhas toe. Houd het water rustig aan de kook en gaar 12–15 minuten; haal groenten die eerder mals zijn met een schuimspaan uit de pan.",
+      "Controleer de aardappelen: een mes moet vrijwel zonder weerstand tot het midden gaan. Zet nu het vuur uit, leg de bacalhau in het zeer hete kookwater, dek af en laat 7–10 minuten staan, afhankelijk van de dikte.",
+      "Controleer de bacalhau in het dikste deel. Hij is klaar wanneer het vlees overal opaak is en onder lichte druk in grote sappige vlokken uiteenvalt; laat hem niet opnieuw hard koken.",
+      "Verwarm 3 el olijfolie met de knoflook 1 minuut op laag vuur, alleen tot hij geurt. Schik bacalhau, aardappel, couve, grelos, nabo, wortel, cebolinhas en ei op een warme schaal en lepel de knoflookolie erover."
+    ],
+    "technique": {
+      "title": "BACALHAU IN HET HETE KOOKWATER",
+      "text": "De traditionele werkwijze voegt de bacalhau als laatste toe. Zet het vuur uit, dek af en laat de vis in het zeer hete groentewater gaar trekken; zo blijft hij sappiger dan bij hard doorkoken."
+    },
+    "attention": "Bacalhau com todos betekent hier letterlijk dat vis, aardappel, ei en meerdere wintergroenten samen op de schaal komen. Laat de bacalhau niet hard meekoken: de groenten verdragen koken, de vis blijft sappiger bij pocheren.",
+    "variations": [
+      "Voeg 150–200 g gekookte grão-de-bico (kikkererwten) toe voor een steviger bord.",
+      "Couve coração (spitskool) kan als mildere winkelvariant; kook die slechts 3–5 minuten."
+    ],
+    "nutrition": {
+      "kcal": 690,
+      "protein": 50,
+      "carbs": 62,
+      "fat": 27
+    }
+  },
+  {
+    "id": "39",
+    "label": "39",
+    "title": "Sopa de feijão com couve lombarda",
+    "chapter": "Snel, dagelijks & hedendaags",
+    "tags": [
+      "REGIONALE SOEP",
+      "KOOL"
+    ],
+    "time": "35 minuten met gekookte bonen",
+    "servings": "4 kommen",
+    "intro": "Sopa de feijão com couve lombarda (bonensoep met savooiekool) is stevige Portugese huissoep. Een deel van de bonen wordt gepureerd voor body, terwijl de rest heel blijft en de fijn gesneden kool pas op het einde gaart.",
+    "image": "images/39-sopa-de-feijao-com-couve-lombarda.jpg",
+    "imageAlt": "Portugese bonensoep met couve lombarda",
+    "ingredients": [
+      "400 g feijão encarnado cozido (gekookte rode bonen), uitgelekt; bewaar 500 ml kookvocht of gebruik water",
+      "250 g couve lombarda (savooiekool), in zeer fijne reepjes",
+      "1 middelgrote ui, fijngehakt",
+      "1 teen knoflook, fijngehakt",
+      "3 el azeite (olijfolie), plus 1 tl voor het einde",
+      "500–700 ml heet bonenkookvocht of water",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Verhit 3 el olijfolie op middellaag vuur. Fruit ui 6–8 minuten tot volledig zacht en glazig; voeg knoflook toe en bak nog 30 seconden zonder te kleuren.",
+      "Voeg de helft van de bonen en 500 ml heet kookvocht of water toe. Breng op hoog vuur aan de kook en laat daarna 5 minuten zacht pruttelen.",
+      "Haal de pan van het vuur en pureer de soep glad met een staafmixer. Zet terug op middelhoog vuur en verdun zo nodig met extra heet water tot een vrij dikke maar lepelbare soep.",
+      "Zodra de soep opnieuw kookt, voeg je de resterende hele bonen en de zeer fijn gesneden couve lombarda toe. Zet middellaag en laat 8–10 minuten zacht koken.",
+      "Proef een reep kool: hij moet mals zijn maar nog lichte beet hebben. Is de soep te dik, voeg 50–100 ml heet water toe; breng pas nu definitief op smaak met zout en peper.",
+      "Zet het vuur uit, roer 1 tl goede olijfolie erdoor en laat 2 minuten staan. Serveer heet."
+    ],
+    "technique": {
+      "title": "BONEN PUREREN, KOOL HEEL LATEN",
+      "text": "Pureer slechts een deel van de bonen tot een romige basis en voeg de rest heel toe. Snijd couve lombarda dun en kook hem pas op het einde, zodat de soep zowel romigheid als duidelijke groentestructuur houdt."
+    },
+    "attention": "Couve lombarda (savooiekool) is hier geen bijzaak: snijd hem fijn en kook hem niet tot grauwe pap. De regionale bron gebruikt droge rode bonen; gekookte bonen uit pot of blik maken dezelfde techniek praktisch voor doordeweeks.",
+    "variations": [
+      "Gebruik couve branca (witte kool) als couve lombarda niet beschikbaar is; reken ongeveer dezelfde gaartijd.",
+      "Met droge bonen: week 200 g feijão encarnado een nacht en kook ze volledig gaar vóór stap 1."
+    ],
+    "nutrition": {
+      "kcal": 240,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10
+    }
+  },
+  {
+    "id": "40",
+    "label": "40",
+    "title": "Caldo verde zonder chouriço",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "NOORD-PORTUGESE KLASSIEKER",
+      "KOOL",
+      "VLEESVRIJ"
+    ],
+    "time": "35 minuten",
+    "servings": "4 kommen",
+    "intro": "Caldo verde (aardappelsoep met flinterdunne groene kool) is een van de bekendste Portugese soepen. De klassieke versie krijgt vaak chouriço, maar de basis van aardappel, ui, knoflook, couve-galega en azeite (olijfolie) staat ook zonder vlees volledig overeind. Deze versie houdt de kool frisgroen en herkenbaar.",
+    "image": "images/40-caldo-verde-sem-chourico.jpg",
+    "imageAlt": "Caldo verde zonder chouriço met fijne groene kool en olijfolie",
+    "ingredients": [
+      "500 g batata para cozer (kookaardappelen), geschild en in stukken",
+      "200 g couve-galega of couve portuguesa para caldo-verde (Portugese groene kool voor caldo verde), in flinterdunne reepjes",
+      "1 middelgrote ui, grof gesneden",
+      "2 tenen knoflook, geplet",
+      "1,2 l water",
+      "4 el azeite virgem extra (extra vierge olijfolie)",
+      "zout en zwarte peper",
+      "broa de milho (maïsbrood), optioneel voor erbij"
+    ],
+    "steps": [
+      "Doe aardappel, ui, knoflook en 1,2 liter water in een pan. Breng op hoog vuur aan de kook, voeg een kleine snuf zout toe en zet daarna middellaag. Laat 18–22 minuten rustig koken tot de aardappel zonder weerstand uit elkaar valt wanneer je er met een lepel op drukt.",
+      "Haal de pan van het vuur en pureer de basis volledig glad. Zet terug op middellaag vuur; is de soep dikker dan dunne room, voeg dan 100–200 ml heet water toe.",
+      "Breng de soep opnieuw net aan de kook en voeg de zeer fijn gesneden couve toe. Laat 5–7 minuten zonder deksel zacht koken, alleen tot de kool mals is maar nog groen en licht veerkrachtig blijft.",
+      "Zet het vuur uit en roer 3 el olijfolie door de soep. Proef nu pas definitief op zout en peper; de smaak hoort zacht, groen en duidelijk naar olijfolie te zijn.",
+      "Verdeel over kommen en geef de resterende olijfolie er in een dun straaltje over. Serveer meteen, eventueel met broa de milho; laat de soep niet lang doorkoken nadat de kool erin zit."
+    ],
+    "technique": {
+      "title": "KOOL PAS OP HET EINDE",
+      "text": "Caldo verde krijgt zijn karakter van zeer fijn gesneden couve-galega in een gladde aardappelbasis. Voeg de kool pas na het pureren toe en kook hem kort; lang doorkoken maakt hem donker, slap en zwaveliger."
+    },
+    "attention": "Traditioneel wordt caldo verde vaak met chouriço geserveerd. In dit vleesvrije boek blijft die weg; aardappel, knoflook, couve-galega en goede azeite (olijfolie) vormen hier bewust de kern.",
+    "variations": [
+      "Gebruik in de supermarkt voorgesneden couve para caldo verde als die beschikbaar is; dat geeft de juiste zeer fijne snede.",
+      "Voor een iets lichtere versie kun je 150 g aardappel vervangen door courgette, maar de soep wordt dan minder klassiek van textuur."
+    ],
+    "nutrition": {
+      "kcal": 245,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10
+    }
+  },
+  {
+    "id": "41",
+    "label": "41",
+    "title": "Arroz de couve lombarda com ovo",
+    "chapter": "Snel, dagelijks & hedendaags",
+    "tags": [
+      "DOORDEWEEKS",
+      "KOOL",
+      "VEGETARISCH"
+    ],
+    "time": "30 minuten",
+    "servings": "2–3 personen",
+    "intro": "Arroz de couve (rijst met kool) is eenvoudige Portugese huiskost: arroz carolino (Portugese Carolino-rijst) neemt de smaak van ui, knoflook en couve lombarda (savooiekool) op en blijft licht sappig. Omdat dit boek geen vlees gebruikt, vervangt een zacht ei de gebruikelijke chouriço-route en maakt het gerecht een complete doordeweekse maaltijd.",
+    "image": "images/41-arroz-de-couve-lombarda-com-ovo.jpg",
+    "imageAlt": "Arroz de couve lombarda met zacht ei",
+    "ingredients": [
+      "180 g arroz carolino (Portugese Carolino-rijst)",
+      "250 g couve lombarda (savooiekool), in dunne repen",
+      "1 kleine ui, fijngehakt",
+      "2 tenen knoflook, fijngehakt",
+      "¼ rode paprika, in kleine blokjes",
+      "½ tl pimentão-doce (zoet paprikapoeder)",
+      "550–650 ml heet water of lichte groentebouillon",
+      "3 el olijfolie",
+      "2–3 eieren, één per persoon",
+      "peterselie",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Verhit 2 el olijfolie in een brede pan op middellaag vuur. Fruit de ui 5–6 minuten tot zacht en glazig; voeg knoflook, paprika en pimentão-doce toe en bak nog 1 minuut zonder de knoflook te laten bruinen.",
+      "Voeg de couve lombarda toe, zet middelhoog en schep 3–4 minuten om tot de kool duidelijk slinkt maar nog stevig is. Staat er veel vocht in de pan, laat dat eerst vrijwel verdampen.",
+      "Roer de arroz carolino erdoor en voeg 550 ml heet water of bouillon toe. Breng op hoog vuur aan de kook, zet daarna laag tot middellaag en laat 14–17 minuten rustig pruttelen; roer twee of drie keer en voeg extra heet water toe als de rijst droogvalt vóór hij gaar is.",
+      "Begin na ongeveer 10 minuten met de eieren. Pocheer ze 3½–4 minuten in zacht pruttelend water, of bak ze in een koekenpan op middellaag vuur tot het wit gestold en de dooier nog zacht is.",
+      "Zet het vuur onder de rijst uit wanneer de korrels gaar zijn maar er nog een klein beetje vrij vocht tussen zit. Meng 1 el olijfolie en peterselie erdoor en proef op zout en peper.",
+      "Verdeel de rijst over kommen en leg op elke portie een zacht ei. Breek de dooier pas aan tafel door de rijst; serveer direct voordat de carolino het laatste kookvocht opneemt."
+    ],
+    "technique": {
+      "title": "CAROLINO LICHT SAPPIG HOUDEN",
+      "text": "Arroz de couve hoort niet droog en korrelig te zijn. Gebruik genoeg hete vloeistof en haal de pan van het vuur terwijl er nog een beetje vocht zichtbaar is; de Carolino-rijst blijft na het koken opnemen."
+    },
+    "attention": "Veel Portugese arroz de couve-recepten gebruiken chouriço voor smaak. Hier leveren olijfolie, paprika, knoflook en een zacht ei de rijkdom, terwijl de couve lombarda de hoofdgroente blijft.",
+    "variations": [
+      "Gebruik couve coração (spitskool) voor een mildere, zoetere versie; voeg die 1–2 minuten later toe.",
+      "Voor meer peulvruchten kun je 120 g gekookte feijão manteiga (boterbonen) de laatste 5 minuten door de rijst roeren."
+    ],
+    "nutrition": {
+      "kcal": 520,
+      "protein": 15,
+      "carbs": 68,
+      "fat": 21
     }
   }
 ];
