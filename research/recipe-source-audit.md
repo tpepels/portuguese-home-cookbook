@@ -163,3 +163,17 @@ The 57 recipes are now organised by recognisable dish type / principal ingredien
 The former freezer-product chapter no longer exists. Recipes that have a **SNEL** supermarket/freezer route and a **FANCY** fresh route remain in their culinary chapter; the route is a preparation option, not a cuisine category.
 
 Visible recipe numbers were regenerated **1–57 in reading order**. Internal recipe IDs and image references remain unchanged.
+
+
+## Eryngii and modern vegetarian Portuguese adaptations — 2026-09-27
+
+Four recipes were added as **modern Portuguese vegetarian/vegan interpretations**, not presented as historical classics:
+
+- **Cogumelos eryngii à lagareiro com batatas a murro.** A documented contemporary Portuguese restaurant use of eryngii applies the familiar lagareiro treatment to a plant-based “polvo”: roasted eryngii, potato, garlic, olive oil and fresh coriander. Source: https://newinbarreiro.nit.pt/comida/o-novo-restaurante-vegan-no-barreiro-transforma-classicos-portugueses-em-pratos-vegan
+- **Cogumelos à Bulhão Pato.** This adaptation is well established in current Portuguese recipe publishing. Continente uses mushrooms with garlic, olive oil, white wine, coriander, lemon and bread; Teleculinária publishes a closely related version and includes the dish in its collection of Portuguese-style veggie recipes. Sources: https://missao.continente.pt/receitas/cogumelos-bulhao-pato ; https://teleculinaria.pt/receitas/cogumelos-a-bulhao-pato/ ; https://teleculinaria.pt/blog-veggie/7-receitas-veggie-a-portuguesa/
+- **Arroz malandrinho de eryngii - arroz de “polvo” vegetal.** This cookbook recipe is explicitly an editorial adaptation rather than a sourced historical dish. Its structure follows documented Portuguese arroz de polvo technique - refogado, tomato/pepper, wine, Carolino rice, generous cooking liquid and coriander - while substituting browned eryngii for octopus. Technical references: https://foodlab.cascais.pt/pt-pt/node/1560 ; https://saboreiaavida.nestle.pt/cozinhar/receita/arroz-de-polvo
+- **Pica-pau de cogumelos com pickles.** Contemporary Portuguese chefs and restaurants use mushrooms for a vegetarian pica-pau. Saber Viver documents a chef-created mushroom version; Tapisco has served a pica-pau de cogumelos developed specifically as a vegetarian option. Sources: https://www.saberviver.pt/comida/receitas/pica-pau-de-cogumelos-vinho-do-porto/ ; https://www.timeout.pt/lisboa/pt/noticias/na-nova-carta-do-tapisco-ha-ainda-mais-bacalhau-e-arroz-040824
+
+Editorial wording deliberately avoids claims that eryngii is the standard or “ultimate” Portuguese fish substitute, or that these variants are long-standing traditional dishes. The chapter names were broadened to **Legumes, cogumelos, ovos & feijão** and **Petiscos, conservas & refeições rápidas** so the additions fit normal cookbook navigation.
+
+The cookbook now contains **61 recipes**.
