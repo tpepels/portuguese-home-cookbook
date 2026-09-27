@@ -1477,8 +1477,63 @@ window.RECIPES = [
     "heroLabel": "FANCY"
   },
   {
-    "id": "21",
+    "id": "56",
     "label": "31",
+    "title": "Arroz malandrinho de eryngii - arroz de “polvo” vegetal",
+    "chapter": "Arroz, massa & pratos de tacho",
+    "tags": [
+      "ARROZ",
+      "ERYNGII",
+      "MALANDRINHO",
+      "VEGAN"
+    ],
+    "time": "45 minuten",
+    "servings": "4 personen",
+    "intro": "Dit is bewust een moderne plantaardige interpretatie van arroz de polvo, niet een traditioneel recept. Eryngii in dikke halve ringen geeft stevige beet, terwijl tomate, pimento, vinho branco, louro, coentros en arroz carolino de herkenbare Portugese malandrinho-structuur leveren.",
+    "image": "images/56-arroz-malandrinho-eryngii-polvo-vegetal.png",
+    "imageAlt": "Sappige Carolino-rijst met eryngii, tomaat, paprika en koriander",
+    "ingredients": [
+      "500 g cogumelos eryngii (koningsoesterzwammen)",
+      "280 g arroz carolino",
+      "1 ui, fijngehakt",
+      "3 tenen knoflook, fijngehakt",
+      "½ rode paprika, in kleine blokjes",
+      "250 g rijpe tomaat, fijngehakt, of tomatenstukjes uit blik",
+      "100 ml droge witte wijn",
+      "1 laurierblad",
+      "900 ml hete groentebouillon, plus extra indien nodig",
+      "3 el olijfolie",
+      "1 tl pimentão-doce (zoet paprikapoeder)",
+      "grote hand coentros (koriander), grof gehakt",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Snijd de eryngii-stelen in dikke halve ringen van 1–1½ cm. Verhit 1 el olijfolie in een brede pan op hoog vuur en bak de paddenstoelen 5–6 minuten tot ze goed kleuren. Schep uit de pan.",
+      "Zet het vuur middellaag. Voeg de resterende olijfolie en ui toe en fruit 6 minuten. Voeg knoflook, paprika, laurier en pimentão-doce toe en bak nog 2 minuten.",
+      "Voeg tomaat toe en laat 5–7 minuten inkoken tot een dikke refogado. Blus af met witte wijn en laat 2 minuten koken.",
+      "Roer de arroz carolino erdoor en voeg 800 ml hete bouillon toe. Breng aan de kook en laat 12 minuten op middellaag vuur zacht koken; roer af en toe zodat niets aanzet.",
+      "Voeg de gebakken eryngii toe en kook nog 4–6 minuten tot de rijst gaar is maar nog duidelijke bouillon rond de korrels heeft. Voeg zo nodig de resterende bouillon in kleine scheuten toe.",
+      "Verwijder laurier, proef op zout en peper en roer de helft van de coentros erdoor. Serveer onmiddellijk met de rest van de coentros erbovenop."
+    ],
+    "technique": {
+      "title": "MALANDRINHO WACHT NIET",
+      "text": "Carolino blijft na het vuur vocht opnemen. Stop daarom wanneer de rijst nét gaar is en nog duidelijk vloeibaar staat; vijf minuten later is hij al aanzienlijk dikker."
+    },
+    "attention": "Kook de eryngii niet de hele tijd mee. Eerst hard bakken en pas tegen het einde terugdoen houdt de stukken stevig en voorkomt een sponsachtige textuur.",
+    "variations": [
+      "Voeg 100 g shimeji toe voor meer variatie in paddenstoeltextuur.",
+      "Gebruik een klein vel kombu in de groentebouillon voor extra umami, maar verwijder het vóór het serveren."
+    ],
+    "nutrition": {
+      "kcal": 430,
+      "protein": 11,
+      "carbs": 72,
+      "fat": 10
+    }
+  },
+  {
+    "id": "21",
+    "label": "32",
     "title": "Arroz de atum rápido",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1524,7 +1579,7 @@ window.RECIPES = [
   },
   {
     "id": "34",
-    "label": "32",
+    "label": "33",
     "title": "Arroz frito com legumes e ovo",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1568,7 +1623,7 @@ window.RECIPES = [
   },
   {
     "id": "20",
-    "label": "33",
+    "label": "34",
     "title": "Massa de atum com tomate e azeitonas",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1614,7 +1669,7 @@ window.RECIPES = [
   },
   {
     "id": "31",
-    "label": "34",
+    "label": "35",
     "title": "Massa de atum no forno",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1660,7 +1715,7 @@ window.RECIPES = [
   },
   {
     "id": "2b",
-    "label": "35",
+    "label": "36",
     "title": "Massada de peixe com tomate e coentros",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1710,10 +1765,63 @@ window.RECIPES = [
     "heroLabel": "FANCY"
   },
   {
+    "id": "54",
+    "label": "37",
+    "title": "Cogumelos eryngii à lagareiro com batatas a murro",
+    "chapter": "Legumes, cogumelos, ovos & feijão",
+    "tags": [
+      "COGUMELOS",
+      "ERYNGII",
+      "LAGAREIRO",
+      "VEGAN"
+    ],
+    "time": "55 minuten",
+    "servings": "4 personen",
+    "intro": "Een moderne plantaardige versie van de Portugese lagareiro-bereiding. Dikke eryngii-stelen blijven stevig en sappig onder hoge hitte en nemen knoflook, azeite en het geroosterde aardappelvocht goed op. Dit is geen oud traditioneel paddenstoelengerecht, maar een hedendaagse Portugese toepassing van een klassieke techniek.",
+    "image": "images/54-cogumelos-eryngii-lagareiro-batatas-murro.png",
+    "imageAlt": "Eryngii à lagareiro met knoflook, olijfolie en batatas a murro",
+    "ingredients": [
+      "600 g cogumelos eryngii (koningsoesterzwammen)",
+      "700 g kleine aardappelen met schil",
+      "1 grote ui, in halve ringen",
+      "5 tenen knoflook, in dunne plakjes",
+      "2 laurierbladeren",
+      "90 ml azeite virgem extra (extra vierge olijfolie)",
+      "50 ml droge witte wijn",
+      "1 tl pimentão-doce (zoet paprikapoeder)",
+      "½ citroen",
+      "grof zout en zwarte peper",
+      "hand coentros (koriander) of peterselie"
+    ],
+    "steps": [
+      "Verwarm de oven voor op 210 °C. Leg de aardappelen op een bakplaat, bestrooi met grof zout en rooster 30–40 minuten tot ze volledig gaar zijn.",
+      "Snijd de dikke eryngii-stelen in stukken van 4–5 cm. Snijd het snijvlak kruislings 4–5 mm diep in; zo nemen ze smaak op zonder uit elkaar te vallen.",
+      "Verdeel ui en laurier over een ovenschaal. Leg de eryngii erop, kruid met zwarte peper en pimentão-doce en voeg witte wijn en 2 el olijfolie toe. Rooster 15 minuten.",
+      "Haal de aardappelen uit de oven, veeg overtollig zout eraf en druk ze voorzichtig open met de hand of bodem van een mok.",
+      "Voeg de aardappelen, knoflook en resterende olijfolie aan de ovenschaal toe. Rooster nog 12–15 minuten tot de randen van de eryngii diep goudbruin zijn en de knoflook licht kleurt.",
+      "Besprenkel met citroen, schep het braadvocht over de paddenstoelen en werk af met coentros. Serveer direct."
+    ],
+    "technique": {
+      "title": "SNIJDEN VOOR EEN VLEZIGE BITE",
+      "text": "Snijd eryngii niet te dun. Dikke stukken houden hun stevige, licht elastische structuur; kruislings insnijden vergroot het geroosterde oppervlak en laat de knoflookolie beter intrekken."
+    },
+    "attention": "Voeg de knoflook pas in de tweede ovenfase toe. Vanaf het begin zou hij bij 210 °C bitter kunnen verbranden.",
+    "variations": [
+      "Laat de witte wijn weg en voeg 2 el water plus iets meer citroen toe.",
+      "Gebruik grote Pleurotus als eryngii niet verkrijgbaar is, maar rooster die 5–7 minuten korter."
+    ],
+    "nutrition": {
+      "kcal": 370,
+      "protein": 8,
+      "carbs": 43,
+      "fat": 19
+    }
+  },
+  {
     "id": "52",
-    "label": "36",
+    "label": "38",
     "title": "Ovos em tomatada",
-    "chapter": "Ovos, legumes & feijão",
+    "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
       "EI",
       "TOMATA",
@@ -1761,9 +1869,9 @@ window.RECIPES = [
   },
   {
     "id": "33",
-    "label": "37",
+    "label": "39",
     "title": "Ovos mexidos com cogumelos e espinafres",
-    "chapter": "Ovos, legumes & feijão",
+    "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
       "Zeer snel",
       "vegetarisch"
@@ -1804,9 +1912,9 @@ window.RECIPES = [
   },
   {
     "id": "23",
-    "label": "38",
+    "label": "40",
     "title": "Omelete de atum e salsa",
-    "chapter": "Ovos, legumes & feijão",
+    "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
       "ZEER SNEL"
     ],
@@ -1846,9 +1954,9 @@ window.RECIPES = [
   },
   {
     "id": "22",
-    "label": "39",
+    "label": "41",
     "title": "Legumes à Brás",
-    "chapter": "Ovos, legumes & feijão",
+    "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
       "MODERN VEGETARISCH"
     ],
@@ -1897,9 +2005,9 @@ window.RECIPES = [
   },
   {
     "id": "15",
-    "label": "40",
+    "label": "42",
     "title": "Peixinhos da horta",
-    "chapter": "Ovos, legumes & feijão",
+    "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
       "PETISCO"
     ],
@@ -1939,9 +2047,9 @@ window.RECIPES = [
   },
   {
     "id": "42",
-    "label": "41",
+    "label": "43",
     "title": "Migas de couve portuguesa com broa e feijão-frade",
-    "chapter": "Ovos, legumes & feijão",
+    "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
       "KOOL",
       "BROA",
@@ -1987,7 +2095,7 @@ window.RECIPES = [
   },
   {
     "id": "48",
-    "label": "42",
+    "label": "44",
     "title": "Salada de couve-coração com cenoura e vinagre",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2035,7 +2143,7 @@ window.RECIPES = [
   },
   {
     "id": "12",
-    "label": "43",
+    "label": "45",
     "title": "Salada de feijão-frade com atum e ovo",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2078,7 +2186,7 @@ window.RECIPES = [
   },
   {
     "id": "27",
-    "label": "44",
+    "label": "46",
     "title": "Salada de grão com atum e ovo",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2125,7 +2233,7 @@ window.RECIPES = [
   },
   {
     "id": "18",
-    "label": "45",
+    "label": "47",
     "title": "Salada russa de atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2171,7 +2279,7 @@ window.RECIPES = [
   },
   {
     "id": "28",
-    "label": "46",
+    "label": "48",
     "title": "Salada fria de arroz com atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2217,7 +2325,7 @@ window.RECIPES = [
   },
   {
     "id": "29",
-    "label": "47",
+    "label": "49",
     "title": "Massa fria de atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2262,10 +2370,116 @@ window.RECIPES = [
     }
   },
   {
+    "id": "55",
+    "label": "50",
+    "title": "Cogumelos à Bulhão Pato",
+    "chapter": "Petiscos, conservas & refeições rápidas",
+    "tags": [
+      "COGUMELOS",
+      "BULHÃO PATO",
+      "PETISCO",
+      "VEGETARISCH"
+    ],
+    "time": "25 minuten",
+    "servings": "3–4 personen als petisco",
+    "intro": "Bulhão Pato hoort klassiek bij amêijoas, maar cogumelos à Bulhão Pato is inmiddels een herkenbare Portugese vegetarische adaptatie. De logica blijft hetzelfde: hete pan, knoflook, azeite, witte wijn, citroen en veel verse coentros, met brood om de saus op te deppen.",
+    "image": "images/55-cogumelos-bulhao-pato.png",
+    "imageAlt": "Cogumelos à Bulhão Pato met knoflook, citroen, koriander en brood",
+    "ingredients": [
+      "500 g cogumelos, liefst 300 g eryngii + 200 g Pleurotus",
+      "5 tenen knoflook, in dunne plakjes",
+      "3 el azeite virgem extra (extra vierge olijfolie)",
+      "100 ml droge witte wijn",
+      "sap van ½ citroen",
+      "grote hand coentros (koriander), grof gehakt",
+      "zout en zwarte peper",
+      "snuf piripíri, optioneel",
+      "stevig brood, om te serveren"
+    ],
+    "steps": [
+      "Scheur Pleurotus in brede repen en snijd eryngii in plakken van ongeveer 1 cm. Dep alles droog; natte paddenstoelen stomen in plaats van bakken.",
+      "Verhit een brede koekenpan op hoog vuur. Voeg 2 el olijfolie en de paddenstoelen toe en bak 5–7 minuten in één laag, zo nodig in twee porties, tot ze duidelijk bruin zijn.",
+      "Zet het vuur middelhoog. Voeg de resterende olijfolie, knoflook en eventueel piripíri toe en bak 45–60 seconden tot de knoflook geurt maar nog niet bruin is.",
+      "Blus af met witte wijn en laat 2–3 minuten stevig koken tot ongeveer de helft is verdampt.",
+      "Zet het vuur uit, voeg citroensap en vrijwel alle coentros toe en schep om. Proef op zout en peper.",
+      "Serveer direct met de resterende coentros en veel brood om de knoflook-wijnolie op te nemen."
+    ],
+    "technique": {
+      "title": "EERST BRUINEN, DAN DE SAUS",
+      "text": "Paddenstoelen geven veel vocht af. Bak ze daarom eerst hard en ruim; pas nadat ze kleuren gaan knoflook, wijn en citroen erbij. Zo blijft de smaak geroosterd in plaats van waterig."
+    },
+    "attention": "Citroensap pas na het koken toevoegen. Lang meekoken maakt de frisse Bulhão-Pato-smaak vlak.",
+    "variations": [
+      "Gebruik alleen marron of kastanjechampignons voor een eenvoudiger supermarktversie.",
+      "Voeg op het einde 1 el boter toe voor de rijkere versie die sommige Portugese recepten gebruiken."
+    ],
+    "nutrition": {
+      "kcal": 240,
+      "protein": 7,
+      "carbs": 18,
+      "fat": 14
+    }
+  },
+  {
+    "id": "57",
+    "label": "51",
+    "title": "Pica-pau de cogumelos com pickles",
+    "chapter": "Petiscos, conservas & refeições rápidas",
+    "tags": [
+      "COGUMELOS",
+      "PICA-PAU",
+      "PETISCO",
+      "VEGETARISCH"
+    ],
+    "time": "25 minuten",
+    "servings": "3–4 personen als petisco",
+    "intro": "Pica-pau is van oorsprong een vleespetisco; pica-pau de cogumelos is een hedendaagse vegetarische variant die inmiddels ook op Portugese restaurantkaarten voorkomt. De paddenstoelen krijgen een krachtige, zure saus en worden net als het origineel met pickles, olijven, brood en prikkers op tafel gezet.",
+    "image": "images/57-pica-pau-cogumelos-pickles.png",
+    "imageAlt": "Pica-pau de cogumelos met pickles, olijven en brood",
+    "ingredients": [
+      "500 g gemengde stevige paddenstoelen, bijvoorbeeld eryngii, Pleurotus en marron",
+      "1 kleine ui, in dunne halve ringen",
+      "3 tenen knoflook, gekneusd",
+      "3 el olijfolie",
+      "80 ml droge witte wijn",
+      "60 ml blond bier",
+      "1 el mosterd",
+      "1 tl pimenta da terra of massa de pimentão",
+      "1 laurierblad",
+      "1 el wijnazijn",
+      "60 g Portugese pickles, grof gehakt",
+      "hand groene of zwarte olijven",
+      "zwarte peper",
+      "brood en houten prikkers, om te serveren"
+    ],
+    "steps": [
+      "Snijd de paddenstoelen in stevige hapklare stukken. Verhit 2 el olijfolie in een zeer brede pan op hoog vuur en bak de paddenstoelen 5–7 minuten tot ze goed bruin zijn. Werk in porties als de pan vol raakt.",
+      "Zet het vuur middelhoog. Voeg de resterende olijfolie, ui, knoflook en laurier toe en bak 3 minuten tot de ui begint te verzachten.",
+      "Roer mosterd en pimenta da terra erdoor. Voeg witte wijn en bier toe en laat 4–5 minuten stevig inkoken tot er een glanzende saus rond de paddenstoelen zit.",
+      "Voeg wijnazijn toe en maal er zwarte peper over. Proef vóór je zout toevoegt; pimenta da terra, pickles en olijven kunnen al zout genoeg zijn.",
+      "Schep op een schaal en verdeel pickles en olijven erover. Serveer warm met brood en prikkers."
+    ],
+    "technique": {
+      "title": "SAUS MOET AAN DE PADDENSTOEL HANGEN",
+      "text": "Pica-pau hoort geen soep te zijn. Laat wijn en bier krachtig reduceren totdat de saus glanst en de stukken omhult; de azijn komt pas aan het einde voor frisse scherpte."
+    },
+    "attention": "De hoeveelheid zout hangt sterk af van de gebruikte peperpasta, pickles en olijven. Proef pas op het einde.",
+    "variations": [
+      "Vervang de witte wijn door 60 ml tawny port voor een zoetere restaurantachtige versie.",
+      "Gebruik alleen eryngii en snijd de stelen in grove blokken voor de stevigste beet."
+    ],
+    "nutrition": {
+      "kcal": 250,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 13
+    }
+  },
+  {
     "id": "44",
-    "label": "48",
+    "label": "52",
     "title": "Sardinhas de conserva com batata, pimento assado e cebola",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "CONSERVAS",
       "SARDINHA",
@@ -2312,9 +2526,9 @@ window.RECIPES = [
   },
   {
     "id": "45",
-    "label": "49",
+    "label": "53",
     "title": "Carapau de conserva com feijão-frade",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "CONSERVAS",
       "CARAPAU",
@@ -2360,9 +2574,9 @@ window.RECIPES = [
   },
   {
     "id": "35",
-    "label": "50",
+    "label": "54",
     "title": "Cavala com grão",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "Voorraadkast"
     ],
@@ -2403,9 +2617,9 @@ window.RECIPES = [
   },
   {
     "id": "46",
-    "label": "51",
+    "label": "55",
     "title": "Pota em azeite com grão, alho e salsa",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "CONSERVAS",
       "POTA",
@@ -2451,9 +2665,9 @@ window.RECIPES = [
   },
   {
     "id": "47",
-    "label": "52",
+    "label": "56",
     "title": "Bacalhau em azeite e alho com batata e grelos",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "CONSERVAS",
       "BACALHAU",
@@ -2498,9 +2712,9 @@ window.RECIPES = [
   },
   {
     "id": "19",
-    "label": "53",
+    "label": "57",
     "title": "Atum à Brás",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "MODERN & SNEL"
     ],
@@ -2544,9 +2758,9 @@ window.RECIPES = [
   },
   {
     "id": "30",
-    "label": "54",
+    "label": "58",
     "title": "Quiche de atum",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "Modern thuisgerecht",
       "oven"
@@ -2591,9 +2805,9 @@ window.RECIPES = [
   },
   {
     "id": "32",
-    "label": "55",
+    "label": "59",
     "title": "Tosta de atum",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "Lunch",
       "café-thuis"
@@ -2635,9 +2849,9 @@ window.RECIPES = [
   },
   {
     "id": "36",
-    "label": "56",
+    "label": "60",
     "title": "Douradinhos com arroz de tomate",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "Doordeweeks",
       "comfort food"
@@ -2688,9 +2902,9 @@ window.RECIPES = [
   },
   {
     "id": "37",
-    "label": "57",
+    "label": "61",
     "title": "Rissóis de camarão ou bacalhau com arroz de tomate",
-    "chapter": "Conservas & refeições rápidas",
+    "chapter": "Petiscos, conservas & refeições rápidas",
     "tags": [
       "Diepvriesvoorraad"
     ],
