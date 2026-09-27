@@ -2,9 +2,7 @@
 
 Static HTML/CSS cookbook generated from the Portuguese home-cooking repertoire developed in the companion Google Doc.
 
-The first scaffold currently contains **41 recipes**:
-- the 8 supermarket-package recipes (1A–4B)
-- recipes 5–37 from the home-cooking repertoire
+The cookbook currently contains **71 recipes**, ranging from classic Portuguese home cooking and conservas to modern weekday meals and international influences.
 
 ## Structure
 
