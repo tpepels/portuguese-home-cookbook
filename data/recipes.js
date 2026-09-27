@@ -1729,52 +1729,8 @@ window.RECIPES = [
     }
   },
   {
-    "id": "34",
-    "label": "36",
-    "title": "Arroz frito com legumes e ovo",
-    "chapter": "Arroz, massa & pratos de tacho",
-    "tags": [
-      "Restjes",
-      "zeer snel"
-    ],
-    "time": "15 minuten",
-    "servings": "2 personen",
-    "intro": "Gebakken rijst is duidelijk internationaal, maar past perfect in de manier waarop jonge huishoudens restjes gebruiken. Met koude rijst, ei en diepvriesgroenten staat er in een kwartier iets warms op tafel zonder dat je een nieuw hoofdproduct hoeft te kopen.",
-    "image": "images/34-arroz-frito-com-legumes-e-ovo.jpg",
-    "imageAlt": "Arroz frito com legumes e ovo",
-    "ingredients": [
-      "350 g koude gekookte arroz agulha (Portugese langkorrelrijst), liefst van de vorige dag",
-      "3 eieren",
-      "100 g erwten",
-      "1 wortel, fijn gesneden",
-      "½ ui",
-      "2 el olijfolie",
-      "zout en peper",
-      "1–2 tl sojasaus, optioneel"
-    ],
-    "steps": [
-      "Verhit 1 el olijfolie in een grote koekenpan of wok op middelhoog vuur. Bak ui en wortel 3–4 minuten; de ui moet glazig zijn en de wortel nog lichte beet hebben.",
-      "Voeg erwten en koude rijst toe, zet het vuur hoog en maak klonten direct los met een spatel. Bak 3–4 minuten en schep regelmatig om tot de rijst door en door heet en droger aan de buitenkant is.",
-      "Schuif de rijst naar één kant en voeg de resterende olie aan de lege kant toe. Giet de losgeklopte eieren erin, laat 15–20 seconden stollen en roer dan 45–60 seconden tot zachte stukjes ei ontstaan.",
-      "Meng ei en rijst, voeg eventueel sojasaus toe en bak nog 1 minuut op hoog vuur terwijl je voortdurend omschept. Stop wanneer de rijst los, heet en licht geroosterd is; voeg geen water toe.",
-      "Proef op peper en zout en serveer meteen. Gebruik rijst die gekoeld bewaard is en verhit hem slechts één keer opnieuw."
-    ],
-    "technique": {
-      "title": "WAAROM KOUDE RIJST?",
-      "text": "Versgekookte warme rijst bevat veel stoom en kleeft sneller. Koude rijst is droger en bakt losser, waardoor je daadwerkelijk gebakken rijst krijgt."
-    },
-    "attention": "Gebruik bij voorkeur volledig afgekoelde rijst van de vorige dag. Droge, koude korrels bakken losser en geven veel meer textuur dan vers gekookte warme rijst.",
-    "variations": [],
-    "nutrition": {
-      "kcal": 540,
-      "protein": 18,
-      "carbs": 65,
-      "fat": 22
-    }
-  },
-  {
     "id": "20",
-    "label": "37",
+    "label": "36",
     "title": "Massa de atum com tomate e azeitonas",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1820,7 +1776,7 @@ window.RECIPES = [
   },
   {
     "id": "31",
-    "label": "38",
+    "label": "37",
     "title": "Massa de atum no forno",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1866,7 +1822,7 @@ window.RECIPES = [
   },
   {
     "id": "2b",
-    "label": "39",
+    "label": "38",
     "title": "Massada de peixe com tomate e coentros",
     "chapter": "Arroz, massa & pratos de tacho",
     "tags": [
@@ -1917,7 +1873,7 @@ window.RECIPES = [
   },
   {
     "id": "54",
-    "label": "40",
+    "label": "39",
     "title": "Cogumelos eryngii à lagareiro com batatas a murro",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -1970,7 +1926,7 @@ window.RECIPES = [
   },
   {
     "id": "52",
-    "label": "41",
+    "label": "40",
     "title": "Ovos em tomatada",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -2020,7 +1976,7 @@ window.RECIPES = [
   },
   {
     "id": "33",
-    "label": "42",
+    "label": "41",
     "title": "Ovos mexidos com cogumelos e espinafres",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -2063,7 +2019,7 @@ window.RECIPES = [
   },
   {
     "id": "23",
-    "label": "43",
+    "label": "42",
     "title": "Omelete de atum e salsa",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -2105,7 +2061,7 @@ window.RECIPES = [
   },
   {
     "id": "22",
-    "label": "44",
+    "label": "43",
     "title": "Legumes à Brás",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -2156,7 +2112,7 @@ window.RECIPES = [
   },
   {
     "id": "15",
-    "label": "45",
+    "label": "44",
     "title": "Peixinhos da horta",
     "chapter": "Legumes, cogumelos, ovos & feijão",
     "tags": [
@@ -2198,7 +2154,7 @@ window.RECIPES = [
   },
   {
     "id": "48",
-    "label": "46",
+    "label": "45",
     "title": "Salada de couve-coração com cenoura e vinagre",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2246,7 +2202,7 @@ window.RECIPES = [
   },
   {
     "id": "12",
-    "label": "47",
+    "label": "46",
     "title": "Salada de feijão-frade com atum e ovo",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2289,7 +2245,7 @@ window.RECIPES = [
   },
   {
     "id": "27",
-    "label": "48",
+    "label": "47",
     "title": "Salada de grão com atum e ovo",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2336,7 +2292,7 @@ window.RECIPES = [
   },
   {
     "id": "18",
-    "label": "49",
+    "label": "48",
     "title": "Salada russa de atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2382,7 +2338,7 @@ window.RECIPES = [
   },
   {
     "id": "28",
-    "label": "50",
+    "label": "49",
     "title": "Salada fria de arroz com atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2428,7 +2384,7 @@ window.RECIPES = [
   },
   {
     "id": "29",
-    "label": "51",
+    "label": "50",
     "title": "Massa fria de atum",
     "chapter": "Saladas & pratos frios",
     "tags": [
@@ -2474,9 +2430,9 @@ window.RECIPES = [
   },
   {
     "id": "55",
-    "label": "52",
+    "label": "51",
     "title": "Cogumelos à Bulhão Pato",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Petiscos & conservas",
     "tags": [
       "COGUMELOS",
       "BULHÃO PATO",
@@ -2525,9 +2481,9 @@ window.RECIPES = [
   },
   {
     "id": "57",
-    "label": "53",
+    "label": "52",
     "title": "Pica-pau de cogumelos com pickles",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Petiscos & conservas",
     "tags": [
       "COGUMELOS",
       "PICA-PAU",
@@ -2580,9 +2536,9 @@ window.RECIPES = [
   },
   {
     "id": "44",
-    "label": "54",
+    "label": "53",
     "title": "Sardinhas de conserva com batata, pimento assado e cebola",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Petiscos & conservas",
     "tags": [
       "CONSERVAS",
       "SARDINHA",
@@ -2629,9 +2585,9 @@ window.RECIPES = [
   },
   {
     "id": "45",
-    "label": "55",
+    "label": "54",
     "title": "Carapau de conserva com feijão-frade",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Petiscos & conservas",
     "tags": [
       "CONSERVAS",
       "CARAPAU",
@@ -2677,9 +2633,9 @@ window.RECIPES = [
   },
   {
     "id": "35",
-    "label": "56",
+    "label": "55",
     "title": "Cavala com grão",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Petiscos & conservas",
     "tags": [
       "Voorraadkast"
     ],
@@ -2720,9 +2676,9 @@ window.RECIPES = [
   },
   {
     "id": "46",
-    "label": "57",
+    "label": "56",
     "title": "Pota em azeite com grão, alho e salsa",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Petiscos & conservas",
     "tags": [
       "CONSERVAS",
       "POTA",
@@ -2768,9 +2724,9 @@ window.RECIPES = [
   },
   {
     "id": "47",
-    "label": "58",
+    "label": "57",
     "title": "Bacalhau em azeite e alho com batata e grelos",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Petiscos & conservas",
     "tags": [
       "CONSERVAS",
       "BACALHAU",
@@ -2814,10 +2770,538 @@ window.RECIPES = [
     }
   },
   {
-    "id": "19",
+    "id": "37",
+    "label": "58",
+    "title": "Rissóis de camarão ou bacalhau com arroz de tomate",
+    "chapter": "Petiscos & conservas",
+    "tags": [
+      "Diepvriesvoorraad"
+    ],
+    "time": "30 minuten",
+    "servings": "2–3 personen",
+    "intro": "Rissóis (gevulde Portugese deeghapjes) uit diepvries of pastelaria vormen met sappige arroz de tomate (tomatenrijst) een heel normaal Portugees bord: krokant naast zacht.",
+    "image": "images/fancy-37-rissois-artisanal-arroz-tomate.jpg",
+    "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate - fancy versie",
+    "ingredients": [
+      "SNEL — Auchan rissóis de camarão para forno/airfryer, 8 stuks / 360 g, rechtstreeks uit de diepvries",
+      "FANCY — 8 verse ambachtelijke rissóis van pastelaria/charcutaria, met garnalen- of bacalhauvulling",
+      "180 g arroz carolino (Portugese Carolino-rijst)",
+      "1 kleine ui",
+      "2 tenen knoflook",
+      "250 g tomate pelado (gepelde tomaten)",
+      "500 ml heet water",
+      "3 el olijfolie",
+      "1 laurierblad",
+      "koriander of peterselie"
+    ],
+    "steps": [
+      "Auchan diepvries: niet ontdooien. Oven: 8–13 minuten op 220 °C; airfryer: 7–9 minuten op 180 °C. Stop wanneer de korst rondom krokant en de vulling heet is. Voor een ander merk geldt het etiket; verse ambachtelijke rissóis hebben meestal korter nodig.",
+      "Begin de rijst ongeveer 20 minuten vóór de rissóis klaar moeten zijn. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
+      "Voeg tomate pelado en laurier toe en stoof 5–7 minuten op middelhoog vuur. De basis is klaar wanneer de tomaat dikker en zoeter ruikt en een spatel kort een spoor over de bodem trekt.",
+      "Voeg arroz carolino en 500 ml heet water toe. Breng aan de kook, zet laag tot middellaag en laat 15–18 minuten zacht pruttelen; roer af en toe en voeg alleen extra heet water toe als de rijst vóór het gaar zijn droogvalt.",
+      "Zet het vuur uit zodra de rijst gaar maar nog lepelbaar en sappig is. Proef op zout en werk af met koriander of peterselie.",
+      "Laat gefrituurde rissóis 1 minuut uitlekken en serveer ze naast de rijst. Leg ze nooit op de rijst en dek ze niet af, zodat de korst krokant blijft."
+    ],
+    "technique": {
+      "title": "FRITUREN ZONDER VETTIG RESULTAAT",
+      "text": "Als je frituurt, houd de olie rond 175–180 °C en bak niet te veel stuks tegelijk. Te koude olie wordt door het paneermeel opgenomen; te hete olie kleurt buiten voordat de vulling warm is."
+    },
+    "attention": "Serveer de rissóis naast de arroz de tomate (tomatenrijst), nooit erop. Stoom van de rijst maakt de krokante korst snel zacht.",
+    "variations": [],
+    "nutrition": {
+      "kcal": 770,
+      "protein": 14,
+      "carbs": 103,
+      "fat": 30
+    },
+    "quickImage": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
+    "quickImageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
+    "quickCaption": "SNEL - met diepvries-rissóis",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
+  },
+  {
+    "id": "60",
     "label": "59",
+    "title": "Salmão no forno com batata e brócolos",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "DOORDEWEEKS",
+      "SALMÃO",
+      "FORNO",
+      "MARMITA"
+    ],
+    "time": "45 minuten",
+    "servings": "4 personen",
+    "intro": "Een heel geloofwaardige Portugese werkdagmaaltijd: zalm uit de oven met aardappelen, ui, knoflook, citroen en broccoli. Niet traditioneel in de zin van bacalhau of sardinhas, maar inmiddels gewone thuiskeuken.",
+    "image": "images/60-salmao-forno-batata-brocolos.png",
+    "imageAlt": "Portugese ovenschotel met zalm, geroosterde aardappelen en broccoli",
+    "ingredients": [
+      "4 tranches de salmão (zalmmoten of -filets), ca. 150–170 g per stuk",
+      "700 g kleine aardappelen, gehalveerd of in kwarten",
+      "300 g brócolos (broccoli), in roosjes",
+      "1 grote ui, in halve ringen",
+      "3 tenen knoflook, fijngehakt",
+      "1 citroen",
+      "3 el azeite virgem extra (extra vierge olijfolie)",
+      "1 tl pimentão-doce (zoet paprikapoeder)",
+      "zout en zwarte peper",
+      "hand salsa of coentros"
+    ],
+    "steps": [
+      "Verwarm de oven voor op 200 °C. Meng de aardappelen en ui met 2 el olijfolie, paprikapoeder, zout en peper. Rooster 20 minuten op een ruime bakplaat.",
+      "Schep de aardappelen om en verdeel de broccoli ertussen. Meng knoflook met 1 el olijfolie en de helft van het citroensap en verdeel dit over de groente.",
+      "Dep de zalm droog, kruid met zout en peper en leg tussen de aardappelen. Leg dunne schijfjes citroen op of naast de vis.",
+      "Bak nog 12–15 minuten, afhankelijk van de dikte van de zalm. De vis moet net uit elkaar vallen in vlokken en in het midden nog sappig zijn.",
+      "Werk af met peterselie of koriander en extra citroensap. Serveer direct; resten zijn de volgende dag ook goed koud of lauwwarm."
+    ],
+    "technique": {
+      "title": "DE ZALM GAAT LATER IN DE OVEN",
+      "text": "Aardappelen hebben veel langer nodig dan zalm. Geef ze daarom eerst 20 minuten voorsprong; zo krijg je geroosterde aardappelen zonder droge vis."
+    },
+    "attention": "Snijd grote broccoli niet te klein. Kleine roosjes kunnen in 12–15 minuten uitdrogen; laat ze liever iets grover.",
+    "variations": [
+      "Vervang broccoli door courgette en paprika voor een zomerse versie.",
+      "Meng 1 tl mosterd en 1 tl honing door de laatste eetlepel olijfolie voor een zoetere moderne variant."
+    ],
+    "nutrition": {
+      "kcal": 560,
+      "protein": 39,
+      "carbs": 38,
+      "fat": 28
+    }
+  },
+  {
+    "id": "61",
+    "label": "60",
+    "title": "Salmão teriyaki com arroz e sésamo",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "DOORDEWEEKS",
+      "SALMÃO",
+      "ASIATISCH",
+      "30 MIN"
+    ],
+    "time": "30 minuten",
+    "servings": "4 personen",
+    "intro": "Teriyaki-zalm is in Portugese supermarktkeukens inmiddels een doodnormale internationale doordeweekse bereiding. De Portugese twist zit hier niet in een historische traditie, maar in het gebruik van makkelijk verkrijgbare verse zalm en een eenvoudige rijstmaaltijd.",
+    "image": "images/61-salmao-teriyaki-arroz-sesamo.png",
+    "imageAlt": "Teriyaki-zalm met witte rijst, sesam en lente-ui",
+    "ingredients": [
+      "4 zalmfilets van ca. 150 g",
+      "250 g arroz agulha of basmatirijst",
+      "4 el molho de soja (sojasaus)",
+      "1½ el honing",
+      "1 el bruine suiker",
+      "1 tl verse gember, fijn geraspt",
+      "2 tenen knoflook, fijn geraspt",
+      "1 tl maïzena",
+      "100 ml water",
+      "1 tl sesamolie, optioneel",
+      "1 el azeite of neutrale olie",
+      "1 el sesamzaad",
+      "2 lente-uitjes, dun gesneden"
+    ],
+    "steps": [
+      "Kook de rijst volgens de verpakking en houd warm.",
+      "Meng sojasaus, honing, bruine suiker, gember, knoflook en 80 ml water. Breng in een kleine pan 2 minuten zacht aan de kook.",
+      "Meng de maïzena met de resterende 20 ml koud water. Roer door de saus en laat 1–2 minuten pruttelen tot hij licht stroperig wordt. Roer eventueel de sesamolie erdoor.",
+      "Verhit een koekenpan op middelhoog vuur met de olie. Bak de zalm eerst 3–4 minuten op de huidzijde of mooiste zijde en daarna 2–3 minuten aan de andere kant.",
+      "Zet het vuur laag, giet ongeveer de helft van de teriyakisaus erbij en laat de zalm 30–60 seconden glaceren. Schep de saus over de vis.",
+      "Serveer met rijst, de resterende saus, sesam en lente-ui."
+    ],
+    "technique": {
+      "title": "GLACEER PAS OP HET EINDE",
+      "text": "Teriyakisaus bevat suiker en honing en verbrandt snel. Bak de zalm eerst bijna gaar en voeg de saus pas in de laatste minuut toe."
+    },
+    "attention": "Sojasaus is zout. Voeg geen extra zout toe voordat je de saus hebt geproefd.",
+    "variations": [
+      "Voeg kort gewokte paksoi of broccoli toe voor meer groente.",
+      "Gebruik dezelfde saus bij eryngii-plakken voor een vegetarische versie."
+    ],
+    "nutrition": {
+      "kcal": 570,
+      "protein": 37,
+      "carbs": 58,
+      "fat": 21
+    }
+  },
+  {
+    "id": "62",
+    "label": "61",
+    "title": "Massa de salmão no forno com espinafres e feta",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "DOORDEWEEKS",
+      "SALMÃO",
+      "MASSA",
+      "FORNO"
+    ],
+    "time": "35 minuten",
+    "servings": "4 personen",
+    "intro": "Een hedendaagse ovenschaal zoals je die net zo goed in een Portugees weekmenu als elders in Europa tegenkomt: pasta, zalm, spinazie, tomaat en feta. De oven maakt de saus terwijl de pasta kookt.",
+    "image": "images/62-massa-salmao-forno-espinafres-feta.png",
+    "imageAlt": "Romige ovenschotel met pasta, zalm, spinazie, tomaat en feta",
+    "ingredients": [
+      "300 g penne of fusilli",
+      "400 g zalmfilet, zonder huid",
+      "200 g queijo feta",
+      "200 g tomate-cereja (cherrytomaten)",
+      "150 g espinafres (spinazie)",
+      "100 ml natas culinárias (kookroom)",
+      "2 el azeite",
+      "1 tl gedroogde oregano",
+      "zwarte peper",
+      "½ citroen",
+      "hand manjericão (basilicum)",
+      "1 el kappertjes, optioneel"
+    ],
+    "steps": [
+      "Verwarm de oven voor op 190 °C. Leg spinazie, zalm, feta en tomaten in een ruime ovenschaal. Besprenkel met olijfolie, oregano en flink wat zwarte peper.",
+      "Bak 18–20 minuten, tot de tomaten openbarsten en de zalm net gaar is.",
+      "Kook ondertussen de pasta in ruim gezouten water tot 1 minuut vóór al dente. Bewaar 150 ml kookwater en giet af.",
+      "Trek de zalm met twee vorken in grove vlokken en roer feta en tomaat door elkaar. Voeg room, citroensap en eerst 75 ml pastawater toe.",
+      "Schep de pasta erdoor. Voeg zo nodig extra pastawater toe tot de saus romig en glanzend is. Zet nog 3–5 minuten in de oven.",
+      "Werk af met basilicum en eventueel kappertjes."
+    ],
+    "technique": {
+      "title": "PASTAWATER MAAKT HET ROMIG",
+      "text": "Feta en room alleen kunnen zwaar en korrelig worden. Zetmeelrijk pastawater bindt ze tot een lichtere saus die aan de pasta blijft hangen."
+    },
+    "attention": "Feta en kappertjes zijn zout. Zout de ovenschotel zelf daarom nauwelijks; proef pas nadat alles gemengd is.",
+    "variations": [
+      "Vervang feta door requeijão voor een zachtere, Portugezere richting.",
+      "Voeg chili of pimenta da terra toe als je meer pit wilt."
+    ],
+    "nutrition": {
+      "kcal": 650,
+      "protein": 38,
+      "carbs": 58,
+      "fat": 29
+    }
+  },
+  {
+    "id": "63",
+    "label": "62",
+    "title": "Caril de grão, abóbora e espinafres",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "VEGETARISCH",
+      "CARIL",
+      "MARMITA",
+      "BUDGET"
+    ],
+    "time": "35 minuten",
+    "servings": "4 personen",
+    "intro": "Kikkererwtencurry met kokosmelk is geen Portugese klassieker, maar wel precies het soort goedkope, vegetarische en goed opwarmbare maaltijd dat in hedendaagse Portugese weekmenu's thuishoort.",
+    "image": "images/63-caril-grao-abobora-espinafres.png",
+    "imageAlt": "Kikkererwtencurry met pompoen en spinazie, geserveerd met rijst en koriander",
+    "ingredients": [
+      "400 g grão-de-bico cozido (uitgelekte kikkererwten)",
+      "350 g abóbora manteiga (flespompoen), in blokjes van 2 cm",
+      "150 g espinafres",
+      "1 ui, fijngesneden",
+      "2 tenen knoflook, fijngehakt",
+      "15 g verse gember, geraspt",
+      "1½ el caril em pó (currypoeder)",
+      "½ tl cominhos (komijn)",
+      "1 el tomatenpuree",
+      "400 ml leite de coco",
+      "150 ml water",
+      "2 el azeite",
+      "½ limoen of citroen",
+      "hand coentros",
+      "250 g basmatirijst, om te serveren"
+    ],
+    "steps": [
+      "Kook de rijst volgens de verpakking.",
+      "Verhit de olijfolie in een brede pan op middelhoog vuur. Fruit de ui 5 minuten. Voeg knoflook, gember, currypoeder en komijn toe en bak 1 minuut.",
+      "Roer de tomatenpuree erdoor. Voeg pompoen, kikkererwten, kokosmelk en water toe. Breng zacht aan de kook.",
+      "Laat zonder deksel 15–20 minuten op middellaag vuur koken, tot de pompoen zacht is en de saus zichtbaar dikker wordt.",
+      "Schep de spinazie erdoor en laat 2–3 minuten slinken. Breng op smaak met zout, peper en limoen- of citroensap.",
+      "Serveer met rijst en koriander."
+    ],
+    "technique": {
+      "title": "KRUIDEN EERST IN DE OLIE",
+      "text": "Bak currypoeder, komijn en gember kort mee vóór de vloeistof erbij gaat. Dat haalt veel meer aroma uit een eenvoudige supermarkt-currymix."
+    },
+    "attention": "Laat de pompoen niet te klein snijden; blokjes van ongeveer 2 cm blijven heel terwijl de saus indikt.",
+    "variations": [
+      "Laat de pompoen weg voor een snellere caril de grão com espinafres.",
+      "Voeg een halve rode peper toe voor een scherpere versie."
+    ],
+    "nutrition": {
+      "kcal": 520,
+      "protein": 14,
+      "carbs": 72,
+      "fat": 19
+    }
+  },
+  {
+    "id": "64",
+    "label": "63",
+    "title": "Noodles com camarão e legumes",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "30 MIN",
+      "CAMARÃO",
+      "NOODLES",
+      "DOORDEWEEKS"
+    ],
+    "time": "25 minuten",
+    "servings": "4 personen",
+    "intro": "Een wokmaaltijd met garnalen en groente is inmiddels gewone snelle thuiskeuken: weinig pannen, veel groente en klaar in minder dan een half uur. Koriander en een scheut olijfolie sluiten verrassend natuurlijk aan bij de Portugese voorraadkast.",
+    "image": "images/64-noodles-camarao-legumes.png",
+    "imageAlt": "Noodles met garnalen, broccoli, paprika, wortel en koriander",
+    "ingredients": [
+      "300 g miolo de camarão (gepelde garnalen), ontdooid en droog gedept",
+      "250 g eiernoodles of tarwenoedels",
+      "1 rode paprika, in dunne repen",
+      "200 g broccoli, in kleine roosjes",
+      "1 grote wortel, in dunne reepjes",
+      "2 tenen knoflook, fijngehakt",
+      "2 lente-uitjes, in ringetjes",
+      "2 el sojasaus",
+      "1 el limoensap",
+      "1 tl sesamolie, optioneel",
+      "1½ el azeite of neutrale olie",
+      "hand coentros"
+    ],
+    "steps": [
+      "Kook de noodles 1 minuut korter dan de verpakking aangeeft. Giet af en spoel heel kort met koud water.",
+      "Verhit een wok of grote koekenpan op hoog vuur. Voeg de olie en de garnalen toe en bak 1–2 minuten per kant. Haal ze uit de pan.",
+      "Bak knoflook, paprika, broccoli en wortel 4–5 minuten op hoog vuur. De groente moet gaar maar nog knapperig zijn.",
+      "Voeg noodles, sojasaus, limoensap en eventueel sesamolie toe. Schep 1–2 minuten krachtig om.",
+      "Doe de garnalen terug in de pan en verwarm nog 1 minuut. Werk af met lente-ui en koriander."
+    ],
+    "technique": {
+      "title": "GARNALEN ER EVEN UIT",
+      "text": "Als garnalen de hele tijd tussen de groente blijven liggen, worden ze snel rubberachtig. Bak ze eerst kort, haal ze uit de wok en voeg ze pas op het einde weer toe."
+    },
+    "attention": "Ontdooide garnalen bevatten veel water. Dep ze goed droog voordat ze de hete pan ingaan, anders koken ze in plaats van bakken.",
+    "variations": [
+      "Gebruik pota in dunne reepjes in plaats van garnalen; bak die eveneens zeer kort.",
+      "Voeg een lepeltje piri-piri of sambal toe voor meer hitte."
+    ],
+    "nutrition": {
+      "kcal": 470,
+      "protein": 29,
+      "carbs": 62,
+      "fat": 11
+    }
+  },
+  {
+    "id": "65",
+    "label": "64",
+    "title": "Ramen rápido com cogumelos, couve e ovo",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "VEGETARISCH",
+      "RAMEN",
+      "KOOL",
+      "30 MIN"
+    ],
+    "time": "30 minuten",
+    "servings": "4 kommen",
+    "intro": "Geen poging tot traditionele Japanse ramen, maar precies de snelle thuisversie die je tegenwoordig in Portugese receptenmedia tegenkomt: bouillon, noodles, cogumelos, couve lombarda, wortel en ei.",
+    "image": "images/65-ramen-cogumelos-couve-ovo.png",
+    "imageAlt": "Snelle ramen met paddenstoelen, savooiekool, wortel, noodles en zacht ei",
+    "ingredients": [
+      "250 g ramen- of tarwenoedels",
+      "200 g shiitake of kastanjechampignons, in plakjes",
+      "150 g couve lombarda (savooiekool), in fijne reepjes",
+      "2 wortels, in dunne reepjes",
+      "4 eieren",
+      "1 l groentebouillon",
+      "2 tenen knoflook, geplet",
+      "15 g verse gember, geraspt",
+      "3 el sojasaus",
+      "1 tl sesamolie",
+      "2 lente-uitjes, in ringetjes",
+      "radijs in dunne plakjes, optioneel"
+    ],
+    "steps": [
+      "Kook de eieren 6½–7 minuten. Koel ze direct in koud water, pel en halveer.",
+      "Verhit de sesamolie in een ruime pan op middelhoog vuur. Bak knoflook en gember 30 seconden en voeg de paddenstoelen toe. Bak 4–5 minuten.",
+      "Voeg bouillon, sojasaus, wortel en kool toe. Laat 6–8 minuten zacht koken.",
+      "Voeg de noodles toe en kook volgens de korte kooktijd op de verpakking, meestal 3–5 minuten.",
+      "Proef de bouillon en corrigeer met extra sojasaus of water.",
+      "Verdeel over kommen en leg in elke kom twee halve eieren. Werk af met lente-ui en eventueel radijs."
+    ],
+    "technique": {
+      "title": "NOODLES PAS ALS LAATSTE",
+      "text": "Noodles blijven vocht opnemen. Kook ze daarom pas als de bouillon en groenten klaar zijn en serveer meteen."
+    },
+    "attention": "Bouillon en sojasaus kunnen samen snel te zout worden. Gebruik bij voorkeur zoutarme bouillon en proef vóór je extra sojasaus toevoegt.",
+    "variations": [
+      "Voeg paksoi toe in plaats van kool.",
+      "Maak het steviger met 150 g tofu, in blokjes krokant gebakken."
+    ],
+    "nutrition": {
+      "kcal": 380,
+      "protein": 18,
+      "carbs": 49,
+      "fat": 13
+    }
+  },
+  {
+    "id": "66",
+    "label": "65",
+    "title": "Wraps de húmus, grão e legumes",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "VEGETARISCH",
+      "MARMITA",
+      "LUNCH",
+      "25 MIN"
+    ],
+    "time": "25 minuten",
+    "servings": "4 wraps",
+    "intro": "Een typische moderne lunch: tortilla, hummus, kikkererwten en veel rauwe groente. Niet Portugees van oorsprong, wel volledig ingeburgerd in het huidige supermarkt- en kantoorritme.",
+    "image": "images/66-wraps-humus-grao-legumes.png",
+    "imageAlt": "Wraps met hummus, kikkererwten, wortel, komkommer, tomaat en avocado",
+    "ingredients": [
+      "4 grote tortilhas de trigo (tarwewraps)",
+      "240 g grão-de-bico cozido, uitgelekt",
+      "150 g húmus",
+      "1 wortel, grof geraspt",
+      "½ komkommer, in dunne reepjes",
+      "150 g tomate-cereja, gehalveerd",
+      "½ avocado, in plakjes",
+      "4 handen sla",
+      "1 el azeite",
+      "sap van ½ limoen",
+      "zout en zwarte peper",
+      "hand coentros of salsa"
+    ],
+    "steps": [
+      "Spoel de kikkererwten af en dep ze droog. Meng ze met olijfolie, limoensap, peper en een klein snufje zout.",
+      "Verwarm de wraps 20–30 seconden per kant in een droge koekenpan zodat ze soepel worden.",
+      "Besmeer elke wrap met een royale laag hummus.",
+      "Verdeel sla, wortel, komkommer, tomaat, avocado en kikkererwten over het midden. Strooi er koriander of peterselie over.",
+      "Vouw de zijkanten naar binnen en rol stevig op. Snijd schuin doormidden.",
+      "Voor een marmita: pak iedere wrap strak in papier of folie en bewaar gekoeld."
+    ],
+    "technique": {
+      "title": "HOUD DE WRAP DROOG",
+      "text": "Natte tomaat en komkommer maken een lunchwrap slap. Dep ze droog en leg de hummus als beschermende laag direct op de tortilla."
+    },
+    "attention": "Avocado verkleurt snel. Besprenkel hem met limoensap als de wraps pas uren later gegeten worden.",
+    "variations": [
+      "Voeg queijo fresco of feta toe.",
+      "Vervang een deel van de rauwe groente door geroosterde paprika uit pot."
+    ],
+    "nutrition": {
+      "kcal": 470,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 20
+    }
+  },
+  {
+    "id": "67",
+    "label": "66",
+    "title": "Tacos de pescada crocante com couve e lima",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "PESCADA",
+      "TACOS",
+      "FUSION",
+      "DOORDEWEEKS"
+    ],
+    "time": "35 minuten",
+    "servings": "4 personen",
+    "intro": "Een bewust moderne thuisinterpretatie: Portugese pescada en couve-coração in de vorm van vistaco's. Het gerecht is niet traditioneel Portugees; juist dat maakt het passend in een hoofdstuk over nieuwe invloeden.",
+    "image": "images/67-tacos-pescada-crocante-couve-lima.png",
+    "imageAlt": "Krokante heektaco's met fijngesneden kool, limoensaus en koriander",
+    "ingredients": [
+      "500 g filetes de pescada (heekfilet), in repen",
+      "8 kleine tarwe- of maïstortilla's",
+      "80 g farinha de milho (maïsmeel) of fijne polenta",
+      "1 ei, losgeklopt",
+      "200 g couve-coração, zeer fijn gesneden",
+      "1 kleine rode ui, in flinterdunne halve ringen",
+      "150 g yoghurt natural",
+      "2 limoenen",
+      "1 tl pimentão-doce",
+      "½ tl komijn",
+      "2 el azeite",
+      "hand coentros",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Meng de kool en rode ui met sap van 1 limoen, een snuf zout en 1 el olijfolie. Masseer 30 seconden met de hand en laat staan.",
+      "Meng yoghurt met rasp en sap van ½ limoen, peper en een klein snufje zout.",
+      "Kruid de pescada met zout, peper, paprikapoeder en komijn. Haal de repen eerst door ei en daarna door maïsmeel.",
+      "Verhit 1 el olijfolie in een grote antiaanbakpan op middelhoog vuur. Bak de vis 2–3 minuten per kant tot goudbruin en net gaar.",
+      "Warm de tortilla's kort in een droge pan.",
+      "Vul met kool, krokante pescada, yoghurtsaus en koriander. Geef de resterende limoen in partjes erbij."
+    ],
+    "technique": {
+      "title": "PESCADA KORT EN HEET",
+      "text": "Dunne repen heek zijn snel gaar. Een hete pan en korte baktijd geven een krokante buitenkant zonder dat de vis droog en vezelig wordt."
+    },
+    "attention": "Gebruik ontdooide diepvriespescada alleen als die volledig ontdooid en zeer goed droog gedept is; anders hecht de korst slecht.",
+    "variations": [
+      "Gebruik camarão in plaats van pescada en laat de paneerlaag weg.",
+      "Voeg ingelegde jalapeño toe als je meer Mexicaanse scherpte wilt."
+    ],
+    "nutrition": {
+      "kcal": 510,
+      "protein": 34,
+      "carbs": 55,
+      "fat": 18
+    }
+  },
+  {
+    "id": "34",
+    "label": "67",
+    "title": "Arroz frito com legumes e ovo",
+    "chapter": "Do dia-a-dia & novas influências",
+    "tags": [
+      "Restjes",
+      "zeer snel"
+    ],
+    "time": "15 minuten",
+    "servings": "2 personen",
+    "intro": "Gebakken rijst is duidelijk internationaal, maar past perfect in de manier waarop jonge huishoudens restjes gebruiken. Met koude rijst, ei en diepvriesgroenten staat er in een kwartier iets warms op tafel zonder dat je een nieuw hoofdproduct hoeft te kopen.",
+    "image": "images/34-arroz-frito-com-legumes-e-ovo.jpg",
+    "imageAlt": "Arroz frito com legumes e ovo",
+    "ingredients": [
+      "350 g koude gekookte arroz agulha (Portugese langkorrelrijst), liefst van de vorige dag",
+      "3 eieren",
+      "100 g erwten",
+      "1 wortel, fijn gesneden",
+      "½ ui",
+      "2 el olijfolie",
+      "zout en peper",
+      "1–2 tl sojasaus, optioneel"
+    ],
+    "steps": [
+      "Verhit 1 el olijfolie in een grote koekenpan of wok op middelhoog vuur. Bak ui en wortel 3–4 minuten; de ui moet glazig zijn en de wortel nog lichte beet hebben.",
+      "Voeg erwten en koude rijst toe, zet het vuur hoog en maak klonten direct los met een spatel. Bak 3–4 minuten en schep regelmatig om tot de rijst door en door heet en droger aan de buitenkant is.",
+      "Schuif de rijst naar één kant en voeg de resterende olie aan de lege kant toe. Giet de losgeklopte eieren erin, laat 15–20 seconden stollen en roer dan 45–60 seconden tot zachte stukjes ei ontstaan.",
+      "Meng ei en rijst, voeg eventueel sojasaus toe en bak nog 1 minuut op hoog vuur terwijl je voortdurend omschept. Stop wanneer de rijst los, heet en licht geroosterd is; voeg geen water toe.",
+      "Proef op peper en zout en serveer meteen. Gebruik rijst die gekoeld bewaard is en verhit hem slechts één keer opnieuw."
+    ],
+    "technique": {
+      "title": "WAAROM KOUDE RIJST?",
+      "text": "Versgekookte warme rijst bevat veel stoom en kleeft sneller. Koude rijst is droger en bakt losser, waardoor je daadwerkelijk gebakken rijst krijgt."
+    },
+    "attention": "Gebruik bij voorkeur volledig afgekoelde rijst van de vorige dag. Droge, koude korrels bakken losser en geven veel meer textuur dan vers gekookte warme rijst.",
+    "variations": [],
+    "nutrition": {
+      "kcal": 540,
+      "protein": 18,
+      "carbs": 65,
+      "fat": 22
+    }
+  },
+  {
+    "id": "19",
+    "label": "68",
     "title": "Atum à Brás",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Do dia-a-dia & novas influências",
     "tags": [
       "MODERN & SNEL"
     ],
@@ -2861,9 +3345,9 @@ window.RECIPES = [
   },
   {
     "id": "30",
-    "label": "60",
+    "label": "69",
     "title": "Quiche de atum",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Do dia-a-dia & novas influências",
     "tags": [
       "Modern thuisgerecht",
       "oven"
@@ -2908,9 +3392,9 @@ window.RECIPES = [
   },
   {
     "id": "32",
-    "label": "61",
+    "label": "70",
     "title": "Tosta de atum",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Do dia-a-dia & novas influências",
     "tags": [
       "Lunch",
       "café-thuis"
@@ -2952,9 +3436,9 @@ window.RECIPES = [
   },
   {
     "id": "36",
-    "label": "62",
+    "label": "71",
     "title": "Douradinhos com arroz de tomate",
-    "chapter": "Petiscos, conservas & refeições rápidas",
+    "chapter": "Do dia-a-dia & novas influências",
     "tags": [
       "Doordeweeks",
       "comfort food"
@@ -3000,57 +3484,6 @@ window.RECIPES = [
     "quickImage": "images/36-douradinhos-com-arroz-de-tomate.jpg",
     "quickImageAlt": "Douradinhos com arroz de tomate",
     "quickCaption": "SNEL - met douradinhos",
-    "quickLabel": "SNEL",
-    "heroLabel": "FANCY"
-  },
-  {
-    "id": "37",
-    "label": "63",
-    "title": "Rissóis de camarão ou bacalhau com arroz de tomate",
-    "chapter": "Petiscos, conservas & refeições rápidas",
-    "tags": [
-      "Diepvriesvoorraad"
-    ],
-    "time": "30 minuten",
-    "servings": "2–3 personen",
-    "intro": "Rissóis (gevulde Portugese deeghapjes) uit diepvries of pastelaria vormen met sappige arroz de tomate (tomatenrijst) een heel normaal Portugees bord: krokant naast zacht.",
-    "image": "images/fancy-37-rissois-artisanal-arroz-tomate.jpg",
-    "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate - fancy versie",
-    "ingredients": [
-      "SNEL — Auchan rissóis de camarão para forno/airfryer, 8 stuks / 360 g, rechtstreeks uit de diepvries",
-      "FANCY — 8 verse ambachtelijke rissóis van pastelaria/charcutaria, met garnalen- of bacalhauvulling",
-      "180 g arroz carolino (Portugese Carolino-rijst)",
-      "1 kleine ui",
-      "2 tenen knoflook",
-      "250 g tomate pelado (gepelde tomaten)",
-      "500 ml heet water",
-      "3 el olijfolie",
-      "1 laurierblad",
-      "koriander of peterselie"
-    ],
-    "steps": [
-      "Auchan diepvries: niet ontdooien. Oven: 8–13 minuten op 220 °C; airfryer: 7–9 minuten op 180 °C. Stop wanneer de korst rondom krokant en de vulling heet is. Voor een ander merk geldt het etiket; verse ambachtelijke rissóis hebben meestal korter nodig.",
-      "Begin de rijst ongeveer 20 minuten vóór de rissóis klaar moeten zijn. Verhit olijfolie op middellaag vuur, fruit ui 5 minuten en voeg knoflook de laatste 45 seconden toe.",
-      "Voeg tomate pelado en laurier toe en stoof 5–7 minuten op middelhoog vuur. De basis is klaar wanneer de tomaat dikker en zoeter ruikt en een spatel kort een spoor over de bodem trekt.",
-      "Voeg arroz carolino en 500 ml heet water toe. Breng aan de kook, zet laag tot middellaag en laat 15–18 minuten zacht pruttelen; roer af en toe en voeg alleen extra heet water toe als de rijst vóór het gaar zijn droogvalt.",
-      "Zet het vuur uit zodra de rijst gaar maar nog lepelbaar en sappig is. Proef op zout en werk af met koriander of peterselie.",
-      "Laat gefrituurde rissóis 1 minuut uitlekken en serveer ze naast de rijst. Leg ze nooit op de rijst en dek ze niet af, zodat de korst krokant blijft."
-    ],
-    "technique": {
-      "title": "FRITUREN ZONDER VETTIG RESULTAAT",
-      "text": "Als je frituurt, houd de olie rond 175–180 °C en bak niet te veel stuks tegelijk. Te koude olie wordt door het paneermeel opgenomen; te hete olie kleurt buiten voordat de vulling warm is."
-    },
-    "attention": "Serveer de rissóis naast de arroz de tomate (tomatenrijst), nooit erop. Stoom van de rijst maakt de krokante korst snel zacht.",
-    "variations": [],
-    "nutrition": {
-      "kcal": 770,
-      "protein": 14,
-      "carbs": 103,
-      "fat": 30
-    },
-    "quickImage": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
-    "quickImageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
-    "quickCaption": "SNEL - met diepvries-rissóis",
     "quickLabel": "SNEL",
     "heroLabel": "FANCY"
   }
