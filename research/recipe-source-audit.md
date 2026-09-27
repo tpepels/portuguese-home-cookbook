@@ -130,3 +130,16 @@ Five additional dishes were added to cover ordinary Portuguese home-meal pattern
 - **53 — Sopa de peixe simples com couve e ovo.** Simple pescada, tomato and cabbage soup finished with poached egg. Source: https://missao.continente.pt/receitas/sopa-peixe
 
 The active cookbook now contains **57 recipes**.
+
+
+## Editorial order and TOC repair — 2026-09-27
+
+The cookbook order was rebuilt after the expansion to 57 recipes. The former two-page table of contents could no longer contain all entries, which caused later recipes to disappear visually from the index even though they were present in data.
+
+New reading order:
+1. **Portugees thuisrepertoire** — core bacalhau, fresh fish, pota/polvo, soups, bread and cabbage dishes.
+2. **Snel, dagelijks & hedendaags** — weekday fish, soups, eggs, rice, tuna and convenience meals.
+3. **Portugal nu** — cold lunches, tuna pantry dishes and the expanded conservas section.
+4. **Diepvriespakketten als startpunt** — the paired freezer-product transformations, now placed after the core repertoire rather than before it.
+
+Visible recipe labels were renumbered **1–57 in reading order** while internal recipe IDs were preserved for stable code and asset references. The table of contents now paginates automatically in chunks of 16 recipes, so future additions cannot silently fall off the bottom of a fixed two-page index.
