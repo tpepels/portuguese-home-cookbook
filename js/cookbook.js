@@ -128,34 +128,42 @@
       </div>
     `);
 
-    const tocPages = [];
-    const tocChunkSize = 16;
+    const orderedTocRecipes = chapterOrder.flatMap(chapter =>
+      recipes.filter(recipe => recipe.chapter === chapter)
+    );
+    const tocSplit = Math.ceil(orderedTocRecipes.length / 2);
+    const tocColumns = [
+      orderedTocRecipes.slice(0, tocSplit),
+      orderedTocRecipes.slice(tocSplit)
+    ];
 
-    chapterOrder.forEach(chapter => {
-      const chapterRecipes = recipes.filter(recipe => recipe.chapter === chapter);
-      for (let offset = 0; offset < chapterRecipes.length; offset += tocChunkSize) {
-        const chunk = chapterRecipes.slice(offset, offset + tocChunkSize);
-        const isFirstTocPage = tocPages.length === 0;
-        const isContinuation = offset > 0;
-        const rows = chunk.map(recipe => `
+    const renderTocColumn = columnRecipes => {
+      let previousChapter = null;
+      return columnRecipes.map(recipe => {
+        const chapterHeading = recipe.chapter !== previousChapter
+          ? `<div class="toc-chapter">${esc(recipe.chapter)}${previousChapter === null && recipe !== orderedTocRecipes[0] ? " — vervolg" : ""}</div>`
+          : "";
+        previousChapter = recipe.chapter;
+        return `
+          ${chapterHeading}
           <div class="toc-row" data-recipe-id="${esc(recipe.id)}">
             <span>${esc(recipe.label)}</span>
             <span>${esc(recipe.title)}</span>
             <span class="toc-page">…</span>
           </div>
-        `).join("");
+        `;
+      }).join("");
+    };
 
-        tocPages.push(page("single-page front-copy fit-page toc-page-sheet", `
-          <div class="fit-content front-shell">
-            ${isFirstTocPage ? "<h2>Inhoud</h2>" : '<div class="front-kicker">Inhoud — vervolg</div>'}
-            <div class="toc-list ${isFirstTocPage ? "" : "toc-list-continuation"}">
-              <div class="toc-chapter">${esc(chapter)}${isContinuation ? " — vervolg" : ""}</div>
-              ${rows}
-            </div>
-          </div>
-        `));
-      }
-    });
+    const tocPage = page("single-page front-copy fit-page toc-page-sheet toc-two-column-page", `
+      <div class="fit-content front-shell">
+        <h2>Inhoud</h2>
+        <div class="toc-columns">
+          <div class="toc-list">${renderTocColumn(tocColumns[0])}</div>
+          <div class="toc-list">${renderTocColumn(tocColumns[1])}</div>
+        </div>
+      </div>
+    `);
 
     const intro = page("single-page front-copy about-page", `
       <h2>Over dit boek</h2>
@@ -227,7 +235,7 @@
       </div>
     `);
 
-    book.append(cover, titlePage, ...tocPages, intro, guide, pantry);
+    book.append(cover, titlePage, tocPage, intro, guide, pantry);
   }
 
   function renderChapter(chapter, index) {
