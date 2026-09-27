@@ -97,3 +97,15 @@ Two further cabbage-led dishes were added so cabbage is not merely an optional v
 - **43 — Feijoada de pota com feijão branco e couve-coração.** Based directly on 24Kitchen's Portuguese pota/white-bean/couve-coração stew; cabbage is added late so it stays visible and textured. Source: https://www.24kitchen.pt/receita/feijoada-de-pota-com-feijao-branco
 
 The active cookbook now contains **47 recipes**.
+
+
+## Conservas expansion — 2026-09-27
+
+Four additional pantry dishes were added to better represent the Portuguese canned-fish aisle beyond tuna and the existing canned mackerel recipe.
+
+- **44 — Sardinhas de conserva com batata, pimento assado e cebola.** Modern pantry meal using the broad current Portuguese sardine-conserve assortment. Continente currently lists dozens of sardine conserves, including olive-oil and tomato variants. Retail reference: https://www.continente.pt/mercearia/conservas/conservas-de-peixe/sardinha/
+- **45 — Carapau de conserva com feijão-frade.** Modern pantry adaptation pairing canned horse mackerel with the established Portuguese feijão-frade/onion/parsley/vinegar pattern. Continente currently lists a dedicated cavala/carapau range. Retail reference: https://www.continente.pt/mercearia/conservas/sardinha-cavala-lulas/cavala-e-carapau/
+- **46 — Pota em azeite com grão, alho e salsa.** Modern pantry meal built around current canned pota in olive oil. Continente currently lists Pota em Azeite and several other lulas/polvo/pota conserves. Retail reference: https://www.continente.pt/mercearia/conservas/sardinha-cavala-lulas/lulas-polvo-e-pota/
+- **47 — Bacalhau em azeite e alho com batata e grelos.** Modern pantry meal using ready-to-eat bacalhau in olive oil and garlic with classic potato/greens accompaniments. Current retail examples include Gallo, Bom Petisco and Pitéu bacalhau em azeite e alho. Retail reference: https://www.continente.pt/mercearia/conservas/conservas-de-peixe/bacalhau-salmaopescada-e-truta/
+
+These are explicitly presented as current Portuguese pantry meals, not as canonical named traditional dishes. The active cookbook now contains **51 recipes**.
