@@ -10,8 +10,10 @@
   const chapterCopy = {
     "Sopas, caldos & açordas":
       "Van caldo verde (groene koolsoep) en eenvoudige groentesoep tot açorda (Portugees broodgerecht): kommen en diepe borden waarin bouillon, brood, tomaat, kool en vis centraal staan.",
+    "Pão, broa & acompanhamentos":
+      "Brood en stevige begeleiders die aan de Portugese tafel meer zijn dan bijzaak: broa de milho als dagelijks maïsbrood en als basis voor migas met kool en bonen.",
     "Bacalhau":
-      "De Portugese klassieker in zijn bekendste vormen: eenvoudig gekookt, à Brás (met fijne aardappel en romig ei), uit de oven, als patanisca (kabeljauwbeignet) en in sappige rijst.",
+      "De Portugese klassieker in zijn bekendste vormen: eenvoudig gekookt, à Brás (met fijne aardappel en romig ei), uit de oven, met broa, als patanisca (kabeljauwbeignet) en in sappige rijst.",
     "Peixe":
       "Verse vis zoals pescada (heek), dourada (goudbrasem), robalo (zeebaars), carapau (horsmakreel) en sardinha (sardine), gegrild, gekookt, gepaneerd, gestoofd of uit de oven.",
     "Marisco, polvo & pota":
@@ -19,7 +21,7 @@
     "Arroz, massa & pratos de tacho":
       "Rijst, pasta en éénpansgerechten voor alledag: sappige Carolino-rijst, massada (Portugese pastastoof), tomatenrijst en makkelijke tacho-gerechten.",
     "Legumes, cogumelos, ovos & feijão":
-      "Groenten, paddenstoelen, eieren en peulvruchten als volwaardige maaltijd: van tomatada en migas tot hedendaagse Portugese bereidingen met eryngii.",
+      "Groenten, paddenstoelen, eieren en peulvruchten als volwaardige maaltijd: van tomatada en peixinhos da horta tot hedendaagse Portugese bereidingen met eryngii.",
     "Saladas & pratos frios":
       "Koude en lauwe gerechten met scherpe vinaigrette, bonen, kikkererwten, rijst, pasta en kool: van simpele bijsalade tot complete lunch.",
     "Petiscos, conservas & refeições rápidas":
@@ -28,6 +30,7 @@
 
   const chapterOrder = [
     "Sopas, caldos & açordas",
+    "Pão, broa & acompanhamentos",
     "Bacalhau",
     "Peixe",
     "Marisco, polvo & pota",
@@ -233,7 +236,7 @@
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.bread}</div>
-            <div><strong>Pão (brood)</strong><p><b>Koop</b> pão alentejano (Alentejaans landbrood) of stevig pão de mistura (gemengd landbrood) voor açorda (Portugees broodgerecht); pão de forma (toastbrood) of pão de mistura (gemengd landbrood) voor tostas.</p><p><b>Bewaar</b> brood van de vorige dag: juist droger brood neemt bouillon op zonder meteen pap te worden.</p></div>
+            <div><strong>Pão & broa (brood & maïsbrood)</strong><p><b>Koop</b> pão alentejano (Alentejaans landbrood) of stevig pão de mistura (gemengd landbrood) voor açorda; broa de milho (Portugees maïsbrood) voor bij soep, voor migas en voor krokante viskorsten.</p><p><b>Bewaar</b> brood van de vorige dag: droge broa verkruimelt juist beter en neemt knoflook en azeite op zonder meteen pap te worden.</p></div>
           </div>
           <div class="pantry-card">
             <div class="pantry-icon">${pantryIcons.cheese}</div>
