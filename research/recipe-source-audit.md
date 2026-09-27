@@ -189,3 +189,23 @@ Broa de milho was underrepresented despite being a normal Portuguese table bread
 - The pantry page now explains that stale broa is especially useful for migas and baked crusts.
 
 The cookbook now contains **63 recipes**.
+
+
+## Modern weekday cooking expansion — 2026-09-27
+
+The cookbook now has a dedicated **Do dia-a-dia & novas influências** chapter. This is intentionally not presented as a chapter of historical Portuguese classics. It documents plausible contemporary home cooking in Portugal: quick weekday food, office-lunch/marmita logic and international dishes made with ingredients that are routine in Portuguese supermarkets.
+
+Eight new recipes were added:
+
+- **Salmão no forno com batata e brócolos** — based on mainstream Portuguese oven-salmon practice: salmon, onion, potato, olive oil and lemon, with broccoli as the everyday vegetable. Sources: https://feed.continente.pt/receitas/salmao-no-forno and https://teleculinaria.pt/receitas/salmao-no-forno-com-pure-de-batata-e-brocolos/
+- **Salmão teriyaki com arroz e sésamo** — Portuguese supermarket recipe media explicitly publish teriyaki salmon served with basmati rice and sesame. Source: https://feed.continente.pt/receitas/salmao-grelhado-com-molho-teriyaki
+- **Massa de salmão no forno com espinafres e feta** — follows the contemporary oven-pasta format with salmon, spinach, feta, tomato and cream. Source: https://feed.continente.pt/receitas/massa-salmao-forno
+- **Caril de grão, abóbora e espinafres** — combines two documented Continente/Yämmi weeknight formats: chickpea-spinach curry and Thai-style chickpea/pumpkin curry with coconut milk. Sources: https://www.feed.continente.pt/receitas/yammi/caril-de-grao-com-espinafres and https://feed.continente.pt/receitas/arroz-thai-caril-grao
+- **Noodles com camarão e legumes** — directly documented as a quick Portuguese-supermarket weeknight recipe with shrimp, pepper, broccoli, carrot and noodles. Source: https://feed.continente.pt/receitas/noodles-com-camaroes-e-legumes
+- **Ramen rápido com cogumelos, couve e ovo** — follows the mainstream quick ramen published with shiitake, carrot, savoy cabbage, vegetable stock, noodles and egg. Source: https://feed.continente.pt/receitas/ramen
+- **Wraps de húmus, grão e legumes** — based on the documented hummus/chickpea wrap with carrot, cucumber, tomato, avocado and lettuce. Source: https://feed.continente.pt/receitas/wraps-de-legumes
+- **Tacos de pescada crocante com couve e lima** — an explicitly editorial modern Portuguese-home interpretation, not claimed as a traditional dish. The taco format is mainstream in current Portuguese recipe media, while corn-flour-crusted pescada is independently documented as an ordinary Portuguese fish preparation. Sources: https://feed.continente.pt/receitas/tacos and https://feed.continente.pt/receitas/filetes-de-pescada
+
+Existing quick/contemporary recipes **Arroz frito com legumes e ovo**, **Atum à Brás**, **Quiche de atum**, **Tosta de atum** and **Douradinhos com arroz de tomate** were moved into the modern chapter. The former **Petiscos, conservas & refeições rápidas** chapter is now **Petiscos & conservas**, which makes the distinction between petisco/pantry traditions and modern weekday food clearer.
+
+The cookbook now contains **71 recipes**.
