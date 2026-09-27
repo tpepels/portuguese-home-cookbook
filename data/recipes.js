@@ -11,8 +11,8 @@ window.RECIPES = [
     "time": "35 minuten",
     "servings": "2 personen",
     "intro": "Deze rijst gebruikt een modern supermarktproduct, maar de kookmethode is klassiek Portugees: arroz carolino (Portugese Carolino-rijst) die sappig en bouillonachtig blijft. Zie dit vooral als een oefening in arroz malandrinho (sappige bouillonrijst); het voorgekookte “lagosta”-product (kreeftvormig zeevruchtenproduct) gaat pas op het einde in de pan.",
-    "image": "images/1a-arroz-malandrinho-de-lagosta-e-coentros.jpg",
-    "imageAlt": "Arroz malandrinho de “lagosta” e coentros",
+    "image": "images/fancy-1a-arroz-malandrinho-lagostim-camarao.jpg",
+    "imageAlt": "Arroz malandrinho de “lagosta” e coentros - fancy versie",
     "ingredients": [
       "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g; het huidige etiket adviseert ongeveer 2 uur ontdooien vóór gebruik",
       "FANCY — vervang het pak door 180 g lagostim cru (rauwe langoustine) + 200 g camarão cru (rauwe garnalen), gepeld; bewaar schalen en koppen voor de bouillon",
@@ -43,7 +43,12 @@ window.RECIPES = [
       "protein": 19,
       "carbs": 106,
       "fat": 24
-    }
+    },
+    "quickImage": "images/1a-arroz-malandrinho-de-lagosta-e-coentros.jpg",
+    "quickImageAlt": "Arroz malandrinho de “lagosta” e coentros",
+    "quickCaption": "SNEL - met Pescanova ‘lagosta’",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "1b",
@@ -56,8 +61,8 @@ window.RECIPES = [
     "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Açorda (Portugees broodgerecht) behoort tot de Portugese broodkeuken: oud brood wordt met hete, geurige vloeistof weer een volwaardige maaltijd. Deze versie gebruikt het “lagosta”-product (kreeftvormig zeevruchtenproduct) als praktische toevoeging; brood, knoflook, koriander en olijfolie blijven de kern.",
-    "image": "images/1b-acorda-de-marisco-met-lagosta-en-gepocheerd-ei.jpg",
-    "imageAlt": "Açorda de marisco met “lagosta” en gepocheerd ei",
+    "image": "images/fancy-1b-acorda-marisco-lagostim-camarao.jpg",
+    "imageAlt": "Açorda de marisco met “lagosta” en gepocheerd ei - fancy versie",
     "ingredients": [
       "SNEL — 1 verpakking Delícias Pescanova com forma de lagosta (kreeftvormig zeevruchtenproduct), 255 g; het huidige etiket adviseert ongeveer 2 uur ontdooien vóór gebruik",
       "FANCY — vervang het pak door 180 g lagostim cru (rauwe langoustine) + 200 g camarão cru (rauwe garnalen), gepeld; bewaar schalen en koppen voor de bouillon",
@@ -85,7 +90,12 @@ window.RECIPES = [
       "protein": 29,
       "carbs": 88,
       "fat": 38
-    }
+    },
+    "quickImage": "images/1b-acorda-de-marisco-met-lagosta-en-gepocheerd-ei.jpg",
+    "quickImageAlt": "Açorda de marisco met “lagosta” en gepocheerd ei",
+    "quickCaption": "SNEL - met Pescanova ‘lagosta’",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "2a",
@@ -98,8 +108,8 @@ window.RECIPES = [
     "time": "45 minuten",
     "servings": "2 royale personen",
     "intro": "Caldeirada (Portugese visstoof) is echte Portugese kustkeuken: verschillende stukken vis garen samen met aardappel, ui, tomaat en paprika in één pan. Het gerecht leunt op goed kookvocht en de smaak van de vis, niet op een dikke saus.",
-    "image": "images/2a-caldeirada-a-moda-de-peniche.jpg",
-    "imageAlt": "Caldeirada à moda de Peniche",
+    "image": "images/fancy-2a-caldeirada-peniche-fresh-fish-clams.jpg",
+    "imageAlt": "Caldeirada à moda de Peniche - fancy versie",
     "ingredients": [
       "SNEL — 1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket), ca. 800 g",
       "FANCY — vervang het pak door 600–700 g gemengde vis van de peixaria (visafdeling), bijvoorbeeld pescada (heek), raia (rog) en carapau (horsmakreel), plus 150 g berbigão (kokkels)",
@@ -132,7 +142,12 @@ window.RECIPES = [
       "protein": 55,
       "carbs": 57,
       "fat": 34
-    }
+    },
+    "quickImage": "images/2a-caldeirada-a-moda-de-peniche.jpg",
+    "quickImageAlt": "Caldeirada à moda de Peniche",
+    "quickCaption": "SNEL - met Caldeirada de Peniche uit de diepvries",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "2b",
@@ -145,8 +160,8 @@ window.RECIPES = [
     "time": "40 minuten",
     "servings": "2–3 personen",
     "intro": "Massada (sappig pastagerecht) de peixe is een van die gerechten die veel meer naar Portugese thuiskeuken smaken dan naar restaurantkeuken. De pasta gaart rechtstreeks in een tomatige visbouillon en neemt daardoor smaak op terwijl het gerecht sappig blijft.",
-    "image": "images/2b-massada-de-peixe-com-tomate-e-coentros.jpg",
-    "imageAlt": "Massada de peixe com tomate e coentros",
+    "image": "images/fancy-2b-massada-peixe-fresh-fish-clams.jpg",
+    "imageAlt": "Massada de peixe com tomate e coentros - fancy versie",
     "ingredients": [
       "SNEL — 1 verpakking Caldeirada de Peniche (Peniche-visstoofpakket), ca. 800 g",
       "FANCY — vervang het pak door 600–700 g gemengde vis van de peixaria (visafdeling), bijvoorbeeld pescada (heek), raia (rog) en carapau (horsmakreel), plus 150 g berbigão (kokkels)",
@@ -178,7 +193,12 @@ window.RECIPES = [
       "protein": 49,
       "carbs": 65,
       "fat": 23
-    }
+    },
+    "quickImage": "images/2b-massada-de-peixe-com-tomate-e-coentros.jpg",
+    "quickImageAlt": "Massada de peixe com tomate e coentros",
+    "quickCaption": "SNEL - met Caldeirada de Peniche uit de diepvries",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "3a",
@@ -191,8 +211,8 @@ window.RECIPES = [
     "time": "15 minuten",
     "servings": "2 personen als petisco of voorgerecht",
     "intro": "Amêijoas (venusschelpen) à Bulhão Pato is een van de herkenbaarste Portugese schelpdierbereidingen: knoflook, azeite (olijfolie), koriander en citroen. Met alleen schelpdiervlees mis je het vocht uit de schelpen, maar de smaakopbouw blijft dezelfde.",
-    "image": "images/3a-miolo-de-ameijoa-a-bulhao-pato.jpg",
-    "imageAlt": "Miolo de amêijoa à Bulhão Pato",
+    "image": "images/fancy-3a-ameijoas-bulhao-pato-fresh-clams.jpg",
+    "imageAlt": "Miolo de amêijoa à Bulhão Pato - fancy versie",
     "ingredients": [
       "SNEL — 250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen), 12 uur ontdooid in de koelkast",
       "FANCY — vervang door 750 g verse amêijoas (venusschelpen) in de schelp, goed gespoeld; laat zandige exemplaren vooraf volgens de aanwijzingen van de visboer weken",
@@ -224,7 +244,12 @@ window.RECIPES = [
       "protein": 21,
       "carbs": 30,
       "fat": 30
-    }
+    },
+    "quickImage": "images/3a-miolo-de-ameijoa-a-bulhao-pato.jpg",
+    "quickImageAlt": "Miolo de amêijoa à Bulhão Pato",
+    "quickCaption": "SNEL - met diepvries amêijoa zonder schelp",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "3b",
@@ -237,8 +262,8 @@ window.RECIPES = [
     "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Deze açorda (Portugees broodgerecht) combineert Alentejaanse broodkeuken met schelpdieren. Het gerecht hoort rustiek en geurig te zijn: het brood draagt de bouillon, terwijl knoflook, koriander en olijfolie voor de eigenlijke identiteit zorgen.",
-    "image": "images/3b-acorda-de-ameijoas-a-alentejana.jpg",
-    "imageAlt": "Açorda de amêijoas à alentejana",
+    "image": "images/fancy-3b-acorda-ameijoas-fresh-clams.jpg",
+    "imageAlt": "Açorda de amêijoas à alentejana - fancy versie",
     "ingredients": [
       "SNEL — 250 g miolo de amêijoa-zebra (vlees van zebra-venusschelpen), 12 uur ontdooid in de koelkast",
       "FANCY — vervang door 750 g verse amêijoas (venusschelpen) in de schelp, goed gespoeld; laat zandige exemplaren vooraf volgens de aanwijzingen van de visboer weken",
@@ -270,7 +295,12 @@ window.RECIPES = [
       "protein": 34,
       "carbs": 67,
       "fat": 37
-    }
+    },
+    "quickImage": "images/3b-acorda-de-ameijoas-a-alentejana.jpg",
+    "quickImageAlt": "Açorda de amêijoas à alentejana",
+    "quickCaption": "SNEL - met diepvries amêijoa zonder schelp",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "4a",
@@ -283,8 +313,8 @@ window.RECIPES = [
     "time": "40 minuten",
     "servings": "2–3 personen",
     "intro": "Arroz de marisco (zeevruchtenrijst) is Portugese familie- en weekendkeuken: arroz carolino (Portugese Carolino-rijst) gaart in krachtige zeevruchtenbouillon en wordt zeer sappig geserveerd.",
-    "image": "images/4a-arroz-de-marisco-malandrinho.jpg",
-    "imageAlt": "Arroz de marisco malandrinho",
+    "image": "images/fancy-4a-arroz-marisco-fresh-shellfish.jpg",
+    "imageAlt": "Arroz de marisco malandrinho - fancy versie",
     "ingredients": [
       "SNEL — Mariscada Auchan sem glúten (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
       "FANCY — 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); maak bouillon van de garnalenschalen",
@@ -316,7 +346,12 @@ window.RECIPES = [
       "protein": 38,
       "carbs": 83,
       "fat": 26
-    }
+    },
+    "quickImage": "images/4a-arroz-de-marisco-malandrinho.jpg",
+    "quickImageAlt": "Arroz de marisco malandrinho",
+    "quickCaption": "SNEL - met Mariscada Auchan",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "4b",
@@ -329,8 +364,8 @@ window.RECIPES = [
     "time": "35 minuten",
     "servings": "2–3 personen",
     "intro": "De cataplana (schelpvormige Portugese stoompan) is zowel pan als kookmethode uit de Algarve. Zeevruchten, tomaat, paprika, ui en wijn garen afgesloten, waardoor aroma en stoom nauwelijks ontsnappen.",
-    "image": "images/4b-cataplana-de-marisco-a-algarvia-zonder-vlees.jpg",
-    "imageAlt": "Cataplana de marisco à algarvia, zonder vlees",
+    "image": "images/fancy-4b-cataplana-marisco-fresh-shellfish.jpg",
+    "imageAlt": "Cataplana de marisco à algarvia, zonder vlees - fancy versie",
     "ingredients": [
       "SNEL — 1 verpakking Mariscada Auchan sem glúten (zeevruchtenmix), 500 g, 12 uur ontdooid in de koelkast",
       "FANCY — vervang door 200 g camarão cru com casca (rauwe garnalen met schaal) + 300 g amêijoas (venusschelpen) + 250 g mexilhão (mosselen); gebruik de garnalenschalen voor de bouillon",
@@ -360,7 +395,12 @@ window.RECIPES = [
       "protein": 32,
       "carbs": 21,
       "fat": 25
-    }
+    },
+    "quickImage": "images/4b-cataplana-de-marisco-a-algarvia-zonder-vlees.jpg",
+    "quickImageAlt": "Cataplana de marisco à algarvia, zonder vlees",
+    "quickCaption": "SNEL - met Mariscada Auchan",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "5",
@@ -373,8 +413,8 @@ window.RECIPES = [
     "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Bacalhau à Brás (gezouten kabeljauw met fijne aardappel en romig ei) is een van de meest praktische Portugese kabeljauwgerechten: vlokken bacalhau, zachte ui, fijne aardappel en ei. Thuis wordt het net zo gemakkelijk met kant-en-klare batata palha (krokante aardappelreepjes) gemaakt als met zelfgesneden aardappel.",
-    "image": "images/5-bacalhau-a-bras.jpg",
-    "imageAlt": "Bacalhau à Brás",
+    "image": "images/fancy-5-bacalhau-a-bras-homemade-potatoes.jpg",
+    "imageAlt": "Bacalhau à Brás - fancy versie",
     "ingredients": [
       "300 g bacalhau demolhado (ontzoute gezouten kabeljauw), gaar en in grove vlokken",
       "SNEL — 120 g batata palha (krokante aardappelreepjes)",
@@ -407,7 +447,12 @@ window.RECIPES = [
       "protein": 44,
       "carbs": 35,
       "fat": 47
-    }
+    },
+    "quickImage": "images/5-bacalhau-a-bras.jpg",
+    "quickImageAlt": "Bacalhau à Brás",
+    "quickCaption": "SNEL - met batata palha",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "6",
@@ -1802,8 +1847,8 @@ window.RECIPES = [
     "time": "30 minuten",
     "servings": "2 personen",
     "intro": "Douradinhos (vissticks) zijn geen gastronomisch erfgoed, maar ze horen wel bij de echte Portugese dagelijkse eetcultuur: diepvriesvis uit de oven of pan met een zelfgemaakte arroz de tomate (tomatenrijst). Juist de combinatie van gemak en een klassieke rijstbereiding maakt dit een geloofwaardige jonge-huishoudensmaaltijd.",
-    "image": "images/36-douradinhos-com-arroz-de-tomate.jpg",
-    "imageAlt": "Douradinhos com arroz de tomate",
+    "image": "images/fancy-36-filetes-pescada-arroz-tomate.jpg",
+    "imageAlt": "Douradinhos com arroz de tomate - fancy versie",
     "ingredients": [
       "SNEL — ca. 300 g douradinhos (vissticks), bijvoorbeeld Auchan escamudo-do-Alasca MSC of Iglo pescada",
       "FANCY — vervang door 350–400 g filetes de pescada (heek) + 40 g farinha de trigo T55 (tarwebloem) + 1 ei + 70 g pão ralado (paneermeel) + olie om te bakken",
@@ -1836,7 +1881,12 @@ window.RECIPES = [
       "protein": 23,
       "carbs": 90,
       "fat": 32
-    }
+    },
+    "quickImage": "images/36-douradinhos-com-arroz-de-tomate.jpg",
+    "quickImageAlt": "Douradinhos com arroz de tomate",
+    "quickCaption": "SNEL - met douradinhos",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "37",
@@ -1849,8 +1899,8 @@ window.RECIPES = [
     "time": "30 minuten",
     "servings": "2–3 personen",
     "intro": "Rissóis (gevulde Portugese deeghapjes) uit diepvries of pastelaria vormen met sappige arroz de tomate (tomatenrijst) een heel normaal Portugees bord: krokant naast zacht.",
-    "image": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
-    "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
+    "image": "images/fancy-37-rissois-artisanal-arroz-tomate.jpg",
+    "imageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate - fancy versie",
     "ingredients": [
       "SNEL — Auchan rissóis de camarão para forno/airfryer, 8 stuks / 360 g, rechtstreeks uit de diepvries",
       "FANCY — 8 verse ambachtelijke rissóis van pastelaria/charcutaria, met garnalen- of bacalhauvulling",
@@ -1882,7 +1932,12 @@ window.RECIPES = [
       "protein": 14,
       "carbs": 103,
       "fat": 30
-    }
+    },
+    "quickImage": "images/37-rissois-de-camarao-ou-bacalhau-com-arroz-de-tomate.jpg",
+    "quickImageAlt": "Rissóis de camarão ou bacalhau com arroz de tomate",
+    "quickCaption": "SNEL - met diepvries-rissóis",
+    "quickLabel": "SNEL",
+    "heroLabel": "FANCY"
   },
   {
     "id": "38",
