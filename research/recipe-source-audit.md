@@ -117,3 +117,16 @@ These are explicitly presented as current Portuguese pantry meals, not as canoni
 - The recipe includes a **salada mista de restaurante** variation using lettuce, tomato and cucumber with the same sharp vinaigrette, plus a slower red-cabbage variation.
 
 The active cookbook now contains **52 recipes**.
+
+
+## Everyday home-cooking expansion — 2026-09-27
+
+Five additional dishes were added to cover ordinary Portuguese home-meal patterns that were underrepresented:
+
+- **49 — Carapau grelhado com batata cozida e salada.** Based on Portuguese grilled-carapau preparations served with potatoes and salad. Source: https://teleculinaria.pt/receitas/carapaus-grelhados-com-molho-a-espanhola/
+- **50 — Robalo no forno com legumes.** Whole sea bass roasted with onion, tomato, pepper, potato, wine and olive oil, following current Portuguese oven-fish technique. Source: https://feed.continente.pt/receitas/robalo-assado-com-ervas-aromaticas-e-gengibre and general oven-fish guidance at https://feed.continente.pt/alimentacao/o-melhor-peixe-para-assar-no-forno
+- **51 — Pota à lagareiro com batatas a murro.** Pota with garlic, olive oil and punched roast potatoes, following current Portuguese pota à lagareiro recipes. Sources: https://teleculinaria.pt/receitas/pota-a-lagareiro/ and https://feed.continente.pt/receitas/pota-no-forno-com-batata-a-murro
+- **52 — Ovos em tomatada.** Eggs cooked directly in a reduced onion-garlic-tomato base, based on Portuguese tomatada/farrafuza preparations. Sources: https://teleculinaria.pt/receitas/farrafuza-tomatada-de-ovos/ and https://teleculinaria.pt/receitas/ovos-a-portuguesa/
+- **53 — Sopa de peixe simples com couve e ovo.** Simple pescada, tomato and cabbage soup finished with poached egg. Source: https://missao.continente.pt/receitas/sopa-peixe
+
+The active cookbook now contains **57 recipes**.
