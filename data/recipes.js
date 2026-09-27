@@ -2481,5 +2481,260 @@ window.RECIPES = [
       "carbs": 9,
       "fat": 9
     }
+  },
+  {
+    "id": "49",
+    "label": "49",
+    "title": "Carapau grelhado com batata cozida e salada",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "CARAPAU",
+      "GRELHADO",
+      "DOORDEWEEKS"
+    ],
+    "time": "35 minuten",
+    "servings": "2 personen",
+    "intro": "Carapau grelhado (gegrilde horsmakreel) met aardappel en een scherpe salade is precies het soort eenvoudige Portugese vismaaltijd dat weinig uitleg nodig heeft. De vis krijgt alleen zout, hitte en olijfolie; de rest van het bord komt van goede aardappelen en een zure salade.",
+    "image": "images/49-carapau-grelhado-batata-salada.jpg",
+    "imageAlt": "Gegrilde carapau met gekookte aardappel en zure salade",
+    "ingredients": [
+      "4 kleine carapaus (horsmakrelen), schoongemaakt",
+      "500 g batata para cozer (kookaardappelen)",
+      "½ krop sla of 200 g couve-coração, fijn gesneden",
+      "1 rijpe tomaat, in parten",
+      "¼ rode ui, dun gesneden",
+      "2½ el azeite virgem extra (extra vierge olijfolie)",
+      "1½ el vinagre de vinho (wijnazijn)",
+      "grof zout",
+      "zwarte peper",
+      "citroen, optioneel"
+    ],
+    "steps": [
+      "Bestrooi de carapaus aan beide kanten met grof zout en laat 15 minuten staan terwijl je de rest voorbereidt.",
+      "Kook de aardappelen in gezouten water 15–20 minuten tot een mes er zonder weerstand in glijdt. Giet af en laat 3 minuten uitdampen.",
+      "Meng sla of couve-coração met tomaat en ui. Klop 1½ el olijfolie met de wijnazijn en een snuf zout en schep door de salade. De salade hoort duidelijk zuur te smaken.",
+      "Verhit een grillpan of barbecue zeer heet. Dep de carapaus droog, bestrijk licht met 1 el olijfolie en gril 3–5 minuten per kant, afhankelijk van de grootte, tot de huid krokant is en het vlees makkelijk van de graat loskomt.",
+      "Serveer de vis direct met warme aardappelen en salade. Druppel eventueel nog wat olijfolie over de aardappelen en geef citroen erbij."
+    ],
+    "technique": {
+      "title": "HEET GRILLEN, NIET LANG STOVEN",
+      "text": "Carapau is klein en vet genoeg om snel te grillen. Een zeer hete grill geeft krokante huid; te laag vuur maakt de vis eerder droog dan geroosterd."
+    },
+    "attention": "Carapau bevat vrij veel graat. Serveer hele visjes alleen als je dat prettig vindt; voor kinderen of snelle doordeweekse eters kun je filets gebruiken.",
+    "variations": [
+      "Gebruik sardinhas (sardines) in hetzelfde seizoen en dezelfde bereiding.",
+      "Vervang de salade door pimentos assados (geroosterde paprika) met ui en azijn."
+    ],
+    "nutrition": {
+      "kcal": 610,
+      "protein": 42,
+      "carbs": 55,
+      "fat": 25
+    }
+  },
+  {
+    "id": "50",
+    "label": "50",
+    "title": "Robalo no forno com legumes",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "ROBALO",
+      "OVEN",
+      "VIS"
+    ],
+    "time": "50 minuten",
+    "servings": "2 personen",
+    "intro": "Robalo no forno (zeebaars uit de oven) is een heel gewone manier om een hele vis thuis te bereiden. Ui, tomaat, paprika en aardappel garen in dezelfde schaal en nemen het braadvocht, de wijn en de olijfolie op.",
+    "image": "images/50-robalo-forno-legumes.jpg",
+    "imageAlt": "Robalo uit de oven met aardappel, tomaat, ui en paprika",
+    "ingredients": [
+      "1 hele robalo (zeebaars) van 700–900 g, schoongemaakt",
+      "500 g kleine aardappelen, gehalveerd",
+      "1 ui, in dunne ringen",
+      "2 rijpe tomaten, in parten",
+      "½ rode paprika, in repen",
+      "2 tenen knoflook, in plakjes",
+      "60 ml witte wijn",
+      "3 el olijfolie",
+      "1 laurierblad",
+      "hand peterselie of coentros (koriander)",
+      "zout en zwarte peper",
+      "½ citroen"
+    ],
+    "steps": [
+      "Verwarm de oven voor op 200 °C. Kook de aardappelen 8 minuten voor in gezouten water, giet af en laat kort uitdampen.",
+      "Verdeel ui, tomaat, paprika, knoflook en aardappel over een ruime ovenschaal. Voeg laurier, 2 el olijfolie en de witte wijn toe en kruid licht met zout en peper.",
+      "Dep de robalo droog, maak twee schuine inkepingen in de huid en kruid binnen- en buitenkant met zout en peper. Leg de vis bovenop de groenten en druppel de resterende olijfolie erover.",
+      "Rooster 22–28 minuten in het midden van de oven, afhankelijk van de dikte van de vis. Schep na 15 minuten wat braadvocht over de vis.",
+      "Controleer bij de dikste plek achter de kop: het vlees moet net ondoorzichtig zijn en makkelijk van de graat loskomen. Laat 3 minuten rusten, werk af met citroen en peterselie en serveer met de geroosterde groenten."
+    ],
+    "technique": {
+      "title": "GROENTEN VOORGAREN",
+      "text": "Een hele robalo is vaak eerder gaar dan rauwe aardappelen. Door de aardappelen kort voor te koken kan alles tegelijk uit de oven zonder de vis droog te bakken."
+    },
+    "attention": "Gebruik geen te kleine schaal. Als de groenten te dicht op elkaar liggen, stomen ze in plaats van roosteren.",
+    "variations": [
+      "Gebruik dourada (dorade) exact hetzelfde; pas alleen de oventijd aan de grootte aan.",
+      "Voeg grelos of courgette pas de laatste 10–12 minuten toe."
+    ],
+    "nutrition": {
+      "kcal": 650,
+      "protein": 46,
+      "carbs": 52,
+      "fat": 28
+    }
+  },
+  {
+    "id": "51",
+    "label": "51",
+    "title": "Pota à lagareiro com batatas a murro",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "POTA",
+      "LAGAREIRO",
+      "OVEN"
+    ],
+    "time": "75 minuten",
+    "servings": "4 personen",
+    "intro": "Pota à lagareiro is de betaalbaardere neef van polvo à lagareiro: malse pota, kleine aardappelen die na het roosteren een 'murro' krijgen, veel knoflook en royaal olijfolie. Dit is een gerecht waar de olijfolie echt onderdeel van de saus is.",
+    "image": "images/51-pota-lagareiro-batatas-murro.jpg",
+    "imageAlt": "Pota à lagareiro met knoflook, olijfolie en batatas a murro",
+    "ingredients": [
+      "800 g tentáculos de pota (potatentakels), ontdooid",
+      "700 g kleine aardappelen met schil",
+      "1 grote ui, in ringen",
+      "4 tenen knoflook, fijngehakt of in dunne plakjes",
+      "2 laurierbladeren",
+      "100 ml olijfolie",
+      "1 tl pimentão-doce (zoet paprikapoeder)",
+      "½ citroen",
+      "grof zout en zwarte peper",
+      "peterselie of coentros (koriander)"
+    ],
+    "steps": [
+      "Verwarm de oven voor op 200 °C. Leg de aardappelen op een bakplaat, bestrooi met grof zout en rooster 30–40 minuten tot ze volledig gaar zijn.",
+      "Leg intussen de pota in een ovenschaal met ui, laurier, pimentão-doce, peper, citroensap en 2 el olijfolie. Dek strak af met folie en zet 30 minuten in de oven.",
+      "Haal de aardappelen uit de oven, veeg overtollig zout eraf en druk iedere aardappel voorzichtig open met de hand of bodem van een mok.",
+      "Haal de folie van de pota. Voeg knoflook en de rest van de olijfolie toe, leg de aardappelen rondom en rooster nog 12–15 minuten onbedekt tot de knoflook licht goud kleurt en de randen van de pota iets karamelliseren.",
+      "Proef het braadvocht en corrigeer op zout. Werk af met peterselie of coentros en serveer rechtstreeks uit de ovenschaal."
+    ],
+    "technique": {
+      "title": "EERST MALS, DAN BRUIN",
+      "text": "Pota wordt eerst afgedekt gaar en mals, daarna pas onbedekt geroosterd. Zo krijg je zachte tentakels én geroosterde randen zonder uitdrogen."
+    },
+    "attention": "Knoflook kan bitter worden als hij vanaf het begin onbedekt mee roostert. Voeg hem daarom pas toe voor de laatste fase.",
+    "variations": [
+      "Gebruik polvo (octopus) voor de klassieke luxere versie en verleng de eerste gaartijd indien nodig.",
+      "Voeg gehalveerde cherrytomaten de laatste 12 minuten toe voor meer zuur en sap."
+    ],
+    "nutrition": {
+      "kcal": 520,
+      "protein": 35,
+      "carbs": 42,
+      "fat": 24
+    }
+  },
+  {
+    "id": "52",
+    "label": "52",
+    "title": "Ovos em tomatada",
+    "chapter": "Snel, dagelijks & hedendaags",
+    "tags": [
+      "EI",
+      "TOMATA",
+      "GOEDKOOP"
+    ],
+    "time": "30 minuten",
+    "servings": "2 personen",
+    "intro": "Ovos em tomatada is pure Portugese voorraadkastlogica: ui, knoflook en tomaat rustig laten indikken en de eieren rechtstreeks in de saus garen. Met brood of witte rijst is het een complete, goedkope maaltijd.",
+    "image": "images/52-ovos-em-tomatada.jpg",
+    "imageAlt": "Eieren gepocheerd in Portugese tomatensaus met ui en paprika",
+    "ingredients": [
+      "4 eieren",
+      "500 g rijpe tomaten, in blokjes, of 1 blik tomatenstukjes van 400 g",
+      "1 ui, in halve ringen",
+      "2 tenen knoflook, fijngehakt",
+      "¼ rode paprika, in kleine blokjes",
+      "2½ el olijfolie",
+      "½ tl pimentão-doce (zoet paprikapoeder)",
+      "hand peterselie of coentros",
+      "zout en zwarte peper",
+      "brood of witte rijst voor erbij"
+    ],
+    "steps": [
+      "Verhit de olijfolie in een brede koekenpan op middellaag vuur. Fruit de ui 6–8 minuten tot zacht en licht goud, voeg knoflook en paprika toe en bak nog 2 minuten.",
+      "Voeg tomaat en pimentão-doce toe, kruid met zout en peper en laat 12–15 minuten zonder deksel zacht pruttelen tot de saus dik genoeg is dat een lepelspoor langzaam dichtloopt.",
+      "Maak vier kuiltjes in de saus en breek in elk kuiltje een ei. Zet het vuur laag en dek de pan af.",
+      "Laat 5–8 minuten garen tot het eiwit volledig gestold is en de dooier nog zacht, of langer naar smaak.",
+      "Werk af met peterselie of coentros en serveer onmiddellijk met brood of witte rijst."
+    ],
+    "technique": {
+      "title": "SAUS EERST INDIKKEN",
+      "text": "Als de tomatada nog waterig is voordat de eieren erin gaan, verdunt hij verder onder het deksel. Laat de tomaat dus eerst echt tot saus koken."
+    },
+    "attention": "Zout de tomatada vóór de eieren, maar voorzichtig; als je met brood of rijst serveert hoeft de saus niet overdreven zout te zijn.",
+    "variations": [
+      "Farrafuza-stijl: laat de paprika weg en houd het bij ui, knoflook, tomaat en ei.",
+      "Voeg 100 g gekookte feijão branco (witte bonen) toe voordat de eieren erin gaan voor een stevigere maaltijd."
+    ],
+    "nutrition": {
+      "kcal": 390,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 26
+    }
+  },
+  {
+    "id": "53",
+    "label": "53",
+    "title": "Sopa de peixe simples com couve e ovo",
+    "chapter": "Portugees thuisrepertoire",
+    "tags": [
+      "SOPA",
+      "PESCADA",
+      "KOOL"
+    ],
+    "time": "40 minuten",
+    "servings": "4 kommen",
+    "intro": "Een eenvoudige sopa de peixe hoeft geen restaurantbouillon te zijn. Pescada (heek), tomaat, ui en couve-coração vormen een zachte dagelijkse soep; een gepocheerd ei maakt er een volledige lichte maaltijd van.",
+    "image": "images/53-sopa-peixe-couve-ovo.jpg",
+    "imageAlt": "Portugese vissoep met pescada, kool, tomaat en gepocheerd ei",
+    "ingredients": [
+      "400 g lombos de pescada (heekfilet), in grove stukken",
+      "300 g couve-coração (spitskool), fijn gesneden",
+      "400 g tomatenstukjes uit blik",
+      "1 ui, fijngehakt",
+      "2 tenen knoflook, fijngehakt",
+      "1 kleine wortel, in dunne halve plakjes",
+      "1 l water of lichte vis-/groentebouillon",
+      "2 el olijfolie",
+      "1 laurierblad",
+      "4 eieren",
+      "hand peterselie",
+      "zout en zwarte peper"
+    ],
+    "steps": [
+      "Verhit de olijfolie in een soeppan op middellaag vuur. Fruit ui en wortel 5–6 minuten. Voeg knoflook en laurier toe en bak nog 45 seconden.",
+      "Voeg tomaat en 1 liter heet water of bouillon toe. Breng aan de kook en laat 10 minuten zacht pruttelen.",
+      "Voeg de couve-coração toe en laat 8 minuten op laag tot middellaag vuur garen tot de kool bijna mals is.",
+      "Leg de stukken pescada voorzichtig in de soep en laat 4–6 minuten heel zacht garen; de soep mag nu niet hard koken.",
+      "Pocheer de eieren apart 3½–4 minuten in zacht pruttelend water, of maak vier kuiltjes in de soep en laat ze voorzichtig rechtstreeks in de pan stollen.",
+      "Proef op zout en peper, verwijder het laurierblad en verdeel de soep over kommen. Leg in elke kom een ei en werk af met peterselie."
+    ],
+    "technique": {
+      "title": "VIS PAS OP HET EINDE",
+      "text": "Pescada heeft maar enkele minuten nodig. Voeg de vis pas toe wanneer de kool bijna gaar is en laat de soep daarna niet meer hard koken."
+    },
+    "attention": "Als je eieren rechtstreeks in de soep pocheert, houd het vuur laag en roer niet totdat het eiwit gestold is.",
+    "variations": [
+      "Gebruik couve lombarda (savooiekool) in plaats van couve-coração; geef die 2–3 minuten extra.",
+      "Voeg 80 g arroz carolino toe vóór de kool en kook tot een stevigere maaltijdsoep."
+    ],
+    "nutrition": {
+      "kcal": 300,
+      "protein": 33,
+      "carbs": 17,
+      "fat": 11
+    }
   }
 ];
