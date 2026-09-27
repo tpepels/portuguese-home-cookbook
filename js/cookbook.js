@@ -316,10 +316,25 @@
       </div>
     ` : "";
 
-    const photo = page(`photo-page ${isFeature ? "feature-recipe" : ""} ${featureClass} ${isChapterStart ? "chapter-lead" : ""}`, `
+    const quickInset = recipe.quickImage ? `
+      <figure class="quick-photo-inset">
+        <div class="quick-photo-frame">
+          <img src="${esc(recipe.quickImage)}" alt="${esc(recipe.quickImageAlt || `Snelle versie van ${recipe.title}`)}" loading="eager" decoding="async">
+          <span class="photo-route-label quick-route-label">${esc(recipe.quickLabel || "SNEL")}</span>
+        </div>
+        ${recipe.quickCaption ? `<figcaption>${esc(recipe.quickCaption)}</figcaption>` : ""}
+      </figure>
+    ` : "";
+    const heroRouteLabel = recipe.quickImage
+      ? `<div class="photo-route-label hero-route-label">${esc(recipe.heroLabel || "FANCY")}</div>`
+      : "";
+
+    const photo = page(`photo-page ${recipe.quickImage ? "has-quick-photo" : ""} ${isFeature ? "feature-recipe" : ""} ${featureClass} ${isChapterStart ? "chapter-lead" : ""}`, `
       <div class="photo-visual">
         <div class="photo-fallback"><span>${esc(recipe.title)}</span></div>
-        <img src="${esc(recipe.image)}" alt="${esc(recipe.imageAlt || recipe.title)}" loading="eager" decoding="async">
+        <img class="hero-photo" src="${esc(recipe.image)}" alt="${esc(recipe.imageAlt || recipe.title)}" loading="eager" decoding="async">
+        ${heroRouteLabel}
+        ${quickInset}
         ${chapterOverlay}
         ${featureStamp}
       </div>
@@ -335,9 +350,15 @@
       </div>
     `);
 
-    const img = photo.querySelector("img");
-    img.addEventListener("error", () => img.closest(".photo-visual").classList.add("missing"));
-    img.addEventListener("load", () => img.closest(".photo-visual").classList.remove("missing"));
+    const heroImg = photo.querySelector(".hero-photo");
+    heroImg.addEventListener("error", () => heroImg.closest(".photo-visual").classList.add("missing"));
+    heroImg.addEventListener("load", () => heroImg.closest(".photo-visual").classList.remove("missing"));
+
+    const quickImg = photo.querySelector(".quick-photo-inset img");
+    if (quickImg) {
+      quickImg.addEventListener("error", () => quickImg.closest(".quick-photo-inset").classList.add("missing"));
+      quickImg.addEventListener("load", () => quickImg.closest(".quick-photo-inset").classList.remove("missing"));
+    }
 
     const noteBlocks = [];
     if (recipe.attention) {
