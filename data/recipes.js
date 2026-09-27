@@ -2241,5 +2241,197 @@ window.RECIPES = [
       "carbs": 60,
       "fat": 15
     }
+  },
+  {
+    "id": "44",
+    "label": "44",
+    "title": "Sardinhas de conserva com batata, pimento assado e cebola",
+    "chapter": "Portugal nu",
+    "tags": [
+      "CONSERVAS",
+      "SARDINHA",
+      "VOORRAADKAST"
+    ],
+    "time": "25 minuten",
+    "servings": "2 personen",
+    "intro": "Bliksardines zijn in Portugal geen noodoplossing maar een serieuze voorraadkastklassieker. Met warme aardappel, geroosterde paprika, rode ui, peterselie en een scherpe vinaigrette krijg je een maaltijd waarin de vis herkenbaar blijft en de olie uit het blik mee mag doen.",
+    "image": "images/44-sardinhas-conserva-batata-pimento-cebola.jpg",
+    "imageAlt": "Sardines uit blik met aardappel, geroosterde paprika en ui",
+    "ingredients": [
+      "2 blikjes sardinhas em azeite (sardines in olijfolie), ca. 120 g per blik",
+      "450 g batata para cozer (kookaardappelen)",
+      "1 rode paprika",
+      "½ rode ui, zeer dun gesneden",
+      "hand peterselie",
+      "1 el wijnazijn",
+      "1–2 el olijfolie of olie uit het sardineblik",
+      "zwarte peper",
+      "citroen, optioneel"
+    ],
+    "steps": [
+      "Kook de aardappelen in gezouten water 15–20 minuten tot ze gaar zijn maar niet uit elkaar vallen. Giet af, laat 3 minuten uitdampen en snijd in grove stukken.",
+      "Rooster de paprika onder een hete grill of direct boven een gasvlam tot de schil rondom zwart geblakerd is. Laat 5 minuten afgedekt rusten, trek de schil eraf en snijd in repen.",
+      "Meng de warme aardappel met paprika, ui, peterselie, wijnazijn en 1 el olie. Laat 5 minuten staan zodat de aardappel de dressing opneemt.",
+      "Open de sardines voorzichtig en til ze in zo groot mogelijke stukken uit het blik. Leg ze bovenop de aardappelsalade in plaats van stevig door te mengen.",
+      "Werk af met zwarte peper en eventueel citroen. Voeg alleen extra olie toe als de aardappelen droog ogen; bij sardines in goede olijfolie mag de blikolie onderdeel van de dressing zijn."
+    ],
+    "technique": {
+      "title": "BLIKOLIE ALS INGREDIËNT",
+      "text": "Goede sardines in olijfolie nemen smaak mee in de olie. Gebruik eerst een deel daarvan voor de dressing en proef vóór je extra olijfolie toevoegt."
+    },
+    "attention": "Schep sardines pas op het einde door of leg ze erop. Te veel mengen verandert mooie hele visjes snel in een pasta.",
+    "variations": [
+      "Gebruik sardines in pittige tomatensaus en laat de vinaigrette iets minder zuur.",
+      "Vervang aardappel door warm brood en tomaat voor een nog snellere lunch."
+    ],
+    "nutrition": {
+      "kcal": 620,
+      "protein": 33,
+      "carbs": 52,
+      "fat": 31
+    }
+  },
+  {
+    "id": "45",
+    "label": "45",
+    "title": "Carapau de conserva com feijão-frade",
+    "chapter": "Portugal nu",
+    "tags": [
+      "CONSERVAS",
+      "CARAPAU",
+      "10 MINUTEN"
+    ],
+    "time": "10 minuten",
+    "servings": "2 personen",
+    "intro": "Carapau (horsmakreel) in blik ligt in Portugese supermarkten naast cavala en sardinha maar verschijnt veel minder vaak in buitenlandse recepten. Met feijão-frade (zwartoogbonen), ui, peterselie en azijn wordt het een uitgesproken, goedkope voorraadkastmaaltijd.",
+    "image": "images/45-carapau-conserva-feijao-frade.jpg",
+    "imageAlt": "Carapau uit blik met feijão-frade, ui en peterselie",
+    "ingredients": [
+      "2 blikjes carapau em azeite (horsmakreel in olijfolie), ca. 120 g per blik",
+      "400 g feijão-frade cozido (gekookte zwartoogbonen), uitgelekt",
+      "½ kleine rode ui, zeer fijn gesneden",
+      "flinke hand peterselie",
+      "1 el rodewijnazijn",
+      "1 el olijfolie of olie uit het blik",
+      "zwarte peper",
+      "½ citroen"
+    ],
+    "steps": [
+      "Spoel de feijão-frade kort en laat minstens 5 minuten goed uitlekken. Meng met ui en peterselie.",
+      "Klop wijnazijn met 1 el olie en zwarte peper. Meng door de bonen en laat 3–5 minuten staan.",
+      "Laat de carapau voorzichtig uitlekken en verdeel in grote stukken. Schep hooguit één of twee keer door de bonen zodat de vis herkenbaar blijft.",
+      "Proef eerst op zout en zuur; blikvis is vaak al goed gezouten. Voeg pas daarna citroensap toe als je meer frisheid wilt.",
+      "Serveer op kamertemperatuur. Als de olie uit het blik goed smaakt, gebruik die volledig in plaats van extra olijfolie."
+    ],
+    "technique": {
+      "title": "VIS NIET KAPOTMENGEN",
+      "text": "Carapau is steviger dan tonijn maar valt nog steeds snel uiteen. Breng de bonen eerst volledig op smaak en voeg de vis pas als laatste toe."
+    },
+    "attention": "De kwaliteit van de conserve bepaalt hier bijna alles. Kies bij voorkeur carapau in azeite (olijfolie) en proef de blikolie voordat je hem weggooit.",
+    "variations": [
+      "Gebruik carapau em tomate (horsmakreel in tomatensaus) en laat de azijn weg.",
+      "Voeg geroosterde paprika toe voor een zoetere, vollere versie."
+    ],
+    "nutrition": {
+      "kcal": 650,
+      "protein": 38,
+      "carbs": 47,
+      "fat": 34
+    }
+  },
+  {
+    "id": "46",
+    "label": "46",
+    "title": "Pota em azeite com grão, alho e salsa",
+    "chapter": "Portugal nu",
+    "tags": [
+      "CONSERVAS",
+      "POTA",
+      "VOORRAADKAST"
+    ],
+    "time": "15 minuten",
+    "servings": "2 personen",
+    "intro": "Pota em azeite (pijlinktvis in olijfolie) is precies het soort Portugese conservenproduct dat gemakkelijk over het hoofd wordt gezien. Met kikkererwten, knoflook, peterselie en citroen wordt het een warme, stevige maaltijd zonder dat de pota lang hoeft mee te koken.",
+    "image": "images/46-pota-azeite-grao-alho-salsa.jpg",
+    "imageAlt": "Pota in olijfolie met kikkererwten, knoflook en peterselie",
+    "ingredients": [
+      "2 blikjes pota em azeite (pijlinktvis in olijfolie), ca. 120 g per blik",
+      "400 g kikkererwten, uitgelekt",
+      "2 tenen knoflook, in dunne plakjes",
+      "3 el olijfolie, deels uit het blik",
+      "flinke hand peterselie",
+      "½ citroen",
+      "½ tl pimentão-doce (zoet paprikapoeder)",
+      "zwarte peper"
+    ],
+    "steps": [
+      "Laat de kikkererwten goed uitlekken. Verhit 1 el olijfolie in een koekenpan op middellaag vuur en bak de knoflook 45–60 seconden tot hij geurt maar niet bruin wordt.",
+      "Voeg kikkererwten en pimentão-doce toe. Bak 4–5 minuten op middelhoog vuur en schep regelmatig om tot de bonen door en door warm zijn en hier en daar licht kleuren.",
+      "Zet het vuur laag. Voeg de uitgelekte pota toe en verwarm slechts 1–2 minuten; langer koken kan de stukken taaier maken.",
+      "Zet het vuur uit, voeg peterselie, zwarte peper en 1–2 el olie uit het blik toe en schep voorzichtig om.",
+      "Werk af met citroensap en serveer meteen. Voeg extra zout alleen toe na het proeven van de conserve."
+    ],
+    "technique": {
+      "title": "CONSERVA ALLEEN OPWARMEN",
+      "text": "Pota uit blik is al gaar. Verwarm hem kort in de hete kikkererwten in plaats van opnieuw te stoven; zo blijft de textuur malser."
+    },
+    "attention": "Gebruik de olie uit het blik alleen als hij fris en aangenaam smaakt. Sommige merken zijn zouter of sterker gekruid dan andere.",
+    "variations": [
+      "Gebruik feijão branco (witte bonen) in plaats van kikkererwten.",
+      "Voeg wat fijngesneden couve-coração toe en laat die 3 minuten met de bonen slinken."
+    ],
+    "nutrition": {
+      "kcal": 610,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 29
+    }
+  },
+  {
+    "id": "47",
+    "label": "47",
+    "title": "Bacalhau em azeite e alho com batata e grelos",
+    "chapter": "Portugal nu",
+    "tags": [
+      "CONSERVAS",
+      "BACALHAU",
+      "SNEL"
+    ],
+    "time": "25 minuten",
+    "servings": "2 personen",
+    "intro": "Bacalhau em azeite e alho (kabeljauw in olijfolie en knoflook) is een vrij luxe conserve die in Portugese supermarkten gewoon tussen de blikvis staat. Met gekookte aardappel en grelos krijg je in twintig minuten een bord dat duidelijk naar Portugal smaakt zonder eerst bacalhau te hoeven ontzouten.",
+    "image": "images/47-bacalhau-conserva-batata-grelos.jpg",
+    "imageAlt": "Bacalhau in olijfolie en knoflook met aardappel en grelos",
+    "ingredients": [
+      "2 blikjes bacalhau em azeite e alho (kabeljauw in olijfolie en knoflook), ca. 120 g per blik",
+      "450 g batata para cozer (kookaardappelen)",
+      "250 g grelos (raapstelen) of couve portuguesa",
+      "1 kleine teen knoflook, in dunne plakjes",
+      "1–2 el olijfolie of olie uit het blik",
+      "1 tl wijnazijn",
+      "zwarte peper"
+    ],
+    "steps": [
+      "Kook de aardappelen in gezouten water 15–20 minuten tot ze gaar zijn maar hun vorm houden. Schep ze uit de pan en houd warm.",
+      "Gebruik hetzelfde water voor de grelos. Kook 3–5 minuten, afhankelijk van de dikte van de stelen, tot ze mals maar nog levendig groen zijn. Laat zeer goed uitlekken.",
+      "Verhit 1 el olie op middellaag vuur en bak de verse knoflook 30–45 seconden. Voeg aardappelen en grelos toe en schep 2 minuten om zodat alles warm en licht glanzend is.",
+      "Zet het vuur laag en leg de stukken bacalhau met een beetje van de blikolie bovenop. Verwarm 1 minuut zonder krachtig te roeren.",
+      "Zet het vuur uit, druppel de wijnazijn erover en maal zwarte peper boven het gerecht. Proef vóór je zout toevoegt; de conserve is doorgaans al voldoende gezouten."
+    ],
+    "technique": {
+      "title": "BACALHAU UIT BLIK IS AL KLAAR",
+      "text": "Behandel de conserve als een afgewerkt ingrediënt. Warm hem kort mee en laat de aardappelen en grelos het warme deel van het gerecht dragen."
+    },
+    "attention": "Bacalhau-conserven verschillen sterk in zoutgehalte. Kruid aardappelen en groente daarom terughoudend en proef pas als de vis erbij zit.",
+    "variations": [
+      "Gebruik couve portuguesa in plaats van grelos voor een zachtere winterversie.",
+      "Serveer met een hardgekookt ei voor een rijker bord dat richting bacalhau com todos gaat."
+    ],
+    "nutrition": {
+      "kcal": 590,
+      "protein": 35,
+      "carbs": 51,
+      "fat": 27
+    }
   }
 ];
